@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: porcupine quill -->
   <PorcupineQuill.label>หนามเม่น</PorcupineQuill.label>
   <!-- EN: A sharp spine from a porcupine. While generally not fatal, these are incredibly painful. It must be surgically removed. -->
-  <PorcupineQuill.description>TODO</PorcupineQuill.description>
+  <PorcupineQuill.description>หนามแหลมจากเม่น แม้โดยทั่วไปจะไม่ถึงตาย แต่ก็เจ็บปวดอย่างเหลือเชื่อ ต้องผ่าตัดเอาออก</PorcupineQuill.description>
   
   <!-- EN: vacuum burn -->
   <VacuumBurn.label>ไหม้สุญญากาศ</VacuumBurn.label>
   <!-- EN: Tissue damage caused by exposure to the vacuum of space. It can be extremely painful. -->
-  <VacuumBurn.description>TODO</VacuumBurn.description>
+  <VacuumBurn.description>ความเสียหายของเนื้อเยื่อที่เกิดจากการสัมผัสกับสุญญากาศในอวกาศ อาจเจ็บปวดอย่างยิ่ง</VacuumBurn.description>
   <!-- EN: a vacuum burn -->
-  <VacuumBurn.labelNoun>TODO</VacuumBurn.labelNoun>
+  <VacuumBurn.labelNoun>แผลไหม้จากสุญญากาศ</VacuumBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
   <VacuumBurn.labelNounPretty>TODO</VacuumBurn.labelNounPretty>
   

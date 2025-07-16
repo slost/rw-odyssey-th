@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: bioluminescent spores -->
-  <BioluminescentSpores.label>TODO</BioluminescentSpores.label>
+  <BioluminescentSpores.label>สปอร์เรืองแสงชีวภาพ</BioluminescentSpores.label>
   <!-- EN: Some variety of fungus is blossoming and releasing bioluminescent spores! The spores are strangely beautiful and pose no danger. -->
-  <BioluminescentSpores.description>TODO</BioluminescentSpores.description>
+  <BioluminescentSpores.description>เชื้อราบางชนิดกำลังผลิบานและปล่อยสปอร์เรืองแสงชีวภาพ! สปอร์มีความสวยงามแปลกตาและไม่เป็นอันตราย</BioluminescentSpores.description>
   <!-- EN: The bioluminescent spores are subsiding. -->
-  <BioluminescentSpores.endMessage>TODO</BioluminescentSpores.endMessage>
+  <BioluminescentSpores.endMessage>สปอร์เรืองแสงชีวภาพกำลังลดลง</BioluminescentSpores.endMessage>
   <!-- EN: Some variety of fungus is blossoming and releasing bioluminescent spores! The spores pose no danger, and the shimmering visuals will brighten the mood of anyone who sees them. -->
-  <BioluminescentSpores.letterText>TODO</BioluminescentSpores.letterText>
+  <BioluminescentSpores.letterText>เชื้อราบางชนิดกำลังผลิบานและปล่อยสปอร์เรืองแสงชีวภาพ! สปอร์ไม่เป็นอันตราย และภาพที่ระยิบระยับจะทำให้อารมณ์ของใครก็ตามที่เห็นสดใสขึ้น</BioluminescentSpores.letterText>
   
   <!-- EN: darkened skies -->
   <DarkenedSkies.label>ท้องฟ้ามืดมิด</DarkenedSkies.label>
@@ -16,66 +16,66 @@
   <DarkenedSkies.description>เมฆสีดำหนากำลังปิดกั้นท้องฟ้าและดวงอาทิตย์</DarkenedSkies.description>
   
   <!-- EN: deep freeze -->
-  <DeepFreeze.label>TODO</DeepFreeze.label>
+  <DeepFreeze.label>การแช่แข็งอย่างรุนแรง</DeepFreeze.label>
   <!-- EN: An ancient, mysterious device is dramatically lowering temperatures in the area. -->
-  <DeepFreeze.description>TODO</DeepFreeze.description>
+  <DeepFreeze.description>อุปกรณ์โบราณลึกลับกำลังทำให้อุณหภูมิในพื้นที่ลดลงอย่างมาก</DeepFreeze.description>
   <!-- EN: The deep freeze is lifting. -->
-  <DeepFreeze.endMessage>TODO</DeepFreeze.endMessage>
+  <DeepFreeze.endMessage>การแช่แข็งอย่างรุนแรงกำลังสิ้นสุดลง</DeepFreeze.endMessage>
   
   <!-- EN: drought -->
-  <Drought.label>TODO</Drought.label>
+  <Drought.label>ภัยแล้ง</Drought.label>
   <!-- EN: A prolonged period of low rainfall. Plants will grow slower during a drought. -->
-  <Drought.description>TODO</Drought.description>
+  <Drought.description>ช่วงเวลาที่ฝนตกน้อยเป็นเวลานาน พืชจะเติบโตช้าลงในช่วงภัยแล้ง</Drought.description>
   <!-- EN: The drought is over. -->
-  <Drought.endMessage>TODO</Drought.endMessage>
+  <Drought.endMessage>ภัยแล้งสิ้นสุดลงแล้ว</Drought.endMessage>
   <!-- EN: Due to a recent lack of rain, a drought has begun. Outdoor plants will grow significantly slower. -->
-  <Drought.letterText>TODO</Drought.letterText>
+  <Drought.letterText>เนื่องจากฝนไม่ตกเมื่อเร็วๆ นี้ ภัยแล้งจึงเริ่มต้นขึ้น พืชกลางแจ้งจะเติบโตช้าลงอย่างมาก</Drought.letterText>
   
   <!-- EN: initial drought conditions -->
-  <DroughtInitial.label>TODO</DroughtInitial.label>
+  <DroughtInitial.label>สภาวะภัยแล้งเบื้องต้น</DroughtInitial.label>
   <!-- EN: The initial signs of a drought. If it continues, a full drought will occur. -->
-  <DroughtInitial.description>TODO</DroughtInitial.description>
+  <DroughtInitial.description>สัญญาณเริ่มต้นของภัยแล้ง หากดำเนินต่อไปจะเกิดภัยแล้งเต็มรูปแบบ</DroughtInitial.description>
   
   <!-- EN: gill rot -->
-  <GillRot.label>TODO</GillRot.label>
+  <GillRot.label>โรคเหงือกเน่า</GillRot.label>
   <!-- EN: Fish populations are slowly declining due to a parasitic fungus known as gill rot. The fungus is harmless to people. -->
-  <GillRot.description>TODO</GillRot.description>
+  <GillRot.description>ประชากรปลากำลังลดลงอย่างช้าๆ เนื่องจากเชื้อราปรสิตที่เรียกว่าโรคเหงือกเน่า เชื้อรานี้ไม่เป็นอันตรายต่อคน</GillRot.description>
   <!-- EN: Gill rot is ending. -->
-  <GillRot.endMessage>TODO</GillRot.endMessage>
+  <GillRot.endMessage>โรคเหงือกเน่ากำลังสิ้นสุดลง</GillRot.endMessage>
   <!-- EN: A parasitic fungus called gill rot has appeared among the local fish populations. While harmless to humans, the fungus will cause fish populations to steadily decline for some time.\n\nLow fish populations will make fishing less productive. -->
-  <GillRot.letterText>TODO</GillRot.letterText>
+  <GillRot.letterText>เชื้อราปรสิตที่เรียกว่าโรคเหงือกเน่าได้ปรากฏขึ้นในหมู่ประชากรปลาในท้องถิ่น แม้จะไม่เป็นอันตรายต่อมนุษย์ แต่เชื้อราจะทำให้ประชากรปลาลดลงอย่างต่อเนื่องเป็นระยะเวลาหนึ่ง\n\nประชากรปลาที่ต่ำจะทำให้การตกปลามีประสิทธิภาพน้อยลง</GillRot.letterText>
   
   <!-- EN: heat vent emissions -->
-  <HeatVentHeat.label>TODO</HeatVentHeat.label>
+  <HeatVentHeat.label>การปล่อยความร้อนจากช่องระบายอากาศ</HeatVentHeat.label>
   <!-- EN: Heat from a nearby underground vent is raising the temperature in the area. -->
-  <HeatVentHeat.description>TODO</HeatVentHeat.description>
+  <HeatVentHeat.description>ความร้อนจากช่องระบายอากาศใต้ดินในบริเวณใกล้เคียงกำลังทำให้อุณหภูมิในพื้นที่สูงขึ้น</HeatVentHeat.description>
   
   <!-- EN: lava flow -->
-  <LavaFlow.label>TODO</LavaFlow.label>
+  <LavaFlow.label>ลาวาไหล</LavaFlow.label>
   <!-- EN: Lava has begun to pour into the area. It will flow over the low-lying volcanic rock, but spare the other terrain. Keep your colonists out of harm's way! -->
-  <LavaFlow.description>TODO</LavaFlow.description>
+  <LavaFlow.description>ลาวาได้เริ่มไหลเข้ามาในพื้นที่ มันจะไหลผ่านหินภูเขาไฟที่อยู่ต่ำ แต่จะเว้นภูมิประเทศอื่นไว้ ให้ผู้ชาวอาณานิคมของคุณให้อยู่ห่างจากอันตราย!</LavaFlow.description>
   
   <!-- EN: volcanic ash -->
-  <VolcanicAsh.label>TODO</VolcanicAsh.label>
+  <VolcanicAsh.label>เถ้าภูเขาไฟ</VolcanicAsh.label>
   <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
-  <VolcanicAsh.description>TODO</VolcanicAsh.description>
+  <VolcanicAsh.description>เถ้าจากการปะทุของภูเขาไฟในบริเวณใกล้เคียงกำลังเต็มท้องฟ้า ดวงอาทิตย์ถูกบดบังและอากาศที่ฉุนแสบปอด กลุ่มเมฆจะคงอยู่เป็นเวลาหลายวัน</VolcanicAsh.description>
   <!-- EN: a nearby eruption will send a cloud of ash over [map_definite] for [gameConditionDuration_duration], darkening the sky and making it hard to breathe -->
   <VolcanicAsh.descriptionFuture>TODO</VolcanicAsh.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
-  <VolcanicAsh.endMessage>TODO</VolcanicAsh.endMessage>
+  <VolcanicAsh.endMessage>เถ้าส่วนใหญ่ได้ตกลงมาแล้ว</VolcanicAsh.endMessage>
   <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
-  <VolcanicAsh.letterText>TODO</VolcanicAsh.letterText>
+  <VolcanicAsh.letterText>เถ้าจากการปะทุของภูเขาไฟในบริเวณใกล้เคียงกำลังเต็มท้องฟ้า ดวงอาทิตย์ถูกบดบังและอากาศที่ฉุนแสบปอด กลุ่มเมฆจะคงอยู่เป็นเวลาหลายวัน</VolcanicAsh.letterText>
   
   <!-- EN: volcanic debris -->
-  <VolcanicDebris.label>TODO</VolcanicDebris.label>
+  <VolcanicDebris.label>เศษซากภูเขาไฟ</VolcanicDebris.label>
   <!-- EN: A nearby volcanic eruption is showering the region with molten lava! -->
-  <VolcanicDebris.description>TODO</VolcanicDebris.description>
+  <VolcanicDebris.description>การปะทุของภูเขาไฟในบริเวณใกล้เคียงกำลังสาดลาวาหลอมเหลวไปทั่วภูมิภาค!</VolcanicDebris.description>
   <!-- EN: A nearby volcanic eruption is showering the region with molten lava! -->
-  <VolcanicDebris.letterText>TODO</VolcanicDebris.letterText>
+  <VolcanicDebris.letterText>การปะทุของภูเขาไฟในบริเวณใกล้เคียงกำลังสาดลาวาหลอมเหลวไปทั่วภูมิภาค!</VolcanicDebris.letterText>
   
   <!-- EN: windy -->
-  <WindyGameCondition.label>TODO</WindyGameCondition.label>
+  <WindyGameCondition.label>ลมแรง</WindyGameCondition.label>
   <!-- EN: Winds are much stronger in this area. -->
-  <WindyGameCondition.description>TODO</WindyGameCondition.description>
+  <WindyGameCondition.description>ลมในบริเวณนี้แรงกว่ามาก</WindyGameCondition.description>
   
 </LanguageData>

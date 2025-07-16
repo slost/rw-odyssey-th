@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: vacuum resistant -->
-  <VacuumResistance_Partial.label>TODO</VacuumResistance_Partial.label>
+  <VacuumResistance_Partial.label>ทนทานต่อสุญญากาศ</VacuumResistance_Partial.label>
   <!-- EN: Carriers of this gene have skin that releases a waxy substance when air pressure is low, preventing vacuum burns and allowing them to survive longer when exposed to vacuum. -->
-  <VacuumResistance_Partial.description>TODO</VacuumResistance_Partial.description>
+  <VacuumResistance_Partial.description>ผู้ที่มียีนนี้มีผิวหนังที่ปล่อยสารคล้ายขี้ผึ้งออกมาเมื่อความกดอากาศต่ำ ป้องกันการไหม้จากสุญญากาศและทำให้พวกเขาสามารถอยู่รอดได้นานขึ้นเมื่อสัมผัสกับสุญญากาศ</VacuumResistance_Partial.description>
   <!-- EN: vacuum-resistant -->
   <VacuumResistance_Partial.labelShortAdj>TODO</VacuumResistance_Partial.labelShortAdj>
   
   <!-- EN: breathless -->
-  <VacuumResistance_Total.label>TODO</VacuumResistance_Total.label>
+  <VacuumResistance_Total.label>ไม่ต้องหายใจ</VacuumResistance_Total.label>
   <!-- EN: Carriers of this gene can store concentrated oxygen in their bodies. Their cells consume much less oxygen, meaning they rarely need to breathe. These adaptations make them immune to the harmful effects of space, as well as environmental toxins, tox gas, acidic smog, and rot stink. -->
-  <VacuumResistance_Total.description>TODO</VacuumResistance_Total.description>
+  <VacuumResistance_Total.description>ผู้ที่มียีนนี้สามารถเก็บออกซิเจนเข้มข้นไว้ในร่างกายได้ เซลล์ของพวกเขาใช้ออกซิเจนน้อยลงมาก ซึ่งหมายความว่าพวกเขาแทบไม่จำเป็นต้องหายใจ การปรับตัวเหล่านี้ทำให้พวกเขามีภูมิคุ้มกันต่อผลกระทบที่เป็นอันตรายของอวกาศ เช่นเดียวกับสารพิษในสิ่งแวดล้อม ก๊าซพิษ หมอกควันกรด และกลิ่นเน่าเหม็น</VacuumResistance_Total.description>
   <!-- EN: Tox gas immunity -->
   <VacuumResistance_Total.customEffectDescriptions.0>TODO</VacuumResistance_Total.customEffectDescriptions.0>
   <!-- EN: breathless -->

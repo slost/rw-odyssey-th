@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: blind fog -->
-  <BlindFog.label>TODO</BlindFog.label>
+  <BlindFog.label>หมอกหนา</BlindFog.label>
   <!-- EN: A heavy fog that reduces the accuracy of ranged weapons, as well as their maximum range. -->
-  <BlindFog.description>TODO</BlindFog.description>
+  <BlindFog.description>หมอกหนาที่ลดความแม่นยำของอาวุธระยะไกล รวมถึงระยะสูงสุดของอาวุธด้วย</BlindFog.description>
   <!-- EN: Blind fog -->
-  <BlindFog.letterLabel>TODO</BlindFog.letterLabel>
+  <BlindFog.letterLabel>หมอกหนา</BlindFog.letterLabel>
   <!-- EN: A thick fog is setting in, dramatically reducing vision. Ranged weapons will be less accurate and their maximum range will be reduced. -->
-  <BlindFog.letterText>TODO</BlindFog.letterText>
+  <BlindFog.letterText>หมอกหนากำลังก่อตัวขึ้น ทำให้ทัศนวิสัยลดลงอย่างมาก อาวุธระยะไกลจะมีความแม่นยำน้อยลงและระยะสูงสุดจะลดลง</BlindFog.letterText>
   
   <!-- EN: blizzard -->
-  <Blizzard.label>TODO</Blizzard.label>
+  <Blizzard.label>พายุหิมะ</Blizzard.label>
   <!-- EN: Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <Blizzard.description>TODO</Blizzard.description>
+  <Blizzard.description>หิมะลดความแม่นยำของอาวุธระยะไกล ดับไฟ และทำให้คนเคลื่อนที่ช้าลง</Blizzard.description>
   
   <!-- EN: orbit -->
   <Orbit.label>วงโคจอร</Orbit.label>
@@ -26,27 +26,27 @@
   <Overcast.description>เมฆหนาบดบังท้องฟ้าลดระดับแสง</Overcast.description>
   
   <!-- EN: sandstorm -->
-  <Sandstorm.label>TODO</Sandstorm.label>
+  <Sandstorm.label>พายุทราย</Sandstorm.label>
   <!-- EN: Sandstorms reduce the accuracy of ranged weapons, slow people down, and get sand everywhere. -->
-  <Sandstorm.description>TODO</Sandstorm.description>
+  <Sandstorm.description>พายุทรายลดความแม่นยำของอาวุธระยะไกล ทำให้คนเคลื่อนที่ช้าลง และทำให้ทรายไปทั่วทุกที่</Sandstorm.description>
   
   <!-- EN: torrential rain -->
-  <TorrentialRain.label>TODO</TorrentialRain.label>
+  <TorrentialRain.label>ฝนตกหนัก</TorrentialRain.label>
   <!-- EN: Torrential rain causes flooding. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <TorrentialRain.description>TODO</TorrentialRain.description>
+  <TorrentialRain.description>ฝนตกหนักทำให้เกิดน้ำท่วม นอกจากนี้ยังลดความแม่นยำของอาวุธระยะไกล ดับไฟ และทำให้คนเคลื่อนที่ช้าลง</TorrentialRain.description>
   <!-- EN: Torrential rain -->
-  <TorrentialRain.letterLabel>TODO</TorrentialRain.letterLabel>
+  <TorrentialRain.letterLabel>ฝนตกหนัก</TorrentialRain.letterLabel>
   <!-- EN: Heavy rain is beginning to pour from the sky. It will cause temporary flooding around bodies of water. Build barriers to prevent floodwater from spreading. -->
-  <TorrentialRain.letterText>TODO</TorrentialRain.letterText>
+  <TorrentialRain.letterText>ฝนตกหนักเริ่มเทลงมาจากท้องฟ้า มันจะทำให้เกิดน้ำท่วมชั่วคราวรอบๆ แหล่งน้ำ สร้างสิ่งกีดขวางเพื่อป้องกันไม่ให้น้ำท่วมขยายวงกว้าง</TorrentialRain.letterText>
   
   <!-- EN: tox rain -->
-  <ToxRain.label>TODO</ToxRain.label>
+  <ToxRain.label>ฝนพิษ</ToxRain.label>
   <!-- EN: Tox rain makes creatures sick with toxic buildup. It also reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
-  <ToxRain.description>TODO</ToxRain.description>
+  <ToxRain.description>ฝนพิษทำให้สิ่งมีชีวิตป่วยด้วยการสะสมของสารพิษ นอกจากนี้ยังลดความแม่นยำของอาวุธระยะไกล ดับไฟ และทำให้คนเคลื่อนที่ช้าลง</ToxRain.description>
   <!-- EN: Tox rain -->
-  <ToxRain.letterLabel>TODO</ToxRain.letterLabel>
+  <ToxRain.letterLabel>ฝนพิษ</ToxRain.letterLabel>
   <!-- EN: Toxic rain has begun to fall from the sky. It will slowly sicken anyone it touches. Keep your colonists under a roof. -->
-  <ToxRain.letterText>TODO</ToxRain.letterText>
+  <ToxRain.letterText>ฝนพิษได้เริ่มตกลงมาจากท้องฟ้า มันจะทำให้ทุกคนที่สัมผัสป่วยอย่างช้าๆ ให้ชาวอาณานิคมของคุณอยู่ใต้หลังคา</ToxRain.letterText>
   
   <!-- EN: windy -->
   <Windy.label>ลมแรง</Windy.label>

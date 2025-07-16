@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: gravcore -->
   <Gravcore.label>กราฟคอร์</Gravcore.label>
   <!-- EN: An ultratech device that generates an unstructured graviton field. It is useless by itself, but it can be installed in a grav engine to increase lift capacity. -->
-  <Gravcore.description>TODO</Gravcore.description>
+  <Gravcore.description>อุปกรณ์อัลตร้าเทคที่สร้างสนามแกรวิตอนแบบไม่มีโครงสร้าง มันไร้ประโยชน์ในตัวของมันเอง แต่สามารถติดตั้งในเครื่องยนต์แกรฟเพื่อเพิ่มขีดความสามารถในการยกได้</Gravcore.description>
   
   <!-- EN: gravlite panel -->
   <GravlitePanel.label>แผงกราฟไลต์</GravlitePanel.label>
   <!-- EN: A sheet of advanced polymer used in the construction of gravships. It's lightweight and has a high graviton conductance, making it ideal for gravtech structures.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids. -->
-  <GravlitePanel.description>TODO</GravlitePanel.description>
+  <GravlitePanel.description>แผ่นพอลิเมอร์ขั้นสูงที่ใช้ในการสร้างยานแกรฟชิป มีน้ำหนักเบาและมีการนำแกรวิตอนสูง ทำให้เหมาะสำหรับโครงสร้างแกรฟเทค\n\nต้องใช้บล็อกแวคสโตน ซึ่งสามารถหาได้จากดาวเคราะห์น้อยในวงโคจร</GravlitePanel.description>
   
   <!-- EN: shuttle engine -->
-  <ShuttleEngine.label>TODO</ShuttleEngine.label>
+  <ShuttleEngine.label>เครื่องยนต์กระสวย</ShuttleEngine.label>
   <!-- EN: An engine capable of powering a small shuttle. Shuttle engines can only be manufactured in large specialized factories, making them rare on the rim. -->
-  <ShuttleEngine.description>TODO</ShuttleEngine.description>
+  <ShuttleEngine.description>เครื่องยนต์ที่สามารถให้กำลังแก่กระสวยขนาดเล็กได้ เครื่องยนต์กระสวยสามารถผลิตได้เฉพาะในโรงงานขนาดใหญ่ที่เชี่ยวชาญเท่านั้น ทำให้หาได้ยากในดินแดนริมขอบ</ShuttleEngine.description>
   
 </LanguageData>

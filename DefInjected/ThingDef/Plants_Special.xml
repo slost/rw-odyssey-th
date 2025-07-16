@@ -1,24 +1,24 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: archean seed -->
-  <ArcheanSeed.label>TODO</ArcheanSeed.label>
+  <ArcheanSeed.label>เมล็ดอาร์เคียน</ArcheanSeed.label>
   <!-- EN: The seed of an archean tree. It can be planted to grow an archean tree, which converts nearby terrain into rich soil.\n\nArchean trees were bioengineered to terraform deadworlds and early-stage rimworlds. They are hardy enough to survive in the vacuum of space and produce a small amount of oxygen. The tree's delicate roots prevent it from being replanted. -->
-  <ArcheanSeed.description>TODO</ArcheanSeed.description>
+  <ArcheanSeed.description>เมล็ดของต้นไม้อาร์เคียน สามารถปลูกเพื่อปลูกต้นไม้อาร์เคียนซึ่งจะเปลี่ยนพื้นที่ใกล้เคียงให้เป็นดินที่อุดมสมบูรณ์\n\nต้นไม้อาร์เคียนได้รับการดัดแปลงพันธุกรรมเพื่อปรับสภาพดาวเคราะห์ที่ตายแล้วและดาวเคราะห์ชายขอบในระยะเริ่มต้น พวกมันทนทานพอที่จะอยู่รอดในสุญญากาศของอวกาศและผลิตออกซิเจนจำนวนเล็กน้อย รากที่บอบบางของต้นไม้ทำให้ไม่สามารถปลูกใหม่ได้</ArcheanSeed.description>
   
   <!-- EN: chopped Archean stump -->
-  <ChoppedStump_Archean.label>TODO</ChoppedStump_Archean.label>
+  <ChoppedStump_Archean.label>ตอไม้อาร์เคียนที่ถูกตัด</ChoppedStump_Archean.label>
   <!-- EN: A stump left behind after an archean tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
-  <ChoppedStump_Archean.description>TODO</ChoppedStump_Archean.description>
+  <ChoppedStump_Archean.description>ตอไม้ที่เหลืออยู่หลังจากต้นไม้อาร์เคียนถูกโค่น สามารถขุดตอออกได้แต่ให้ไม้ที่ใช้ได้น้อยมาก หากปล่อยทิ้งไว้กลางแจ้ง ตอไม้จะเสื่อมสภาพไปตามกาลเวลา</ChoppedStump_Archean.description>
   
   <!-- EN: archean tree -->
-  <Plant_TreeArchean.label>TODO</Plant_TreeArchean.label>
+  <Plant_TreeArchean.label>ต้นไม้อาร์เคียน</Plant_TreeArchean.label>
   <!-- EN: A tree bioengineered to terraform deadworlds and early-stage rimworlds. The tree hosts a special microbial community in its roots which enriches nearby terrain into rich soil. The trees are hardy enough to survive in the vacuum of space and produce a small amount of oxygen.\n\nArchean trees are sterile, preventing them from becoming an invasive species after terraforming has been completed. They can only be grown from seeds produced on glitterworld planets. The tree's delicate root system prevents it from being replanted. -->
-  <Plant_TreeArchean.description>TODO</Plant_TreeArchean.description>
+  <Plant_TreeArchean.description>ต้นไม้ที่ได้รับการดัดแปลงพันธุกรรมเพื่อปรับสภาพดาวเคราะห์ที่ตายแล้วและดาวเคราะห์ชายขอบในระยะเริ่มต้น ต้นไม้เป็นที่อยู่ของชุมชนจุลินทรีย์พิเศษในรากซึ่งทำให้พื้นที่ใกล้เคียงอุดมสมบูรณ์กลายเป็นดินที่อุดมสมบูรณ์ ต้นไม้มีความทนทานพอที่จะอยู่รอดในสุญญากาศของอวกาศและผลิตออกซิเจนจำนวนเล็กน้อย\n\nต้นไม้อาร์เคียนเป็นหมัน ป้องกันไม่ให้กลายเป็นสายพันธุ์รุกรานหลังจากปรับสภาพเสร็จสิ้นแล้ว สามารถปลูกได้จากเมล็ดที่ผลิตบนดาวเคราะห์กลิตเตอร์เวิลด์เท่านั้น ระบบรากที่บอบบางของต้นไม้ทำให้ไม่สามารถปลูกใหม่ได้</Plant_TreeArchean.description>
   
   <!-- EN: smashed Archean stump -->
-  <SmashedStump_Archean.label>TODO</SmashedStump_Archean.label>
+  <SmashedStump_Archean.label>ตอไม้อาร์เคียนที่ถูกทุบ</SmashedStump_Archean.label>
   <!-- EN: The remnants of an archean tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
-  <SmashedStump_Archean.description>TODO</SmashedStump_Archean.description>
+  <SmashedStump_Archean.description>ซากของต้นไม้อาร์เคียนที่ถูกทำลายจากความเสียหาย มันน่าเกลียด สามารถขุดตอออกได้แต่ให้ไม้ที่ใช้ได้น้อยมาก หากปล่อยทิ้งไว้กลางแจ้ง ตอไม้จะเสื่อมสภาพไปตามกาลเวลา</SmashedStump_Archean.description>
   
 </LanguageData>

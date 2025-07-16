@@ -1,30 +1,30 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: salvagers -->
-  <Salvagers.label>TODO</Salvagers.label>
+  <Salvagers.label>นักเก็บกู้ซาก</Salvagers.label>
   <!-- EN: A ruthless faction of orbital scavengers who scour space for derelict ships and valuable wreckage. Salvagers operate entirely in space. -->
-  <Salvagers.description>TODO</Salvagers.description>
+  <Salvagers.description>ฝ่ายที่โหดเหี้ยมของนักเก็บขยะในวงโคจรที่ค้นหาเรือที่ถูกทิ้งร้างและซากเรือที่มีค่าในอวกาศ นักเก็บกู้ซากปฏิบัติการในอวกาศทั้งหมด</Salvagers.description>
   <!-- EN: boss -->
-  <Salvagers.leaderTitle>TODO</Salvagers.leaderTitle>
+  <Salvagers.leaderTitle>บอสส</Salvagers.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <Salvagers.messageDefendersAttacking>TODO</Salvagers.messageDefendersAttacking>
   <!-- EN: pirate -->
   <Salvagers.pawnSingular>TODO</Salvagers.pawnSingular>
   <!-- EN: pirates -->
-  <Salvagers.pawnsPlural>TODO</Salvagers.pawnsPlural>
+  <Salvagers.pawnsPlural>นักเก็บกู้ซาก</Salvagers.pawnsPlural>
   
   <!-- EN: traders guild -->
-  <TradersGuild.label>TODO</TradersGuild.label>
+  <TradersGuild.label>สมาคมการค้า</TradersGuild.label>
   <!-- EN: A loose coalition of orbital traders. Together they form an orbital marketplace that buys and sells goods from around the planet. Orbital traders will also buy goods from the occasional interplanetary trading vessel, giving them access to rare technologies.\n\nThese merchants are rarely found on the planet itself, preferring to live in the safety of their orbital platforms. -->
-  <TradersGuild.description>TODO</TradersGuild.description>
+  <TradersGuild.description>แนวร่วมหลวมๆ ของพ่อค้าในวงโคจร พวกเขาร่วมกันสร้างตลาดในวงโคจรที่ซื้อและขายสินค้าจากทั่วโลก พ่อค้าในวงโคจรยังซื้อสินค้าจากยานการค้าต่างดาวเป็นครั้งคราว ทำให้พวกเขาเข้าถึงเทคโนโลยีที่หายาก\n\nพ่อค้าเหล่านี้ไม่ค่อยพบบนดาวเคราะห์เอง โดยเลือกที่จะอาศัยอยู่ในความปลอดภัยของสถานีโคจรของตน</TradersGuild.description>
   <!-- EN: magister of trade -->
-  <TradersGuild.leaderTitle>TODO</TradersGuild.leaderTitle>
+  <TradersGuild.leaderTitle>ประธานสมาคมการค้า</TradersGuild.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <TradersGuild.messageDefendersAttacking>TODO</TradersGuild.messageDefendersAttacking>
   <!-- EN: guild member -->
   <TradersGuild.pawnSingular>TODO</TradersGuild.pawnSingular>
   <!-- EN: guild members -->
-  <TradersGuild.pawnsPlural>TODO</TradersGuild.pawnsPlural>
+  <TradersGuild.pawnsPlural>สมาชิกสมาคม</TradersGuild.pawnsPlural>
   
 </LanguageData>

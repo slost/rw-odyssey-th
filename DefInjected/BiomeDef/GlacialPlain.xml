@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: glacial plain -->
-  <GlacialPlain.label>TODO</GlacialPlain.label>
+  <GlacialPlain.label>ที่ราบน้ำแข็ง</GlacialPlain.label>
   <!-- EN: An open area scraped clean by the movement of glaciers. While vegetation and soil are sparse, a few hardy species have made their home here. -->
-  <GlacialPlain.description>TODO</GlacialPlain.description>
+  <GlacialPlain.description>พื้นที่เปิดโล่งที่ถูกขูดจนสะอาดจากการเคลื่อนตัวของธารน้ำแข็ง แม้ว่าพืชพรรณและดินจะเบาบาง แต่ก็มีสิ่งมีชีวิตที่ทนทานไม่กี่ชนิดอาศัยอยู่ที่นี่</GlacialPlain.description>
   
 </LanguageData>

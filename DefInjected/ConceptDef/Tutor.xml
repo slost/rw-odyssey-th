@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: fishing -->
   <Fishing.label>การตกปลา</Fishing.label>
   <!-- EN: Place a 'fishing zone' where your hunters will fish. Larger bodies of water are better for fishing.\n\nFishing reduces the fish population in a body of water.\n\nAvoid overfishing - fewer fish will be caught if a body of water has under 300 fish.\n\nHunters with a high animals skill catch more fish faster. -->
-  <Fishing.helpText>TODO</Fishing.helpText>
+  <Fishing.helpText>วาง 'เขตตกปลา' ที่นักล่าของคุณจะตกปลา แหล่งน้ำขนาดใหญ่เหมาะสำหรับการตกปลามากกว่า\n\nการตกปลาช่วยลดจำนวนปลาในแหล่งน้ำ\n\nหลีกเลี่ยงการตกปลามากเกินไป - จะจับปลาได้น้อยลงหากแหล่งน้ำมีปลาน้อยกว่า 300 ตัว\n\nนักล่าที่มีทักษะด้านสัตว์สูงจะจับปลาได้มากขึ้นเร็วขึ้น</Fishing.helpText>
   
   <!-- EN: gravship -->
   <Gravship.label>ยานกราฟชิป</Gravship.label>
   <!-- EN: Build a gravship around your grav engine. When you launch the ship will carry the entire structure to a new map.\n\nLaunching the gravship destroys the current map. You can build a grav anchor to prevent this.\n\nTo launch, a gravship needs:\n     - Pilot console\n     - Fuel tanks\n     - Thrusters\n\nResearch 'basic gravtech' to unlock these.\n\nYou can only build a limited amount of substructure. To increase this limit, find gravcores and gravlite panels.\n\nYour grav engine will occasionally detect gravtech around the planet and mark it on your world map. -->
-  <Gravship.helpText>TODO</Gravship.helpText>
+  <Gravship.helpText>สร้างแกรฟชิพรอบๆเครื่องยนต์แกรฟของคุณ เมื่อคุณปล่อย ยานจะนำโครงสร้างทั้งหมดไปยังแผนที่ใหม่\n\nการปล่อยแกรฟชิพจะทำลายแผนที่ปัจจุบัน คุณสามารถสร้างสมอแรงโน้มถ่วงเพื่อป้องกันสิ่งนี้ได้\n\nในการปล่อย แกรฟชิพต้องการ:\n     - คอนโซลนักบิน\n     - ถังเชื้อเพลิง\n     - เครื่องขับดัน\n\nวิจัย 'เทคโนโลยีแกรฟพื้นฐาน' เพื่อปลดล็อกสิ่งเหล่านี้\n\nคุณสามารถสร้างโครงสร้างย่อยได้ในปริมาณที่จำกัด หากต้องการเพิ่มขีดจำกัดนี้ ให้ค้นหาแกรฟคอร์และแผงแกรฟไลท์\n\nเครื่องยนต์แกรฟของคุณจะตรวจจับเทคโนโลยีแกรฟรอบๆ ดาวเคราะห์เป็นครั้งคราวและทำเครื่องหมายไว้บนแผนที่โลกของคุณ</Gravship.helpText>
   
   <!-- EN: orbit -->
   <Orbit.label>วงโคจร</Orbit.label>
   <!-- EN: On the world map, use the 'view planet' and 'view orbit' buttons to switch between planetary and orbital views.\n\nYou can travel to orbital locations using transport pods, shuttles, or gravships.\n\nColonists need vacsuits or other advanced armor to survive in the vacuum of space.\n\nIf using a gravship, make sure it's well-heated. Build oxygen pumps to maintain breathable air and enclose your ship with airtight walls and doors. Avoid using wood or stone for exterior walls and doors.\n\nPlan your return trip before you launch. Living in orbit for a long time is very challenging. Getting stranded in orbit is deadly. -->
-  <Orbit.helpText>TODO</Orbit.helpText>
+  <Orbit.helpText>บนแผนที่โลก ใช้ปุ่ม 'ดูดาวเคราะห์' และ 'ดูวงโคจร' เพื่อสลับระหว่างมุมมองดาวเคราะห์และวงโคจร\n\nคุณสามารถเดินทางไปยังตำแหน่งในวงโคจรได้โดยใช้กระสวยขนส่ง, ยานโดยสาร หรือแกรฟชิพ\n\nผู้ตั้งถิ่นฐานต้องการชุดแวคสูทหรือชุดเกราะขั้นสูงอื่นๆ เพื่อเอาชีวิตรอดในสุญญากาศของอวกาศ\n\nหากใช้แกรฟชิพ ตรวจสอบให้แน่ใจว่าได้รับความร้อนอย่างดี สร้างปั๊มออกซิเจนเพื่อรักษาอากาศที่หายใจได้และปิดล้อมยานของคุณด้วยผนังและประตูที่ปิดสนิท หลีกเลี่ยงการใช้ไม้หรือหินสำหรับผนังและประตูภายนอก\n\nวางแผนการเดินทางกลับของคุณก่อนที่จะปล่อย การใช้ชีวิตในวงโคจรเป็นเวลานานเป็นเรื่องที่ท้าทายมาก การติดอยู่ในวงโคจรนั้นอันตรายถึงชีวิต</Orbit.helpText>
   
 </LanguageData>

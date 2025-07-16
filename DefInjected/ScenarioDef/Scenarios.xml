@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: The Gravship -->
-  <TheGravship.label>TODO</TheGravship.label>
+  <TheGravship.label>แกรฟชิพ</TheGravship.label>
   <!-- EN: Your gravship sits docked at the orbital relay. As your crew begins to salvage the equipment, you realize that this isn't ancient human tech - it's a mechanoid beacon. The relay crackles to life and broadcasts its war alert to a distant mechhive. They're hunting you now, and they will eventually find you wherever you go.\n\nNote: This is a difficult scenario and is not recommended for new players. -->
-  <TheGravship.description>TODO</TheGravship.description>
+  <TheGravship.description>แกรฟชิพของคุณจอดอยู่ที่รีเลย์ในวงโคจร ขณะที่ลูกเรือของคุณเริ่มเก็บกู้ยุทโธปกรณ์ คุณก็ตระหนักได้ว่านี่ไม่ใช่เทคโนโลยีของมนุษย์โบราณ แต่เป็นสัญญาณของเมคานอยด์ รีเลย์ส่งเสียงดังและแพร่สัญญาณเตือนภัยสงครามไปยังรังเมคานอยด์ที่อยู่ห่างไกล ตอนนี้พวกมันกำลังตามล่าคุณอยู่ และในที่สุดพวกมันก็จะหาคุณเจอไม่ว่าคุณจะไปที่ไหน\n\nหมายเหตุ: นี่เป็นสถานการณ์ที่ยากและไม่แนะนำสำหรับผู้เล่นใหม่</TheGravship.description>
   <!-- EN: Your gravship sits docked at the orbital relay. As your crew begins to salvage the equipment, you realize that this isn't ancient human tech - it's a mechanoid beacon. The relay crackles to life and broadcasts its war alert to a distant mechhive. They're hunting you now, and they will eventually find you wherever you go.\n\nNote: This is a difficult scenario and is not recommended for new players. -->
-  <TheGravship.scenario.description>TODO</TheGravship.scenario.description>
+  <TheGravship.scenario.description>แกรฟชิพของคุณจอดอยู่ที่รีเลย์ในวงโคจร ขณะที่ลูกเรือของคุณเริ่มเก็บกู้ยุทโธปกรณ์ คุณก็ตระหนักได้ว่านี่ไม่ใช่เทคโนโลยีของมนุษย์โบราณ แต่เป็นสัญญาณของเมคานอยด์ รีเลย์ส่งเสียงดังและแพร่สัญญาณเตือนภัยสงครามไปยังรังเมคานอยด์ที่อยู่ห่างไกล ตอนนี้พวกมันกำลังตามล่าคุณอยู่ และในที่สุดพวกมันก็จะหาคุณเจอไม่ว่าคุณจะไปที่ไหน\n\nหมายเหตุ: นี่เป็นสถานการณ์ที่ยากและไม่แนะนำสำหรับผู้เล่นใหม่</TheGravship.scenario.description>
   <!-- EN: The Gravship -->
-  <TheGravship.scenario.name>TODO</TheGravship.scenario.name>
+  <TheGravship.scenario.name>แกรฟชิพ</TheGravship.scenario.name>
   <!-- EN: You screwed up, and now the mechhive wants you dead. Its terrifying murder machines will arrive soon. Gather the valuable gravlite panels, then use your gravship to flee to a safe location on the planet below.\n\nTo launch the gravship, select the pilot console, then select the launch command.\n\nOn the world map, select ‘view planet' to choose a landing spot on the planet.\n\nFrom now on, wherever you go, the mechanoids will eventually find you. To stop them, you must find and defeat the mechhive itself. -->
   <TheGravship.scenario.parts.GameStartDialog.text>TODO</TheGravship.scenario.parts.GameStartDialog.text>
   <!-- EN: A crew of three hunted by mechanoids. -->
-  <TheGravship.scenario.summary>TODO</TheGravship.scenario.summary>
+  <TheGravship.scenario.summary>ลูกเรือสามคนที่ถูกตามล่าโดยเมคานอยด์</TheGravship.scenario.summary>
   
 </LanguageData>

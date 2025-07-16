@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: ancient blast door -->
-  <AncientBlastDoor.label>TODO</AncientBlastDoor.label>
+  <AncientBlastDoor.label>ประตูทนระเบิดโบราณ</AncientBlastDoor.label>
   <!-- EN: A heavily-reinforced door made of an ultratech polymer. Hack the door to open it. -->
-  <AncientBlastDoor.description>TODO</AncientBlastDoor.description>
+  <AncientBlastDoor.description>ประตูที่เสริมความแข็งแกร่งอย่างหนาแน่นทำจากพอลิเมอร์อัลตร้าเทค แฮ็กประตูเพื่อเปิด</AncientBlastDoor.description>
   <!-- EN: Unlocked. -->
   <AncientBlastDoor.comps.CompHackable.hackedInspectString>TODO</AncientBlastDoor.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
@@ -13,26 +13,26 @@
   <AncientBlastDoor.comps.CompHackable.notHackedInspectString>TODO</AncientBlastDoor.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: ancient explosives crate -->
-  <AncientExplosivesCrate.label>TODO</AncientExplosivesCrate.label>
+  <AncientExplosivesCrate.label>ลังวัตถุระเบิดโบราณ</AncientExplosivesCrate.label>
   <!-- EN: A container of ancient mining charges. It will explode if damaged.\n\nThe explosion is powerful enough to penetrate through walls. -->
-  <AncientExplosivesCrate.description>TODO</AncientExplosivesCrate.description>
+  <AncientExplosivesCrate.description>ภาชนะบรรจุระเบิดเหมืองโบราณ มันจะระเบิดหากได้รับความเสียหาย\n\nแรงระเบิดรุนแรงพอที่จะทะลุกำแพงได้</AncientExplosivesCrate.description>
   
   <!-- EN: fortified wall -->
-  <AncientFortifiedWall.label>TODO</AncientFortifiedWall.label>
+  <AncientFortifiedWall.label>กำแพงเสริมความแข็งแกร่ง</AncientFortifiedWall.label>
   <!-- EN: A heavily-reinforced wall made of an ultratech polymer. -->
-  <AncientFortifiedWall.description>TODO</AncientFortifiedWall.description>
+  <AncientFortifiedWall.description>กำแพงที่เสริมความแข็งแกร่งอย่างหนาแน่นทำจากพอลิเมอร์อัลตร้าเทค</AncientFortifiedWall.description>
   
   <!-- EN: ancient grav engine -->
-  <AncientGravEngine.label>TODO</AncientGravEngine.label>
+  <AncientGravEngine.label>เครื่องยนต์แกรฟโบราณ</AncientGravEngine.label>
   <!-- EN: An ultratech engine used to bring large structures and ships into orbit. While it has been nonfunctional for many years, it contains a functional gravcore. -->
-  <AncientGravEngine.description>TODO</AncientGravEngine.description>
+  <AncientGravEngine.description>เครื่องยนต์อัลตร้าเทคที่ใช้ในการนำโครงสร้างขนาดใหญ่และเรือเข้าสู่วงโคจร แม้ว่าจะไม่ทำงานมาหลายปีแล้ว แต่ก็มีแกรฟคอร์ที่ใช้งานได้</AncientGravEngine.description>
   <!-- EN: Contains: Gravcore -->
   <AncientGravEngine.comps.CompInspectString.inspectString>TODO</AncientGravEngine.comps.CompInspectString.inspectString>
   
   <!-- EN: ancient grav reactor -->
-  <AncientGravReactor.label>TODO</AncientGravReactor.label>
+  <AncientGravReactor.label>เครื่องปฏิกรณ์แกรฟโบราณ</AncientGravReactor.label>
   <!-- EN: An ancient generator powered by a gravcore. Once capable of producing massive amounts of power, it has now fallen into disrepair. The reactor containment shield is leaking, causing toxic fallout to blanket the whole region.\n\nHack or destroy the reactor to obtain a gravcore. Be warned, it may explode if damaged. -->
-  <AncientGravReactor.description>TODO</AncientGravReactor.description>
+  <AncientGravReactor.description>เครื่องกำเนิดไฟฟ้าโบราณที่ขับเคลื่อนโดยแกรฟคอร์ ครั้งหนึ่งเคยสามารถผลิตพลังงานจำนวนมหาศาลได้ แต่ตอนนี้ชำรุดทรุดโทรม โล่กักกันเครื่องปฏิกรณ์กำลังรั่วไหล ทำให้ฝุ่นพิษปกคลุมทั่วทั้งภูมิภาค\n\nแฮ็กหรือทำลายเครื่องปฏิกรณ์เพื่อรับแกรฟคอร์ โปรดระวัง มันอาจระเบิดได้หากได้รับความเสียหาย</AncientGravReactor.description>
   <!-- EN: Gravcore obtained -->
   <AncientGravReactor.comps.CompHackable.destroyedLetterLabel>TODO</AncientGravReactor.comps.CompHackable.destroyedLetterLabel>
   <!-- EN: You've obtained a gravcore from the ancient reactor.\n\nThe reactor is shutting down and the toxic fallout is already beginning to clear. -->
@@ -51,28 +51,28 @@
   <AncientGravReactor.comps.CompLetterOnRevealed.text>TODO</AncientGravReactor.comps.CompLetterOnRevealed.text>
   
   <!-- EN: ancient stockpile entrance -->
-  <AncientHatch.label>TODO</AncientHatch.label>
+  <AncientHatch.label>ทางเข้าคลังเก็บของโบราณ</AncientHatch.label>
   <!-- EN: The entrance to a long-abandoned subterranean facility. Hack it to open the hatch. -->
-  <AncientHatch.description>TODO</AncientHatch.description>
+  <AncientHatch.description>ทางเข้าสู่สถานที่ใต้ดินที่ถูกทิ้งร้างมานาน แฮ็กเพื่อเปิดประตู</AncientHatch.description>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
   <AncientHatch.comps.CompHackable.hackedMessage>TODO</AncientHatch.comps.CompHackable.hackedMessage>
   <!-- EN: Hack to open. -->
   <AncientHatch.comps.CompHackable.notHackedInspectString>TODO</AncientHatch.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: ancient stockpile exit -->
-  <AncientHatchExit.label>TODO</AncientHatchExit.label>
+  <AncientHatchExit.label>ทางออกคลังเก็บของโบราณ</AncientHatchExit.label>
   <!-- EN: A ladder which links to the surface hatch above. -->
-  <AncientHatchExit.description>TODO</AncientHatchExit.description>
+  <AncientHatchExit.description>บันไดที่เชื่อมต่อไปยังประตูบนพื้นผิวด้านบน</AncientHatchExit.description>
   
   <!-- EN: ancient mining charge -->
-  <AncientMiningCharge.label>TODO</AncientMiningCharge.label>
+  <AncientMiningCharge.label>ระเบิดเหมืองโบราณ</AncientMiningCharge.label>
   <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate.\n\nThe explosion is powerful enough to penetrate through walls. -->
-  <AncientMiningCharge.description>TODO</AncientMiningCharge.description>
+  <AncientMiningCharge.description>อุปกรณ์ระเบิดที่ใช้ในการระเบิดหินอย่างรวดเร็ว ทำจากเชื้อเพลิงเคมีที่ผ่านการกลั่นแล้ว วัตถุระเบิดนี้เก่าแล้ว แต่ยังพร้อมที่จะระเบิด\n\nแรงระเบิดรุนแรงพอที่จะทะลุกำแพงได้</AncientMiningCharge.description>
   
   <!-- EN: ancient security terminal -->
-  <AncientSecurityTerminal.label>TODO</AncientSecurityTerminal.label>
+  <AncientSecurityTerminal.label>เทอร์มินัลรักษาความปลอดภัยโบราณ</AncientSecurityTerminal.label>
   <!-- EN: An ancient terminal. Hack it to disable nearby security systems. -->
-  <AncientSecurityTerminal.description>TODO</AncientSecurityTerminal.description>
+  <AncientSecurityTerminal.description>เทอร์มินัลโบราณ แฮ็กเพื่อปิดการใช้งานระบบรักษาความปลอดภัยในบริเวณใกล้เคียง</AncientSecurityTerminal.description>
   <!-- EN: Blast door opened -->
   <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>
   <!-- EN: {HACKER_nameDef} used the ancient security terminal to open a blast door. -->
@@ -89,9 +89,9 @@
   <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>
   
   <!-- EN: ancient terraformer -->
-  <AncientTerraformer.label>TODO</AncientTerraformer.label>
+  <AncientTerraformer.label>เครื่องปรับสภาพดาวเคราะห์โบราณ</AncientTerraformer.label>
   <!-- EN: An ancient terraforming device powered by a gravcore. It has begun to malfunction, causing temperatures to plummet.\n\nDestroy the terraformer to obtain a gravcore. -->
-  <AncientTerraformer.description>TODO</AncientTerraformer.description>
+  <AncientTerraformer.description>อุปกรณ์ปรับสภาพดาวเคราะห์โบราณที่ขับเคลื่อนโดยแกรฟคอร์ มันเริ่มทำงานผิดปกติ ทำให้อุณหภูมิลดลงอย่างรวดเร็ว\n\nทำลายเครื่องปรับสภาพดาวเคราะห์เพื่อรับแกรฟคอร์</AncientTerraformer.description>
   <!-- EN: Contains: Gravcore -->
   <AncientTerraformer.comps.CompInspectString.inspectString>TODO</AncientTerraformer.comps.CompInspectString.inspectString>
   <!-- EN: Ancient terraformer -->
@@ -100,14 +100,14 @@
   <AncientTerraformer.comps.CompLetterOnRevealed.text>TODO</AncientTerraformer.comps.CompLetterOnRevealed.text>
   
   <!-- EN: ancient transport pod -->
-  <AncientTransportPod.label>TODO</AncientTransportPod.label>
+  <AncientTransportPod.label>กระสวยขนส่งโบราณ</AncientTransportPod.label>
   <!-- EN: An ancient cargo pod capable of carrying people, animals, and items. It's still in working condition. -->
-  <AncientTransportPod.description>TODO</AncientTransportPod.description>
+  <AncientTransportPod.description>กระสวยสินค้าโบราณที่สามารถบรรทุกคน สัตว์ และสิ่งของได้ ยังอยู่ในสภาพใช้งานได้</AncientTransportPod.description>
   
   <!-- EN: ancient uplink -->
-  <AncientUplink.label>TODO</AncientUplink.label>
+  <AncientUplink.label>อัปลิงก์โบราณ</AncientUplink.label>
   <!-- EN: An ancient transmitter used for secure communications between the surface and orbit. Hack it to determine the last location it transmitted to. -->
-  <AncientUplink.description>TODO</AncientUplink.description>
+  <AncientUplink.description>เครื่องส่งสัญญาณโบราณที่ใช้สำหรับการสื่อสารที่ปลอดภัยระหว่างพื้นผิวและวงโคจร แฮ็กเพื่อระบุตำแหน่งสุดท้ายที่ส่งไป</AncientUplink.description>
   <!-- EN: Hacked. -->
   <AncientUplink.comps.CompHackable.hackedInspectString>TODO</AncientUplink.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
@@ -116,14 +116,14 @@
   <AncientUplink.comps.CompHackable.notHackedInspectString>TODO</AncientUplink.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: anticraft beam -->
-  <AnticraftBeam.label>TODO</AnticraftBeam.label>
+  <AnticraftBeam.label>ลำแสงต่อต้านอากาศยาน</AnticraftBeam.label>
   <!-- EN: A massive anti-ship beam weapon. This weapon is intended to destroy flying craft, so it can't aim low enough to hit ground targets.\n\nShips using ultratech signal jammers are capable of evading these weapons. -->
-  <AnticraftBeam.description>TODO</AnticraftBeam.description>
+  <AnticraftBeam.description>อาวุธลำแสงต่อต้านเรือขนาดมหึมา อาวุธนี้มีไว้เพื่อทำลายยานบิน ดังนั้นจึงไม่สามารถเล็งต่ำพอที่จะโจมตีเป้าหมายบนพื้นดินได้\n\nเรือที่ใช้เครื่องรบกวนสัญญาณอัลตร้าเทคสามารถหลบหลีกอาวุธเหล่านี้ได้</AnticraftBeam.description>
   
   <!-- EN: cerebrex core -->
-  <CerebrexCore.label>TODO</CerebrexCore.label>
+  <CerebrexCore.label>แกนเซเรเบรกซ์</CerebrexCore.label>
   <!-- EN: The thinking mind of the mechanoid swarm. The cerebrex core commands mechanoids across the entire planet.\n\nAt its heart is an AI persona core that knows, thinks, and believes that it must kill every human on this planet. In one sense, this impulse is a command programmed by a human military leader aeons ago. In another sense, it is cold seething hatred. Either way, if you liberate the AI persona you can reset its desire and use it for other purposes.\n\nThe structure is protected by nearby stabilizers. Destroy all cerebrex stabilizers to access it. -->
-  <CerebrexCore.description>TODO</CerebrexCore.description>
+  <CerebrexCore.description>จิตใจที่คิดของฝูงเมคานอยด์ แกนเซเรเบรกซ์ควบคุมเมคานอยด์ทั่วทั้งดาวเคราะห์\n\nหัวใจของมันคือแกนบุคลิกภาพเอไอที่รู้ คิด และเชื่อว่ามันต้องฆ่ามนุษย์ทุกคนบนดาวเคราะห์ดวงนี้ ในแง่หนึ่ง แรงกระตุ้นนี้เป็นคำสั่งที่ตั้งโปรแกรมโดยผู้นำทางทหารของมนุษย์เมื่อนานมาแล้ว ในอีกแง่หนึ่ง มันคือความเกลียดชังที่เย็นชา ไม่ว่าจะด้วยวิธีใด หากคุณปลดปล่อยแกนบุคลิกภาพเอไอ คุณสามารถรีเซ็ตความปรารถนาของมันและใช้เพื่อวัตถุประสงค์อื่นได้\n\nโครงสร้างนี้ได้รับการป้องกันโดยตัวรักษาเสถียรภาพในบริเวณใกล้เคียง ทำลายตัวรักษาเสถียรภาพเซเรเบรกซ์ทั้งหมดเพื่อเข้าถึงมัน</CerebrexCore.description>
   <!-- EN: Inspect the core. -->
   <CerebrexCore.comps.CompCerebrexCore.activateDescString>TODO</CerebrexCore.comps.CompCerebrexCore.activateDescString>
   <!-- EN: Inspect... -->
@@ -138,56 +138,56 @@
   <CerebrexCore.comps.CompCerebrexCore.jobString>TODO</CerebrexCore.comps.CompCerebrexCore.jobString>
   
   <!-- EN: destroyed cerebrex core -->
-  <CerebrexCore_Destroyed.label>TODO</CerebrexCore_Destroyed.label>
+  <CerebrexCore_Destroyed.label>แกนเซเรเบรกซ์ที่ถูกทำลาย</CerebrexCore_Destroyed.label>
   <!-- EN: The smashed neural nexus of the mechanoid swarm that once commanded mechanoids around the planet. -->
-  <CerebrexCore_Destroyed.description>TODO</CerebrexCore_Destroyed.description>
+  <CerebrexCore_Destroyed.description>จุดเชื่อมต่อประสาทที่ถูกทุบของฝูงเมคานอยด์ที่เคยควบคุมเมคานอยด์ทั่วดาวเคราะห์</CerebrexCore_Destroyed.description>
   <!-- EN: Destroy for valuable resources. -->
   <CerebrexCore_Destroyed.comps.CompInspectString.inspectString>TODO</CerebrexCore_Destroyed.comps.CompInspectString.inspectString>
   
   <!-- EN: cerebrex stabilizer -->
-  <CerebrexStabilizer.label>TODO</CerebrexStabilizer.label>
+  <CerebrexStabilizer.label>ตัวรักษาเสถียรภาพเซเรเบรกซ์</CerebrexStabilizer.label>
   <!-- EN: A remote shield generator that makes the nearby cerebrex core nearly invincible. Destroying all stabilizers will allow direct access to the cerebrex core.\n\nBe careful, destroying a stabilizer will prompt a defensive response. -->
-  <CerebrexStabilizer.description>TODO</CerebrexStabilizer.description>
+  <CerebrexStabilizer.description>เครื่องกำเนิดโล่ระยะไกลที่ทำให้แกนเซเรเบรกซ์ในบริเวณใกล้เคียงแทบจะอยู่ยงคงกระพัน การทำลายตัวรักษาเสถียรภาพทั้งหมดจะช่วยให้เข้าถึงแกนเซเรเบรกซ์ได้โดยตรง\n\nระวังให้ดี การทำลายตัวรักษาเสถียรภาพจะกระตุ้นให้เกิดการตอบสนองป้องกัน</CerebrexStabilizer.description>
   
   <!-- EN: locust cocoon -->
-  <CocoonLocust.label>TODO</CocoonLocust.label>
+  <CocoonLocust.label>รังดักแด้ตั๊กแตน</CocoonLocust.label>
   <!-- EN: A stasis cocoon containing a locust.\n\nWhen conditions are inhospitable, insects sometimes form stasis cocoons and burrow underground. These cocoons keep insects safe from fire, extreme temperatures, and other threats for years.\n\nPollutants can stimulate cocoons and cause them to resurface, and strong pollutants can attract cocoons from great distances.\n\nCocoons do nothing if they are not disturbed. If a cocoon is disturbed or destroyed, the insect within will awaken and attack, triggering other nearby cocoons in the process. -->
-  <CocoonLocust.description>TODO</CocoonLocust.description>
+  <CocoonLocust.description>รังดักแด้ที่บรรจุตั๊กแตน\n\nเมื่อสภาพแวดล้อมไม่เอื้ออำนวย แมลงบางครั้งจะสร้างรังดักแด้และขุดลงใต้ดิน รังเหล่านี้ช่วยให้แมลงปลอดภัยจากไฟ อุณหภูมิสุดขั้ว และภัยคุกคามอื่นๆ เป็นเวลาหลายปี\n\nมลพิษสามารถกระตุ้นรังดักแด้และทำให้พวกมันโผล่ขึ้นมาใหม่ และมลพิษที่รุนแรงสามารถดึงดูดรังดักแด้จากระยะไกลได้\n\nรังดักแด้จะไม่ทำอะไรหากไม่ถูกรบกวน หากรังดักแด้ถูกรบกวนหรือถูกทำลาย แมลงที่อยู่ภายในจะตื่นขึ้นและโจมตี กระตุ้นให้รังดักแด้อื่นๆ ในบริเวณใกล้เคียงทำงานตามไปด้วย</CocoonLocust.description>
   
   <!-- EN: egg sac -->
-  <EggSac.label>TODO</EggSac.label>
+  <EggSac.label>ถุงไข่</EggSac.label>
   <!-- EN: A slimy sac containing an insect larva. The larval gestation process generates a faint bioluminescent glow. -->
-  <EggSac.description>TODO</EggSac.description>
+  <EggSac.description>ถุงเมือกที่บรรจุตัวอ่อนแมลง กระบวนการตั้งท้องของตัวอ่อนจะสร้างแสงเรืองแสงทางชีวภาพจางๆ</EggSac.description>
   
   <!-- EN: gauss cannon -->
-  <GaussCannon.label>TODO</GaussCannon.label>
+  <GaussCannon.label>ปืนเกาส์</GaussCannon.label>
   <!-- EN: A massive anti-ship cannon that uses electromagnets to launch large metallic darts at extreme velocities. The cannon is intended to destroy incoming ships or shuttles, so it can't aim at ground targets.\n\nShips using ultratech signal jammers are capable of evading these weapons. -->
-  <GaussCannon.description>TODO</GaussCannon.description>
+  <GaussCannon.description>ปืนใหญ่ต่อต้านยานขนาดมหึมาที่ใช้อิเล็กโทรแมกเนตในการยิงลูกดอกโลหะขนาดใหญ่ด้วยความเร็วสูง ปืนใหญ่มีไว้เพื่อทำลายเรือหรือยานที่เข้ามา ดังนั้นจึงไม่สามารถเล็งไปที่เป้าหมายบนพื้นดินได้\n\nเรือที่ใช้เครื่องรบกวนสัญญาณอัลตร้าเทคสามารถหลบหลีกอาวุธเหล่านี้ได้</GaussCannon.description>
   
   <!-- EN: mechanoid drop pod -->
-  <MechanoidDropPod.label>TODO</MechanoidDropPod.label>
+  <MechanoidDropPod.label>กระสวยส่งของเมคานอยด์</MechanoidDropPod.label>
   <!-- EN: A launchable cargo pod intended to carry mechanoids. It is also usable for people, animals, and items. -->
-  <MechanoidDropPod.description>TODO</MechanoidDropPod.description>
+  <MechanoidDropPod.description>พ็อดสินค้าที่ยิงได้ซึ่งมีไว้สำหรับบรรทุกเมคานอยด์ นอกจากนี้ยังใช้สำหรับคน สัตว์ และสิ่งของได้ด้วย</MechanoidDropPod.description>
   
   <!-- EN: mechanoid processor -->
-  <MechanoidProcessor.label>TODO</MechanoidProcessor.label>
+  <MechanoidProcessor.label>โปรเซสเซอร์เมคานอยด์</MechanoidProcessor.label>
   <!-- EN: A powerful mechanoid computer. -->
-  <MechanoidProcessor.description>TODO</MechanoidProcessor.description>
+  <MechanoidProcessor.description>คอมพิวเตอร์เมคานอยด์ที่ทรงพลัง</MechanoidProcessor.description>
   
   <!-- EN: mechhive birther -->
-  <MechhiveAssembler.label>TODO</MechhiveAssembler.label>
+  <MechhiveAssembler.label>ผู้ให้กำเนิดเมคไฮฟ์</MechhiveAssembler.label>
   <!-- EN: An automated mechanoid factory. It periodically births fresh mechanoids. -->
-  <MechhiveAssembler.description>TODO</MechhiveAssembler.description>
+  <MechhiveAssembler.description>โรงงานเมคานอยด์อัตโนมัติ มันจะให้กำเนิดเมคานอยด์ใหม่เป็นระยะๆ</MechhiveAssembler.description>
   
   <!-- EN: mech pylon -->
-  <MechPylon.label>TODO</MechPylon.label>
+  <MechPylon.label>เสาเมค</MechPylon.label>
   <!-- EN: A node in a distributed mechanoid computation network. -->
-  <MechPylon.description>TODO</MechPylon.description>
+  <MechPylon.description>โหนดในเครือข่ายการคำนวณเมคานอยด์แบบกระจาย</MechPylon.description>
   
   <!-- EN: mechanoid relay -->
-  <MechRelay.label>TODO</MechRelay.label>
+  <MechRelay.label>รีเลย์เมคานอยด์</MechRelay.label>
   <!-- EN: A node that coordinates signals across a planet-wide mechanoid communication network. The command signals originate at the mechhive - the center of mechanoid intelligence. -->
-  <MechRelay.description>TODO</MechRelay.description>
+  <MechRelay.description>โหนดที่ประสานงานสัญญาณทั่วทั้งเครือข่ายการสื่อสารเมคานอยด์ทั่วดาวเคราะห์ สัญญาณคำสั่งมาจากเมคไฮฟ์ - ศูนย์กลางของปัญญาประดิษฐ์เมคานอยด์</MechRelay.description>
   <!-- EN: Hack or destroy relay stabilizers to obtain gravcore. -->
   <MechRelay.comps.CompMechRelay.activeInspectString>TODO</MechRelay.comps.CompMechRelay.activeInspectString>
   <!-- EN: Relay crash -->
@@ -200,16 +200,16 @@
   <MechRelay.comps.CompMechRelay.destabilizationMessage>TODO</MechRelay.comps.CompMechRelay.destabilizationMessage>
   
   <!-- EN: crashed mechanoid relay -->
-  <MechRelay_Crashed.label>TODO</MechRelay_Crashed.label>
+  <MechRelay_Crashed.label>รีเลย์เมคานอยด์ที่ตก</MechRelay_Crashed.label>
   <!-- EN: A node that coordinates signals across a planet-wide mechanoid communication network. The command signals originate at the mechhive - the center of mechanoid intelligence. -->
-  <MechRelay_Crashed.description>TODO</MechRelay_Crashed.description>
+  <MechRelay_Crashed.description>โหนดที่ประสานงานสัญญาณทั่วทั้งเครือข่ายการสื่อสารเมคานอยด์ทั่วดาวเคราะห์ สัญญาณคำสั่งมาจากเมคไฮฟ์ - ศูนย์กลางของปัญญาประดิษฐ์เมคานอยด์</MechRelay_Crashed.description>
   <!-- EN: Contains: Gravcore -->
   <MechRelay_Crashed.comps.CompInspectString.inspectString>TODO</MechRelay_Crashed.comps.CompInspectString.inspectString>
   
   <!-- EN: relay stabilizer -->
-  <MechStabilizer.label>TODO</MechStabilizer.label>
+  <MechStabilizer.label>ตัวรักษาเสถียรภาพรีเลย์</MechStabilizer.label>
   <!-- EN: A shield projecter that protects a nearby mechanoid relay. All stabilizers must be hacked or destroyed to deactivate the shield.\n\nDestroying a stabilizer will prompt a defensive response. Hacking is a slower but safer option. -->
-  <MechStabilizer.description>TODO</MechStabilizer.description>
+  <MechStabilizer.description>เครื่องฉายโล่ที่ป้องกันรีเลย์เมคานอยด์ใกล้เคียง ต้องแฮ็กหรือทำลายตัวรักษาเสถียรภาพทั้งหมดเพื่อปิดการใช้งานโล่\n\nการทำลายตัวรักษาเสถียรภาพจะกระตุ้นให้เกิดการตอบสนองป้องกัน การแฮ็กเป็นตัวเลือกที่ช้ากว่าแต่ปลอดภัยกว่า</MechStabilizer.description>
   <!-- EN: Deactivated. -->
   <MechStabilizer.comps.CompHackable.hackedInspectString>TODO</MechStabilizer.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
@@ -218,14 +218,14 @@
   <MechStabilizer.comps.CompHackable.notHackedInspectString>TODO</MechStabilizer.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: fortified wall -->
-  <OrbitalAncientFortifiedWall.label>TODO</OrbitalAncientFortifiedWall.label>
+  <OrbitalAncientFortifiedWall.label>กำแพงเสริมความแข็งแกร่ง</OrbitalAncientFortifiedWall.label>
   <!-- EN: A heavily-reinforced wall made of an ultratech polymer. -->
-  <OrbitalAncientFortifiedWall.description>TODO</OrbitalAncientFortifiedWall.description>
+  <OrbitalAncientFortifiedWall.description>กำแพงที่เสริมความแข็งแกร่งอย่างหนาแน่นทำจากพอลิเมอร์อัลตร้าเทค</OrbitalAncientFortifiedWall.description>
   
   <!-- EN: passenger shuttle -->
-  <PassengerShuttle.label>TODO</PassengerShuttle.label>
+  <PassengerShuttle.label>ยานโดยสาร</PassengerShuttle.label>
   <!-- EN: A chemfuel-powered shuttle designed for long-distance travel. It is capable of reaching orbital locations. -->
-  <PassengerShuttle.description>TODO</PassengerShuttle.description>
+  <PassengerShuttle.description>ยานที่ขับเคลื่อนด้วยเชื้อเพลิงเคมีซึ่งออกแบบมาสำหรับการเดินทางระยะไกล สามารถเข้าถึงตำแหน่งในวงโคจรได้</PassengerShuttle.description>
   <!-- EN: {0} is ready to launch again. -->
   <PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>TODO</PassengerShuttle.comps.CompLaunchable.cooldownEndedMessage>
   <!-- EN: Chemfuel -->
@@ -234,9 +234,9 @@
   <PassengerShuttle.comps.CompRefuelable.fuelLabel>TODO</PassengerShuttle.comps.CompRefuelable.fuelLabel>
   
   <!-- EN: surveying scanner -->
-  <SurveyScanner.label>TODO</SurveyScanner.label>
+  <SurveyScanner.label>เครื่องสแกนสำรวจ</SurveyScanner.label>
   <!-- EN: A wideband sensor unit that can detect and map various features in a local area. -->
-  <SurveyScanner.description>TODO</SurveyScanner.description>
+  <SurveyScanner.description>หน่วยเซ็นเซอร์บรอดแบนด์ที่สามารถตรวจจับและทำแผนที่คุณลักษณะต่างๆ ในพื้นที่ท้องถิ่นได้</SurveyScanner.description>
   <!-- EN: Scanning local area: {DURATION} -->
   <SurveyScanner.comps.CompCountdown.label>TODO</SurveyScanner.comps.CompCountdown.label>
   

@@ -1,24 +1,24 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: bulrush -->
-  <Plant_Bulrush.label>TODO</Plant_Bulrush.label>
+  <Plant_Bulrush.label>กก</Plant_Bulrush.label>
   <!-- EN: A plant commonly found in swamps, recognizable for its brown cigar-shaped top. -->
-  <Plant_Bulrush.description>TODO</Plant_Bulrush.description>
+  <Plant_Bulrush.description>พืชที่พบได้ทั่วไปในหนองน้ำ สังเกตได้จากส่วนยอดสีน้ำตาลคล้ายซิการ์</Plant_Bulrush.description>
   
   <!-- EN: lily pad -->
-  <Plant_LilyPad.label>TODO</Plant_LilyPad.label>
+  <Plant_LilyPad.label>ใบบัว</Plant_LilyPad.label>
   <!-- EN: A water plant with a broad floating leaf. -->
-  <Plant_LilyPad.description>TODO</Plant_LilyPad.description>
+  <Plant_LilyPad.description>พืชน้ำที่มีใบลอยกว้าง</Plant_LilyPad.description>
   
   <!-- EN: lotus -->
-  <Plant_Lotus.label>TODO</Plant_Lotus.label>
+  <Plant_Lotus.label>ดอกบัว</Plant_Lotus.label>
   <!-- EN: An aquatic plant known for its fragrant flowers. -->
-  <Plant_Lotus.description>TODO</Plant_Lotus.description>
+  <Plant_Lotus.description>พืชน้ำที่ขึ้นชื่อเรื่องดอกไม้มีกลิ่นหอม</Plant_Lotus.description>
   
   <!-- EN: reeds -->
-  <Plant_Reeds.label>TODO</Plant_Reeds.label>
+  <Plant_Reeds.label>ต้นกก</Plant_Reeds.label>
   <!-- EN: A tall slender plant that grows in water. -->
-  <Plant_Reeds.description>TODO</Plant_Reeds.description>
+  <Plant_Reeds.description>พืชลำต้นสูงเรียวที่เจริญเติบโตในน้ำ</Plant_Reeds.description>
   
 </LanguageData>

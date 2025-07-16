@@ -1,34 +1,34 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: thrumbomane -->
-  <Leather_AlphaThrumbo.label>TODO</Leather_AlphaThrumbo.label>
+  <Leather_AlphaThrumbo.label>ธรัมโบเมน</Leather_AlphaThrumbo.label>
   <!-- EN: The furry pelt of an alpha thrumbo. It is extraordinarily durable and luxurious - one can almost feel a psychic echo of the animal's ancient story through the gossamer fur.\n\nIt is used for the highest-quality crafts for its insulation and strength. -->
-  <Leather_AlphaThrumbo.description>TODO</Leather_AlphaThrumbo.description>
+  <Leather_AlphaThrumbo.description>หนังขนของอัลฟ่าธรัมโบ มันทนทานและหรูหราเป็นพิเศษ - แทบจะสัมผัสได้ถึงเสียงสะท้อนทางพลังจิตของเรื่องราวโบราณของสัตว์ผ่านขนที่บางเบา\n\nใช้สำหรับงานฝีมือคุณภาพสูงสุดในด้านการเป็นฉนวนและความแข็งแรง</Leather_AlphaThrumbo.description>
   
   <!-- EN: armadillo leather -->
-  <Leather_Armadillo.label>TODO</Leather_Armadillo.label>
+  <Leather_Armadillo.label>หนังอาร์มาดิลโล</Leather_Armadillo.label>
   <!-- EN: Tanned, dried, scraped armadillo skin. It's tough, but offers little protection against the elements. -->
-  <Leather_Armadillo.description>TODO</Leather_Armadillo.description>
+  <Leather_Armadillo.description>หนังอาร์มาดิลโลที่ผ่านการฟอก ตากแห้ง และขูดแล้ว มันแข็งแกร่ง แต่ให้การป้องกันจากสภาพดินฟ้าอากาศได้เพียงเล็กน้อย</Leather_Armadillo.description>
   
   <!-- EN: hippo leather -->
-  <Leather_Hippo.label>TODO</Leather_Hippo.label>
+  <Leather_Hippo.label>หนังฮิปโป</Leather_Hippo.label>
   <!-- EN: Tanned, dried, scraped hippo skin. While extremely durable, it provides little protection from extreme weather. -->
-  <Leather_Hippo.description>TODO</Leather_Hippo.description>
+  <Leather_Hippo.description>หนังฮิปโปที่ผ่านการฟอก ตากแห้ง และขูดแล้ว แม้จะทนทานอย่างยิ่ง แต่ก็ให้การป้องกันสภาพอากาศที่รุนแรงได้เพียงเล็กน้อย</Leather_Hippo.description>
   
   <!-- EN: mastodon leather -->
-  <Leather_Mastodon.label>TODO</Leather_Mastodon.label>
+  <Leather_Mastodon.label>หนังมาสโตดอน</Leather_Mastodon.label>
   <!-- EN: Tanned, dried, scraped mastodon skin. It's tough and an excellent insulator against the cold. -->
-  <Leather_Mastodon.description>TODO</Leather_Mastodon.description>
+  <Leather_Mastodon.description>หนังมาสโตดอนที่ผ่านการฟอก ตากแห้ง และขูดแล้ว มันแข็งแกร่งและเป็นฉนวนป้องกันความหนาวเย็นได้ดีเยี่ยม</Leather_Mastodon.description>
   
   <!-- EN: mink fur -->
-  <Leather_Mink.label>TODO</Leather_Mink.label>
+  <Leather_Mink.label>ขนมิงค์</Leather_Mink.label>
   <!-- EN: Tanned, dried, scraped mink skin. Soft, sleek, and subtly luxurious, mink is used in premium winter clothing and high-end furnishings, meaning it fetches a high price. -->
-  <Leather_Mink.description>TODO</Leather_Mink.description>
+  <Leather_Mink.description>หนังมิงค์ที่ผ่านการฟอก ตากแห้ง และขูดแล้ว นุ่มลื่นและหรูหราอย่างละเอียดอ่อน มิงค์ใช้ในเสื้อผ้าฤดูหนาวระดับพรีเมียมและของตกแต่งระดับไฮเอนด์ ซึ่งหมายความว่าได้ราคาสูง</Leather_Mink.description>
   
   <!-- EN: sealskin -->
-  <Leather_Sealskin.label>TODO</Leather_Sealskin.label>
+  <Leather_Sealskin.label>หนังแมวน้ำ</Leather_Sealskin.label>
   <!-- EN: The tanned skin of various pinnipeds, such as seals, sea lions, and walruses. It's not particularly tough but it is extremely well insulated. Sealskin is luxuriously soft to the touch, fetching a high price. -->
-  <Leather_Sealskin.description>TODO</Leather_Sealskin.description>
+  <Leather_Sealskin.description>หนังที่ผ่านการฟอกจากสัตว์ตีนครีบต่างๆ เช่น แมวน้ำ สิงโตทะเล และวอลรัส มันไม่ได้แข็งแกร่งเป็นพิเศษ แต่เป็นฉนวนที่ดีอย่างยิ่ง หนังแมวน้ำมีความนุ่มหรูหราเมื่อสัมผัส ทำให้ได้ราคาสูง</Leather_Sealskin.description>
   
 </LanguageData>

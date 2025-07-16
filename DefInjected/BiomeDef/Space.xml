@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: orbit -->
-  <Orbit.label>TODO</Orbit.label>
+  <Orbit.label>วงโคจร</Orbit.label>
   <!-- EN: Empty space a few hundred kilometers above the surface of the world. -->
-  <Orbit.description>TODO</Orbit.description>
+  <Orbit.description>พื้นที่ว่างเปล่าเหนือพื้นผิวโลกขึ้นไปไม่กี่ร้อยกิโลเมตร</Orbit.description>
   
   <!-- EN: space -->
-  <Space.label>TODO</Space.label>
+  <Space.label>อวกาศ</Space.label>
   <!-- EN: Empty void. -->
-  <Space.description>TODO</Space.description>
+  <Space.description>ความว่างเปล่า</Space.description>
   
 </LanguageData>

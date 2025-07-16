@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: deactivated. -->
-  <Deactivated.reportString>TODO</Deactivated.reportString>
+  <Deactivated.reportString>ปิดการใช้งานแล้ว</Deactivated.reportString>
   
   <!-- EN: fishing. -->
   <Fish.reportString>กำลังตกปลา</Fish.reportString>
@@ -11,30 +11,30 @@
   <FishAnimal.reportString>กำลังจับปลา</FishAnimal.reportString>
   
   <!-- EN: foraging for food. -->
-  <Forage.reportString>TODO</Forage.reportString>
+  <Forage.reportString>กำลังหาอาหาร</Forage.reportString>
   
   <!-- EN: seeking oxygen. -->
-  <GotoOxygenatedArea.reportString>TODO</GotoOxygenatedArea.reportString>
+  <GotoOxygenatedArea.reportString>กำลังมองหาออกซิเจน</GotoOxygenatedArea.reportString>
   
   <!-- EN: patrolling. -->
-  <GotoPatrolDest.reportString>TODO</GotoPatrolDest.reportString>
+  <GotoPatrolDest.reportString>กำลังลาดตระเวน</GotoPatrolDest.reportString>
   
   <!-- EN: going to ship. -->
-  <GotoShip.reportString>TODO</GotoShip.reportString>
+  <GotoShip.reportString>กำลังไปที่ยาน</GotoShip.reportString>
   
   <!-- EN: inspecting TargetA. -->
-  <InspectGravEngine.reportString>TODO</InspectGravEngine.reportString>
+  <InspectGravEngine.reportString>กำลังตรวจสอบ TargetA</InspectGravEngine.reportString>
   
   <!-- EN: operating TargetA. -->
-  <PilotConsole.reportString>TODO</PilotConsole.reportString>
+  <PilotConsole.reportString>กำลังควบคุม TargetA</PilotConsole.reportString>
   
   <!-- EN: putting TargetA on TargetB. -->
-  <PutApparelOnOutfitStand.reportString>TODO</PutApparelOnOutfitStand.reportString>
+  <PutApparelOnOutfitStand.reportString>กำลังวาง TargetA บน TargetB</PutApparelOnOutfitStand.reportString>
   
   <!-- EN: sealing TargetA. -->
-  <Seal.reportString>TODO</Seal.reportString>
+  <Seal.reportString>กำลังปิดผนึก TargetA</Seal.reportString>
   
   <!-- EN: swapping outfit with TargetA. -->
-  <UseOutfitStand.reportString>TODO</UseOutfitStand.reportString>
+  <UseOutfitStand.reportString>กำลังเปลี่ยนชุดกับ TargetA</UseOutfitStand.reportString>
   
 </LanguageData>

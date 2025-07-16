@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: boomshroom -->
-  <Boomshroom.label>TODO</Boomshroom.label>
+  <Boomshroom.label>บูมชรูม</Boomshroom.label>
   <!-- EN: These mushrooms produce volatile chemicals as a defensive measure. They can be harvested for chemfuel. However, this must be done with extreme caution, as the mushrooms can explode if they're destroyed.\n\nGlitterworld researchers have used genetic material from boomshrooms to bioengineer a number of chemfuel-producing animals. -->
-  <Boomshroom.description>TODO</Boomshroom.description>
+  <Boomshroom.description>เห็ดเหล่านี้ผลิตสารเคมีที่ระเหยง่ายเพื่อเป็นมาตรการป้องกันตัว สามารถเก็บเกี่ยวเป็นเชื้อเพลิงเคมีได้ อย่างไรก็ตาม ต้องทำด้วยความระมัดระวังอย่างยิ่ง เนื่องจากเห็ดสามารถระเบิดได้หากถูกทำลาย\n\nนักวิจัยกลิตเตอร์เวิลด์ได้ใช้วัสดุทางพันธุกรรมจากบูมชรูมเพื่อดัดแปลงพันธุกรรมสัตว์ที่ผลิตเชื้อเพลิงเคมีได้หลายชนิด</Boomshroom.description>
   
   <!-- EN: berry bush -->
   <Plant_Berry_Leafless.label>TODO</Plant_Berry_Leafless.label>
@@ -22,53 +22,53 @@
   <Plant_Bush_Leafless.description>TODO</Plant_Bush_Leafless.description>
   
   <!-- EN: fireweed -->
-  <Plant_Fireweed.label>TODO</Plant_Fireweed.label>
+  <Plant_Fireweed.label>ไฟร์วีด</Plant_Fireweed.label>
   <!-- EN: A low-lying plant that produces clusters of purple flowers. It is common in alpine environments. -->
-  <Plant_Fireweed.description>TODO</Plant_Fireweed.description>
+  <Plant_Fireweed.description>พืชเตี้ยที่ออกดอกสีม่วงเป็นกระจุก พบได้ทั่วไปในสภาพแวดล้อมแบบเทือกเขาสูง</Plant_Fireweed.description>
   
   <!-- EN: magma cactus -->
-  <Plant_MagmaCactus.label>TODO</Plant_MagmaCactus.label>
+  <Plant_MagmaCactus.label>กระบองเพชรแมกม่า</Plant_MagmaCactus.label>
   <!-- EN: A resilient species of cactus notable for its ability to survive extreme heat. -->
-  <Plant_MagmaCactus.description>TODO</Plant_MagmaCactus.description>
+  <Plant_MagmaCactus.description>กระบองเพชรสายพันธุ์ทนทานที่โดดเด่นด้วยความสามารถในการอยู่รอดในความร้อนสุดขีด</Plant_MagmaCactus.description>
   
   <!-- EN: night grass -->
-  <Plant_Nightgrass.label>TODO</Plant_Nightgrass.label>
+  <Plant_Nightgrass.label>หญ้ากลางคืน</Plant_Nightgrass.label>
   <!-- EN: A grass-like fungus that grows as part of a massive mycelium network. -->
-  <Plant_Nightgrass.description>TODO</Plant_Nightgrass.description>
+  <Plant_Nightgrass.description>เชื้อราคล้ายหญ้าที่เติบโตเป็นส่วนหนึ่งของเครือข่ายไมซีเลียมขนาดใหญ่</Plant_Nightgrass.description>
   
   <!-- EN: night rafflesia -->
-  <Plant_NightRafflesia.label>TODO</Plant_NightRafflesia.label>
+  <Plant_NightRafflesia.label>บัวผุดราตรี</Plant_NightRafflesia.label>
   <!-- EN: A distant cousin of the giant rafflesia, this plant has adapted to thrive in dark locations. Its beauty is tempered by a strong stench of musk and rotten eggs. -->
-  <Plant_NightRafflesia.description>TODO</Plant_NightRafflesia.description>
+  <Plant_NightRafflesia.description>ญาติห่างๆของบัวผุดยักษ์ พืชชนิดนี้ได้ปรับตัวให้เจริญงอกงามในที่มืด ความสวยงามของมันถูกลดทอนด้วยกลิ่นฉุนของชะมดและไข่เน่า</Plant_NightRafflesia.description>
   
   <!-- EN: psilocap -->
-  <Plant_Psilocap.label>TODO</Plant_Psilocap.label>
+  <Plant_Psilocap.label>ไซโลแคป</Plant_Psilocap.label>
   <!-- EN: A fungus that gives off hallucinogenic spores. Standing next to them is enough to produce mild hallucinations. Psilocaps can be harvested and ingested to produce a vivid sensory experience that increases the user's mood. -->
-  <Plant_Psilocap.description>TODO</Plant_Psilocap.description>
+  <Plant_Psilocap.description>เชื้อราที่ปล่อยสปอร์หลอนประสาท การยืนอยู่ข้างๆก็เพียงพอที่จะทำให้เกิดอาการประสาทหลอนเล็กน้อย สามารถเก็บเกี่ยวและบริโภคไซโลแคปเพื่อสร้างประสบการณ์ทางประสาทสัมผัสที่สดใสซึ่งช่วยเพิ่มอารมณ์ของผู้ใช้</Plant_Psilocap.description>
   
   <!-- EN: thornvine -->
-  <Plant_Thornvine.label>TODO</Plant_Thornvine.label>
+  <Plant_Thornvine.label>เถาหนาม</Plant_Thornvine.label>
   <!-- EN: A prickly vine adapted to living in harsh conditions. -->
-  <Plant_Thornvine.description>TODO</Plant_Thornvine.description>
+  <Plant_Thornvine.description>เถาไม้มีหนามที่ปรับตัวเพื่ออาศัยอยู่ในสภาพแวดล้อมที่โหดร้าย</Plant_Thornvine.description>
   
   <!-- EN: snagroot tree -->
-  <Plant_TreeSnagroot.label>TODO</Plant_TreeSnagroot.label>
+  <Plant_TreeSnagroot.label>ต้นสแนกรูท</Plant_TreeSnagroot.label>
   <!-- EN: A gnarled slow-growing tree, adapted to live in toxic scarlands. When harvested, it yields a meager amount of wood. -->
-  <Plant_TreeSnagroot.description>TODO</Plant_TreeSnagroot.description>
+  <Plant_TreeSnagroot.description>ต้นไม้ที่บิดเบี้ยวและโตช้า ปรับตัวให้อยู่ในแดนแผลเป็นพิษได้ เมื่อเก็บเกี่ยวจะได้ไม้เพียงเล็กน้อย</Plant_TreeSnagroot.description>
   
   <!-- EN: willowgill -->
-  <Plant_Willowgill.label>TODO</Plant_Willowgill.label>
+  <Plant_Willowgill.label>วิลโลว์กิลล์</Plant_Willowgill.label>
   <!-- EN: A tall spindly slow-growing mushroom with gills that droop like a willow tree. It gives off a soft light. -->
-  <Plant_Willowgill.description>TODO</Plant_Willowgill.description>
+  <Plant_Willowgill.description>เห็ดทรงสูงเรียวโตช้า มีครีบที่ห้อยลงมาเหมือนต้นหลิว ให้แสงนวลตา</Plant_Willowgill.description>
   
   <!-- EN: yellow grass -->
-  <Plant_YellowGrass.label>TODO</Plant_YellowGrass.label>
+  <Plant_YellowGrass.label>หญ้าเหลือง</Plant_YellowGrass.label>
   <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
-  <Plant_YellowGrass.description>TODO</Plant_YellowGrass.description>
+  <Plant_YellowGrass.description>หญ้าป่า เจริญเติบโตได้ทุกที่ที่มีแสงเล็กน้อยและดินมีความอุดมสมบูรณ์น้อยที่สุด</Plant_YellowGrass.description>
   
   <!-- EN: tall yellow grass -->
-  <Plant_YellowTallGrass.label>TODO</Plant_YellowTallGrass.label>
+  <Plant_YellowTallGrass.label>หญ้าเหลืองสูง</Plant_YellowTallGrass.label>
   <!-- EN: Wild tall grass that grows in tough thickets. It slows down anyone moving over it. -->
-  <Plant_YellowTallGrass.description>TODO</Plant_YellowTallGrass.description>
+  <Plant_YellowTallGrass.description>หญ้าป่าสูงที่ขึ้นเป็นพุ่มหนาทึบ ทำให้ใครก็ตามที่เคลื่อนที่ผ่านช้าลง</Plant_YellowTallGrass.description>
   
 </LanguageData>

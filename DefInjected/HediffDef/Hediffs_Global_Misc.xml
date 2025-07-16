@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: grav nausea -->
-  <GravNausea.label>TODO</GravNausea.label>
+  <GravNausea.label>อาการเมาแรงโน้มถ่วง</GravNausea.label>
   <!-- EN: Intense nausea caused by sudden acceleration or deceleration on a gravship. -->
-  <GravNausea.description>TODO</GravNausea.description>
+  <GravNausea.description>อาการคลื่นไส้อย่างรุนแรงที่เกิดจากการเร่งหรือลดความเร็วกะทันหันบนแกรฟชิป</GravNausea.description>
   
   <!-- EN: thrumbo roar -->
-  <ThrumboRoar.label>TODO</ThrumboRoar.label>
+  <ThrumboRoar.label>เสียงคำรามของธรัมโบ</ThrumboRoar.label>
   <!-- EN: This creature has been shaken by the powerful roar of a thrumbo. -->
-  <ThrumboRoar.description>TODO</ThrumboRoar.description>
+  <ThrumboRoar.description>สิ่งมีชีวิตนี้สั่นสะเทือนด้วยเสียงคำรามอันทรงพลังของธรัมโบ</ThrumboRoar.description>
   
   <!-- EN: vacuum exposure -->
-  <VacuumExposure.label>TODO</VacuumExposure.label>
+  <VacuumExposure.label>การสัมผัสสุญญากาศ</VacuumExposure.label>
   <!-- EN: This creature is suffering a variety of negative effects caused by exposure to the vacuum of space, including hypoxia and decompression sickness. They will soon die unless they can get to a pressurized area. -->
-  <VacuumExposure.description>TODO</VacuumExposure.description>
+  <VacuumExposure.description>สิ่งมีชีวิตนี้กำลังทุกข์ทรมานจากผลกระทบเชิงลบต่างๆ ที่เกิดจากการสัมผัสกับสุญญากาศในอวกาศ รวมถึงภาวะขาดออกซิเจนและโรคน้ำหนีบ พวกมันจะตายในไม่ช้าเว้นแต่จะสามารถไปยังพื้นที่ที่มีความกดอากาศได้</VacuumExposure.description>
   <!-- EN: initial -->
   <VacuumExposure.stages.initial-0.label>TODO</VacuumExposure.stages.initial-0.label>
   <!-- EN: initial -->
@@ -27,13 +27,13 @@
   <VacuumExposure.stages.extreme.label>TODO</VacuumExposure.stages.extreme.label>
   
   <!-- EN: volcanic ash -->
-  <VolcanicAsh.label>TODO</VolcanicAsh.label>
+  <VolcanicAsh.label>เถ้าภูเขาไฟ</VolcanicAsh.label>
   <!-- EN: Ash from a volcanic eruption. -->
-  <VolcanicAsh.description>TODO</VolcanicAsh.description>
+  <VolcanicAsh.description>เถ้าจากการปะทุของภูเขาไฟ</VolcanicAsh.description>
   
   <!-- EN: war trumpet -->
-  <WarTrumpet.label>TODO</WarTrumpet.label>
+  <WarTrumpet.label>แตรสงคราม</WarTrumpet.label>
   <!-- EN: This creature has been shaken by the powerful trumpeting of a mighty beast. -->
-  <WarTrumpet.description>TODO</WarTrumpet.description>
+  <WarTrumpet.description>สิ่งมีชีวิตนี้สั่นสะเทือนด้วยเสียงแตรอันทรงพลังของสัตว์ร้ายที่ยิ่งใหญ่</WarTrumpet.description>
   
 </LanguageData>

@@ -1,139 +1,139 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: abandoned colony -->
-  <AbandonedColonyOutlander.label>TODO</AbandonedColonyOutlander.label>
+  <AbandonedColonyOutlander.label>อาณานิคมร้าง</AbandonedColonyOutlander.label>
   
   <!-- EN: abandoned colony -->
-  <AbandonedColonyTribal.label>TODO</AbandonedColonyTribal.label>
+  <AbandonedColonyTribal.label>อาณานิคมร้าง</AbandonedColonyTribal.label>
   
   <!-- EN: ancient chemfuel refinery -->
-  <AncientChemfuelRefinery.label>TODO</AncientChemfuelRefinery.label>
+  <AncientChemfuelRefinery.label>โรงกลั่นเชื้อเพลิงเคมีโบราณ</AncientChemfuelRefinery.label>
   
   <!-- EN: ancient garrison -->
-  <AncientGarrison.label>TODO</AncientGarrison.label>
+  <AncientGarrison.label>กองทหารรักษาการณ์โบราณ</AncientGarrison.label>
   
   <!-- EN: ancient vent -->
-  <AncientHeatVent.label>TODO</AncientHeatVent.label>
+  <AncientHeatVent.label>ช่องระบายอากาศโบราณ</AncientHeatVent.label>
   
   <!-- EN: infested settlement -->
-  <AncientInfestedSettlement.label>TODO</AncientInfestedSettlement.label>
+  <AncientInfestedSettlement.label>นิคมที่ถูกรบกวน</AncientInfestedSettlement.label>
   
   <!-- EN: ancient launch site -->
-  <AncientLaunchSite.label>TODO</AncientLaunchSite.label>
+  <AncientLaunchSite.label>สถานที่ปล่อยจรวดโบราณ</AncientLaunchSite.label>
   
   <!-- EN: ancient quarry -->
-  <AncientQuarry.label>TODO</AncientQuarry.label>
+  <AncientQuarry.label>เหมืองหินโบราณ</AncientQuarry.label>
   
   <!-- EN: ancient vent -->
-  <AncientSmokeVent.label>TODO</AncientSmokeVent.label>
+  <AncientSmokeVent.label>ช่องระบายอากาศโบราณ</AncientSmokeVent.label>
   
   <!-- EN: ancient vent -->
-  <AncientToxVent.label>TODO</AncientToxVent.label>
+  <AncientToxVent.label>ช่องระบายอากาศโบราณ</AncientToxVent.label>
   
   <!-- EN: ancient warehouse -->
-  <AncientWarehouse.label>TODO</AncientWarehouse.label>
+  <AncientWarehouse.label>โกดังโบราณ</AncientWarehouse.label>
   
   <!-- EN: archipelago -->
   <Archipelago.label>กลุ่มเกาะ</Archipelago.label>
   
   <!-- EN: basin -->
-  <Basin.label>TODO</Basin.label>
+  <Basin.label>แอ่ง</Basin.label>
   
   <!-- EN: bay -->
-  <Bay.label>TODO</Bay.label>
+  <Bay.label>อ่าว</Bay.label>
   
   <!-- EN: cavern -->
-  <Cavern.label>TODO</Cavern.label>
+  <Cavern.label>ถ้ำ</Cavern.label>
   
   <!-- EN: chasm -->
-  <Chasm.label>TODO</Chasm.label>
+  <Chasm.label>เหว</Chasm.label>
   
   <!-- EN: cliffs -->
-  <Cliffs.label>TODO</Cliffs.label>
+  <Cliffs.label>หน้าผา</Cliffs.label>
   
   <!-- EN: coastal atoll -->
-  <CoastalAtoll.label>TODO</CoastalAtoll.label>
+  <CoastalAtoll.label>อะทอลล์ชายฝั่ง</CoastalAtoll.label>
   
   <!-- EN: coastal island -->
-  <CoastalIsland.label>TODO</CoastalIsland.label>
+  <CoastalIsland.label>เกาะชายฝั่ง</CoastalIsland.label>
   
   <!-- EN: bay -->
-  <Cove.label>TODO</Cove.label>
+  <Cove.label>อ่าว</Cove.label>
   
   <!-- EN: crevasse -->
-  <Crevasse.label>TODO</Crevasse.label>
+  <Crevasse.label>รอยแยก</Crevasse.label>
   
   <!-- EN: dry lake -->
-  <DryLake.label>TODO</DryLake.label>
+  <DryLake.label>ทะเลสาบแห้ง</DryLake.label>
   
   <!-- EN: dunes -->
-  <Dunes.label>TODO</Dunes.label>
+  <Dunes.label>เนินทราย</Dunes.label>
   
   <!-- EN: fjord -->
-  <Fjord.label>TODO</Fjord.label>
+  <Fjord.label>ฟยอร์ด</Fjord.label>
   
   <!-- EN: frozen ruins -->
-  <FrozenRuins.label>TODO</FrozenRuins.label>
+  <FrozenRuins.label>ซากปรักหักพังเยือกแข็ง</FrozenRuins.label>
   
   <!-- EN: harbor -->
-  <Harbor.label>TODO</Harbor.label>
+  <Harbor.label>ท่าเรือ</Harbor.label>
   
   <!-- EN: hollow -->
-  <Hollow.label>TODO</Hollow.label>
+  <Hollow.label>โพรง</Hollow.label>
   
   <!-- EN: hot springs -->
-  <HotSprings.label>TODO</HotSprings.label>
+  <HotSprings.label>บ่อน้ำพุร้อน</HotSprings.label>
   
   <!-- EN: iceberg -->
-  <Iceberg.label>TODO</Iceberg.label>
+  <Iceberg.label>ภูเขาน้ำแข็ง</Iceberg.label>
   
   <!-- EN: ice dunes -->
-  <IceDunes.label>TODO</IceDunes.label>
+  <IceDunes.label>เนินน้ำแข็ง</IceDunes.label>
   
   <!-- EN: lake -->
-  <Lake.label>TODO</Lake.label>
+  <Lake.label>ทะเลสาบ</Lake.label>
   
   <!-- EN: lake -->
-  <LakeWithIsland.label>TODO</LakeWithIsland.label>
+  <LakeWithIsland.label>ทะเลสาบ</LakeWithIsland.label>
   
   <!-- EN: lake -->
-  <LakeWithIslands.label>TODO</LakeWithIslands.label>
+  <LakeWithIslands.label>ทะเลสาบ</LakeWithIslands.label>
   
   <!-- EN: lava lake -->
-  <LavaCrater.label>TODO</LavaCrater.label>
+  <LavaCrater.label>ทะเลสาบลาวา</LavaCrater.label>
   
   <!-- EN: lava flow -->
-  <LavaFlow.label>TODO</LavaFlow.label>
+  <LavaFlow.label>ลาวาไหล</LavaFlow.label>
   
   <!-- EN: lava lake -->
-  <LavaLake.label>TODO</LavaLake.label>
+  <LavaLake.label>ทะเลสาบลาวา</LavaLake.label>
   
   <!-- EN: oasis -->
-  <Oasis.label>TODO</Oasis.label>
+  <Oasis.label>โอเอซิส</Oasis.label>
   
   <!-- EN: peninsula -->
-  <Peninsula.label>TODO</Peninsula.label>
+  <Peninsula.label>คาบสมุทร</Peninsula.label>
   
   <!-- EN: plateau -->
-  <Plateau.label>TODO</Plateau.label>
+  <Plateau.label>ที่ราบสูง</Plateau.label>
   
   <!-- EN: lake -->
-  <Pond.label>TODO</Pond.label>
+  <Pond.label>ทะเลสาบ</Pond.label>
   
   <!-- EN: ruins -->
-  <Ruins.label>TODO</Ruins.label>
+  <Ruins.label>ซากปรักหักพัง</Ruins.label>
   
   <!-- EN: terraforming scar -->
-  <TerraformingScar.label>TODO</TerraformingScar.label>
+  <TerraformingScar.label>รอยแผลจากการปรับสภาพดาว</TerraformingScar.label>
   
   <!-- EN: toxic lake -->
-  <ToxicLake.label>TODO</ToxicLake.label>
+  <ToxicLake.label>ทะเลสาบพิษ</ToxicLake.label>
   
   <!-- EN: valley -->
-  <Valley.label>TODO</Valley.label>
+  <Valley.label>หุบเขา</Valley.label>
   
   <!-- EN: wetland -->
-  <Wetland.label>TODO</Wetland.label>
+  <Wetland.label>พื้นที่ชุ่มน้ำ</Wetland.label>
   
 </LanguageData>

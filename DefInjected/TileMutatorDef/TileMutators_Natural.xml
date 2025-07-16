@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: archipelago -->
@@ -7,218 +7,218 @@
   <Archipelago.description>เครือข่ายของเกาะเล็กๆ หลายแห่งที่อยู่บนชายฝั่ง</Archipelago.description>
   
   <!-- EN: basin -->
-  <Basin.label>TODO</Basin.label>
+  <Basin.label>แอ่งน้ำ</Basin.label>
   <!-- EN: A natural depression in a mountain range, in which groundwater feeds a small lake. -->
-  <Basin.description>TODO</Basin.description>
+  <Basin.description>แอ่งธรรมชาติในเทือกเขาซึ่งน้ำบาดาลหล่อเลี้ยงทะเลสาบขนาดเล็ก</Basin.description>
   
   <!-- EN: bay -->
-  <Bay.label>TODO</Bay.label>
+  <Bay.label>อ่าว</Bay.label>
   <!-- EN: A large indentation in the coastline that provides shelter from strong coastal winds. -->
-  <Bay.description>TODO</Bay.description>
+  <Bay.description>รอยเว้าขนาดใหญ่ในแนวชายฝั่งซึ่งเป็นที่กำบังจากลมชายฝั่งที่รุนแรง</Bay.description>
   
   <!-- EN: cave pools -->
-  <CaveLakes.label>TODO</CaveLakes.label>
+  <CaveLakes.label>สระในถ้ำ</CaveLakes.label>
   <!-- EN: Small bodies of water can be found within caves in this area. -->
-  <CaveLakes.description>TODO</CaveLakes.description>
+  <CaveLakes.description>สามารถพบแหล่งน้ำขนาดเล็กภายในถ้ำในบริเวณนี้ได้</CaveLakes.description>
   
   <!-- EN: cavern -->
-  <Cavern.label>TODO</Cavern.label>
+  <Cavern.label>ถ้ำ</Cavern.label>
   <!-- EN: A network of caves formed by various geological processes. -->
-  <Cavern.description>TODO</Cavern.description>
+  <Cavern.description>เครือข่ายของถ้ำที่เกิดจากกระบวนการทางธรณีวิทยาต่างๆ</Cavern.description>
   
   <!-- EN: chasm -->
-  <Chasm.label>TODO</Chasm.label>
+  <Chasm.label>เหวลึก</Chasm.label>
   <!-- EN: Geological movement has caused deep fissures in this mountain. -->
-  <Chasm.description>TODO</Chasm.description>
+  <Chasm.description>การเคลื่อนตัวทางธรณีวิทยาทำให้เกิดรอยแยกขนาดใหญ่ในภูเขานี้</Chasm.description>
   
   <!-- EN: cliffs -->
-  <Cliffs.label>TODO</Cliffs.label>
+  <Cliffs.label>หน้าผา</Cliffs.label>
   <!-- EN: Steep cliffs surround three sides of this area. -->
-  <Cliffs.description>TODO</Cliffs.description>
+  <Cliffs.description>หน้าผาสูงชันล้อมรอบสามด้านของบริเวณนี้</Cliffs.description>
   
   <!-- EN: coastal atoll -->
-  <CoastalAtoll.label>TODO</CoastalAtoll.label>
+  <CoastalAtoll.label>เกาะรูปวงแหวนที่เกิดจากหินปะการัง</CoastalAtoll.label>
   <!-- EN: An island surrounding a large lagoon. There's very little land to build on here. -->
-  <CoastalAtoll.description>TODO</CoastalAtoll.description>
+  <CoastalAtoll.description>เกาะที่ล้อมรอบทะเลสาบขนาดใหญ่ มีที่ดินสำหรับสร้างน้อยมาก</CoastalAtoll.description>
   
   <!-- EN: coastal island -->
-  <CoastalIsland.label>TODO</CoastalIsland.label>
+  <CoastalIsland.label>เกาะชายฝั่ง</CoastalIsland.label>
   <!-- EN: A large island near the shore. -->
-  <CoastalIsland.description>TODO</CoastalIsland.description>
+  <CoastalIsland.description>เกาะขนาดใหญ่ใกล้ชายฝั่ง</CoastalIsland.description>
   
   <!-- EN: bay -->
-  <Cove.label>TODO</Cove.label>
+  <Cove.label>อ่าว</Cove.label>
   <!-- EN: A large indentation in the coastline that provides shelter from strong coastal winds. -->
-  <Cove.description>TODO</Cove.description>
+  <Cove.description>รอยเว้าขนาดใหญ่ในแนวชายฝั่งซึ่งเป็นที่กำบังจากลมชายฝั่งที่รุนแรง</Cove.description>
   
   <!-- EN: crevasse -->
-  <Crevasse.label>TODO</Crevasse.label>
+  <Crevasse.label>รอยแยกธารน้ำแข็ง</Crevasse.label>
   <!-- EN: A massive rift created by glacial movement. -->
-  <Crevasse.description>TODO</Crevasse.description>
+  <Crevasse.description>รอยแยกขนาดใหญ่ที่เกิดจากการเคลื่อนตัวของธารน้ำแข็ง</Crevasse.description>
   
   <!-- EN: dry lake -->
-  <DryLake.label>TODO</DryLake.label>
+  <DryLake.label>ทะเลสาบแห้ง</DryLake.label>
   <!-- EN: The remains of a former lake. -->
-  <DryLake.description>TODO</DryLake.description>
+  <DryLake.description>ซากของทะเลสาบในอดีต</DryLake.description>
   
   <!-- EN: dunes -->
-  <Dunes.label>TODO</Dunes.label>
+  <Dunes.label>เนินทราย</Dunes.label>
   <!-- EN: A barren expanse of sand. This area is extremely inhospitable. -->
-  <Dunes.description>TODO</Dunes.description>
+  <Dunes.description>พื้นที่ทรายที่แห้งแล้ง บริเวณนี้ไม่เอื้ออำนวยต่อการอยู่อาศัยอย่างยิ่ง</Dunes.description>
   
   <!-- EN: fertile -->
-  <Fertile.label>TODO</Fertile.label>
+  <Fertile.label>อุดมสมบูรณ์</Fertile.label>
   <!-- EN: This area contains more fertile soil than normal. -->
-  <Fertile.description>TODO</Fertile.description>
+  <Fertile.description>บริเวณนี้มีดินที่อุดมสมบูรณ์กว่าปกติ</Fertile.description>
   
   <!-- EN: fjord -->
-  <Fjord.label>TODO</Fjord.label>
+  <Fjord.label>ฟยอร์ด</Fjord.label>
   <!-- EN: A long, narrow sea inlet surrounded by steep terrain. -->
-  <Fjord.description>TODO</Fjord.description>
+  <Fjord.description>เวิ้งทะเลแคบยาวที่ล้อมรอบด้วยภูมิประเทศที่สูงชัน</Fjord.description>
   
   <!-- EN: headwater -->
-  <Headwater.label>TODO</Headwater.label>
+  <Headwater.label>ต้นน้ำ</Headwater.label>
   <!-- EN: A river's origin point. -->
-  <Headwater.description>TODO</Headwater.description>
+  <Headwater.description>จุดกำเนิดของแม่น้ำ</Headwater.description>
   
   <!-- EN: hollow -->
-  <Hollow.label>TODO</Hollow.label>
+  <Hollow.label>แอ่ง</Hollow.label>
   <!-- EN: A small open area surrounded by cliffs. -->
-  <Hollow.description>TODO</Hollow.description>
+  <Hollow.description>พื้นที่เปิดโล่งขนาดเล็กที่ล้อมรอบด้วยหน้าผา</Hollow.description>
   
   <!-- EN: hot springs -->
-  <HotSprings.label>TODO</HotSprings.label>
+  <HotSprings.label>บ่อน้ำพุร้อน</HotSprings.label>
   <!-- EN: A hot water spring, heated by geothermal activity. -->
-  <HotSprings.description>TODO</HotSprings.description>
+  <HotSprings.description>บ่อน้ำพุร้อนที่ได้รับความร้อนจากเหตุการความร้อนใต้พิภพ</HotSprings.description>
   
   <!-- EN: iceberg -->
-  <Iceberg.label>TODO</Iceberg.label>
+  <Iceberg.label>ภูเขาน้ำแข็ง</Iceberg.label>
   <!-- EN: A floating mass of ice, detached from the larger ice sheet. -->
-  <Iceberg.description>TODO</Iceberg.description>
+  <Iceberg.description>ก้อนน้ำแข็งลอยน้ำที่แยกตัวออกจากแผ่นน้ำแข็งขนาดใหญ่</Iceberg.description>
   
   <!-- EN: ice caves -->
-  <IceCaves.label>TODO</IceCaves.label>
+  <IceCaves.label>ถ้ำน้ำแข็ง</IceCaves.label>
   <!-- EN: Small cave networks can be found within the ice. -->
-  <IceCaves.description>TODO</IceCaves.description>
+  <IceCaves.description>สามารถพบเครือข่ายถ้ำขนาดเล็กภายในน้ำแข็งได้</IceCaves.description>
   
   <!-- EN: ice dunes -->
-  <IceDunes.label>TODO</IceDunes.label>
+  <IceDunes.label>เนินน้ำแข็ง</IceDunes.label>
   <!-- EN: Massive rolling hills made from compacted windswept snow. -->
-  <IceDunes.description>TODO</IceDunes.description>
+  <IceDunes.description>เนินเขาม้วนขนาดใหญ่ที่ทำจากหิมะที่ถูกลมพัดอัดแน่น</IceDunes.description>
   
   <!-- EN: lake -->
-  <Lake.label>TODO</Lake.label>
+  <Lake.label>ทะเลสาบ</Lake.label>
   <!-- EN: A large body of fresh water. -->
-  <Lake.description>TODO</Lake.description>
+  <Lake.description>แหล่งน้ำจืดขนาดใหญ่</Lake.description>
   
   <!-- EN: lakeshore -->
-  <Lakeshore.label>TODO</Lakeshore.label>
+  <Lakeshore.label>ชายฝั่งทะเลสาบ</Lakeshore.label>
   <!-- EN: This tile borders a lake. -->
-  <Lakeshore.description>TODO</Lakeshore.description>
+  <Lakeshore.description>ไทล์นี้ติดกับทะเลสาบ</Lakeshore.description>
   
   <!-- EN: lake with island -->
-  <LakeWithIsland.label>TODO</LakeWithIsland.label>
+  <LakeWithIsland.label>ทะเลสาบพร้อมเกาะ</LakeWithIsland.label>
   <!-- EN: A large body of fresh water encircles one or more islands. -->
-  <LakeWithIsland.description>TODO</LakeWithIsland.description>
+  <LakeWithIsland.description>แหล่งน้ำจืดขนาดใหญ่ล้อมรอบเกาะหนึ่งเกาะหรือมากกว่า</LakeWithIsland.description>
   
   <!-- EN: lake with island -->
-  <LakeWithIslands.label>TODO</LakeWithIslands.label>
+  <LakeWithIslands.label>ทะเลสาบพร้อมเกาะ</LakeWithIslands.label>
   <!-- EN: A large body of fresh water encircles one or more islands. -->
-  <LakeWithIslands.description>TODO</LakeWithIslands.description>
+  <LakeWithIslands.description>แหล่งน้ำจืดขนาดใหญ่ล้อมรอบเกาะหนึ่งเกาะหรือมากกว่า</LakeWithIslands.description>
   
   <!-- EN: lava caves -->
-  <LavaCaves.label>TODO</LavaCaves.label>
+  <LavaCaves.label>ถ้ำลาวา</LavaCaves.label>
   <!-- EN: Small lava-filled cave networks can be found here. -->
-  <LavaCaves.description>TODO</LavaCaves.description>
+  <LavaCaves.description>สามารถพบเครือข่ายถ้ำขนาดเล็กที่เต็มไปด้วยลาวาได้ที่นี่</LavaCaves.description>
   
   <!-- EN: lava lake -->
-  <LavaCrater.label>TODO</LavaCrater.label>
+  <LavaCrater.label>ทะเลสาบลาวา</LavaCrater.label>
   <!-- EN: A lake of deep lava terrain surrounded by volcanic rock. -->
-  <LavaCrater.description>TODO</LavaCrater.description>
+  <LavaCrater.description>ทะเลสาบที่มีภูมิประเทศเป็นลาวาลึกที่ล้อมรอบด้วยหินภูเขาไฟ</LavaCrater.description>
   
   <!-- EN: lava flow -->
-  <LavaFlow.label>TODO</LavaFlow.label>
+  <LavaFlow.label>ลาวาไหล</LavaFlow.label>
   <!-- EN: The surrounding landscape routinely funnels large amounts of lava into this area, making it extremely inhospitable. -->
-  <LavaFlow.description>TODO</LavaFlow.description>
+  <LavaFlow.description>ภูมิทัศน์โดยรอบมักจะส่งลาวาจำนวนมากมายังบริเวณนี้ ทำให้ไม่เอื้ออำนวยต่อการอยู่อาศัยอย่างยิ่ง</LavaFlow.description>
   
   <!-- EN: lava lake -->
-  <LavaLake.label>TODO</LavaLake.label>
+  <LavaLake.label>ทะเลสาบลาวา</LavaLake.label>
   <!-- EN: A lake of deep lava terrain surrounded by volcanic rock. -->
-  <LavaLake.description>TODO</LavaLake.description>
+  <LavaLake.description>ทะเลสาบที่มีภูมิประเทศเป็นลาวาลึกที่ล้อมรอบด้วยหินภูเขาไฟ</LavaLake.description>
   
   <!-- EN: marshy -->
-  <Marshy.label>TODO</Marshy.label>
+  <Marshy.label>เต็มไปด้วยหนองบึง</Marshy.label>
   <!-- EN: Patches of marsh break up this area. -->
-  <Marshy.description>TODO</Marshy.description>
+  <Marshy.description>หย่อมหนองบึงกระจายตัวอยู่ในบริเวณนี้</Marshy.description>
   
   <!-- EN: mixed biome -->
-  <MixedBiome.label>TODO</MixedBiome.label>
+  <MixedBiome.label>ชีวนิเวศผสม</MixedBiome.label>
   <!-- EN: This area is at the boundary of two distinct biomes and has elements of both. -->
-  <MixedBiome.description>TODO</MixedBiome.description>
+  <MixedBiome.description>บริเวณนี้อยู่บริเวณรอยต่อของสองชีวนิเวศที่แตกต่างกันและมีองค์ประกอบของทั้งสองอย่าง</MixedBiome.description>
   
   <!-- EN: muddy -->
-  <Muddy.label>TODO</Muddy.label>
+  <Muddy.label>เต็มไปด้วยโคลน</Muddy.label>
   <!-- EN: This area is muddier than normal. -->
-  <Muddy.description>TODO</Muddy.description>
+  <Muddy.description>บริเวณนี้เป็นโคลนมากกว่าปกติ</Muddy.description>
   
   <!-- EN: oasis -->
-  <Oasis.label>TODO</Oasis.label>
+  <Oasis.label>โอเอซิส</Oasis.label>
   <!-- EN: A lush spring featuring abundant plant life and water. -->
-  <Oasis.description>TODO</Oasis.description>
+  <Oasis.description>แหล่งน้ำพุอันอุดมสมบูรณ์ที่มีพืชพรรณและน้ำมากมาย</Oasis.description>
   
   <!-- EN: peninsula -->
-  <Peninsula.label>TODO</Peninsula.label>
+  <Peninsula.label>คาบสมุทร</Peninsula.label>
   <!-- EN: An outcropping of land surrounded by ocean. -->
-  <Peninsula.description>TODO</Peninsula.description>
+  <Peninsula.description>แผ่นดินที่ยื่นออกไปล้อมรอบด้วยมหาสมุทร</Peninsula.description>
   
   <!-- EN: plateau -->
-  <Plateau.label>TODO</Plateau.label>
+  <Plateau.label>ที่ราบสูง</Plateau.label>
   <!-- EN: A small rise with sharp cliffs and a flat top. -->
-  <Plateau.description>TODO</Plateau.description>
+  <Plateau.description>เนินดินขนาดเล็กที่มีหน้าผาสูงชันและยอดแบน</Plateau.description>
   
   <!-- EN: pond -->
-  <Pond.label>TODO</Pond.label>
+  <Pond.label>บ่อน้ำ</Pond.label>
   <!-- EN: A small body of fresh water. -->
-  <Pond.description>TODO</Pond.description>
+  <Pond.description>แหล่งน้ำจืดขนาดเล็ก</Pond.description>
   
   <!-- EN: river confluence -->
-  <RiverConfluence.label>TODO</RiverConfluence.label>
+  <RiverConfluence.label>แม่น้ำบรรจบ</RiverConfluence.label>
   <!-- EN: A merging of two rivers. -->
-  <RiverConfluence.description>TODO</RiverConfluence.description>
+  <RiverConfluence.description>การบรรจบกันของแม่น้ำสองสาย</RiverConfluence.description>
   
   <!-- EN: delta -->
-  <RiverDelta.label>TODO</RiverDelta.label>
+  <RiverDelta.label>พื้นที่สามเหลี่ยมปากแม่น้ำ</RiverDelta.label>
   <!-- EN: A river splitting into many branches as it enters the ocean. -->
-  <RiverDelta.description>TODO</RiverDelta.description>
+  <RiverDelta.description>แม่น้ำที่แตกออกเป็นหลายสาขาก่อนไหลลงสู่มหาสมุทร</RiverDelta.description>
   
   <!-- EN: river island -->
-  <RiverIsland.label>TODO</RiverIsland.label>
+  <RiverIsland.label>เกาะกลางแม่น้ำ</RiverIsland.label>
   <!-- EN: A river splitting into two and then merging again. -->
-  <RiverIsland.description>TODO</RiverIsland.description>
+  <RiverIsland.description>แม่น้ำที่แยกออกเป็นสองสายแล้วกลับมารวมกันอีกครั้ง</RiverIsland.description>
   
   <!-- EN: sandy -->
-  <Sandy.label>TODO</Sandy.label>
+  <Sandy.label>เต็มไปด้วยทราย</Sandy.label>
   <!-- EN: Large patches of sand are scattered throughout this area. -->
-  <Sandy.description>TODO</Sandy.description>
+  <Sandy.description>หย่อมทรายขนาดใหญ่กระจายอยู่ทั่วบริเวณนี้</Sandy.description>
   
   <!-- EN: terraforming scar -->
-  <TerraformingScar.label>TODO</TerraformingScar.label>
+  <TerraformingScar.label>รอยแผลเป็นจากการปรับสภาพโลก</TerraformingScar.label>
   <!-- EN: A misaligned blast from an ancient terraforming device has warped the earth into serpentine spirals. The area has since recovered, though the twisted and deformed hills remain. -->
-  <TerraformingScar.description>TODO</TerraformingScar.description>
+  <TerraformingScar.description>การระเบิดที่ผิดแนวจากอุปกรณ์ปรับสภาพโลกโบราณทำให้พื้นโลกบิดเบี้ยวเป็นเกลียวงู พื้นที่ได้ฟื้นตัวแล้ว แต่เนินเขาที่บิดเบี้ยวและผิดรูปยังคงอยู่</TerraformingScar.description>
   
   <!-- EN: toxic lake -->
-  <ToxicLake.label>TODO</ToxicLake.label>
+  <ToxicLake.label>ทะเลสาบพิษ</ToxicLake.label>
   <!-- EN: A body of water that has been poisoned by chemicals leaching out of the ground. The water will cause toxic buildup. -->
-  <ToxicLake.description>TODO</ToxicLake.description>
+  <ToxicLake.description>แหล่งน้ำที่ปนเปื้อนสารเคมีที่ซึมออกจากพื้นดิน น้ำจะทำให้เกิดการสะสมของสารพิษ</ToxicLake.description>
   
   <!-- EN: valley -->
-  <Valley.label>TODO</Valley.label>
+  <Valley.label>หุบเขา</Valley.label>
   <!-- EN: A steep valley carved through a mountain. -->
-  <Valley.description>TODO</Valley.description>
+  <Valley.description>หุบเขาสูงชันที่ถูกกัดเซาะผ่านภูเขา</Valley.description>
   
   <!-- EN: wetland -->
-  <Wetland.label>TODO</Wetland.label>
+  <Wetland.label>พื้นที่ชุ่มน้ำ</Wetland.label>
   <!-- EN: Large interconnected waterways dominate the area. -->
-  <Wetland.description>TODO</Wetland.description>
+  <Wetland.description>ทางน้ำที่เชื่อมต่อกันขนาดใหญ่ครอบคลุมพื้นที่</Wetland.description>
   
 </LanguageData>

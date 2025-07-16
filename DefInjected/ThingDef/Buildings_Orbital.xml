@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: orbital scanner -->
-  <OrbitalScanner.label>TODO</OrbitalScanner.label>
+  <OrbitalScanner.label>เครื่องสแกนวงโคจร</OrbitalScanner.label>
   <!-- EN: A sensor unit that passively scans for irregular objects orbiting the planet. It will periodically detect locations in orbit that can be visited with transport pods, shuttles, or gravships.\n\nThe scanner won't function under a roof. -->
-  <OrbitalScanner.description>TODO</OrbitalScanner.description>
+  <OrbitalScanner.description>หน่วยเซ็นเซอร์ที่สแกนหาวัตถุผิดปกติที่โคจรรอบดาวเคราะห์อย่างต่อเนื่อง มันจะตรวจจับตำแหน่งในวงโคจรเป็นระยะๆ ซึ่งสามารถเยี่ยมชมได้ด้วยกระสวยขนส่ง ยานโดยสาร หรือแกรฟชิป\n\nเครื่องสแกนจะไม่ทำงานใต้หลังคา</OrbitalScanner.description>
   
   <!-- EN: oxygen pump -->
-  <OxygenPump.label>TODO</OxygenPump.label>
+  <OxygenPump.label>ปั๊มออกซิเจน</OxygenPump.label>
   <!-- EN: A small wall-mounted unit that releases oxygen into the surrounding room, allowing enclosed areas to repressurize in space. Essential for long stays in orbit. -->
-  <OxygenPump.description>TODO</OxygenPump.description>
+  <OxygenPump.description>หน่วยขนาดเล็กติดผนังที่ปล่อยออกซิเจนเข้าไปในห้องโดยรอบ ทำให้พื้นที่ปิดสามารถปรับความดันในอวกาศได้อีกครั้ง จำเป็นสำหรับการอยู่อาศัยในวงโคจรเป็นเวลานาน</OxygenPump.description>
   
   <!-- EN: vac barrier -->
-  <VacBarrier.label>TODO</VacBarrier.label>
+  <VacBarrier.label>แผงกั้นสุญญากาศ</VacBarrier.label>
   <!-- EN: An ultrasonic barrier that prevents depressurization in space. The field compresses air molecules near the threshold, preventing gases from escaping while allowing people to freely travel through it. A vac barrier will do nothing to prevent intruders.\n\nMust be powered to prevent depressurization. -->
-  <VacBarrier.description>TODO</VacBarrier.description>
+  <VacBarrier.description>แผงกั้นอัลตราโซนิกที่ป้องกันการลดความดันในอวกาศ สนามพลังจะบีบอัดโมเลกุลของอากาศใกล้ขอบเขต ป้องกันไม่ให้ก๊าซหลบหนีในขณะที่อนุญาตให้ผู้คนเดินทางผ่านได้อย่างอิสระ แผงกั้นสุญญากาศจะไม่ทำอะไรเพื่อป้องกันผู้บุกรุก\n\nต้องใช้พลังงานเพื่อป้องกันการลดความดัน</VacBarrier.description>
   
 </LanguageData>

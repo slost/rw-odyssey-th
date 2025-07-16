@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: gravship range -->
-  <GravshipRange.label>TODO</GravshipRange.label>
+  <GravshipRange.label>ระยะแกรฟชิพ</GravshipRange.label>
   <!-- EN: The maximum distance this gravship can travel with its connected substructure. -->
-  <GravshipRange.description>TODO</GravshipRange.description>
+  <GravshipRange.description>ระยะทางสูงสุดที่แกรฟชิพนี้สามารถเดินทางได้พร้อมกับโครงสร้างย่อยที่เชื่อมต่ออยู่</GravshipRange.description>
   
   <!-- EN: substructure support -->
-  <SubstructureSupport.label>TODO</SubstructureSupport.label>
+  <SubstructureSupport.label>การรองรับโครงสร้างย่อย</SubstructureSupport.label>
   <!-- EN: The maximum amount of substructure supported by this gravship. -->
-  <SubstructureSupport.description>TODO</SubstructureSupport.description>
+  <SubstructureSupport.description>จำนวนโครงสร้างย่อยสูงสุดที่แกรฟชิพนี้รองรับได้</SubstructureSupport.description>
   
 </LanguageData>

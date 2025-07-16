@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: gravship landing zone -->
-  <GravshipLandingMarker.label>TODO</GravshipLandingMarker.label>
+  <GravshipLandingMarker.label>พื้นที่ลงจอดแกรฟชิป</GravshipLandingMarker.label>
   <!-- EN: An outline showing where your gravship will land. -->
-  <GravshipLandingMarker.description>TODO</GravshipLandingMarker.description>
+  <GravshipLandingMarker.description>โครงร่างที่แสดงตำแหน่งที่แกรฟชิปของคุณจะลงจอด</GravshipLandingMarker.description>
   
 </LanguageData>

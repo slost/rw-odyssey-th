@@ -1,64 +1,64 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: abandoned landmark -->
-  <AbandonedLandmark.label>TODO</AbandonedLandmark.label>
+  <AbandonedLandmark.label>แลนด์มาร์กที่ถูกทิ้งร้าง</AbandonedLandmark.label>
   <!-- EN: An abandoned campsite at a landmark. -->
-  <AbandonedLandmark.description>TODO</AbandonedLandmark.description>
+  <AbandonedLandmark.description>ที่ตั้งแคมป์ร้าง ณ แลนด์มาร์ก</AbandonedLandmark.description>
   
   <!-- EN: basic asteroid -->
-  <AsteroidBasic.label>TODO</AsteroidBasic.label>
+  <AsteroidBasic.label>อุกกาบาตทั่วไป</AsteroidBasic.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <AsteroidBasic.description>TODO</AsteroidBasic.description>
+  <AsteroidBasic.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว ทรัพยากรที่มีค่าส่วนใหญ่จากอุกกาบาตนี้ได้หมดไปแล้ว\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือแกรฟชิพ</AsteroidBasic.description>
   
   <!-- EN: asteroid mining site -->
-  <AsteroidMiningSite.label>TODO</AsteroidMiningSite.label>
+  <AsteroidMiningSite.label>แหล่งขุดแร่อุกกาบาต</AsteroidMiningSite.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. This asteroid has only been partially mined.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <AsteroidMiningSite.description>TODO</AsteroidMiningSite.description>
+  <AsteroidMiningSite.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว อุกกาบาตนี้ถูกขุดไปเพียงบางส่วนเท่านั้น\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือแกรฟชิพ</AsteroidMiningSite.description>
   
   <!-- EN: claimable site -->
-  <ClaimableSite.label>TODO</ClaimableSite.label>
+  <ClaimableSite.label>พื้นที่ที่สามารถยึดครองได้</ClaimableSite.label>
   
   <!-- EN: claimable space site -->
-  <ClaimableSpaceSite.label>TODO</ClaimableSpaceSite.label>
+  <ClaimableSpaceSite.label>พื้นที่อวกาศที่สามารถยึดครองได้</ClaimableSpaceSite.label>
   
   <!-- EN: destroyed settlement -->
-  <DestroyedSpaceSettlement.label>TODO</DestroyedSpaceSettlement.label>
+  <DestroyedSpaceSettlement.label>ถิ่นฐานที่ถูกทำลาย</DestroyedSpaceSettlement.label>
   <!-- EN: A destroyed settlement. -->
-  <DestroyedSpaceSettlement.description>TODO</DestroyedSpaceSettlement.description>
+  <DestroyedSpaceSettlement.description>ถิ่นฐานที่ถูกทำลาย</DestroyedSpaceSettlement.description>
   
   <!-- EN: gravship -->
-  <Gravship.label>TODO</Gravship.label>
+  <Gravship.label>แกรฟชิพ</Gravship.label>
   <!-- EN: A gravship in flight. -->
-  <Gravship.description>TODO</Gravship.description>
+  <Gravship.description>แกรฟชิพที่กำลังบิน</Gravship.description>
   
   <!-- EN: gravship launch -->
-  <GravshipLaunch.label>TODO</GravshipLaunch.label>
+  <GravshipLaunch.label>การปล่อยแกรฟชิพ</GravshipLaunch.label>
   <!-- EN: The launch site of a gravship. -->
-  <GravshipLaunch.description>TODO</GravshipLaunch.description>
+  <GravshipLaunch.description>สถานที่ปล่อยแกรฟชิพ</GravshipLaunch.description>
   
   <!-- EN: mechhive -->
-  <Mechhive.label>TODO</Mechhive.label>
+  <Mechhive.label>รังเมคานอยด์</Mechhive.label>
   
   <!-- EN: orbital item stash -->
-  <OrbitalItemStash.label>TODO</OrbitalItemStash.label>
+  <OrbitalItemStash.label>คลังเก็บของในวงโคจร</OrbitalItemStash.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <OrbitalItemStash.description>TODO</OrbitalItemStash.description>
+  <OrbitalItemStash.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว ทรัพยากรที่มีค่าส่วนใหญ่จากอุกกาบาตนี้ได้หมดไปแล้ว\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือแกรฟชิพ</OrbitalItemStash.description>
   
   <!-- EN: passenger shuttle -->
-  <PassengerShuttle.label>TODO</PassengerShuttle.label>
+  <PassengerShuttle.label>ยานรับส่งผู้โดยสาร</PassengerShuttle.label>
   <!-- EN: A passenger shuttle in flight. -->
-  <PassengerShuttle.description>TODO</PassengerShuttle.description>
+  <PassengerShuttle.description>ยานรับส่งผู้โดยสารที่กำลังบิน</PassengerShuttle.description>
   
   <!-- EN: space -->
-  <Space.label>TODO</Space.label>
+  <Space.label>อวกาศ</Space.label>
   
   <!-- EN: orbital settlement -->
-  <SpaceSettlement.label>TODO</SpaceSettlement.label>
+  <SpaceSettlement.label>สถานีอวกาศ</SpaceSettlement.label>
   <!-- EN: An orbital platform controlled by another human faction. They won't appreciate visitors.\n\nThese platforms have long-range automatic weapon systems capable of destroying incoming ships. They can only safely be approached by a gravship with a signal jammer. -->
-  <SpaceSettlement.description>TODO</SpaceSettlement.description>
+  <SpaceSettlement.description>สถานีอวกาศที่ควบคุมโดยฝ่ายมนุษย์อื่น พวกเขาไม่ต้อนรับผู้มาเยือน\n\nสถานีเหล่านี้มีระบบอาวุธอัตโนมัติระยะไกลที่สามารถทำลายยานที่เข้ามาได้ สามารถเข้าใกล้ได้อย่างปลอดภัยโดยใช้แกรฟชิพที่มีเครื่องส่งสัญญาณรบกวนเท่านั้น</SpaceSettlement.description>
   
   <!-- EN: space site -->
-  <SpaceSite.label>TODO</SpaceSite.label>
+  <SpaceSite.label>พื้นที่อวกาศ</SpaceSite.label>
   
 </LanguageData>

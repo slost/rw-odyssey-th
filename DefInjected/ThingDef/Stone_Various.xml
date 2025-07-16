@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: vacstone blocks -->
-  <BlocksVacstone.label>TODO</BlocksVacstone.label>
+  <BlocksVacstone.label>บล็อกแวคสโตน</BlocksVacstone.label>
   <!-- EN: Blocks of compacted vacstone rock harvested from asteroids. -->
-  <BlocksVacstone.description>TODO</BlocksVacstone.description>
+  <BlocksVacstone.description>บล็อกของหินแวคสโตนที่อัดแน่น เก็บเกี่ยวจากดาวเคราะห์น้อย</BlocksVacstone.description>
   <!-- EN: vacstone -->
-  <BlocksVacstone.stuffProps.stuffAdjective>TODO</BlocksVacstone.stuffProps.stuffAdjective>
+  <BlocksVacstone.stuffProps.stuffAdjective>แวคสโตน</BlocksVacstone.stuffProps.stuffAdjective>
   
   <!-- EN: vacstone chunk -->
-  <ChunkVacstone.label>TODO</ChunkVacstone.label>
+  <ChunkVacstone.label>ชิ้นส่วนแวคสโตน</ChunkVacstone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
   <ChunkVacstone.description>TODO</ChunkVacstone.description>
   
   <!-- EN: smoothed solid ice -->
-  <SmoothedSolidIce.label>TODO</SmoothedSolidIce.label>
+  <SmoothedSolidIce.label>น้ำแข็งก้อนขัดเรียบ</SmoothedSolidIce.label>
   <!-- EN: Solid glacial ice. It can be mined through with relative ease. The polished surface glistens a soft light blue. -->
-  <SmoothedSolidIce.description>TODO</SmoothedSolidIce.description>
+  <SmoothedSolidIce.description>น้ำแข็งจากธารน้ำแข็งที่แข็งตัว สามารถขุดผ่านได้ค่อนข้างง่าย พื้นผิวที่ขัดมันเป็นประกายสีฟ้าอ่อน</SmoothedSolidIce.description>
   
   <!-- EN: smoothed vacstone -->
-  <SmoothedVacstone.label>TODO</SmoothedVacstone.label>
+  <SmoothedVacstone.label>แวคสโตนขัดเรียบ</SmoothedVacstone.label>
   <!-- EN: Smoothed, compacted rock and dust harvested from asteroids. -->
-  <SmoothedVacstone.description>TODO</SmoothedVacstone.description>
+  <SmoothedVacstone.description>หินและฝุ่นที่อัดแน่นและขัดเรียบ เก็บเกี่ยวจากดาวเคราะห์น้อย</SmoothedVacstone.description>
   
   <!-- EN: solid ice -->
-  <SolidIce.label>TODO</SolidIce.label>
+  <SolidIce.label>น้ำแข็งก้อน</SolidIce.label>
   <!-- EN: Solid glacial ice. It can be mined through with relative ease. -->
-  <SolidIce.description>TODO</SolidIce.description>
+  <SolidIce.description>น้ำแข็งจากธารน้ำแข็งที่แข็งตัว สามารถขุดผ่านได้ค่อนข้างง่าย</SolidIce.description>
   
   <!-- EN: vacstone -->
-  <Vacstone.label>TODO</Vacstone.label>
+  <Vacstone.label>แวคสโตน</Vacstone.label>
   <!-- EN: Compacted rock and dust harvested from asteroids. -->
-  <Vacstone.description>TODO</Vacstone.description>
+  <Vacstone.description>หินและฝุ่นที่อัดแน่นเก็บเกี่ยวจากดาวเคราะห์น้อย</Vacstone.description>
   
 </LanguageData>

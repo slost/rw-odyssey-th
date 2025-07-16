@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: beam -->
   <BeamBypassShields.label>TODO</BeamBypassShields.label>
   <!-- EN: {0} has been beamed to death. -->
-  <BeamBypassShields.deathMessage>TODO</BeamBypassShields.deathMessage>
+  <BeamBypassShields.deathMessage>{0} ถูกฆ่าตาย</BeamBypassShields.deathMessage>
   
   <!-- EN: bullet -->
-  <Bullet_TraitIncendiary.label>TODO</Bullet_TraitIncendiary.label>
+  <Bullet_TraitIncendiary.label>กระสุน</Bullet_TraitIncendiary.label>
   <!-- EN: {0} has been shot to death. -->
-  <Bullet_TraitIncendiary.deathMessage>TODO</Bullet_TraitIncendiary.deathMessage>
+  <Bullet_TraitIncendiary.deathMessage>{0} ถูกฆ่าตาย</Bullet_TraitIncendiary.deathMessage>
   
   <!-- EN: bullet -->
-  <Bullet_TraitTox.label>TODO</Bullet_TraitTox.label>
+  <Bullet_TraitTox.label>กระสุน</Bullet_TraitTox.label>
   <!-- EN: {0} has been shot to death. -->
-  <Bullet_TraitTox.deathMessage>TODO</Bullet_TraitTox.deathMessage>
+  <Bullet_TraitTox.deathMessage>{0} ถูกฆ่าตาย</Bullet_TraitTox.deathMessage>
   
 </LanguageData>

@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: call drop pods -->
   <CallDropPods.label>เรียกยานกระสวย</CallDropPods.label>
   <!-- EN: Summon drop pods that you can use to travel to another location. -->
-  <CallDropPods.description>TODO</CallDropPods.description>
+  <CallDropPods.description>เรียกดรอปพอดที่คุณสามารถใช้เพื่อเดินทางไปยังตำแหน่งอื่นได้</CallDropPods.description>
   
   <!-- EN: call mechanoids -->
   <CallMechanoids.label>เรียกเมคคานอยด์</CallMechanoids.label>
   <!-- EN: Summon hostile mechanoids to a location using drop pods. They will attack all nearby humans - friend or foe. -->
-  <CallMechanoids.description>TODO</CallMechanoids.description>
+  <CallMechanoids.description>เรียกจักรกลที่ไม่เป็นมิตรมายังตำแหน่งโดยใช้ดรอปพอด พวกมันจะโจมตีมนุษย์ทุกคนในบริเวณใกล้เคียง ไม่ว่าจะเป็นมิตรหรือศัตรู</CallMechanoids.description>
   
   <!-- EN: deactivate mechanoid -->
   <DeactivateMechanoid.label>ปิดใช้งานเมคคานอยด์</DeactivateMechanoid.label>
@@ -19,26 +19,26 @@
   <!-- EN: egg spew -->
   <EggSpew.label>พ่นไข่</EggSpew.label>
   <!-- EN: Launch an egg sac and a spray of acidic sludge at the target area. The sludge will stick to targets and burn them. -->
-  <EggSpew.description>TODO</EggSpew.description>
+  <EggSpew.description>ปล่อยถุงไข่และพ่นเมือกที่เป็นกรดไปยังพื้นที่เป้าหมาย เมือกจะเกาะติดกับเป้าหมายและเผาไหม้พวกมัน</EggSpew.description>
   
   <!-- EN: sludge spew -->
-  <SludgeSpew.label>TODO</SludgeSpew.label>
+  <SludgeSpew.label>พ่นเมือก</SludgeSpew.label>
   <!-- EN: Spray an acidic sludge all over the target area. The sludge will stick to targets and burn them. -->
-  <SludgeSpew.description>TODO</SludgeSpew.description>
+  <SludgeSpew.description>พ่นเมือกที่มีฤทธิ์เป็นกรดไปทั่วบริเวณเป้าหมาย เมือกจะเกาะติดกับเป้าหมายและเผาไหม้พวกมัน</SludgeSpew.description>
   
   <!-- EN: terror roar -->
-  <TerrorRoar.label>TODO</TerrorRoar.label>
+  <TerrorRoar.label>เสียงคำรามสยองขวัญ</TerrorRoar.label>
   <!-- EN: Release a terrifying roar which has a chance to send nearby hostile humans and animals fleeing in terror. -->
-  <TerrorRoar.description>TODO</TerrorRoar.description>
+  <TerrorRoar.description>ปล่อยเสียงคำรามอันน่าสะพรึงกลัวซึ่งมีโอกาสทำให้มนุษย์และสัตว์ที่ไม่เป็นมิตรในบริเวณใกล้เคียงหนีไปด้วยความหวาดกลัว</TerrorRoar.description>
   
   <!-- EN: thrumbo roar -->
-  <ThrumboRoar.label>TODO</ThrumboRoar.label>
+  <ThrumboRoar.label>เสียงคำรามทรัมโบ</ThrumboRoar.label>
   <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
-  <ThrumboRoar.description>TODO</ThrumboRoar.description>
+  <ThrumboRoar.description>ปล่อยเสียงคำรามอันทรงพลังซึ่งมีโอกาสทำให้มนุษย์และสัตว์ที่ไม่เป็นมิตรตัวสั่นด้วยความกลัว ลดความเร็วในการเคลื่อนที่และการควบคุมลง</ThrumboRoar.description>
   
   <!-- EN: war trumpet -->
-  <WarTrumpet.label>TODO</WarTrumpet.label>
+  <WarTrumpet.label>แตรสงคราม</WarTrumpet.label>
   <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
-  <WarTrumpet.description>TODO</WarTrumpet.description>
+  <WarTrumpet.description>ปล่อยเสียงคำรามอันทรงพลังซึ่งมีโอกาสทำให้มนุษย์และสัตว์ที่ไม่เป็นมิตรตัวสั่นด้วยความกลัว ลดความเร็วในการเคลื่อนที่และการควบคุมลง</WarTrumpet.description>
   
 </LanguageData>
