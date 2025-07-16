@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: Use the magnifying glass button in the bottom-right of the world map screen to search for landmarks or quest locations. -->
-  <OdysseyTips.WorldSearch>TODO</OdysseyTips.WorldSearch>
+  <OdysseyTips.WorldSearch>ใช้ปุ่มแว่นขยายที่มุมขวาล่างของหน้าจอแผนที่โลกเพื่อค้นหาสถานที่สำคัญหรือตำแหน่งเควส</OdysseyTips.WorldSearch>
   <!-- EN: In addition to vacsuits, marine and recon armor can also keep people alive in space. -->
-  <OdysseyTips.Vacsuits>TODO</OdysseyTips.Vacsuits>
+  <OdysseyTips.Vacsuits>นอกเหนือจากชุดอวกาศแล้ว ชุดเกราะมารีนและชุดเกราะรีคอนยังสามารถทำให้คนมีชีวิตรอดในอวกาศได้อีกด้วย</OdysseyTips.Vacsuits>
   <!-- EN: Fish in larger bodies of water. Larger ponds yield more fish per catch. -->
-  <OdysseyTips.FishPopulation>TODO</OdysseyTips.FishPopulation>
+  <OdysseyTips.FishPopulation>ตกปลาในแหล่งน้ำขนาดใหญ่ บ่อน้ำที่ใหญ่ขึ้นจะให้ปลาต่อการจับมากขึ้น</OdysseyTips.FishPopulation>
   <!-- EN: The larger a body of water is, the higher the chance that it will have uncommon fish. -->
-  <OdysseyTips.UncommonFish>TODO</OdysseyTips.UncommonFish>
+  <OdysseyTips.UncommonFish>ยิ่งแหล่งน้ำมีขนาดใหญ่เท่าไหร่ ก็ยิ่งมีโอกาสที่จะมีปลาหายากมากขึ้นเท่านั้น</OdysseyTips.UncommonFish>
   <!-- EN: Gasses like smoke or rot stink will dissipate faster in the vacuum of space. -->
-  <OdysseyTips.GasInVacuum>TODO</OdysseyTips.GasInVacuum>
+  <OdysseyTips.GasInVacuum>แก๊ซต่างๆเช่นควันหรือกลิ่นเหม็นเน่าจะสลายตัวเร็วขึ้นในสภาวะสุญญากาศของอวกาศ</OdysseyTips.GasInVacuum>
   <!-- EN: Insect sludge terrain slows most creatures - but not insects. -->
-  <OdysseyTips.InsectSludge>TODO</OdysseyTips.InsectSludge>
+  <OdysseyTips.InsectSludge>ภูมิประเทศที่เป็นเมือกแมลงจะทำให้สิ่งมีชีวิตส่วนใหญ่เคลื่อนที่ช้าลง แต่ไม่ใช่กับแมลง</OdysseyTips.InsectSludge>
   
 </LanguageData>
