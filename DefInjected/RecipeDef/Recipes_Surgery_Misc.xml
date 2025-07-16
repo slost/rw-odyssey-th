@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: remove porcupine quills -->
+  <RemovePorcupineQuill.label>ถอด หนามเม่น</RemovePorcupineQuill.label>
+  <!-- EN: Remove porcupine quills. -->
+  <RemovePorcupineQuill.description>ถอดหนามเม่น</RemovePorcupineQuill.description>
+  <!-- EN: Removing quills. -->
+  <RemovePorcupineQuill.jobString>กำลังถอดหนาม</RemovePorcupineQuill.jobString>
+  
+</LanguageData>

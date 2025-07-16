@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fish -->
+  <Fish.label>ตกปลา</Fish.label>
+  <!-- EN: fishing -->
+  <Fish.gerund>การตกปลา</Fish.gerund>
+  <!-- EN: fish -->
+  <Fish.verb>ตกปลา</Fish.verb>
+  
+</LanguageData>
