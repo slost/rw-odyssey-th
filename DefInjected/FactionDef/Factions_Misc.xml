@@ -8,11 +8,11 @@
   <!-- EN: boss -->
   <Salvagers.leaderTitle>บอสส</Salvagers.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <Salvagers.messageDefendersAttacking>TODO</Salvagers.messageDefendersAttacking>
+  <Salvagers.messageDefendersAttacking>{0} from {1} กำลังโจมตี {2} ของคุณ</Salvagers.messageDefendersAttacking>
   <!-- EN: pirate -->
-  <Salvagers.pawnSingular>TODO</Salvagers.pawnSingular>
+  <Salvagers.pawnSingular>โจรสลัด</Salvagers.pawnSingular>
   <!-- EN: pirates -->
-  <Salvagers.pawnsPlural>นักเก็บกู้ซาก</Salvagers.pawnsPlural>
+  <Salvagers.pawnsPlural>โจรสลัด</Salvagers.pawnsPlural>
   
   <!-- EN: traders guild -->
   <TradersGuild.label>สมาคมการค้า</TradersGuild.label>
@@ -21,9 +21,9 @@
   <!-- EN: magister of trade -->
   <TradersGuild.leaderTitle>ประธานสมาคมการค้า</TradersGuild.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <TradersGuild.messageDefendersAttacking>TODO</TradersGuild.messageDefendersAttacking>
+  <TradersGuild.messageDefendersAttacking>{0} from {1} กำลังโจมตี {2} ของคุณ</TradersGuild.messageDefendersAttacking>
   <!-- EN: guild member -->
-  <TradersGuild.pawnSingular>TODO</TradersGuild.pawnSingular>
+  <TradersGuild.pawnSingular>สมาชิกสมาคม</TradersGuild.pawnSingular>
   <!-- EN: guild members -->
   <TradersGuild.pawnsPlural>สมาชิกสมาคม</TradersGuild.pawnsPlural>
   
