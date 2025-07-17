@@ -6,11 +6,11 @@
   <!-- EN: The crew of a gravship. -->
   <GravshipCrew.description>ลูกเรือของแกรฟชิพ</GravshipCrew.description>
   <!-- EN: leader -->
-  <GravshipCrew.leaderTitle>TODO</GravshipCrew.leaderTitle>
+  <GravshipCrew.leaderTitle>ผู้นำ</GravshipCrew.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <GravshipCrew.messageDefendersAttacking>TODO</GravshipCrew.messageDefendersAttacking>
+  <GravshipCrew.messageDefendersAttacking>{0} จาก {1} กำลังโจมตี {2} ของคุณ</GravshipCrew.messageDefendersAttacking>
   <!-- EN: colonist -->
-  <GravshipCrew.pawnSingular>TODO</GravshipCrew.pawnSingular>
+  <GravshipCrew.pawnSingular>ชาวอาณานิคม</GravshipCrew.pawnSingular>
   <!-- EN: colonists -->
   <GravshipCrew.pawnsPlural>ชาวอาณานิคม</GravshipCrew.pawnsPlural>
   
