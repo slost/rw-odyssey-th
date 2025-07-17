@@ -16,15 +16,15 @@
   <!-- EN: This creature is suffering a variety of negative effects caused by exposure to the vacuum of space, including hypoxia and decompression sickness. They will soon die unless they can get to a pressurized area. -->
   <VacuumExposure.description>สิ่งมีชีวิตนี้กำลังทุกข์ทรมานจากผลกระทบเชิงลบต่างๆ ที่เกิดจากการสัมผัสกับสุญญากาศในอวกาศ รวมถึงภาวะขาดออกซิเจนและโรคน้ำหนีบ พวกมันจะตายในไม่ช้าเว้นแต่จะสามารถไปยังพื้นที่ที่มีความกดอากาศได้</VacuumExposure.description>
   <!-- EN: initial -->
-  <VacuumExposure.stages.initial-0.label>TODO</VacuumExposure.stages.initial-0.label>
+  <VacuumExposure.stages.initial-0.label>แรกเริ่ม</VacuumExposure.stages.initial-0.label>
   <!-- EN: initial -->
-  <VacuumExposure.stages.initial-1.label>TODO</VacuumExposure.stages.initial-1.label>
+  <VacuumExposure.stages.initial-1.label>แรกเริ่ม</VacuumExposure.stages.initial-1.label>
   <!-- EN: mild -->
-  <VacuumExposure.stages.mild.label>TODO</VacuumExposure.stages.mild.label>
+  <VacuumExposure.stages.mild.label>ปานกลาง</VacuumExposure.stages.mild.label>
   <!-- EN: moderate -->
-  <VacuumExposure.stages.moderate.label>TODO</VacuumExposure.stages.moderate.label>
+  <VacuumExposure.stages.moderate.label>รุนแรง</VacuumExposure.stages.moderate.label>
   <!-- EN: extreme -->
-  <VacuumExposure.stages.extreme.label>TODO</VacuumExposure.stages.extreme.label>
+  <VacuumExposure.stages.extreme.label>สาหัส</VacuumExposure.stages.extreme.label>
   
   <!-- EN: volcanic ash -->
   <VolcanicAsh.label>เถ้าภูเขาไฟ</VolcanicAsh.label>
