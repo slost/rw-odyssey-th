@@ -7,9 +7,9 @@
   <!-- EN: alpha thrumbo -->
   <AlphaThrumbo.label>อัลฟ่าธรัมโบ</AlphaThrumbo.label>
   <!-- EN: alpha thrumbo calf -->
-  <AlphaThrumbo.lifeStages.alpha_thrumbo_calf.label>TODO</AlphaThrumbo.lifeStages.alpha_thrumbo_calf.label>
+  <AlphaThrumbo.lifeStages.alpha_thrumbo_calf.label>ลูกอัลฟ่าธรัมโบ</AlphaThrumbo.lifeStages.alpha_thrumbo_calf.label>
   <!-- EN: alpha thrumbo calves -->
-  <AlphaThrumbo.lifeStages.alpha_thrumbo_calf.labelPlural>TODO</AlphaThrumbo.lifeStages.alpha_thrumbo_calf.labelPlural>
+  <AlphaThrumbo.lifeStages.alpha_thrumbo_calf.labelPlural>เหล่าลูกอัลฟ่าธรัมโบ</AlphaThrumbo.lifeStages.alpha_thrumbo_calf.labelPlural>
   
   <!-- EN: armadillo -->
   <Armadillo.label>อาร์มาดิลโล</Armadillo.label>
@@ -20,9 +20,9 @@
   <!-- EN: bog hound -->
   <BogHound.label>สุนัขหนองน้ำ</BogHound.label>
   <!-- EN: bog hound puppy -->
-  <BogHound.lifeStages.bog_hound_puppy.label>TODO</BogHound.lifeStages.bog_hound_puppy.label>
+  <BogHound.lifeStages.bog_hound_puppy.label>ลูกสุนัขหนองน้ำ</BogHound.lifeStages.bog_hound_puppy.label>
   <!-- EN: bog hound puppies -->
-  <BogHound.lifeStages.bog_hound_puppy.labelPlural>TODO</BogHound.lifeStages.bog_hound_puppy.labelPlural>
+  <BogHound.lifeStages.bog_hound_puppy.labelPlural>เหล่าลูกสุนัขหนองน้ำ</BogHound.lifeStages.bog_hound_puppy.labelPlural>
   
   <!-- EN: bullfrog -->
   <Bullfrog.label>กบกระทิง</Bullfrog.label>
@@ -63,18 +63,18 @@
   <!-- EN: moose -->
   <Moose.labelPlural>เหล่ากวางมูส</Moose.labelPlural>
   <!-- EN: moose calf -->
-  <Moose.lifeStages.moose_calf.label>TODO</Moose.lifeStages.moose_calf.label>
+  <Moose.lifeStages.moose_calf.label>ลูกกวางมูส</Moose.lifeStages.moose_calf.label>
   <!-- EN: moose calves -->
-  <Moose.lifeStages.moose_calf.labelPlural>TODO</Moose.lifeStages.moose_calf.labelPlural>
+  <Moose.lifeStages.moose_calf.labelPlural>เหล่าลูกกวางมูส</Moose.lifeStages.moose_calf.labelPlural>
   
   <!-- EN: muskox -->
   <Muskox.label>วัวมัสก์</Muskox.label>
   <!-- EN: muskoxen -->
   <Muskox.labelPlural>เหล่าวัวมัสก์</Muskox.labelPlural>
   <!-- EN: muskox calf -->
-  <Muskox.lifeStages.muskox_calf.label>TODO</Muskox.lifeStages.muskox_calf.label>
+  <Muskox.lifeStages.muskox_calf.label>ลูกวัวมัสก์</Muskox.lifeStages.muskox_calf.label>
   <!-- EN: muskox calves -->
-  <Muskox.lifeStages.muskox_calf.labelPlural>TODO</Muskox.lifeStages.muskox_calf.labelPlural>
+  <Muskox.lifeStages.muskox_calf.labelPlural>เหล่าลูกวัวมัสก์</Muskox.lifeStages.muskox_calf.labelPlural>
   
   <!-- EN: panda -->
   <Panda.label>แพนด้า</Panda.label>
@@ -93,9 +93,9 @@
   <!-- EN: greatwolves -->
   <Wolf_Great.labelPlural>เหล่าหมาป่าใหญ่</Wolf_Great.labelPlural>
   <!-- EN: greatwolf puppy -->
-  <Wolf_Great.lifeStages.greatwolf_puppy.label>TODO</Wolf_Great.lifeStages.greatwolf_puppy.label>
+  <Wolf_Great.lifeStages.greatwolf_puppy.label>ลูกหมาป่าใหญ่</Wolf_Great.lifeStages.greatwolf_puppy.label>
   <!-- EN: greatwolf puppies -->
-  <Wolf_Great.lifeStages.greatwolf_puppy.labelPlural>TODO</Wolf_Great.lifeStages.greatwolf_puppy.labelPlural>
+  <Wolf_Great.lifeStages.greatwolf_puppy.labelPlural>เหล่าลูกหมาป่าใหญ่</Wolf_Great.lifeStages.greatwolf_puppy.labelPlural>
   
   <!-- EN: wolverine -->
   <Wolverine.label>วูล์ฟเวอรีน</Wolverine.label>
