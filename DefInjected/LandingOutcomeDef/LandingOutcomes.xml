@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: grav nausea -->
-  <GravNausea.letterLabel>TODO</GravNausea.letterLabel>
+  <GravNausea.letterLabel>อาการเมาแรงโน้มถ่วง</GravNausea.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} was forced to do an emergency maneuver, resulting in an intense and prolonged deceleration. The experience has left your colonists feeling extremely nauseous. The effects will quickly fade. -->
-  <GravNausea.letterText>TODO</GravNausea.letterText>
+  <GravNausea.letterText>ขณะนำยาน {GRAVSHIP} ลงจอด {PILOT_nameDef} ถูกบังคับให้ต้องควบคุมยานฉุกเฉิน ส่งผลให้เกิดการชะลอความเร็วอย่างรุนแรงและยาวนาน ประสบการณ์ครั้งนี้ทำให้ชาวอาณานิคมของคุณรู้สึกคลื่นไส้อย่างมาก ผลกระทบจะจางหายไปอย่างรวดเร็ว</GravNausea.letterText>
   
   <!-- EN: minor gravship crash -->
-  <MinorGravshipCrash.letterLabel>TODO</MinorGravshipCrash.letterLabel>
+  <MinorGravshipCrash.letterLabel>แกรฟชิปตกเล็กน้อย</MinorGravshipCrash.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} accidentally disengaged the grav engine too early, causing the gravship to free-fall for several feet. Some buildings on the gravship have sustained light damage from the crash. -->
-  <MinorGravshipCrash.letterText>TODO</MinorGravshipCrash.letterText>
+  <MinorGravshipCrash.letterText>ขณะนำยาน {GRAVSHIP} ลงจอด {PILOT_nameDef} ได้เผลอปิดเครื่องยนต์แรงโน้มถ่วงเร็วเกินไป ทำให้ยานร่วงหล่นเป็นระยะทางหลายฟุต สิ่งก่อสร้างบางอย่างบนยานได้รับความเสียหายเล็กน้อยจากการตกกระแทก</MinorGravshipCrash.letterText>
   
   <!-- EN: overheated grav engine -->
-  <OverheatedGravEngine.letterLabel>TODO</OverheatedGravEngine.letterLabel>
+  <OverheatedGravEngine.letterLabel>เครื่องยนต์แรงโน้มถ่วงร้อนเกินไป</OverheatedGravEngine.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} over-engaged the grav engine, causing it to overheat. The grav engine will take longer than normal to cool down. In the meantime, the gravship can't be launched. -->
-  <OverheatedGravEngine.letterText>TODO</OverheatedGravEngine.letterText>
+  <OverheatedGravEngine.letterText>ขณะนำยาน {GRAVSHIP} ลงจอด {PILOT_nameDef} ได้ใช้เครื่องยนต์แรงโน้มถ่วงหนักเกินไปจนร้อนจัด เครื่องยนต์แรงโน้มถ่วงจะใช้เวลานานกว่าปกติในการเย็นตัวลง ในระหว่างนี้จึงไม่สามารถปล่อยยานได้</OverheatedGravEngine.letterText>
   
   <!-- EN: thruster breakdown -->
-  <ThrusterBreakdown.letterLabel>TODO</ThrusterBreakdown.letterLabel>
+  <ThrusterBreakdown.letterLabel>เครื่องขับดันขัดข้อง</ThrusterBreakdown.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} overheated the ship's thrusters, frying valuable components. The thrusters will need to be repaired before they can be used again. -->
-  <ThrusterBreakdown.letterText>TODO</ThrusterBreakdown.letterText>
+  <ThrusterBreakdown.letterText>ขณะนำยาน {GRAVSHIP} ลงจอด {PILOT_nameDef} ได้ทำให้เครื่องขับดันของยานร้อนเกินไป จนชิ้นส่วนสำคัญไหม้เสียหาย เครื่องขับดันจะต้องได้รับการซ่อมแซมก่อนที่จะสามารถใช้งานได้อีกครั้ง</ThrusterBreakdown.letterText>
   
 </LanguageData>
