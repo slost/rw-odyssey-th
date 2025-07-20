@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: advanced gravtech -->
-  <AdvancedGravtech.label>TODO</AdvancedGravtech.label>
+  <AdvancedGravtech.label>เทคโนโลยีแรงโน้มถ่วงขั้นสูง</AdvancedGravtech.label>
   <!-- EN: Build advanced gravship parts. -->
-  <AdvancedGravtech.description>TODO</AdvancedGravtech.description>
+  <AdvancedGravtech.description>สร้างชิ้นส่วนยานแรงโน้มถ่วงขั้นสูง</AdvancedGravtech.description>
   <!-- EN:
     <li>subject->advanced gravtech</li>
     <li>subject_story->researched advanced gravship components</li>
