@@ -8,12 +8,12 @@
   <!-- EN: Last resettled {DURATION} ago -->
   <Nomadic_Preferred.comps.0.description>ตั้งถิ่นฐานครั้งล่าสุดเมื่อ {DURATION} ที่แล้ว</Nomadic_Preferred.comps.0.description>
   <!-- EN: Just resettled -->
-  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.0>TODO</Nomadic_Preferred.comps.0.thoughtStageDescriptions.0>
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.0>เพิ่งตั้งถิ่นฐานใหม่</Nomadic_Preferred.comps.0.thoughtStageDescriptions.0>
   <!-- EN: Resettled recently -->
-  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.1>TODO</Nomadic_Preferred.comps.0.thoughtStageDescriptions.1>
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.1>เพิ่งตั้งถิ่นฐานใหม่เมื่อเร็วๆนี้</Nomadic_Preferred.comps.0.thoughtStageDescriptions.1>
   <!-- EN: Need to move soon -->
-  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.2>TODO</Nomadic_Preferred.comps.0.thoughtStageDescriptions.2>
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.2>ต้องย้ายเร็วๆนี้</Nomadic_Preferred.comps.0.thoughtStageDescriptions.2>
   <!-- EN: Must move soon -->
-  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.3>TODO</Nomadic_Preferred.comps.0.thoughtStageDescriptions.3>
+  <Nomadic_Preferred.comps.0.thoughtStageDescriptions.3>ต้องรีบย้ายเร็วๆนี้</Nomadic_Preferred.comps.0.thoughtStageDescriptions.3>
   
 </LanguageData>
