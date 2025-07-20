@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: install blood warmer -->
-  <InstallBloodWarmer.label>TODO</InstallBloodWarmer.label>
+  <InstallBloodWarmer.label>ติดตั้งเครื่องอุ่นเลือด</InstallBloodWarmer.label>
   <!-- EN: Install blood warmer. -->
-  <InstallBloodWarmer.description>TODO</InstallBloodWarmer.description>
+  <InstallBloodWarmer.description>ติดตั้งเครื่องอุ่นเลือด</InstallBloodWarmer.description>
   <!-- EN: Installing blood warmer. -->
-  <InstallBloodWarmer.jobString>TODO</InstallBloodWarmer.jobString>
+  <InstallBloodWarmer.jobString>กำลังติดตั้งเครื่องอุ่นเลือด</InstallBloodWarmer.jobString>
   
   <!-- EN: install pilot assistant -->
-  <InstallPilotAssistant.label>TODO</InstallPilotAssistant.label>
+  <InstallPilotAssistant.label>ติดตั้งตัวช่วยนักบิน</InstallPilotAssistant.label>
   <!-- EN: Install a pilot assistant. -->
-  <InstallPilotAssistant.description>TODO</InstallPilotAssistant.description>
+  <InstallPilotAssistant.description>ติดตั้งตัวช่วยนักบิน</InstallPilotAssistant.description>
   <!-- EN: Installing pilot assistant. -->
-  <InstallPilotAssistant.jobString>TODO</InstallPilotAssistant.jobString>
+  <InstallPilotAssistant.jobString>กำลังติดตั้งตัวช่วยนักบิน</InstallPilotAssistant.jobString>
   
   <!-- EN: remove pilot assistant -->
-  <RemovePilotAssistant.label>TODO</RemovePilotAssistant.label>
+  <RemovePilotAssistant.label>ถอนการติดตั้งตัวช่วยนักบิน</RemovePilotAssistant.label>
   <!-- EN: Remove pilot assistant. -->
-  <RemovePilotAssistant.description>TODO</RemovePilotAssistant.description>
+  <RemovePilotAssistant.description>ถอนการติดตั้งตัวช่วยนักบิน</RemovePilotAssistant.description>
   <!-- EN: Removing pilot assistant. -->
-  <RemovePilotAssistant.jobString>TODO</RemovePilotAssistant.jobString>
+  <RemovePilotAssistant.jobString>กำลังถอนการติดตั้งตัวช่วยนักบิน</RemovePilotAssistant.jobString>
   
 </LanguageData>
