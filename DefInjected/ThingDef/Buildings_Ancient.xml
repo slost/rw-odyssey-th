@@ -9,17 +9,17 @@
   <!-- EN: ancient antenna -->
   <AncientAntenna.label>เสาอากาศโบราณ</AncientAntenna.label>
   <!-- EN: A rusted antenna used to transmit long-forgotten communications. -->
-  <AncientAntenna.description>เสาอากาศที่เป็นสนิมที่ใช้ในการส่งการสื่อสารที่ถูกลืมไปนานแล้ว</AncientAntenna.description>
+  <AncientAntenna.description>เสาอากาศขึ้นสนิมที่เคยใช้ในการส่งการสื่อสารซึ่งถูกลืมไปนานแล้ว</AncientAntenna.description>
   
   <!-- EN: ancient armchair -->
-  <AncientArmchair.label>เก้าอี้เท้าแขนโบราณ</AncientArmchair.label>
+  <AncientArmchair.label>เก้าอี้นวมโบราณ</AncientArmchair.label>
   <!-- EN: A faded and torn armchair. It's unusable in its current state. -->
-  <AncientArmchair.description>เก้าอี้เท้าแขนที่สีซีดและขาด มันใช้งานไม่ได้ในสภาพปัจจุบัน</AncientArmchair.description>
+  <AncientArmchair.description>เก้าอี้นวมที่สีซีดและขาด มันใช้งานไม่ได้ในสภาพปัจจุบัน</AncientArmchair.description>
   
   <!-- EN: broken autocannon turret -->
   <AncientAutocannonTurret.label>ป้อมปืนใหญ่อัตโนมัติที่พัง</AncientAutocannonTurret.label>
   <!-- EN: An autocannon turret with a shattered barrel. The targeting system is missing and all the components are rusted and bent to uselessness. -->
-  <AncientAutocannonTurret.description>ป้อมปืนใหญ่อัตโนมัติพร้อมลำกล้องที่แตกละเอียด ระบบเล็งเป้าหายไปและส่วนประกอบทั้งหมดเป็นสนิมและงอจนไร้ประโยชน์</AncientAutocannonTurret.description>
+  <AncientAutocannonTurret.description>ป้อมปืนใหญ่อัตโนมัติพร้อมลำกล้องที่แตกละเอียด ระบบเล็งเป้าหายไปและส่วนประกอบทั้งหมดขึ้นสนิมและงอจนไร้ประโยชน์</AncientAutocannonTurret.description>
   
   <!-- EN: large concrete barrier -->
   <AncientBarrierLong.label>แผงกั้นคอนกรีตขนาดใหญ่</AncientBarrierLong.label>
@@ -39,12 +39,12 @@
   <!-- EN: ancient chembarrel -->
   <AncientChembarrel.label>ถังเคมีโบราณ</AncientChembarrel.label>
   <!-- EN: A rusted barrel that once stored chemfuel. It's empty and corroded. -->
-  <AncientChembarrel.description>ถังที่เป็นสนิมซึ่งเคยเก็บเชื้อเพลิงเคมี มันว่างเปล่าและสึกกร่อน</AncientChembarrel.description>
+  <AncientChembarrel.description>ถังขึ้นสนิมซึ่งเคยเก็บเชื้อเพลิงเคมี มันว่างเปล่าและสึกกร่อน</AncientChembarrel.description>
   
   <!-- EN: ancient chembarrel pallet -->
   <AncientChembarrelPallet.label>แท่นวางถังเคมีโบราณ</AncientChembarrelPallet.label>
   <!-- EN: A stack of rusted barrels on a decayed pallet. Any valuable fuel leaked out long ago. -->
-  <AncientChembarrelPallet.description>กองถังที่เป็นสนิมบนแท่นวางที่ผุพัง เชื้อเพลิงที่มีค่าใดๆ รั่วไหลออกไปนานแล้ว</AncientChembarrelPallet.description>
+  <AncientChembarrelPallet.description>กองถังขึ้นสนิมบนแท่นวางที่ผุพัง เชื้อเพลิงที่มีค่าใดๆ รั่วไหลออกไปนานแล้ว</AncientChembarrelPallet.description>
   
   <!-- EN: ancient chemtruck -->
   <AncientChemtruck.label>รถบรรทุกเคมีโบราณ</AncientChemtruck.label>
@@ -59,12 +59,12 @@
   <!-- EN: ruined crane arm -->
   <AncientCraneArm.label>แขนเครนที่พัง</AncientCraneArm.label>
   <!-- EN: A rusted crane arm, twisted and broken. -->
-  <AncientCraneArm.description>แขนเครนที่เป็นสนิม บิดเบี้ยวและหัก</AncientCraneArm.description>
+  <AncientCraneArm.description>แขนเครนขึ้นสนิม บิดเบี้ยวและหัก</AncientCraneArm.description>
   
   <!-- EN: ruined crane arm -->
   <AncientCraneArmSmall.label>แขนเครนที่พัง</AncientCraneArmSmall.label>
   <!-- EN: A smaller chunk of a crane arm, snapped and rusted. -->
-  <AncientCraneArmSmall.description>ชิ้นส่วนเล็กๆ ของแขนเครน หักและเป็นสนิม</AncientCraneArmSmall.description>
+  <AncientCraneArmSmall.description>ชิ้นส่วนเล็กๆ ของแขนเครน หักและขึ้นสนิม</AncientCraneArmSmall.description>
   
   <!-- EN: ruined crane base -->
   <AncientCraneBase.label>ฐานเครนที่พัง</AncientCraneBase.label>
@@ -74,7 +74,7 @@
   <!-- EN: ruined crane column -->
   <AncientCraneColumn.label>เสาเครนที่พัง</AncientCraneColumn.label>
   <!-- EN: A vertical support column from a ruined crane. It's rusted and no longer stable. -->
-  <AncientCraneColumn.description>เสาค้ำแนวตั้งจากเครนที่พัง มันเป็นสนิมและไม่มั่นคงอีกต่อไป</AncientCraneColumn.description>
+  <AncientCraneColumn.description>เสาค้ำแนวตั้งจากเครนที่พัง มันขึ้นสนิมและไม่มั่นคงอีกต่อไป</AncientCraneColumn.description>
   
   <!-- EN: ancient crate pallet -->
   <AncientCratePallet.label>แท่นวางลังโบราณ</AncientCratePallet.label>
@@ -92,9 +92,9 @@
   <AncientDestroyedConsoleLarge.description>คอนโซลที่พัง ตอนนี้มันใช้งานไม่ได้โดยสิ้นเชิง ชิ้นส่วนที่ใช้งานได้ของมันถูกทุบหรือปล้นไปนานแล้ว</AncientDestroyedConsoleLarge.description>
   
   <!-- EN: rusted double bed -->
-  <AncientDoubleBed.label>เตียงคู่ที่เป็นสนิม</AncientDoubleBed.label>
+  <AncientDoubleBed.label>เตียงคู่ขึ้นสนิม</AncientDoubleBed.label>
   <!-- EN: A double bed with a sagging, rusted frame. It's better than sleeping on the ground, but just barely. -->
-  <AncientDoubleBed.description>เตียงคู่ที่มีโครงที่หย่อนคล้อยและเป็นสนิม มันดีกว่าการนอนบนพื้น แต่ก็แค่เล็กน้อย</AncientDoubleBed.description>
+  <AncientDoubleBed.description>เตียงคู่ที่มีโครงที่หย่อนคล้อยและขึ้นสนิม มันดีกว่าการนอนบนพื้น แต่ก็แค่เล็กน้อย</AncientDoubleBed.description>
   
   <!-- EN: ancient drill rig -->
   <AncientDrillPlatform.label>แท่นขุดเจาะโบราณ</AncientDrillPlatform.label>
@@ -104,17 +104,17 @@
   <!-- EN: ancient excavator -->
   <AncientExcavator.label>รถขุดโบราณ</AncientExcavator.label>
   <!-- EN: The remains of a mining vehicle. The valuable parts were looted long ago. -->
-  <AncientExcavator.description>ซากของยานพาหนะทำเหมือง ชิ้นส่วนที่มีค่าถูกปล้นไปนานแล้ว</AncientExcavator.description>
+  <AncientExcavator.description>ซากของยานพาหนะขุดเหมือง ชิ้นส่วนที่มีค่าถูกปล้นไปนานแล้ว</AncientExcavator.description>
   
   <!-- EN: rusted filing cabinet -->
-  <AncientFilingCabinet.label>ตู้เก็บเอกสารที่เป็นสนิม</AncientFilingCabinet.label>
+  <AncientFilingCabinet.label>ตู้เก็บเอกสารขึ้นสนิม</AncientFilingCabinet.label>
   <!-- EN: A corroded filing cabinet. There's nothing useful left inside. -->
   <AncientFilingCabinet.description>ตู้เก็บเอกสารที่สึกกร่อน ไม่มีอะไรที่มีประโยชน์เหลืออยู่ข้างใน</AncientFilingCabinet.description>
   
   <!-- EN: ruined forklift -->
   <AncientForklift.label>รถยกที่พัง</AncientForklift.label>
   <!-- EN: A broken forklift, rusted and missing parts. It's far too damaged to be repaired. -->
-  <AncientForklift.description>รถยกที่พัง เป็นสนิมและชิ้นส่วนหายไป มันเสียหายเกินกว่าจะซ่อมแซมได้</AncientForklift.description>
+  <AncientForklift.description>รถยกที่พัง ขึ้นสนิมและชิ้นส่วนหายไป มันเสียหายเกินกว่าจะซ่อมแซมได้</AncientForklift.description>
   
   <!-- EN: ancient industrial shelf -->
   <AncientIndustrialShelf.label>ชั้นวางอุตสาหกรรมโบราณ</AncientIndustrialShelf.label>
@@ -122,22 +122,22 @@
   <AncientIndustrialShelf.description>ชั้นวางอุตสาหกรรมที่ปกคลุมไปด้วยสนิม มันไม่มีอะไรที่มีค่า</AncientIndustrialShelf.description>
   
   <!-- EN: rusted industrial truck -->
-  <AncientIndustrialTruck.label>รถบรรทุกอุตสาหกรรมที่เป็นสนิม</AncientIndustrialTruck.label>
+  <AncientIndustrialTruck.label>รถบรรทุกอุตสาหกรรมขึ้นสนิม</AncientIndustrialTruck.label>
   <!-- EN: An industrial truck, heavily rusted and abandoned. The engine is beyond repair. -->
   <AncientIndustrialTruck.description>รถบรรทุกอุตสาหกรรม ขึ้นสนิมอย่างหนักและถูกทิ้งร้าง เครื่องยนต์เกินกว่าจะซ่อมแซมได้</AncientIndustrialTruck.description>
   
   <!-- EN: rusted lockers -->
-  <AncientLockers.label>ตู้ล็อกเกอร์ที่เป็นสนิม</AncientLockers.label>
+  <AncientLockers.label>ตู้ล็อกเกอร์ขึ้นสนิม</AncientLockers.label>
   <!-- EN: A set of metal lockers, heavily rusted and bent. They've been thoroughly looted. -->
   <AncientLockers.description>ชุดตู้ล็อกเกอร์โลหะ ขึ้นสนิมอย่างหนักและงอ พวกมันถูกปล้นไปอย่างหมดจด</AncientLockers.description>
   
   <!-- EN: ancient container -->
-  <AncientMediumContainer.label>ภาชนะโบราณ</AncientMediumContainer.label>
+  <AncientMediumContainer.label>ตู้คอนเทนเนอร์โบราณ</AncientMediumContainer.label>
   <!-- EN: A rusted shipping container. It's completely empty. -->
-  <AncientMediumContainer.description>ตู้คอนเทนเนอร์ขนส่งที่เป็นสนิม มันว่างเปล่าโดยสิ้นเชิง</AncientMediumContainer.description>
+  <AncientMediumContainer.description>ตู้คอนเทนเนอร์ขนส่งขึ้นสนิม มันว่างเปล่าโดยสิ้นเชิง</AncientMediumContainer.description>
   
   <!-- EN: rusted metal crate -->
-  <AncientMetalCrate.label>ลังโลหะที่เป็นสนิม</AncientMetalCrate.label>
+  <AncientMetalCrate.label>ลังโลหะขึ้นสนิม</AncientMetalCrate.label>
   <!-- EN: A metal crate, now rusted shut. It's empty and worthless. -->
   <AncientMetalCrate.description>ลังโลหะ ตอนนี้ขึ้นสนิมปิดตาย มันว่างเปล่าและไร้ค่า</AncientMetalCrate.description>
   
@@ -147,9 +147,9 @@
   <AncientMilitaryBarrier.description>แผงกั้นคอนกรีตที่เคยใช้สำหรับด่านทหาร</AncientMilitaryBarrier.description>
   
   <!-- EN: ancient military generator -->
-  <AncientMilitaryGeneratorSmall.label>เครื่องกำเนิดไฟฟ้าทหารโบราณ</AncientMilitaryGeneratorSmall.label>
+  <AncientMilitaryGeneratorSmall.label>เครื่องปั่นไฟทางทหารโบราณ</AncientMilitaryGeneratorSmall.label>
   <!-- EN: A small rusted generator. The fuel tank is empty and the engine is beyond repair. -->
-  <AncientMilitaryGeneratorSmall.description>เครื่องกำเนิดไฟฟ้าขนาดเล็กที่เป็นสนิม ถังน้ำมันว่างเปล่าและเครื่องยนต์เกินกว่าจะซ่อมแซมได้</AncientMilitaryGeneratorSmall.description>
+  <AncientMilitaryGeneratorSmall.description>เครื่องปั่นไฟขนาดเล็กขึ้นสนิม ถังน้ำมันว่างเปล่าและเครื่องยนต์นั้นยากจะซ่อมแซมได้</AncientMilitaryGeneratorSmall.description>
   
   <!-- EN: busted mortar -->
   <AncientMortar.label>ปืนครกที่พัง</AncientMortar.label>
@@ -157,9 +157,9 @@
   <AncientMortar.description>ฐานปืนครกที่แตกละเอียด มันถูกทุบและจะไม่มีวันทำงานอีกต่อไป</AncientMortar.description>
   
   <!-- EN: rusted open container -->
-  <AncientOpenContainer.label>ภาชนะเปิดที่เป็นสนิม</AncientOpenContainer.label>
+  <AncientOpenContainer.label>ภาชนะเปิดขึ้นสนิม</AncientOpenContainer.label>
   <!-- EN: A rusted shipping container. Its contents are worthless. -->
-  <AncientOpenContainer.description>ตู้คอนเทนเนอร์ขนส่งที่เป็นสนิม สิ่งของภายในไร้ค่า</AncientOpenContainer.description>
+  <AncientOpenContainer.description>ตู้คอนเทนเนอร์ขนส่งขึ้นสนิม สิ่งของภายในนั้นไม่มีค่า</AncientOpenContainer.description>
   
   <!-- EN: ancient pipe -->
   <AncientPipe.label>ท่อโบราณ</AncientPipe.label>
@@ -172,7 +172,7 @@
   <AncientPlantPot.description>กระถางขนาดใหญ่ที่แตกร้าวพร้อมดินที่ตายแล้ว ไม่มีอะไรสามารถเติบโตที่นี่ได้อีกต่อไป</AncientPlantPot.description>
   
   <!-- EN: rusted microwave -->
-  <AncientRustedMicrowave.label>ไมโครเวฟที่เป็นสนิม</AncientRustedMicrowave.label>
+  <AncientRustedMicrowave.label>ไมโครเวฟขึ้นสนิม</AncientRustedMicrowave.label>
   <!-- EN: An ancient microwave covered in rust. It's beyond repair. -->
   <AncientRustedMicrowave.description>ไมโครเวฟโบราณที่ปกคลุมไปด้วยสนิม มันเกินกว่าจะซ่อมแซมได้</AncientRustedMicrowave.description>
   
@@ -192,14 +192,14 @@
   <AncientSimpleResearchBench.description>โต๊ะวิจัยพื้นฐานเก่าๆ พร้อมเครื่องมือที่สึกกร่อนและบันทึกที่ซีดจาง ไม่มีอะไรที่มีค่าเหลืออยู่</AncientSimpleResearchBench.description>
   
   <!-- EN: rusted bed -->
-  <AncientSingleBed.label>เตียงที่เป็นสนิม</AncientSingleBed.label>
+  <AncientSingleBed.label>เตียงขึ้นสนิม</AncientSingleBed.label>
   <!-- EN: A single bed frame with rusted metal and a torn mattress. It's better than sleeping on the ground, but just barely. -->
-  <AncientSingleBed.description>โครงเตียงเดี่ยวพร้อมโลหะที่เป็นสนิมและที่นอนที่ขาด มันดีกว่าการนอนบนพื้น แต่ก็แค่เล็กน้อย</AncientSingleBed.description>
+  <AncientSingleBed.description>โครงเตียงเดี่ยวพร้อมโลหะขึ้นสนิมและที่นอนที่ขาด มันดีกว่าการนอนบนพื้น แต่ก็แค่เล็กน้อย</AncientSingleBed.description>
   
   <!-- EN: ancient container -->
   <AncientSmallContainer.label>ภาชนะโบราณ</AncientSmallContainer.label>
   <!-- EN: A rusted shipping container. It's completely empty. -->
-  <AncientSmallContainer.description>ตู้คอนเทนเนอร์ขนส่งที่เป็นสนิม มันว่างเปล่าโดยสิ้นเชิง</AncientSmallContainer.description>
+  <AncientSmallContainer.description>ตู้คอนเทนเนอร์ขนส่งขึ้นสนิม มันว่างเปล่าโดยสิ้นเชิง</AncientSmallContainer.description>
   
   <!-- EN: ancient small shelf -->
   <AncientSmallShelf.label>ชั้นวางขนาดเล็กโบราณ</AncientSmallShelf.label>
@@ -217,14 +217,14 @@
   <AncientTableButcher.description>โต๊ะชำแหละที่พังเปรอะเปื้อนไปด้วยคราบเก่า</AncientTableButcher.description>
   
   <!-- EN: ancient drug lab -->
-  <AncientTableDrugLab.label>ห้องปฏิบัติการยาโบราณ</AncientTableDrugLab.label>
+  <AncientTableDrugLab.label>แล็บผลิตยาโบราณ</AncientTableDrugLab.label>
   <!-- EN: A crumbling lab table with shattered glassware. The equipment is useless and contaminated. -->
   <AncientTableDrugLab.description>โต๊ะปฏิบัติการที่พังทลายพร้อมเครื่องแก้วที่แตกละเอียด อุปกรณ์ไร้ประโยชน์และปนเปื้อน</AncientTableDrugLab.description>
   
   <!-- EN: ancient machining table -->
   <AncientTableMachining.label>โต๊ะเครื่องจักรโบราณ</AncientTableMachining.label>
   <!-- EN: A rusted machining table covered in debris. All useful parts have been scavenged. -->
-  <AncientTableMachining.description>โต๊ะเครื่องจักรที่เป็นสนิมปกคลุมไปด้วยเศษซาก ชิ้นส่วนที่มีประโยชน์ทั้งหมดถูกเก็บไปแล้ว</AncientTableMachining.description>
+  <AncientTableMachining.description>โต๊ะเครื่องจักรขึ้นสนิมปกคลุมไปด้วยเศษซาก ชิ้นส่วนที่มีประโยชน์ทั้งหมดถูกเก็บไปแล้ว</AncientTableMachining.description>
   
   <!-- EN: ancient electric smithy -->
   <AncientTableSmithingElectric.label>โรงตีเหล็กไฟฟ้าโบราณ</AncientTableSmithingElectric.label>
@@ -232,7 +232,7 @@
   <AncientTableSmithingElectric.description>โรงตีเหล็กไฟฟ้าที่พังยับเยินพร้อมสายไฟที่หลุดลุ่ยและพื้นผิวที่ไหม้เกรียม มันเกินกว่าจะซ่อมแซมได้</AncientTableSmithingElectric.description>
   
   <!-- EN: ancient fueled smithy -->
-  <AncientTableSmithingFueled.label>โรงตีเหล็กใช้เชื้อเพลิงโบราณ</AncientTableSmithingFueled.label>
+  <AncientTableSmithingFueled.label>โรงตีเหล็กเชื้อเพลิงโบราณ</AncientTableSmithingFueled.label>
   <!-- EN: An ancient smithy that once burned fuel for crafting. Now, it's covered in soot and rust. -->
   <AncientTableSmithingFueled.description>โรงตีเหล็กโบราณที่เคยเผาเชื้อเพลิงเพื่อการประดิษฐ์ ตอนนี้มันถูกปกคลุมไปด้วยเขม่าและสนิม</AncientTableSmithingFueled.description>
   
@@ -242,9 +242,9 @@
   <AncientTableStoveElectric.description>เตาไฟฟ้าเก่าพร้อมองค์ประกอบความร้อนที่แตกละเอียด มันเสียหายเกินกว่าจะใช้งานได้</AncientTableStoveElectric.description>
   
   <!-- EN: ancient fueled stove -->
-  <AncientTableStoveFueled.label>เตาใช้เชื้อเพลิงโบราณ</AncientTableStoveFueled.label>
+  <AncientTableStoveFueled.label>เตาเชื้อเพลิงโบราณ</AncientTableStoveFueled.label>
   <!-- EN: A rusted cooking stove. It's beyond unusable. -->
-  <AncientTableStoveFueled.description>เตาทำอาหารที่เป็นสนิม มันใช้งานไม่ได้แล้ว</AncientTableStoveFueled.description>
+  <AncientTableStoveFueled.description>เตาทำอาหารขึ้นสนิม มันเกินกว่าจะใช้งานได้</AncientTableStoveFueled.description>
   
   <!-- EN: ancient electric tailor bench -->
   <AncientTableTailorElectric.label>โต๊ะตัดเย็บไฟฟ้าโบราณ</AncientTableTailorElectric.label>
@@ -254,22 +254,22 @@
   <!-- EN: ancient hand tailor bench -->
   <AncientTableTailorHand.label>โต๊ะตัดเย็บด้วยมือโบราณ</AncientTableTailorHand.label>
   <!-- EN: A simple tailor's bench with splintered wood and rusted needles. Nothing useful remains. -->
-  <AncientTableTailorHand.description>โต๊ะตัดเย็บธรรมดาพร้อมไม้ที่แตกเป็นเสี้ยนและเข็มที่เป็นสนิม ไม่มีอะไรที่มีประโยชน์เหลืออยู่</AncientTableTailorHand.description>
+  <AncientTableTailorHand.description>โต๊ะตัดเย็บธรรมดาพร้อมไม้ที่แตกเป็นเสี้ยนและเข็มขึ้นสนิม ไม่มีอะไรที่มีประโยชน์เหลืออยู่</AncientTableTailorHand.description>
   
   <!-- EN: ancient tunneler claw -->
   <AncientTunnelerClaw.label>กรงเล็บเครื่องขุดอุโมงค์โบราณ</AncientTunnelerClaw.label>
   <!-- EN: The claw of an ancient mining mechanoid. All the parts are degraded to uselessness. -->
-  <AncientTunnelerClaw.description>กรงเล็บของเมคานอยด์ทำเหมืองโบราณ ชิ้นส่วนทั้งหมดเสื่อมสภาพจนไร้ประโยชน์</AncientTunnelerClaw.description>
+  <AncientTunnelerClaw.description>กรงเล็บของเมคคานอยด์ขุดเหมืองโบราณ ชิ้นส่วนทั้งหมดเสื่อมสภาพจนไร้ประโยชน์</AncientTunnelerClaw.description>
   
   <!-- EN: ancient tunneler husk -->
   <AncientTunnelerHusk.label>ซากเครื่องขุดอุโมงค์โบราณ</AncientTunnelerHusk.label>
   <!-- EN: The remains of an ancient mining mechanoid. Its complex parts are all degraded to uselessness. -->
-  <AncientTunnelerHusk.description>ซากของเมคานอยด์ทำเหมืองโบราณ ชิ้นส่วนที่ซับซ้อนของมันทั้งหมดเสื่อมสภาพจนไร้ประโยชน์</AncientTunnelerHusk.description>
+  <AncientTunnelerHusk.description>ซากของเมคคานอยด์ขุดเหมืองโบราณ ชิ้นส่วนที่ซับซ้อนของมันทั้งหมดเสื่อมสภาพจนไร้ประโยชน์</AncientTunnelerHusk.description>
   
   <!-- EN: busted television -->
   <AncientTV.label>โทรทัศน์ที่พัง</AncientTV.label>
   <!-- EN: A shattered television set. The screen is broken and the electronics are stripped out. -->
-  <AncientTV.description>เครื่องรับโทรทัศน์ที่แตกละเอียด หน้าจอแตกและอุปกรณ์อิเล็กทรอนิกส์ถูกถอดออกไปแล้ว</AncientTV.description>
+  <AncientTV.description>ชุดโทรทัศน์ที่แตกละเอียด หน้าจอแตกและอุปกรณ์อิเล็กทรอนิกส์ก็ถูกถอดออกไปแล้ว</AncientTV.description>
   
   <!-- EN: broken uranium slug turret -->
   <AncientUraniumSlugTurret.label>ป้อมปืนกระสุนยูเรเนียมที่พัง</AncientUraniumSlugTurret.label>
