@@ -3,18 +3,18 @@
 
   <!-- Research -->
   <!-- EN: Grav engine must be inspected -->
-  <MissingGravEngineInspection>TODO</MissingGravEngineInspection>
+  <MissingGravEngineInspection>กราฟเอนจิ้นต้องถูกตรวจสอบ</MissingGravEngineInspection>
   <!-- EN: Requires inspection of -->
-  <RequiresInspectionof>TODO</RequiresInspectionof>
+  <RequiresInspectionof>ต้องมีการตรวจสอบของ</RequiresInspectionof>
   <!-- EN: Grav engine inspected -->
-  <RequireGravEngineInspected>TODO</RequireGravEngineInspected>
+  <RequireGravEngineInspected>กราฟเอนจิ้นถูกตรวจสอบแล้ว</RequireGravEngineInspected>
   
   <!-- Ancient vents -->
   <!-- EN: venting smoke. -->
-  <AncientSmokeVentActive>TODO</AncientSmokeVentActive>
+  <AncientSmokeVentActive>กำลังระบายควัน</AncientSmokeVentActive>
   <!-- EN: creating toxic fallout. -->
-  <AncientToxVentActive>TODO</AncientToxVentActive>
+  <AncientToxVentActive>กำลังสร้างฝุ่นรังสีพิษ</AncientToxVentActive>
   <!-- EN: venting heat. -->
-  <AncientHeatVentActive>TODO</AncientHeatVentActive>
+  <AncientHeatVentActive>กำลังระบายความร้อน</AncientHeatVentActive>
   
 </LanguageData>

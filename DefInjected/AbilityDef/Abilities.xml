@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <LanguageData>
   
   <!-- EN: call drop pods -->
   <CallDropPods.label>เรียกยานกระสวย</CallDropPods.label>
   <!-- EN: Summon drop pods that you can use to travel to another location. -->
-  <CallDropPods.description>เรียกดรอปพอดที่คุณสามารถใช้เพื่อเดินทางไปยังตำแหน่งอื่นได้</CallDropPods.description>
+  <CallDropPods.description>เรียกยานกระสวยที่คุณสามารถใช้เพื่อเดินทางไปยังตำแหน่งอื่นได้</CallDropPods.description>
   
   <!-- EN: call mechanoids -->
   <CallMechanoids.label>เรียกเมคคานอยด์</CallMechanoids.label>
   <!-- EN: Summon hostile mechanoids to a location using drop pods. They will attack all nearby humans - friend or foe. -->
-  <CallMechanoids.description>เรียกจักรกลที่ไม่เป็นมิตรมายังตำแหน่งโดยใช้ดรอปพอด พวกมันจะโจมตีมนุษย์ทุกคนในบริเวณใกล้เคียง ไม่ว่าจะเป็นมิตรหรือศัตรู</CallMechanoids.description>
+  <CallMechanoids.description>เรียกเมคานอยด์ที่ไม่เป็นมิตรมายังตำแหน่งโดยใช้ยานกระสวย พวกมันจะโจมตีมนุษย์ทุกคนในบริเวณใกล้เคียง ไม่ว่าจะเป็นมิตรหรือศัตรู</CallMechanoids.description>
   
   <!-- EN: deactivate mechanoid -->
   <DeactivateMechanoid.label>ปิดใช้งานเมคคานอยด์</DeactivateMechanoid.label>
   <!-- EN: Permanently disable a hostile mechanoid. -->
-  <DeactivateMechanoid.description>ปิดใช้งานเมคคานอยด์ศัตรูอย่างถาวร</DeactivateMechanoid.description>
+  <DeactivateMechanoid.description>ปิดใช้งานเมคคานอยด์ที่ไม่เป็นมิตรอย่างถาวร</DeactivateMechanoid.description>
   
   <!-- EN: egg spew -->
   <EggSpew.label>พ่นไข่</EggSpew.label>
@@ -27,18 +27,18 @@
   <SludgeSpew.description>พ่นเมือกที่มีฤทธิ์เป็นกรดไปทั่วบริเวณเป้าหมาย เมือกจะเกาะติดกับเป้าหมายและเผาไหม้พวกมัน</SludgeSpew.description>
   
   <!-- EN: terror roar -->
-  <TerrorRoar.label>เสียงคำรามสยองขวัญ</TerrorRoar.label>
+  <TerrorRoar.label>เสียงคำรามเขย่าขวัญ</TerrorRoar.label>
   <!-- EN: Release a terrifying roar which has a chance to send nearby hostile humans and animals fleeing in terror. -->
   <TerrorRoar.description>ปล่อยเสียงคำรามอันน่าสะพรึงกลัวซึ่งมีโอกาสทำให้มนุษย์และสัตว์ที่ไม่เป็นมิตรในบริเวณใกล้เคียงหนีไปด้วยความหวาดกลัว</TerrorRoar.description>
   
   <!-- EN: thrumbo roar -->
-  <ThrumboRoar.label>เสียงคำรามทรัมโบ</ThrumboRoar.label>
+  <ThrumboRoar.label>เสียงคำรามธรัมโบ</ThrumboRoar.label>
   <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
-  <ThrumboRoar.description>ปล่อยเสียงคำรามอันทรงพลังซึ่งมีโอกาสทำให้มนุษย์และสัตว์ที่ไม่เป็นมิตรตัวสั่นด้วยความกลัว ลดความเร็วในการเคลื่อนที่และการควบคุมลง</ThrumboRoar.description>
+  <ThrumboRoar.description>ปล่อยเสียงคำรามอันทรงพลังซึ่งมีโอกาสทำให้มนุษย์และสัตว์ที่ไม่เป็นมิตรตัวสั่นด้วยความหวาดกลัว ลดความเร็วในการเคลื่อนที่และการควบคุมลง</ThrumboRoar.description>
   
   <!-- EN: war trumpet -->
   <WarTrumpet.label>แตรสงคราม</WarTrumpet.label>
   <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
-  <WarTrumpet.description>ปล่อยเสียงคำรามอันทรงพลังซึ่งมีโอกาสทำให้มนุษย์และสัตว์ที่ไม่เป็นมิตรตัวสั่นด้วยความกลัว ลดความเร็วในการเคลื่อนที่และการควบคุมลง</WarTrumpet.description>
+  <WarTrumpet.description>ปล่อยเสียงคำรามอันทรงพลังซึ่งมีโอกาสทำให้มนุษย์และสัตว์ที่ไม่เป็นมิตรตัวสั่นด้วยความหวาดกลัว ลดความเร็วในการเคลื่อนที่และการควบคุมลง</WarTrumpet.description>
   
 </LanguageData>

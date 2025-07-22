@@ -2,30 +2,30 @@
 <LanguageData>
 
   <!-- EN: Vacuum exposure -->
-  <AlertVacuumExposure>TODO</AlertVacuumExposure>
+  <AlertVacuumExposure>การสัมผัสสูญญากาศ</AlertVacuumExposure>
   <!-- EN: These people and animals are suffering from exposure to the vacuum of space:\n{0}\n\nGet them to a pressurized area before they die. -->
-  <AlertVacuumExposureDesc>TODO</AlertVacuumExposureDesc>
+  <AlertVacuumExposureDesc>คคลและสัตว์เหล่านี้กำลังทุกข์ทรมานจากการสัมผัสสูญญากาศของอวกาศ:\n{0}\n\nพาพวกเขาไปยังพื้นที่ที่มีแรงดันก่อนที่จะสายเกินไป</AlertVacuumExposureDesc>
 
   <!-- EN: Mechanoid threat -->
-  <AlertMechanoidThreat>TODO</AlertMechanoidThreat>
+  <AlertMechanoidThreat>ภัยคุกคามจากเมคคานอยด์</AlertMechanoidThreat>
   <!-- EN: A mechhive is conducting scans to determine your location. It will send a massive raid of hostile mechanoids when it locates you.\n\nFlee the map before mechanoids arrive! -->
-  <AlertMechanoidThreatDesc>TODO</AlertMechanoidThreatDesc>
+  <AlertMechanoidThreatDesc>เมคไฮฟ์กำลังสแกนเพื่อตรวจหาตำแหน่งของคุณ มันจะส่งกองกำลังขนาดใหญ่ของเมคคานอยด์ที่ไม่เป็นมิตรเข้าจู่โจมเมื่อพบเป้าหมาย\n\nหนีจากแผนที่ก่อนพวกมันจะมาถึง!</AlertMechanoidThreatDesc>
   <!-- EN: Incoming mechanoids -->
-  <AlertMechanoidThreatCritical>TODO</AlertMechanoidThreatCritical>
+  <AlertMechanoidThreatCritical>เมคคานอยด์กำลังมา</AlertMechanoidThreatCritical>
   <!-- EN: A mechhive has discovered your location. It will continue to send hostile mechanoids until you flee this location. -->
-  <AlertMechanoidThreatCriticalDesc>TODO</AlertMechanoidThreatCriticalDesc>
+  <AlertMechanoidThreatCriticalDesc>เมคไฮฟ์ค้นพบตำแหน่งของคุณแล้ว และจะส่งเมคานอยด์ที่ไม่เป็นมิตรเข้ามาเรื่อยๆ จนกว่าคุณจะหลบหนีออกจากพื้นที่นี้</AlertMechanoidThreatCriticalDesc>
 
   <!-- Mechhive -->
   <!-- EN: Stabilizers remaining -->
-  <StabilizersRemainingAlertLabel>TODO</StabilizersRemainingAlertLabel>
+  <StabilizersRemainingAlertLabel>เครื่องรักษาสมดุลที่เหลืออยู่</StabilizersRemainingAlertLabel>
   <!-- EN: The cerebrex core is currently invulnerable. Find and destroy its stabilizers to gain access to the core. -->
-  <StabilizersRemainingAlertDescription>TODO</StabilizersRemainingAlertDescription>
+  <StabilizersRemainingAlertDescription>แกนซีลีเบร็กซ์ยังไม่สามารถทำลายได้ในขณะนี้ ค้นหาและทำลายเครื่องรักษาสมดุลของมันเพื่อเข้าถึงแกนหลัก</StabilizersRemainingAlertDescription>
 
   <!-- Relay -->
   <!-- EN: Stabilizers remaining -->
-  <RelayStabilizersRemainingAlertLabel>TODO</RelayStabilizersRemainingAlertLabel>
+  <RelayStabilizersRemainingAlertLabel>เครื่องรักษาสมดุลที่เหลืออยู่</RelayStabilizersRemainingAlertLabel>
   <!-- EN: The relay is currently protected by nearby stabilizers. Destroy or hack them to destabilize it. -->
-  <RelayStabilizersRemainingAlertDescription>TODO</RelayStabilizersRemainingAlertDescription>
+  <RelayStabilizersRemainingAlertDescription>รีเลย์ถูกป้องกันโดยเครื่องรักษาสมดุลที่อยู่ใกล้เคียง ทำลายหรือแฮ็คพวกมันเพื่อทำให้ระบบรีเลย์ไม่เสถียร</RelayStabilizersRemainingAlertDescription>
 
   <!-- Scanner -->
   <!-- EN: Protect the scanner -->

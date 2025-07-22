@@ -3,65 +3,65 @@
 
   <!-- Grav engine/substructrues -->
   <!-- EN: Are you sure you want to launch?\n\nYour current map, as well as anything not on gravship substructure, will be permanently lost. The launch process is destructive, meaning you won't be able to return. -->
-  <ConfirmGravEngineLaunch>TODO</ConfirmGravEngineLaunch>
+  <ConfirmGravEngineLaunch>คุณแน่ใจหรือไม่ว่าคุณต้องการปล่อยตัว?\n\nแผนที่ปัจจุบันของคุณ รวมถึงสิ่งใดก็ตามที่ไม่ได้อยู่ในโครงพื้นยานกราฟชิปจะหายไปอย่างถาวร กระบวนการปล่อยตัวเป็นการทำลายล้าง ซึ่งหมายความว่าคุณจะไม่สามารถกลับมาได้</ConfirmGravEngineLaunch>
   <!-- EN: Warning -->
-  <GravEngineWarning>TODO</GravEngineWarning>
+  <GravEngineWarning>คำเตือน</GravEngineWarning>
   <!-- EN: The following people will be left behind -->
-  <PeopleWillBeLeftBehind>TODO</PeopleWillBeLeftBehind>
+  <PeopleWillBeLeftBehind>บุคคลต่อไปนี้จะถูกทิ้งไว้ข้างหลัง</PeopleWillBeLeftBehind>
   <!-- EN: The following will be left behind -->
-  <AnimalsWillBeLeftBehind>TODO</AnimalsWillBeLeftBehind>
+  <AnimalsWillBeLeftBehind>สิ่งต่อไปนี้จะถูกทิ้งไว้ข้างหลัง</AnimalsWillBeLeftBehind>
   <!-- EN: The following people and animals from another faction will be taken with you. This will upset their faction, potentially turning them hostile -->
-  <PawnsKidnappedOnGravship>TODO</PawnsKidnappedOnGravship>
+  <PawnsKidnappedOnGravship>ผู้คนและสัตว์ต่อไปนี้จากฝักฝ่ายอื่นจะถูกพาไปกับคุณ นี่จะทำให้ฝักฝ่ายของพวกเขาไม่พอใจจนอาจทำให้พวกเขากลายเป็นศัตรู</PawnsKidnappedOnGravship>
   <!-- EN: The following buildings are not fully on the gravship and will be left behind -->
-  <BuildingsWillBeLeftBehind>TODO</BuildingsWillBeLeftBehind>
+  <BuildingsWillBeLeftBehind>สิ่งก่อสร้างอไปนี้ไม่ได้อยู่ในยานกราฟชิปอย่างสมบูรณ์ละจะถูกทิ้งไว้ข้างหลัง</BuildingsWillBeLeftBehind>
   <!-- EN: Some substructure has invalid placement and will be left behind -->
-  <SubstructureWillBeLeftBehind>TODO</SubstructureWillBeLeftBehind>
+  <SubstructureWillBeLeftBehind>โครงพื้นยานบางส่วนมีตำแหน่งที่ไม่ถูกต้องและจะถูกทิ้งไว้ข้างหลัง</SubstructureWillBeLeftBehind>
   <!-- EN: Disconnected from grav engine -->
-  <DisconnectedSubstructure>TODO</DisconnectedSubstructure>
+  <DisconnectedSubstructure>ไม่เชื่อมต่อกับกราฟเอนจิ้น</DisconnectedSubstructure>
   <!-- EN: Under rock roof -->
-  <SubstructureUnderRockRoof>TODO</SubstructureUnderRockRoof>
+  <SubstructureUnderRockRoof>อยู่ใต้เพดานหิน</SubstructureUnderRockRoof>
   <!-- EN: Out of range -->
-  <SubstructureOutsideFootprint>TODO</SubstructureOutsideFootprint>
+  <SubstructureOutsideFootprint>อยู่นอกระยะ</SubstructureOutsideFootprint>
 
   <!-- EN: {0} has high hopes for your new gravship and wants to christen it with a good name. What should your gravship be called? -->
-  <NamePlayerGravshipMessage>TODO</NamePlayerGravshipMessage>
+  <NamePlayerGravshipMessage>{0} มีความหวังที่สูงสำหรับยานกราฟชิปลำใหม่ของคุณและต้องการที่จะขนานนามมันด้วยชื่อที่เป็นสิริมงคล ยานกราฟชิปของคุณควรเรียกว่าอะไร?</NamePlayerGravshipMessage>
   <!-- EN: The gravship is now known as {0}. -->
-  <PlayerGravshipGainsName>TODO</PlayerGravshipGainsName>
+  <PlayerGravshipGainsName>ยานกราฟชิปเป็นที่รู้จักในนาม {0}</PlayerGravshipGainsName>
   <!-- EN: That name isn't valid. -->
-  <PlayerGravshipNameIsInvalid>TODO</PlayerGravshipNameIsInvalid>
+  <PlayerGravshipNameIsInvalid>ชื่อนั้นไม่ถูกต้อง</PlayerGravshipNameIsInvalid>
 
   <!-- EN: {0} are hostile. If you land here they will attack you. -->
-  <ConfirmLandOnHostileFactionBase>TODO</ConfirmLandOnHostileFactionBase>
+  <ConfirmLandOnHostileFactionBase>{0} เป็นศัตรู ถ้าคุณลงจอดที่นี่พวกเขาจะโจมตีคุณ</ConfirmLandOnHostileFactionBase>
   <!-- EN: Landing here will be seen as an aggressive act by {0}. They will become hostile and attack. -->
-  <ConfirmLandOnNeutralFactionBase>TODO</ConfirmLandOnNeutralFactionBase>
+  <ConfirmLandOnNeutralFactionBase>การลงจอดที่นี่จะถูกมองว่าเป็นการกระทำที่อุกอาจโดย {0} พวกเขาจะกลายเป็นศัตรูและโจมตี</ConfirmLandOnNeutralFactionBase>
 
   <!-- EN: Land here anyway? -->
-  <ConfirmLand>TODO</ConfirmLand>
+  <ConfirmLand>จอดที่นี่อยู่ดี?</ConfirmLand>
 
   <!-- EN: Orbital locations are dangerous. Make sure you're prepared:\n - Equip your colonists with vacsuits or other advanced armors.\n - Plan your return trip. Living in orbit for extended periods is extremely challenging. -->
-  <OrbitalWarning>TODO</OrbitalWarning>
+  <OrbitalWarning>สถานที่ในวงโคจรนั้นอันตรายมาก โปรดเตรียมตัวให้พร้อม:\n - ติดตั้งชุดสูญญากาศหรือเกราะขั้นสูงให้กับชาวนิคมของคุณ\n - วางแผนการเดินทางกลับไว้ล่วงหน้า การใช้ชีวิตในวงโคจรเป็นเวลานานนั้นเป็นเรื่องที่ท้าทายอย่างมาก</OrbitalWarning>
   <!-- EN: Prepare your gravship for orbit:\n- Use airtight walls and doors.\n- Ensure rooms are well heated and fully roofed.\n- Construct oxygen pumps. -->
-  <OrbitalWarning_Gravship>TODO</OrbitalWarning_Gravship>
+  <OrbitalWarning_Gravship>เตรียมยานกราฟชิปของคุณให้พร้อมสำหรับวงโคจร:\n - ใช้กำแพงและประตูกันอากาศ\n- ตรวจสอบให้แน่ใจว่าห้องมีความร้อนเพียงพอและมีหลังคาครบถ้วน\n - สร้างปั๊มออกซิเจน</OrbitalWarning_Gravship>
   <!-- EN: Warning -->
-  <OrbitalWarning_Warning>TODO</OrbitalWarning_Warning>
+  <OrbitalWarning_Warning>คำเตือน</OrbitalWarning_Warning>
   <!-- EN: Some exterior walls or doors are not airtight. -->
-  <OrbitalWarning_Vacuum>TODO</OrbitalWarning_Vacuum>
+  <OrbitalWarning_Vacuum>กำแพงด้านนอกหรือประตูบางส่วนไม่กันอากาศ</OrbitalWarning_Vacuum>
   <!-- EN: No functional heat sources. -->
-  <OrbitalWarning_NoHeatSources>TODO</OrbitalWarning_NoHeatSources>
+  <OrbitalWarning_NoHeatSources>ไม่มีแหล่งความร้อนที่ใช้งานได้</OrbitalWarning_NoHeatSources>
   <!-- EN: Few functional heat sources -->
-  <OrbitalWarning_FewHeatSources>TODO</OrbitalWarning_FewHeatSources>
+  <OrbitalWarning_FewHeatSources>แหล่งความร้อนที่ใช้งานได้มีน้อย</OrbitalWarning_FewHeatSources>
   <!-- EN: No functional oxygen pumps. -->
-  <OrbitalWarning_NoOxygenPumps>TODO</OrbitalWarning_NoOxygenPumps>
+  <OrbitalWarning_NoOxygenPumps>ไม่มีปั๊มออกซิเจนที่ใช้งานได้</OrbitalWarning_NoOxygenPumps>
   <!-- EN: Few functional oxygen pumps -->
-  <OrbitalWarning_FewOxygenPumps>TODO</OrbitalWarning_FewOxygenPumps>
+  <OrbitalWarning_FewOxygenPumps>ปั๊มออกซิเจนที่ใช้งานได้เหลือน้อย</OrbitalWarning_FewOxygenPumps>
 
   <!-- EN: The shuttle does not have enough fuel to return from this destination. It may be stranded.\n\nYou currently have {0} fuel but need {1} fuel for a return flight.\n\nAre you sure you want to continue? -->
-  <ConfirmShuttleNotEnoughFuelToReturn>TODO</ConfirmShuttleNotEnoughFuelToReturn>
+  <ConfirmShuttleNotEnoughFuelToReturn>ยานกระสวยไม่มีเชื้อเพลิงเพียงพอสำหรับเดินทางกลับจากจุดหมายนี้ อาจทำให้ติดแหง่กอยู่ที่นั่นได้\n\nคุณมีเชื้อเพลิงอยู่ {0} หน่วย แต่ต้องใช้ {1} หน่วยสำหรับการบินกลับ\n\nคุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?</ConfirmShuttleNotEnoughFuelToReturn>
   <!-- EN: Caravan is immobile due to shuttle -->
-  <CaravanMovementSpeedShuttle>TODO</CaravanMovementSpeedShuttle>
+  <CaravanMovementSpeedShuttle>คาราวานไม่สามารถเคลื่อนที่ได้เนื่องจากยานกระสวย</CaravanMovementSpeedShuttle>
   <!-- EN: Refuel {0}x chemfuel -->
-  <RefuelShuttleCount>TODO</RefuelShuttleCount>
+  <RefuelShuttleCount>เติมเชื้อเพลง {0}x เชื้อเพลิงเคมี</RefuelShuttleCount>
   <!-- EN: Zoom range (gravship) {0} -->
-  <ZoomRangeGravshipCutscene>TODO</ZoomRangeGravshipCutscene>
+  <ZoomRangeGravshipCutscene>ระยะซูม (ยานกราฟชิป) {0}</ZoomRangeGravshipCutscene>
 
 </LanguageData>

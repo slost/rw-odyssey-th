@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: fire EMP -->
-  <EMPPulse.label>ยิง EMP</EMPPulse.label>
+  <EMPPulse.label>ยิงอีเอ็มพี</EMPPulse.label>
   <!-- EN: Emit a burst of electromagnetic energy centered on the user. The burst will stun nearby mechanical targets like mechanoids or turrets. -->
-  <EMPPulse.description>ปล่อยคลื่นพลังงานแม่เหล็กไฟฟ้าโดยมีศูนย์กลางอยู่ที่ผู้ใช้ คลื่นพลังงานจะทำให้เป้าหมายที่เป็นเครื่องจักรในบริเวณใกล้เคียง เช่น จักรกลหรือป้อมปืน ตะลึงงัน</EMPPulse.description>
+  <EMPPulse.description>ปล่อยคลื่นพลังงานแม่เหล็กไฟฟ้าโดยมีศูนย์กลางอยู่ที่ผู้ใช้ คลื่นพลังงานจะสตั๊นเป้าหมายที่เป็นเครื่องจักรในบริเวณใกล้เคียง เช่น จักรกลหรือป้อมปืน</EMPPulse.description>
   
   <!-- EN: launch EMP shell -->
-  <LaunchEMPShell.label>ยิงกระสุน EMP</LaunchEMPShell.label>
+  <LaunchEMPShell.label>ยิงกระสุนอีเอ็มพี</LaunchEMPShell.label>
   <!-- EN: Launch a shell that releases a burst of electromagnetic energy, stunning mechanical targets. Can be reloaded using steel. -->
-  <LaunchEMPShell.description>ยิงกระสุนที่ปล่อยพลังงานแม่เหล็กไฟฟ้าออกมา ทำให้เป้าหมายที่เป็นเครื่องจักรตะลึงงัน. สามารถบรรจุใหม่ได้โดยใช้เหล็ก</LaunchEMPShell.description>
+  <LaunchEMPShell.description>ยิงกระสุนที่ปล่อยพลังงานแม่เหล็กไฟฟ้าออกมา สตั๊นเป้าหมายเป็นเครื่องจักร สามารถบรรจุใหม่ได้โดยใช้เหล็ก</LaunchEMPShell.description>
   
   <!-- EN: launch frag grenade -->
-  <LaunchFragGrenade.label>ยิงระเบิด</LaunchFragGrenade.label>
+  <LaunchFragGrenade.label>ยิงระเบิดมือ</LaunchFragGrenade.label>
   <!-- EN: Launch a grenade. Can be reloaded using steel. -->
-  <LaunchFragGrenade.description>ยิงระเบิด. สามารถบรรจุใหม่ได้โดยใช้เหล็ก</LaunchFragGrenade.description>
+  <LaunchFragGrenade.description>ยิงระเบิดมือ สามารถบรรจุใหม่ได้โดยใช้เหล็ก</LaunchFragGrenade.description>
   
   <!-- EN: launch incendiary shell -->
   <LaunchIncendiaryShell.label>ยิงกระสุนเพลิง</LaunchIncendiaryShell.label>
   <!-- EN: Launch a shell that creates an explosion on impact, igniting everything nearby. Can be reloaded using chemfuel. -->
-  <LaunchIncendiaryShell.description>ยิงกระสุนที่สร้างการระเบิดเมื่อกระทบ จุดไฟทุกสิ่งที่อยู่ใกล้เคียง. สามารถบรรจุใหม่ได้โดยใช้เชื้อเพลิงเคมี</LaunchIncendiaryShell.description>
+  <LaunchIncendiaryShell.description>ยิงกระสุนที่สร้างการระเบิดเมื่อกระทบ จุดไฟทุกสิ่งที่อยู่ใกล้เคียง สามารถบรรจุใหม่ได้โดยใช้เชื้อเพลิงเคมี</LaunchIncendiaryShell.description>
   
   <!-- EN: launch smoke shell -->
   <LaunchSmokeShell.label>ยิงกระสุนควัน</LaunchSmokeShell.label>
   <!-- EN: Launch a smoke shell that obscures incoming shots and prevents turrets from locking on. Can be reloaded using steel. -->
-  <LaunchSmokeShell.description>ยิงกระสุนควันที่บดบังการยิงที่เข้ามาและป้องกันไม่ให้ป้อมปืนล็อกเป้าหมาย. สามารถบรรจุใหม่ได้โดยใช้เหล็ก</LaunchSmokeShell.description>
+  <LaunchSmokeShell.description>ยิงกระสุนควันที่บดบังการยิงที่เข้ามาและป้องกันไม่ให้ป้อมปืนล็อกเป้าหมาย สามารถบรรจุใหม่ได้โดยใช้เหล็ก</LaunchSmokeShell.description>
   
 </LanguageData>

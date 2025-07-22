@@ -3,41 +3,41 @@
 
   <!-- Gravship -->
   <!-- EN: Gravship range offset -->
-  <StatsReport_GravshipRangeOffset>TODO</StatsReport_GravshipRangeOffset>
+  <StatsReport_GravshipRangeOffset>การชดเชยระยะยานกราฟชิป</StatsReport_GravshipRangeOffset>
   <!-- EN: How much further this building lets a gravship travel on the world map. -->
-  <StatsReport_GravshipRangeOffset_Desc>TODO</StatsReport_GravshipRangeOffset_Desc>
+  <StatsReport_GravshipRangeOffset_Desc>สิ่งก่อสร้างนี้ทำให้การเดินทางของยานกราฟชิปไปได้ไกลแค่ไหนบนแผนที่โลก</StatsReport_GravshipRangeOffset_Desc>
   <!-- EN: Fuel savings -->
-  <StatsReport_GravshipFuelSavings>TODO</StatsReport_GravshipFuelSavings>
+  <StatsReport_GravshipFuelSavings>การประหยัดเชื้อเพลิง</StatsReport_GravshipFuelSavings>
   <!-- EN: How much this building reduces fuel needed for gravship travel. -->
-  <StatsReport_GravshipFuelSavings_Desc>TODO</StatsReport_GravshipFuelSavings_Desc>
+  <StatsReport_GravshipFuelSavings_Desc>สิ่งก่อสร้างนี้ลดการใช้เชื้อเพลิงสำหรับการเดินทางของยานกราฟชิปเพียงใด</StatsReport_GravshipFuelSavings_Desc>
   <!-- EN: Fuel consumption -->
-  <StatsReport_GravEngineFuelConsumption>TODO</StatsReport_GravEngineFuelConsumption>
+  <StatsReport_GravEngineFuelConsumption>การใช้เชื้อเพลิง</StatsReport_GravEngineFuelConsumption>
   <!-- EN: A multiplier on how much fuel is needed during gravship travel. -->
-  <StatsReport_GravEngineFuelConsumption_Desc>TODO</StatsReport_GravEngineFuelConsumption_Desc>
+  <StatsReport_GravEngineFuelConsumption_Desc>ตัวคูณของจำนวนเชื้อเพลิงที่ต้องใช้ระหว่างการเดินทางของยานกราฟชิป</StatsReport_GravEngineFuelConsumption_Desc>
 
   <!-- EN: Traits -->
-  <Stat_ThingUniqueWeaponTrait_Label>TODO</Stat_ThingUniqueWeaponTrait_Label>
+  <Stat_ThingUniqueWeaponTrait_Label>คุณลักษณะ</Stat_ThingUniqueWeaponTrait_Label>
   <!-- EN: This weapon's individual traits. -->
-  <Stat_ThingUniqueWeaponTrait_Desc>TODO</Stat_ThingUniqueWeaponTrait_Desc>
+  <Stat_ThingUniqueWeaponTrait_Desc>คุณลักษณะเฉพาะของอาวุธชิ้นนี้</Stat_ThingUniqueWeaponTrait_Desc>
 
   <!-- EN: Weapon traits -->
-  <StatsReport_WeaponTraits>TODO</StatsReport_WeaponTraits>
+  <StatsReport_WeaponTraits>คุณลักษณะอาวุธ</StatsReport_WeaponTraits>
   <!-- EN: Burst shot count multiplier -->
-  <StatsReport_BurstShotCountMultiplier>TODO</StatsReport_BurstShotCountMultiplier>
+  <StatsReport_BurstShotCountMultiplier>ตัวคูณจำนวนการยิง</StatsReport_BurstShotCountMultiplier>
   <!-- EN: Fire rate multiplier -->
-  <StatsReport_BurstShotSpeedMultiplier>TODO</StatsReport_BurstShotSpeedMultiplier>
+  <StatsReport_BurstShotSpeedMultiplier>ตัวคูณอัตราการยิง</StatsReport_BurstShotSpeedMultiplier>
   <!-- EN: Stopping power offset -->
-  <StatsReport_AdditionalStoppingPower>TODO</StatsReport_AdditionalStoppingPower>
+  <StatsReport_AdditionalStoppingPower>การชดเชยการหยุดพลังงาน</StatsReport_AdditionalStoppingPower>
 
   <!-- EN: Airtight -->
   <Stat_Airtight>กันอากาศ</Stat_Airtight>
   <!-- EN: Airtight walls prevent a room from depressurizing in the vacuum of space. -->
-  <Stat_Airtight_Desc>กำแพงกันอากาศช่วยป้องกันไม่ให้ห้องสูญเสียแรงดันเมื่ออยู่ในสภาพสุญญากาศของอวกาศ</Stat_Airtight_Desc>
+  <Stat_Airtight_Desc>กำแพงที่กันอากาศช่วยป้องกันไม่ให้ห้องสูญเสียแรงดันเมื่ออยู่ในสภาพสุญญากาศของอวกาศ</Stat_Airtight_Desc>
 
   <!-- EN: Contained apparel beauty -->
-  <ContainedApparelBeauty>TODO</ContainedApparelBeauty>
+  <ContainedApparelBeauty>ความสวยงามของเสื้อผ้าที่บรรจุอยู่</ContainedApparelBeauty>
 
   <!-- EN: Sentience catalyst installed. -->
-  <StatsReport_SentienceCatalystInstalled>TODO</StatsReport_SentienceCatalystInstalled>
+  <StatsReport_SentienceCatalystInstalled>ติดตั้งตัวกระตุ้นการรับรู้แล้ว</StatsReport_SentienceCatalystInstalled>
 
 </LanguageData>

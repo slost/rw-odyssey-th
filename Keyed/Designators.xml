@@ -11,21 +11,21 @@
 
   <!-- Override snow clearing => snow and sand clearing -->
   <!-- EN: Snow and sand removal area -->
-  <DesignatorAreaSnowOrSandClearExpand>TODO</DesignatorAreaSnowOrSandClearExpand>
+  <DesignatorAreaSnowOrSandClearExpand>พื้นที่ทำความสะอาดหิมะและทราย</DesignatorAreaSnowOrSandClearExpand>
   <!-- EN: Create an area which colonists will try to keep clear of snow and sand. -->
-  <DesignatorAreaSnowOrSandClearExpandDesc>TODO</DesignatorAreaSnowOrSandClearExpandDesc>
+  <DesignatorAreaSnowOrSandClearExpandDesc>สร้างพื้นที่ที่ชาวนิคมจะพยายามทำให้ปราศจากหิมะและทราย</DesignatorAreaSnowOrSandClearExpandDesc>
   <!-- EN: Clear snow and sand removal area -->
-  <DesignatorAreaSnowOrSandClearClear>TODO</DesignatorAreaSnowOrSandClearClear>
+  <DesignatorAreaSnowOrSandClearClear>ล้างพื้นที่ทำความสะอาดหิมะและทราย</DesignatorAreaSnowOrSandClearClear>
   <!-- EN: Removes a snow and sand removal area. Colonists will no longer try to keep this area clear of snow and sand. -->
-  <DesignatorAreaSnowOrSandClearClearDesc>TODO</DesignatorAreaSnowOrSandClearClearDesc>
+  <DesignatorAreaSnowOrSandClearClearDesc>ลบพื้นที่ทำความสะอาดหิมะ ชาวนิคมจะไม่พยายามทำให้พื้นที่นี้ปราศจากหิมะและทรายอีกต่อไป</DesignatorAreaSnowOrSandClearClearDesc>
 
   <!-- EN: Remove foundation -->
-  <DesignatorRemoveFoundation>TODO</DesignatorRemoveFoundation>
+  <DesignatorRemoveFoundation>รื้อฐาน</DesignatorRemoveFoundation>
   <!-- EN: Remove bridges or gravship substructure to reveal the terrain underneath. -->
-  <DesignatorRemoveFoundationDesc>TODO</DesignatorRemoveFoundationDesc>
+  <DesignatorRemoveFoundationDesc>รื้อสะพานหรือโครงพื้นยานกราฟชิปเพื่อเปิดเผยภูมิประเทศที่อยู่ด้านล่าง</DesignatorRemoveFoundationDesc>
 
   <!-- EN: Move landing zone -->
   <DesignatorMoveGravship>ย้ายโซนลงจอด</DesignatorMoveGravship>
   <!-- EN: Reposition the gravship's landing spot. -->
-  <DesignatorMoveGravshipDesc>TODO</DesignatorMoveGravshipDesc>
+  <DesignatorMoveGravshipDesc>เปลี่ยนตำแหน่งจุดลงจอดของยานกราฟชิป</DesignatorMoveGravshipDesc>
 </LanguageData>

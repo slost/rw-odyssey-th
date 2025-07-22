@@ -5,20 +5,20 @@
   <!-- EN: do X times -->
   <FishRepeatMode_RepeatCount>ทำ X ครั้ง</FishRepeatMode_RepeatCount>
   <!-- EN: do until you have X -->
-  <FishRepeatMode_TargetCount>TODO</FishRepeatMode_TargetCount>
+  <FishRepeatMode_TargetCount>ทำจนกว่าจะมี X</FishRepeatMode_TargetCount>
   <!-- EN: do forever -->
   <FishRepeatMode_Forever>ทำตลอด</FishRepeatMode_Forever>
   <!-- EN: Fish population -->
-  <FishPopulation>TODO</FishPopulation>
+  <FishPopulation>ประชากรปลา</FishPopulation>
   <!-- EN: How many fish are in this body of water. Larger bodies of water have more fish and will recover fish populations faster. -->
-  <FishPopulationDesc>TODO</FishPopulationDesc>
+  <FishPopulationDesc>มีปลากี่ตัวในแหล่งน้ำนี้ แหล่งน้ำขนาดใหญ่มีปลามากขึ้นและจะฟื้นฟูประชากรปลาได้เร็วขึ้น</FishPopulationDesc>
   <!-- EN: Minimum population -->
-  <MinimumPopulation>TODO</MinimumPopulation>
+  <MinimumPopulation>ประชากรขั้นต่ำ</MinimumPopulation>
   <!-- EN: Colonists won't fish if the fish population is under this limit. Fishing yields are lower if there are less than 300 fish. -->
-  <MinimumPopulationDesc>TODO</MinimumPopulationDesc>
+  <MinimumPopulationDesc>ชาวนิคมจะไม่ตกปลาหากประชากรปลาอยู่ต่ำกว่าขีดจำกัดนี้ ผลผลิตจากการตกปลาน้อยกว่ากว่าหากมีปลาน้อยกว่า 300 ตัว</MinimumPopulationDesc>
   <!-- EN: uncommon -->
-  <Uncommon>TODO</Uncommon>
+  <Uncommon>ไม่ธรรมดา</Uncommon>
   <!-- EN: When toggled off, colonists will avoid catching this fish. -->
-  <ToggleFishAvoid>TODO</ToggleFishAvoid>
+  <ToggleFishAvoid>เมื่อปิดการสลับ ชาวนิคมจะหลีกเลี่ยงการจับปลาตัวนี้</ToggleFishAvoid>
   
 </LanguageData>
