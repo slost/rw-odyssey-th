@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: crab -->
-  <Crab.label>TODO</Crab.label>
+  <Crab.label>ปู</Crab.label>
   <!-- EN: left eye -->
-  <Crab.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>TODO</Crab.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>
+  <Crab.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>ตาซ้าย</Crab.corePart.parts.HeadWithEarHoles.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <Crab.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>TODO</Crab.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>
+  <Crab.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>ตาขวา</Crab.corePart.parts.HeadWithEarHoles.parts.right_eye.customLabel>
   <!-- EN: left claw -->
-  <Crab.corePart.parts.left_claw.customLabel>TODO</Crab.corePart.parts.left_claw.customLabel>
+  <Crab.corePart.parts.left_claw.customLabel>ก้ามซ้าย</Crab.corePart.parts.left_claw.customLabel>
   <!-- EN: right claw -->
-  <Crab.corePart.parts.right_claw.customLabel>TODO</Crab.corePart.parts.right_claw.customLabel>
+  <Crab.corePart.parts.right_claw.customLabel>ก้ามขวา</Crab.corePart.parts.right_claw.customLabel>
   <!-- EN: left first leg -->
-  <Crab.corePart.parts.left_first_leg.customLabel>TODO</Crab.corePart.parts.left_first_leg.customLabel>
+  <Crab.corePart.parts.left_first_leg.customLabel>ขาแรกซ้าย</Crab.corePart.parts.left_first_leg.customLabel>
   <!-- EN: right first leg -->
-  <Crab.corePart.parts.right_first_leg.customLabel>TODO</Crab.corePart.parts.right_first_leg.customLabel>
+  <Crab.corePart.parts.right_first_leg.customLabel>ขาแรกขวา</Crab.corePart.parts.right_first_leg.customLabel>
   <!-- EN: left second leg -->
-  <Crab.corePart.parts.left_second_leg.customLabel>TODO</Crab.corePart.parts.left_second_leg.customLabel>
+  <Crab.corePart.parts.left_second_leg.customLabel>ขาที่สองซ้าย</Crab.corePart.parts.left_second_leg.customLabel>
   <!-- EN: right second leg -->
-  <Crab.corePart.parts.right_second_leg.customLabel>TODO</Crab.corePart.parts.right_second_leg.customLabel>
+  <Crab.corePart.parts.right_second_leg.customLabel>ขาที่สองขวา</Crab.corePart.parts.right_second_leg.customLabel>
   <!-- EN: left third leg -->
-  <Crab.corePart.parts.left_third_leg.customLabel>TODO</Crab.corePart.parts.left_third_leg.customLabel>
+  <Crab.corePart.parts.left_third_leg.customLabel>ขาที่สามซ้าย</Crab.corePart.parts.left_third_leg.customLabel>
   <!-- EN: right third leg -->
-  <Crab.corePart.parts.right_third_leg.customLabel>TODO</Crab.corePart.parts.right_third_leg.customLabel>
+  <Crab.corePart.parts.right_third_leg.customLabel>ขาที่สามขวา</Crab.corePart.parts.right_third_leg.customLabel>
   <!-- EN: left swimming leg -->
-  <Crab.corePart.parts.left_swimming_leg.customLabel>TODO</Crab.corePart.parts.left_swimming_leg.customLabel>
+  <Crab.corePart.parts.left_swimming_leg.customLabel>ขาว่ายน้ำซ้าย</Crab.corePart.parts.left_swimming_leg.customLabel>
   <!-- EN: right swimming leg -->
-  <Crab.corePart.parts.right_swimming_leg.customLabel>TODO</Crab.corePart.parts.right_swimming_leg.customLabel>
+  <Crab.corePart.parts.right_swimming_leg.customLabel>ขาว่ายน้ำขวา</Crab.corePart.parts.right_swimming_leg.customLabel>
   
 </LanguageData>

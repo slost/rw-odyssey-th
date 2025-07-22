@@ -4,24 +4,24 @@
   <!-- EN: larva -->
   <Larva.label>ตัวอ่อน</Larva.label>
   <!-- EN: left eye -->
-  <Larva.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>TODO</Larva.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <Larva.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>ตาซ้าย</Larva.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <Larva.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>TODO</Larva.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <Larva.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>ตาขวา</Larva.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
   <!-- EN: left antenna -->
-  <Larva.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>TODO</Larva.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <Larva.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>หนวดซ้าย</Larva.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
   <!-- EN: right antenna -->
-  <Larva.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>TODO</Larva.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <Larva.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>หนวดขวา</Larva.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
   <!-- EN: front left leg -->
-  <Larva.corePart.parts.front_left_leg.customLabel>TODO</Larva.corePart.parts.front_left_leg.customLabel>
+  <Larva.corePart.parts.front_left_leg.customLabel>ขาหน้าซ้าย</Larva.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <Larva.corePart.parts.front_right_leg.customLabel>TODO</Larva.corePart.parts.front_right_leg.customLabel>
+  <Larva.corePart.parts.front_right_leg.customLabel>ขาหน้าขวา</Larva.corePart.parts.front_right_leg.customLabel>
   <!-- EN: middle left leg -->
-  <Larva.corePart.parts.middle_left_leg.customLabel>TODO</Larva.corePart.parts.middle_left_leg.customLabel>
+  <Larva.corePart.parts.middle_left_leg.customLabel>ขากลางซ้าย</Larva.corePart.parts.middle_left_leg.customLabel>
   <!-- EN: middle right leg -->
-  <Larva.corePart.parts.middle_right_leg.customLabel>TODO</Larva.corePart.parts.middle_right_leg.customLabel>
+  <Larva.corePart.parts.middle_right_leg.customLabel>ขากลางขวา</Larva.corePart.parts.middle_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <Larva.corePart.parts.rear_left_leg.customLabel>TODO</Larva.corePart.parts.rear_left_leg.customLabel>
+  <Larva.corePart.parts.rear_left_leg.customLabel>ขาหลังซ้าย</Larva.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <Larva.corePart.parts.rear_right_leg.customLabel>TODO</Larva.corePart.parts.rear_right_leg.customLabel>
+  <Larva.corePart.parts.rear_right_leg.customLabel>ขาหลังขวา</Larva.corePart.parts.rear_right_leg.customLabel>
   
 </LanguageData>

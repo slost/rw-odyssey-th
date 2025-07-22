@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: bomb -->
-  <MiningBomb.label>TODO</MiningBomb.label>
+  <MiningBomb.label>ระเบิด</MiningBomb.label>
   <!-- EN: {0} has died in an explosion. -->
-  <MiningBomb.deathMessage>{0} ถูกฆ่าตาย</MiningBomb.deathMessage>
+  <MiningBomb.deathMessage>{0} เสียชีวิตจากการระเบิด</MiningBomb.deathMessage>
   
   <!-- EN: vacuum burn -->
   <VacuumBurn.label>แผลไหม้จากสุญญากาศ</VacuumBurn.label>

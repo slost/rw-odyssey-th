@@ -60,7 +60,7 @@
   <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
   <VolcanicAsh.description>เถ้าจากการปะทุของภูเขาไฟในบริเวณใกล้เคียงกำลังเต็มท้องฟ้า ดวงอาทิตย์ถูกบดบังและอากาศที่ฉุนแสบปอด กลุ่มเมฆจะคงอยู่เป็นเวลาหลายวัน</VolcanicAsh.description>
   <!-- EN: a nearby eruption will send a cloud of ash over [map_definite] for [gameConditionDuration_duration], darkening the sky and making it hard to breathe -->
-  <VolcanicAsh.descriptionFuture>TODO</VolcanicAsh.descriptionFuture>
+  <VolcanicAsh.descriptionFuture>การปะทุในบริเวณใกล้เคียงจะส่งกลุ่มเถ้าถ่านปกคลุมเหนือ [map_definite] เป็นเวลา [gameConditionDuration_duration] ทำให้ท้องฟ้ามืดครึ้มและหายใจลำบาก</VolcanicAsh.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
   <VolcanicAsh.endMessage>เถ้าส่วนใหญ่ได้ตกลงมาแล้ว</VolcanicAsh.endMessage>
   <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->

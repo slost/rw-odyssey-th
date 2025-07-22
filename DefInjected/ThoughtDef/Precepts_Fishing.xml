@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: slaughtered fish -->
-  <SlaughteredFish_Disapproved.stages.slaughtered_fish.label>TODO</SlaughteredFish_Disapproved.stages.slaughtered_fish.label>
+  <SlaughteredFish_Disapproved.stages.slaughtered_fish.label>ฆ่าปลา</SlaughteredFish_Disapproved.stages.slaughtered_fish.label>
   <!-- EN: I had to kill fish. It was an ugly thing to do. -->
-  <SlaughteredFish_Disapproved.stages.slaughtered_fish.description>TODO</SlaughteredFish_Disapproved.stages.slaughtered_fish.description>
+  <SlaughteredFish_Disapproved.stages.slaughtered_fish.description>ฉันพึ่งฆ่าปลา มันเป็นการกระทำที่น่าเกลียด</SlaughteredFish_Disapproved.stages.slaughtered_fish.description>
   
   <!-- EN: killed fish -->
-  <SlaughteredFish_Know_Disapproved.stages.killed_fish.label>TODO</SlaughteredFish_Know_Disapproved.stages.killed_fish.label>
+  <SlaughteredFish_Know_Disapproved.stages.killed_fish.label>ปลาถูกฆ่า</SlaughteredFish_Know_Disapproved.stages.killed_fish.label>
   
   <!-- EN: fish slaughtered -->
   <SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>TODO</SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>

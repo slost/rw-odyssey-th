@@ -13,6 +13,6 @@
   <!-- EN: a vacuum burn -->
   <VacuumBurn.labelNoun>แผลไหม้จากสุญญากาศ</VacuumBurn.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <VacuumBurn.labelNounPretty>TODO</VacuumBurn.labelNounPretty>
+  <VacuumBurn.labelNounPretty>{0} ภายใน {1}</VacuumBurn.labelNounPretty>
   
 </LanguageData>

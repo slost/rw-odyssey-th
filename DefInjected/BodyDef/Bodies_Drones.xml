@@ -7,21 +7,21 @@
   <!-- EN: drone -->
   <DroneWithThreeLegs.label>โดรน</DroneWithThreeLegs.label>
   <!-- EN: center leg -->
-  <DroneWithThreeLegs.corePart.parts.center_leg.customLabel>TODO</DroneWithThreeLegs.corePart.parts.center_leg.customLabel>
+  <DroneWithThreeLegs.corePart.parts.center_leg.customLabel>ขากลาง</DroneWithThreeLegs.corePart.parts.center_leg.customLabel>
   <!-- EN: rear left leg -->
-  <DroneWithThreeLegs.corePart.parts.rear_left_leg.customLabel>TODO</DroneWithThreeLegs.corePart.parts.rear_left_leg.customLabel>
+  <DroneWithThreeLegs.corePart.parts.rear_left_leg.customLabel>ขาหลังซ้าย</DroneWithThreeLegs.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <DroneWithThreeLegs.corePart.parts.rear_right_leg.customLabel>TODO</DroneWithThreeLegs.corePart.parts.rear_right_leg.customLabel>
+  <DroneWithThreeLegs.corePart.parts.rear_right_leg.customLabel>ขาหลังขวา</DroneWithThreeLegs.corePart.parts.rear_right_leg.customLabel>
   
   <!-- EN: drone -->
   <DroneWithTreads.label>โดรน</DroneWithTreads.label>
   <!-- EN: front left tread -->
-  <DroneWithTreads.corePart.parts.front_left_tread.customLabel>TODO</DroneWithTreads.corePart.parts.front_left_tread.customLabel>
+  <DroneWithTreads.corePart.parts.front_left_tread.customLabel>สายพานหน้าซ้าย</DroneWithTreads.corePart.parts.front_left_tread.customLabel>
   <!-- EN: back left tread -->
-  <DroneWithTreads.corePart.parts.back_left_tread.customLabel>TODO</DroneWithTreads.corePart.parts.back_left_tread.customLabel>
+  <DroneWithTreads.corePart.parts.back_left_tread.customLabel>สายพานหลังซ้าย</DroneWithTreads.corePart.parts.back_left_tread.customLabel>
   <!-- EN: front right tread -->
-  <DroneWithTreads.corePart.parts.front_right_tread.customLabel>TODO</DroneWithTreads.corePart.parts.front_right_tread.customLabel>
+  <DroneWithTreads.corePart.parts.front_right_tread.customLabel>สายพานหน้าขวา</DroneWithTreads.corePart.parts.front_right_tread.customLabel>
   <!-- EN: back right tread -->
-  <DroneWithTreads.corePart.parts.back_right_tread.customLabel>TODO</DroneWithTreads.corePart.parts.back_right_tread.customLabel>
+  <DroneWithTreads.corePart.parts.back_right_tread.customLabel>สายพานหลังขวา</DroneWithTreads.corePart.parts.back_right_tread.customLabel>
   
 </LanguageData>
