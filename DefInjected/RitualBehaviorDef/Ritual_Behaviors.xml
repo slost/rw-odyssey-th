@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: pilot -->
-  <GravshipLaunch.roles.0.label>TODO</GravshipLaunch.roles.0.label>
+  <GravshipLaunch.roles.0.label>นักบิน</GravshipLaunch.roles.0.label>
   <!-- EN: copilot -->
-  <GravshipLaunch.roles.1.label>TODO</GravshipLaunch.roles.1.label>
+  <GravshipLaunch.roles.1.label>ผู้ช่วยนักบิน</GravshipLaunch.roles.1.label>
   <!-- EN: crew -->
-  <GravshipLaunch.spectatorGerund>TODO</GravshipLaunch.spectatorGerund>
+  <GravshipLaunch.spectatorGerund>ลูกเรือ</GravshipLaunch.spectatorGerund>
   <!-- EN: Crew -->
-  <GravshipLaunch.spectatorsLabel>TODO</GravshipLaunch.spectatorsLabel>
+  <GravshipLaunch.spectatorsLabel>ลูกเรือ</GravshipLaunch.spectatorsLabel>
   
 </LanguageData>
