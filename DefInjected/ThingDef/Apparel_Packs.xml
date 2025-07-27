@@ -11,9 +11,9 @@
   <!-- EN: A wearable pack that deploys a hunter drone. The drone will close with the target and detonate when it is within range. -->
   <Apparel_PackHunter.description>ชุดสวมใส่ที่ปล่อยโดรนนักล่า โดรนจะเข้าใกล้เป้าหมายและจุดชนวนระเบิดเมื่ออยู่ในระยะ</Apparel_PackHunter.description>
   <!-- EN: charge -->
-  <Apparel_PackHunter.comps.CompApparelVerbOwner_Charged.chargeNoun>TODO</Apparel_PackHunter.comps.CompApparelVerbOwner_Charged.chargeNoun>
+  <Apparel_PackHunter.comps.CompApparelVerbOwner_Charged.chargeNoun>พุ่ง</Apparel_PackHunter.comps.CompApparelVerbOwner_Charged.chargeNoun>
   <!-- EN: deploy hunter drone -->
-  <Apparel_PackHunter.verbs.deploy_hunter_drone.label>TODO</Apparel_PackHunter.verbs.deploy_hunter_drone.label>
+  <Apparel_PackHunter.verbs.deploy_hunter_drone.label>ปล่อยโดรนนักล่า</Apparel_PackHunter.verbs.deploy_hunter_drone.label>
   
   <!-- EN: hunter pack capsule -->
   <Grenade_HunterPack.label>แคปซูลชุดนักล่า</Grenade_HunterPack.label>
