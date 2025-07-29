@@ -45,7 +45,7 @@
   <!-- EN: A shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out.\n\nIt must be charged before use. One gravship can support two gravship shield generators. -->
   <GravshipShieldGenerator.description>อุปกรณ์ป้องกันที่สามารถปกป้องแกรฟชิปได้ มันปรับสนามแกรฟเพื่อสร้างพื้นผิวขับไล่โมเมนตัมอายุสั้นซึ่งป้องกันโปรเจกไทล์ มันทำงานได้กับกระสุนธรรมดาและปืนครก ผู้ที่อยู่ข้างในยังสามารถยิงออกไปได้\n\nต้องชาร์จก่อนใช้งาน แกรฟชิปลำหนึ่งสามารถรองรับเครื่องกำเนิดโล่แกรฟชิปได้สองเครื่อง</GravshipShieldGenerator.description>
   <!-- EN: activate -->
-  <GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>TODO</GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
+  <GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>เปิดใช้งาน</GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
   
   <!-- EN: large chemfuel tank -->
   <LargeChemfuelTank.label>ถังเชื้อเพลิงเคมีขนาดใหญ่</LargeChemfuelTank.label>
@@ -62,7 +62,7 @@
   <LargeThruster.description>เครื่องขับดันเชื้อเพลิงเคมีขั้นสูงพร้อมซับในแวคสโตนที่ทนความร้อน มันเพิ่มระยะของแกรฟชิปอย่างมาก เครื่องขับดันต้องการพื้นที่ที่ไม่มีสิ่งกีดขวาง ปราศจากอาคารขนาดใหญ่และโครงสร้างพื้นฐานของแกรฟชิป\n\nต้องใช้บล็อกแวคสโตน ซึ่งสามารถหาได้จากดาวเคราะห์น้อยในวงโคจร\n\nแกรฟชิปสามารถรองรับเครื่องขับดันขนาดใหญ่ได้สูงสุดหกตัว</LargeThruster.description>
   
   <!-- EN: minified thing -->
-  <MinifiedGravEngine.label>TODO</MinifiedGravEngine.label>
+  <MinifiedGravEngine.label>สิ่งของที่ถูกย่อส่วน</MinifiedGravEngine.label>
   
   <!-- EN: pilot console -->
   <PilotConsole.label>คอนโซลนักบิน</PilotConsole.label>
@@ -79,7 +79,7 @@
   <!-- EN: A chunk of mechanoid spacecraft made of steel and gravlite panels. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nDeconstruct it to obtain valuable resources. -->
   <ShipChunk_Mech.description>ชิ้นส่วนของยานอวกาศเมคานอยด์ที่ทำจากเหล็กกล้าและแผงแกรฟไลต์ ดูเหมือนว่าจะถูกฉีกออกโดยแรงเข้าสู่ชั้นบรรยากาศที่ไม่สามารถควบคุมได้หรืออาวุธบางชนิด\n\nแยกชิ้นส่วนเพื่อรับทรัพยากรที่มีค่า</ShipChunk_Mech.description>
   <!-- EN: Deconstruct for valuable resources. -->
-  <ShipChunk_Mech.comps.CompInspectString.inspectString>TODO</ShipChunk_Mech.comps.CompInspectString.inspectString>
+  <ShipChunk_Mech.comps.CompInspectString.inspectString>รื้อถอนเพื่อทรัพยากรล้ำค่า</ShipChunk_Mech.comps.CompInspectString.inspectString>
   
   <!-- EN: signal jammer -->
   <SignalJammer.label>เครื่องรบกวนสัญญาณ</SignalJammer.label>
