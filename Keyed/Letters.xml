@@ -106,9 +106,7 @@
   <!-- EN: Cerebrex core -->
   <OrbitalMechhiveLetterArrived>แกนเซเรเบรกซ์</OrbitalMechhiveLetterArrived>
   <!-- EN: At the center of the orbital platform sits a massive mechanoid structure made of hair-fine ultratech filaments supporting an AI persona core. This is the intelligence core of the mechhive that directs mechanoids all over the planet.\n\nThe structure is protected by nearby stabilizers, making it nearly invulnerable. Find and destroy the cerebrex stabilizers to lower the core's defenses. -->
-  <OrbitalMechhiveLetterArrivedText>ณ ใจกลางของแพลตฟอร์มวงโคจร มีโครงสร้างเมคคานอยด์ขนาดมหึมาซึ่งประกอบด้วยเส้นใยอัลตร้าเทคขนาดเล็กละเอียดที่ห่อหุ้มแกนบุคลิกภาพเอไอไว้ นี่คือแกนสติปัญญาของเมคไฮฟ์ซึ่งคอยบัญชาเมคานอยด์ทั่วทั้งดาวเคราะห์
-
-โครงสร้างนี้ได้รับการป้องกันโดยเครื่องรักษาเสถียรภาพที่อยู่ใกล้เคียง ทำให้มันแทบจะไร้เทียมทาน ค้นหาและทำลายเครื่องรักษาเสถียรภาพเซเรเบรกซ์เพื่อทำให้การป้องกันของตัวแกนอ่อนแอลง</OrbitalMechhiveLetterArrivedText>
+  <OrbitalMechhiveLetterArrivedText>ณ ใจกลางของแพลตฟอร์มวงโคจร มีโครงสร้างเมคคานอยด์ขนาดมหึมาซึ่งประกอบด้วยเส้นใยอัลตร้าเทคขนาดเล็กละเอียดที่ห่อหุ้มแกนบุคลิกภาพเอไอไว้ นี่คือแกนสติปัญญาของเมคไฮฟ์ซึ่งคอยบัญชาเมคานอยด์ทั่วทั้งดาวเคราะห์\n\nโครงสร้างนี้ได้รับการป้องกันโดยเครื่องรักษาเสถียรภาพที่อยู่ใกล้เคียง ทำให้มันแทบจะไร้เทียมทาน ค้นหาและทำลายเครื่องรักษาเสถียรภาพเซเรเบรกซ์เพื่อทำให้การป้องกันของตัวแกนอ่อนแอลง</OrbitalMechhiveLetterArrivedText>
 
   <!-- EN: Mechanoid assault -->
   <MechhiveRaidLetterLabel>เมคคานอยด์จู่โจม</MechhiveRaidLetterLabel>

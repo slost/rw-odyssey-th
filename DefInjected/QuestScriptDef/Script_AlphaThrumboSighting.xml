@@ -4,11 +4,15 @@
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of an alpha thrumbo.\n\nAlpha thrumbos are exceptionally rare creatures, believed by many to be mere fiction. Too wild for most to tame and too powerful for most to hunt, their horns are worth more than their weight in gold.</li>
   -->
-  <OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>TODO</OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]ตำแหน่งของอัลฟ่าธรัมโบ\n\nอัลฟ่าธรัมโบเป็นสิ่งมีชีวิตที่หายากอย่างยิ่ง หลายคนเชื่อว่าเป็นเพียงเรื่องเล่า ด้วยความดุร้ายเกินจะฝึก และทรงพลังเกินจะล่า เขาของมันมีค่ามากกว่าทองคำที่มีน้ำหนักเท่ากันเสียอีก</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->alpha thrumbo</li>
   -->
-  <OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>TODO</OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>
+  <OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>
+     <li>questName->อัลฟ่าธรัมโบ</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->alpha thrumbos</li>
     <li>subject->thrumbos</li>
@@ -22,12 +26,24 @@
     <li>questMapText->found the beast</li>
     <li>questMapText->they are real</li>
   -->
-  <OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>TODO</OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>
+  <OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>
+    <li>subject->อัลฟ่าธรัมโบ</li>
+    <li>subject->ธรัมโบ</li>
+    <li>subject->ธรัมโบหายาก</li>
+    <li>subject->สัตว์หายาก</li>
+    <li>subject->สิ่งมีชีวิตในตำนาน</li>
+    <li>questMapFeature->ภาพวาดของธรัมโบ</li>
+    <li>questMapFeature->สเก็ตช์ของธรัมโบรูปร่างแปลกๆ</li>
+    <li>questMapText->ถิ่นอาศัยของธรัมโบ</li>
+    <li>questMapText->อัลฟ่าธรัมโบ</li>
+    <li>questMapText->พบสัตว์ร้าย</li>
+    <li>questMapText->พวกมันมีอยู่จริง</li>
+  </OpportunitySite_AlphaThrumbo_Giver.questSubjectRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_AlphaThrumbo_Giver.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_AlphaThrumbo_Giver.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_AlphaThrumbo_Giver.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>คุณได้ค้นพบ</OpportunitySite_AlphaThrumbo_Giver.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>ภารกิจหมดเวลา: [resolvedQuestName]</OpportunitySite_AlphaThrumbo_Giver.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the alpha thrumbo has moved on. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>มีการสกัดกั้นสัญญาณที่ระบุว่าอัลฟ่าฟ่าธรัมโบได้ย้ายไปที่อื่น ภารกิจ [ResolvedQuestName] หมดเวลาแล้ว</OpportunitySite_AlphaThrumbo_Giver.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->[discoveryMethod] an ancient complex nearby that is said to contain treasure.\n\nYou can break in to collect the loot inside.\n\nBe warned - these kinds of structures can contain a variety of threats. In addition, your activity at the complex might draw unwanted attention.</li>
   -->
-  <OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>TODO</OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>
+     <li>questDescription->[discoveryMethod]อาคารโบราณแห่งหนึ่งในบริเวณใกล้เคียง ซึ่งว่ากันว่าภายในมีสมบัติซ่อนอยู่\n\nคุณสามารถบุกเข้าไปเพื่อเก็บของมีค่าที่อยู่ข้างในได้\n\nขอเตือน - สิ่งปลูกสร้างแบบนี้มักเต็มไปด้วยภัยคุกคามหลากหลายรูปแบบ นอกจากนี้ การเคลื่อนไหวของคุณในบริเวณนั้นอาจดึงดูดความสนใจที่ไม่พึงประสงค์ได้</li>
+  </OpportunitySite_AncientComplex_Giver.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=3)->[complexAdj] [complex] [finalWord]</li>
     <li>questName->[complex] [finalWord]</li>
@@ -30,7 +32,30 @@
     <li>finalWord->caper</li>
     <li>finalWord->booty</li>
   -->
-  <OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>TODO</OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>
+    <li>questName(p=3)->[finalWord][complex][complexAdj]</li>
+    <li>questName->[finalWord][complex]</li>
+    <li>complexAdj->ลับสุดยอด</li>
+    <li>complexAdj->ลึกลับ</li>
+    <li>complexAdj->โบราณ</li>
+    <li>complexAdj->เก่าแก่</li>
+    <li>complexAdj->ซ่อนเร้น</li>
+    <li>complexAdj->มรณะ</li>
+    <li>complex->อาคาร</li>
+    <li>complex->ฐานทัพ</li>
+    <li>complex->สิ่งปลูกสร้าง</li>
+    <li>finalWord->สมบัติใน</li>
+    <li>finalWord->ทรัพย์สมบัติใน</li>
+    <li>finalWord->ขุมทรัพย์ใน</li>
+    <li>finalWord->คลังสิ่งของใน</li>
+    <li>finalWord->การโจรกรรม</li>
+    <li>finalWord->การปล้น</li>
+    <li>finalWord->การลอบเข้า</li>
+    <li>finalWord->การขโมยของใน</li>
+    <li>finalWord->การบุกชิง</li>
+    <li>finalWord->แผนโจรกรรม</li>
+    <li>finalWord->ของล้ำค่าใน</li>
+  </OpportunitySite_AncientComplex_Giver.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->complexes</li>
     <li>subject->complex</li>
@@ -40,6 +65,14 @@
     <li>questMapText->ancient treasures</li>
     <li>questMapText->missing scavengers</li>
   -->
-  <OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>TODO</OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>
+    <li>subject->อาคาร</li>
+    <li>subject->อาคาร</li>
+    <li>subject->สัญญาณอาคาร</li>
+    <li>questMapFeature->อาคารเล็ก</li>
+    <li>questMapFeature->สิ่งอำนวยความสะดวก</li>
+    <li>questMapText->สมบัติโบราณ</li>
+    <li>questMapText->ต้องการคนคุ้ยซาก</li>
+  </OpportunitySite_AncientComplex_Giver.questSubjectRules.rulesStrings>
   
 </LanguageData>

@@ -25,7 +25,30 @@
     <li>reason->drunkenly profaning a peace ritual</li>
     <li>reason->the destruction of an orbital trade vessel</li>
   -->
-  <OrbitalFugitive.questDescriptionRules.rulesStrings>TODO</OrbitalFugitive.questDescriptionRules.rulesStrings>
+  <OrbitalFugitive.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->เอไอนิรนามได้ร้องขอให้คุณช่วยจัดการกับอาชญากรนาม [fugitive_nameDef] โดยเอไออ้างว่า [fugitive_nameDef] เป็นที่ต้องการตัวเนื่องจาก[reason_AI]\n\n[fugitive_nameDef] ได้ขโมยกระสวยขนส่งและหลบหนีไปยังแพลตฟอร์มวงโคจรร้าง\n\nเมื่อได้ยินข่าวลือเกี่ยวกับยานกราฟชิปของคุณ เอไอจึงขอให้คุณเดินทางไปยังแพลตฟอร์มร้างนั่นและปลิดชีพ [fugitive_nameDef] โดยจะมอบอุปกรณ์เทคโนโลยีแรงโน้มถ่วงให้เป็นค่าตอบแทน\n\nเอไอเตือนว่ามีความเป็นไปได้ที่ [fugitive_nameDef] จะอยู่ร่วมกับกลุ่มโจรสลัดอวกาศที่ไม่เป็นมิตร</li>
+    <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle] [asker_nameFull] แห่ง [asker_faction_name] ได้ส่งข้อความมาหาเรา ผู้ลี้ภัยนาม [fugitive_nameDef] ได้หลบหนีจากการควบคุมตัว[asker_possessive]และใช้กระสวยขนส่งหลบหนีไปยังแพลตฟอร์มวงโคจรร้าง โดย [fugitive_nameDef] ถูกควบคุมตัวเนื่องจาก[reason]\n\nเมื่อได้ยินข่าวลือเกี่ยวกับยานกราฟชิปของคุณ [asker_faction_leaderTitle] จึงขอให้คุณเดินทางไปยังแพลตฟอร์มร้างนั่นและปลิดชีพ [fugitive_nameDef] หากคุณทำสำเร็จ [asker_nameDef] จะมอบอุปกรณ์เทคโนโลยีแรงโน้มถ่วงให้เป็นค่าตอบแทน\n\n[asker_nameDef] nเอไอเตือนว่ามีความเป็นไปได้ที่ [fugitive_nameDef] จะอยู่ร่วมกับกลุ่มโจรสลัดอวกาศที่ไม่เป็นมิตร</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], requests that you track down and kill a dangerous fugitive known as [fugitive_nameDef]. The fugitive is wanted for [reason_royal].\n\n[fugitive_nameDef] is hiding out on an abandoned orbital platform and may be guarded by orbital pirates. If you kill the fugitive, [asker_nameDef] will reward you with a gravtech device.</li>
+    <li>reason_AI->ไปทำลายแกนบุคลิกภาพย่อยระดับสูงหลายแกน</li>
+    <li>reason_AI->ไปทำให้ดาวเทียมเอไอหลุดจากวงโคจร</li>
+    <li>reason_AI->ก่ออาชญากรรมบนดาวเคราะห์ห่างไกลหลายแห่ง</li>
+    <li>reason_AI->ลักลอบค้าอาร์ติแฟกด์พลังจิตในวงโคจรโดยไม่ได้รับอนุญาต</li>
+    <li>reason_AI->[reason]</li>
+    <li>reason_royal->เมาแล้วดูหมิ่น [asker_royalTitleInCurrentFaction] ระหว่างกล่าวสุนทรพจน์ในงานแต่งงาน</li>
+    <li>reason_royal->>พยายามลอบสังหาร [asker_royalTitleInCurrentFaction]</li>
+    <li>reason_royal->เผลอทำถุงโฟมดับเพลิงระเบิดโดยไม่ได้ตั้งใจในยานของจักรวรรดิ</li>
+    <li>reason_royal->ใช้เครื่องสร้างพายุทอร์นาโดผิดวิธีใกล้กับถิ่นฐานของจักรวรรดิ</li>
+    <li>reason_royal->พยายามก่อกบฏ</li>
+    <li>reason_royal->ทำการขายชาติ</li>
+    <li>reason_royal->[reason]</li>
+    <li>reason->สมคบกับลัทธิแซงกัวเฟจ</li>
+    <li>reason->ลักลอบค้าอาร์ติแฟกด์พลังจิตที่เป็นอันตราย</li>
+    <li>reason->ลักทรัพย์ครั้งใหญ่และก่อวินาศกรรมองค์กรหลายครั้ง</li>
+    <li>reason->ทดลองพันธุกรรมโดยไม่ได้รับอนุญาต</li>
+    <li>reason->ยุยงให้เกิดความขัดแย้งระหว่างฝักฝ่ายต่างๆ</li>
+    <li>reason->เมาแล้วพูดดูหมิ่นพิธีกรรมแห่งสันติ</li>
+    <li>reason->ไปทำลายยานการค้าในวงโคจร</li>
+  </OrbitalFugitive.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The Hunt for [fugitive_nameDef]</li>
     <li>questName->A Bounty for [fugitive_nameDef]</li>
@@ -37,6 +60,16 @@
     <li>criminal->Felon</li>
     <li>criminal->Renegade</li>
   -->
-  <OrbitalFugitive.questNameRules.rulesStrings>TODO</OrbitalFugitive.questNameRules.rulesStrings>
+  <OrbitalFugitive.questNameRules.rulesStrings>
+    <li>questName->ตามล่า [fugitive_nameDef]</li>
+    <li>questName->ล่าค่าหัว [fugitive_nameDef]</li>
+    <li>questName->[criminal] [fugitive_nameDef]</li>
+    <li>questName->[criminal]วงโคจร</li>
+    <li>criminal->อาชญากร</li>
+    <li>criminal->ผู้ลี้ภัย</li>
+    <li>criminal->พวกนอกกฏหมาย</li>
+    <li>criminal->ผู้ร้าย</li>
+    <li>criminal->พวกนอกรีต</li>
+  </OrbitalFugitive.questNameRules.rulesStrings>
   
 </LanguageData>

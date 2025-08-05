@@ -63,29 +63,92 @@
     <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
     <li>PlaceOutlander->[SylE][SylE][place_end]</li>
   -->
-  <OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>TODO</OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+  <OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
+    <li>questName(p=3)->[platform][ancientPlatAdj] </li>
+    <li>questName->[platform] [PlaceOutlander]</li>
+    <li>questName->[platform][greekLetter]</li>
+    <li>questName->[platform][platAdj] [RomanNumeral]</li>
+    <li>ancientPlatAdj->ร้าง</li>
+    <li>ancientPlatAdj->โบราณ</li>
+    <li>ancientPlatAdj->[platAdj]</li>
+    <li>platAdj->สตาร์ไลต์</li>
+    <li>platAdj->เนบิวลา</li>
+    <li>platAdj->ฮอไรซัน</li>
+    <li>platAdj->อีคลิปส์</li>
+    <li>platAdj->ซีนิธ</li>
+    <li>platAdj->ออโรรา</li>
+    <li>platAdj->โคโรนา</li>
+    <li>platAdj->โนวา</li>
+    <li>platAdj->อีออน</li>
+    <li>platAdj->โซเลซ</li>
+    <li>platAdj->ลูมินา</li>
+    <li>platAdj->ไอออน</li>
+    <li>platAdj->แอสตราลิส</li>
+    <li>platAdj->อะพอลโล</li>
+    <li>platAdj->แอรีส</li>
+    <li>platAdj->เฮดีส</li>
+    <li>platAdj->อาแจ็กซ์</li>
+    <li>platAdj->อีออส</li>
+    <li>platAdj->อีรอส</li>
+    <li>platAdj->โครนอส</li>
+    <li>platAdj->เซไฟรัส</li>
+    <li>platAdj->อาร์กอส</li>
+    <li>platAdj->โอไรออน</li>
+    <li>platAdj->เฮอร์มีส</li>
+    <li>platAdj->แอตลาส</li>
+    <li>platAdj->ฮีลิออส</li>
+    <li>platAdj->ฮีฟีสตัส</li>
+    <li>platAdj->ทาลอส</li>
+    <li>platAdj->แวนการ์ด</li>
+    <li>platAdj->อีจิส</li>
+    <li>platAdj->ฮัลซีออน</li>
+    <li>platAdj->สกายฟอร์จ</li>
+    <li>platAdj->ไททัน</li>
+    <li>platform(p=2)->สถานี</li>
+    <li>platform->แพลตฟอร์ม</li>
+    <li>platform->แพลตฟอร์มวงโคจร</li>
+    <li>platform->ศูนย์กลางวงโคจร</li>
+    <li>platform(p=0.5)->สกายเกต</li>
+    <li>platform(p=0.5)->อู่อวกาศ</li>
+    <li>platform(p=0.5)->เกตเวย์</li>
+    <li>greekLetter->อัลฟ่า</li>
+    <li>greekLetter->เบต้า</li>
+    <li>greekLetter->ธีต้า</li>
+    <li>greekLetter->เดลต้า</li>
+    <li>greekLetter->ซีต้า</li>
+    <li>greekLetter->ซิกม่า</li>
+    <li>greekLetter->โอเมก้า</li>
+    <li>PlaceOutlander(p=3)->[SylECap][place_end]</li>
+    <li>PlaceOutlander->[SylECap][SylE][place_end]</li>
+  </OpportunitySite_AbandonedPlatform.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>คุณได้ค้นพบ</OpportunitySite_AbandonedPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>ภารกิจหมดเวลา: [resolvedQuestName]</OpportunitySite_AbandonedPlatform.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the platform has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>มีการสกัดกั้นสัญญาณที่ระบุว่าแพลตฟอร์มได้ถูกผู้อื่นอ้างสิทธิ์ ภารกิจ [resolvedQuestName] หมดเวลาแล้ว</OpportunitySite_AbandonedPlatform.LetterTextQuestExpired.slateRef>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of an asteroid orbiting the planet. It contains significant amounts of [resource], and potentially other resources as well.\n\nOrbital miners steer asteroids into orbit so that they can be mined and the ore sold to orbital traders. You do not detect any signs of life from this asteroid.\n\nYou can reach the asteroid with transport pods, shuttles, or a gravship. Equip your colonists with sufficient orbital apparel before departing.</li>
   -->
-  <OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>TODO</OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+  <OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]ตำแหน่งของดาวเคราะห์น้อยที่โคจรรอบดาวเคราะห์ มันมี[resource]จำนวนมาก และอาจมีทรัพยากรอื่นอีกด้วย\n\nคนงานเหมืองในวงโคจรจะบังคับดาวเคราะห์น้อยให้เข้าสู่วงโคจรเพื่อทำการขุดเจาะและขายแร่ให้กับผู้ค้าวงโคจร คุณตรวจไม่พบสัญญาณของสิ่งมีชีวิตจากดาวเคราะห์น้อยดวงนี้\n\nคุณสามารถเดินทางไปยังดาวเคราะห์น้อยได้ด้วยกระสวยขนส่ง ยานกระสวย หรือยานกราฟชิป สวมชุดวงโคจรให้กับชาวนิคมของคุณก่อนออกเดินทาง</li>
+  </OpportunitySite_Asteroid.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[resource] Asteroid</li>
   -->
-  <OpportunitySite_Asteroid.questNameRules.rulesStrings>TODO</OpportunitySite_Asteroid.questNameRules.rulesStrings>
+  <OpportunitySite_Asteroid.questNameRules.rulesStrings>
+    <li>questName->ดาวเคราะห์[resource]</li>
+  </OpportunitySite_Asteroid.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>คุณได้ค้นพบ</OpportunitySite_Asteroid.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of an orbital platform. You detect high levels of mechanoid activity.\n\nYou can scavenge valuables from the platform.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
   -->
-  <OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>TODO</OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+  <OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]ตำแหน่งของแพลตฟอร์มวงโคจร คุณตรวจพบกิจกรรมของเมคคานอยด์ในระดับสูง\n\nคุณสามารถเข้าไปคุ้ยซากของมีค่าจากแพลตฟอร์มนี้ได้\n\nคุณสามารถเดินทางไปยังสถานที่วงโคจรได้ด้วยกระสวยขนส่ง ยานกระสวย หรือยานกราฟชิป</li>
+  </OpportunitySite_MechanoidPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[platAdj] [platform] [designation]</li>
     <li>questName->[platAdj] [platform]</li>
@@ -105,18 +168,38 @@
     <li>mechanoid->centipede</li>
     <li>mechanoid->cyclops</li>
   -->
-  <OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>TODO</OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+  <OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName->[platform][platAdj] [designation]</li>
+    <li>questName->[platform][platAdj]</li>
+    <li>platAdj(p=3)->เมคคานอยด์</li>
+    <li>platAdj(p=3)->[mechanoid]</li>
+    <li>platAdj->กำเนิด</li>
+    <li>platAdj->สังเคราะห์</li>
+    <li>platAdj->ประกอบ</li>
+    <li>platAdj->พัฒนา</li>
+    <li>platform->แพลตฟอร์ม</li>
+    <li>platform->สถานี</li>
+    <li>platform->ศูนย์กลาง</li>
+    <li>designation->[RomanNumeral]</li>
+    <li>designation->[Letter]-[RomanNumeral]</li>
+    <li>mechanoid->ไซเธอร์</li>
+    <li>mechanoid->แลนเซอร์</li>
+    <li>mechanoid->ตะขาบกล</li>
+    <li>mechanoid->ไซคลอปส์</li>
+  </OpportunitySite_MechanoidPlatform.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>คุณได้ค้นพบ</OpportunitySite_MechanoidPlatform.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>ภารกิจหมดเวลา:[resolvedQuestName]</OpportunitySite_MechanoidPlatform.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the platform has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>มีการสกัดกั้นสัญญาณที่ระบุว่าแพลตฟอร์มได้ถูกผู้อื่นอ้างสิทธิ์ ภารกิจ [resolvedQuestName] หมดเวลาแล้ว</OpportunitySite_MechanoidPlatform.LetterTextQuestExpired.slateRef>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] an unusual asteroid orbiting the planet. The asteroid has a hollow core which contains several structures.\n\nYou can break in to obtain the loot inside.\n\nBe warned - the buildings may contain defense systems.</li>
   -->
-  <OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>TODO</OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+  <OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]ดาวเคราะห์น้อยผิดปกติที่โคจรรอบดาวเคราะห์ ดวงนี้มีแกนกลวงซึ่งภายในมีสิ่งปลูกสร้างอยู่หลายแห่ง\n\nคุณสามารถบุกเข้าไปเพื่อเก็บสมบัติภายในได้\n\nโปรดระวัง - สิ่งปลูกสร้างอาจมีระบบป้องกันอัตโนมัติ</li>
+  </OpportunitySite_OrbitalItemStash.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[adjective] [orbital] [stash_noun]</li>
     <li>questName->[orbital] [stash_noun]</li>
@@ -127,14 +210,25 @@
     <li>stash_noun->Stash</li>
     <li>stash_noun->Cache</li>
   -->
-  <OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>TODO</OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+  <OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
+    <li>questName->[stash_noun][orbital][adjective]</li>
+    <li>questName->[stash_noun][orbital]</li>
+    <li>adjective->ซ่อนเร้น</li>
+    <li>adjective->ลับ</li>
+    <li>orbital->วงโคจร</li>
+    <li>orbital->ดาวเคราะห์น้อย</li>
+    <li>stash_noun->คลัง</li>
+    <li>stash_noun->ขุมทรัพย์</li>
+  </OpportunitySite_OrbitalItemStash.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>คุณได้ค้นพบ</OpportunitySite_OrbitalItemStash.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the coordinates of a massive piece of wreckage in orbit. It could contain valuable resources. Orbital debris fields are often occupied by hostile scavengers.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
   -->
-  <OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>TODO</OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+  <OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]พิกัดของเศษซากยานขนาดมหึมาในวงโคจร มันอาจบรรจุทรัพยากรที่มีค่าอยู่ภายใน พื้นที่เศษซากวงโคจรกถูกยึดครองโดยนักล่าขยะที่ไม่เป็นมิตร\n\nคุณสามารถเดินทางไปยังสถานที่วงโคจรได้ด้วยกระสวยขนส่ง ยานกระสวย หรือยานกราฟชิป</li>
+  </OpportunitySite_OrbitalWreck.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=2)->the ruins of [platAdj] [platform]</li>
     <li>questName->[platAdj] [wreckage]</li>
@@ -190,18 +284,74 @@
     <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
     <li>PlaceOutlander->[SylE][SylE][place_end]</li>
   -->
-  <OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>TODO</OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+  <OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
+    <li>questName(p=2)->ซาก[platform][platAdj]</li>
+    <li>questName->[wreckage][platAdj]</li>
+    <li>questName->[wreckage] [PlaceOutlander]</li>
+    <li>questName->[platform][platAdj][ruined]</li>
+    <li>platAdj->สตาร์ไลต์</li>
+    <li>platAdj->เนบิวลา</li>
+    <li>platAdj->ฮอไรซัน</li>
+    <li>platAdj->อีคลิปส์</li>
+    <li>platAdj->ซีนิธ</li>
+    <li>platAdj->ออโรรา</li>
+    <li>platAdj->โคโรนา</li>
+    <li>platAdj->โนวา</li>
+    <li>platAdj->อีออน</li>
+    <li>platAdj->โซเลซ</li>
+    <li>platAdj->ลูมินา</li>
+    <li>platAdj->ไอออน</li>
+    <li>platAdj->แอสตราลิส</li>
+    <li>platAdj->อะพอลโล</li>
+    <li>platAdj->แอรีส</li>
+    <li>platAdj->เฮดีส</li>
+    <li>platAdj->อาแจ็กซ์</li>
+    <li>platAdj->อีออส</li>
+    <li>platAdj->อีรอส</li>
+    <li>platAdj->โครนอส</li>
+    <li>platAdj->เซไฟรัส</li>
+    <li>platAdj->อาร์กอส</li>
+    <li>platAdj->โอไรออน</li>
+    <li>platAdj->เฮอร์มีส</li>
+    <li>platAdj->แอตลาส</li>
+    <li>platAdj->ฮีลิออส</li>
+    <li>platAdj->ฮีฟีสตัส</li>
+    <li>platAdj->ทาลอส</li>
+    <li>platAdj->แวนการ์ด</li>
+    <li>platAdj->อีจิส</li>
+    <li>platAdj->ฮัลซีออน</li>
+    <li>platAdj->สกายฟอร์จ</li>
+    <li>platAdj->ไททัน</li>
+    <li>wreckage(p=2)->ซากปรักหักพัง</li>
+    <li>wreckage(p=2)->ซาก</li>
+    <li>wreckage->ซากวงโคจร</li>
+    <li>wreckage->พื้นที่เศษซาก</li>
+    <li>platform(p=2)->สถานี</li>
+    <li>platform->แพลตฟอร์ม</li>
+    <li>platform(p=0.5)->สกายเกต</li>
+    <li>platform(p=0.5)->อู่อวกาศ</li>
+    <li>platform(p=0.5)->เกตเวย์</li>
+    <li>ruined->ที่พังทลาย</li>
+    <li>ruined->ที่ถูกทำลาย</li>
+    <li>ruined->ที่ถูกโจมตี</li>
+    <li>ruined->ที่สูญหาย</li>
+    <li>ruined->ที่เสียหาย</li>
+    <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
+    <li>PlaceOutlander->[SylE][SylE][place_end]</li>
+  </OpportunitySite_OrbitalWreck.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>คุณได้ค้นพบ</OpportunitySite_OrbitalWreck.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>ภารกิจหมดเวลา:[resolvedQuestName]</OpportunitySite_OrbitalWreck.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the orbital wreck has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>มีการสกัดกั้นสัญญาณที่ระบุว่าซากวงโคจรได้ถูกผู้อื่นอ้างสิทธิ์ ภารกิจ [resolvedQuestName] หมดเวลาแล้ว</OpportunitySite_OrbitalWreck.LetterTextQuestExpired.slateRef>
   
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of an orbital satellite. These satellites are unmanned and often incapable of supporting life. Satellites serve a wide variety of purposes, from power collection to weapons platforms.\n\nYou can scavenge valuable technology from the satellites but be warned, satellites are heavily guarded by ancient security systems.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
   -->
-  <OpportunitySite_Satellite.questDescriptionRules.rulesStrings>TODO</OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+  <OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]ตำแหน่งของดาวเทียมวงโคจร ดาวเทียมเหล่านี้ไม่มีลูกเรือ และมักไม่สามารถรองรับชีวิตได้ ดาวเทียมถูกใช้ในหลากหลายวัตถุประสงค์ ตั้งแต่การเก็บพลังงานไปจนถึงการเป็นแพลตฟอร์มอาวุธ\n\nคุณสามารถเก็บเทคโนโลยีล้ำค่าจากดาวเทียมเหล่านี้ได้ แต่โปรดระวัง เพราะดาวเทียมมักถูกป้องกันด้วยระบบรักษาความปลอดภัยโบราณ\n\nคุณสามารถเดินทางไปยังสถานที่วงโคจรได้ด้วยกระสวยขนส่ง ยานกระสวย หรือยานกราฟชิป</li>
+  </OpportunitySite_Satellite.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[PlaceOutlander] [platform]</li>
     <li>questName->[platAdj] [platform]</li>
@@ -235,12 +385,44 @@
     <li>PlaceOutlander(p=3)->[SylE][place_end]</li>
     <li>PlaceOutlander->[SylE][SylE][place_end]</li>
   -->
-  <OpportunitySite_Satellite.questNameRules.rulesStrings>TODO</OpportunitySite_Satellite.questNameRules.rulesStrings>
+  <OpportunitySite_Satellite.questNameRules.rulesStrings>
+    <li>questName->[platform] [PlaceOutlander]</li>
+    <li>questName->[platform][platAdj]</li>
+    <li>platAdj(p=4)->วงโคจร</li>
+    <li>platAdj->สังเกตการณ์</li>
+    <li>platAdj->เน็ตเวิร์ก</li>
+    <li>platAdj->อิมพีเรียล</li>
+    <li>platAdj->โซลาร์</li>
+    <li>platAdj->สตาร์ไลต์</li>
+    <li>platAdj->เนบิวลา</li>
+    <li>platAdj->ฮอไรซัน</li>
+    <li>platAdj->อีคลิปส์</li>
+    <li>platAdj->ซีนิธ</li>
+    <li>platAdj->ออโรรา</li>
+    <li>platAdj->โคโรนา</li>
+    <li>platAdj->โนวา</li>
+    <li>platAdj->อีออน</li>
+    <li>platAdj->โซเลซ</li>
+    <li>platAdj->ลูมินา</li>
+    <li>platAdj->ไอออน</li>
+    <li>platAdj->แอสตราลิส</li>
+    <li>platAdj->เอคโค่</li>
+    <li>platform(p=4)->ดาวเทียม</li>
+    <li>platform->รีเลย์</li>
+    <li>platform->วงแหวน</li>
+    <li>platform->ดาวเทียมลิงค์</li>
+    <li>platform->เซนติแนล</li>
+    <li>platform->ไพรม์</li>
+    <li>platform->บีคอน</li>
+    <li>platform->ยานทิ้งระเบิด</li>
+    <li>PlaceOutlander(p=3)->[SylECap][place_end]</li>
+    <li>PlaceOutlander->[SylECap][SylE][place_end]</li>
+  </OpportunitySite_Satellite.questNameRules.rulesStrings>
   <!-- EN: You have discovered -->
-  <OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>TODO</OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
+  <OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>คุณได้ค้นพบ</OpportunitySite_Satellite.root.nodes.IsSet.elseNode.nodes.Set.value.slateRef>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>ภารกิจหมดเวลา: [resolvedQuestName]</OpportunitySite_Satellite.LetterLabelQuestExpired.slateRef>
   <!-- EN: Scanner readings indicate the satellite has boosted itself into a higher, unreachable orbit. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>การอ่านจากเครื่องสแกนบุว่าดาวเทียมได้พัฒนาตนเองเป็นวงโคจรที่สูงกว่าและไม่สามารถเข้าถึงได้ ภารกิจ [ResolvedQuestName] หมดเวลาแล้ว</OpportunitySite_Satellite.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

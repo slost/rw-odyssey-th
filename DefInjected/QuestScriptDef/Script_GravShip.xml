@@ -2,138 +2,192 @@
 <LanguageData>
   
   <!-- EN: Gravcore detected: Ancient reactor -->
-  <Gravcore_AncientReactor.questAvailableLetterLabel>TODO</Gravcore_AncientReactor.questAvailableLetterLabel>
+  <Gravcore_AncientReactor.questAvailableLetterLabel>ตรวจพบกราฟคอร์: เครื่องปฏิกรณ์โบราณ</Gravcore_AncientReactor.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal originates from an ancient decaying reactor. The location is marked on the world map.\n\nCracks in the reactor's shielding are leaking harmful material, bathing the nearby area in toxic fallout. The reactor itself will be heavily guarded by ancient security systems.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_AncientReactor.questDescriptionRules.rulesStrings>TODO</Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
+  <Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
+    <li>questDescription->คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ ต้นตอของสัญญาณมาจากเครื่องปฏิกรณ์โบราณที่กำลังเสื่อมสภาพ ตำแหน่งถูกทำเครื่องหมายบนแผนที่โลกแล้ว\n\nรอยร้าวในเกราะป้องกันของเครื่องปฏิกรณ์ทำให้มีสารอันตรายรั่วไหลออกมา แพร่กระจายฝุ่นรังสีพิษไปทั่วบริเวณใกล้เคียง ตัวเครื่องปฏิกรณ์เองจะมีระบบรักษาความปลอดภัยโบราณคอยคุ้มกันอย่างแน่นหนา\n\nรับกราฟคอร์และแผงกราฟไลต์เพื่อนำมาเพิ่มขนาดของยานกราฟชิพของคุณ</li>
+  </Gravcore_AncientReactor.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->ancient reactor</li>
   -->
-  <Gravcore_AncientReactor.questNameRules.rulesStrings>TODO</Gravcore_AncientReactor.questNameRules.rulesStrings>
+  <Gravcore_AncientReactor.questNameRules.rulesStrings>
+
+    <li>questName->เครื่องปฏิกรณ์โบราณ</li>
+  </Gravcore_AncientReactor.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Ancient stockpile -->
-  <Gravcore_AncientStockpile.questAvailableLetterLabel>TODO</Gravcore_AncientStockpile.questAvailableLetterLabel>
+  <Gravcore_AncientStockpile.questAvailableLetterLabel>ตรวจพบกราฟคอร์: คลังจัดเก็บกราฟคอร์</Gravcore_AncientStockpile.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal originates from an ancient underground stockpile. The location is marked on the world map.\n\nUnderground stockpiles must be hacked to enter. This process can take days to complete.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>TODO</Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
+  <Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
+    <li>questDescription->คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ ต้นตอของสัญญาณมาจากคลังใต้ดินโบราณ ตำแหน่งถูกทำเครื่องหมายบนแผนที่โลกแล้ว\n\คลังใต้ดินจำเป็นต้องถูกแฮ็คเพื่อเข้าไปข้างใน ขั้นตอนนี้อาจใช้เวลาหลายวันจึงจะเสร็จ\n\nรับกราฟคอร์และแผงกราฟไลต์เพื่อนำมาเพิ่มขนาดของยานกราฟชิพของคุณ</li>
+  </Gravcore_AncientStockpile.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Ancient stockpile</li>
   -->
-  <Gravcore_AncientStockpile.questNameRules.rulesStrings>TODO</Gravcore_AncientStockpile.questNameRules.rulesStrings>
+  <Gravcore_AncientStockpile.questNameRules.rulesStrings>
+    <li>questName->คลังจัดเก็บโบราณ</li>
+  </Gravcore_AncientStockpile.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Crash site -->
-  <Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>TODO</Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>
+  <Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>ตรวจพบกราฟคอร์: ไซต์ร่วงตก</Gravcore_CrashedMechanoidPlatform.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from the wreckage of a crashed orbital platform.\n\nScans reveal a heavy mechanoid presence.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>TODO</Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
+  <Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ สัญญาณส่งมาจากแพลตฟอร์มวงโคจรที่ร่วงตกลงมา\n\nการสแกนพบว่าพื้นที่มีเมคคานอยด์อยู่หนาแน่น\n\nรับกราฟคอร์และแผงกราฟไลต์เพื่อนำมาเพิ่มขนาดของยานกราฟชิพของคุณ</li>
+  </Gravcore_CrashedMechanoidPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->crashed mechanoid platform</li>
   -->
-  <Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>TODO</Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
+  <Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName->แพลตฟอร์มเมคคานอยด์ที่ร่วงตก</li> 
+  </Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Frozen terraformer -->
-  <Gravcore_FrozenTerraformer.questAvailableLetterLabel>TODO</Gravcore_FrozenTerraformer.questAvailableLetterLabel>
+  <Gravcore_FrozenTerraformer.questAvailableLetterLabel>ตรวจพบกราฟคอร์: เครื่องปรับสภาพดาวเคราะห์ที่ถูกแช่แข็ง</Gravcore_FrozenTerraformer.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The gravcore is powering a malfunctioning ancient terraformer. Its location is marked on the world map.\n\nThe terraformer is cooling the local region to dangerously low temperatures. Be prepared for cold weather and a long stay.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>TODO</Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
+  <Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
+    <li>questDescription->คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ กราฟคอร์นี้กำลังจ่ายพลังงานให้กับเครื่องเปลี่ยนดาวเคราะห์โบราณที่ทำงานผิดปกติ ตำแหน่งของมันถูกทำเครื่องหมายไว้บนแผนที่โลกแล้ว\n\nเครื่องเปลี่ยนสภาพดาวเคราะห์นี้กำลังทำให้พื้นที่ท้องถิ่นเย็นลงในระดับที่อันตราย เตรียมพร้อมรับมือกับสภาพอากาศหนาวจัดและการเดินทางที่ยาวนาน\n\nรับกราฟคอร์และแผงกราฟไลต์เพื่อนำมาเพิ่มขนาดของยานกราฟชิพของคุณ</li>
+  </Gravcore_FrozenTerraformer.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->frozen terraformer</li>
   -->
-  <Gravcore_FrozenTerraformer.questNameRules.rulesStrings>TODO</Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
+  <Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
+    <li>questName->เครื่องปรับสภาพดาวเคราะห์ที่ถูกแช่แข็ง</li>
+  </Gravcore_FrozenTerraformer.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Cave entrance -->
-  <Gravcore_InsectLair.questAvailableLetterLabel>TODO</Gravcore_InsectLair.questAvailableLetterLabel>
+  <Gravcore_InsectLair.questAvailableLetterLabel>ตรวจพบกราฟคอร์: ทางเข้าถ้ำ</Gravcore_InsectLair.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal emanates from a cave system deep underground. The entrance to the cave system is marked on the world map.\n\nSubterranean caves can be extremely dangerous and may take days to explore.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_InsectLair.questDescriptionRules.rulesStrings>TODO</Gravcore_InsectLair.questDescriptionRules.rulesStrings>
+  <Gravcore_InsectLair.questDescriptionRules.rulesStrings>
+    <li>questDescription->คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ สัญญาณกระจายมาจากระบบถ้ำใต้ดินลึก ทางเข้าไปยังระบบถ้ำถูกทำเครื่องหมายไว้บนแผนที่โลกแล้ว\n\nถ้ำใต้ดินอาจเป็นอันตรายอย่างมาก และอาจต้องใช้เวลาหลายวันในการสำรวจ\n\nรับกราฟคอร์และแผงกราฟไลต์เพื่อนำมาเพิ่มขนาดของยานกราฟชิพของคุณ</li>
+  </Gravcore_InsectLair.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->cave entrance</li>
   -->
-  <Gravcore_InsectLair.questNameRules.rulesStrings>TODO</Gravcore_InsectLair.questNameRules.rulesStrings>
+  <Gravcore_InsectLair.questNameRules.rulesStrings><li>questName->ทางเข้าถ้ำ</li></Gravcore_InsectLair.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Mechanoid relay -->
-  <Gravcore_MechanoidRelay.questAvailableLetterLabel>TODO</Gravcore_MechanoidRelay.questAvailableLetterLabel>
+  <Gravcore_MechanoidRelay.questAvailableLetterLabel>ตรวจพบกราฟคอร์: รีเลย์เมคคานอยด์</Gravcore_MechanoidRelay.questAvailableLetterLabel>
   <!-- EN:
     <li>letterLabelMapGenerated->Mechanoid relay</li>
     <li>letterTextMapGenerated->A mechanoid relay is nearby, powered by a gravcore.\n\nThe relay is currently protected by nearby stabilizers. Extract the relay's gravcore by first hacking or destroying all the stabilizers.\n\nBe careful, destroying a stabilizer will prompt a defensive response. Hacking is a slower but safer option.</li>
   -->
-  <Gravcore_MechanoidRelay.questContentRules.rulesStrings>TODO</Gravcore_MechanoidRelay.questContentRules.rulesStrings>
+  <Gravcore_MechanoidRelay.questContentRules.rulesStrings>
+    <li>letterLabelMapGenerated->รีเลย์เมคคานอยด์</li>
+    <li>letterTextMapGenerated->มีรีเลย์ของแมคคานอยด์ในบริเวณใกล้เคียง ซึ่งมันได้รับพลังงานจากกราฟคอร์\n\nรีเลย์นี้ถูกป้องกันด้วยอุปกรณ์รักษาเสถียรภาพใกล้ๆ ถอนกราฟคอร์จากรีเลย์ได้โดยการแฮ็คหรือทำลายเครื่องรักษาเสถียรภาพให้หมด\n\nโปรดระวัง การทำลายเครื่องรักษาเสถียรภาพจะกระตุ้นการตอบโต้จากระบบป้องกัน การแฮ็คจะช้ากว่าแต่ปลอดภัยกว่า</li>
+  </Gravcore_MechanoidRelay.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. It is powering a relay that is part of a huge mechanoid communication net.\n\nYou can disassemble the relay, but the process will take days to complete. The relay itself will be heavily defended by mechanoids.\n\nObtain gravcores and gravlite panels to increase the size of your gravship.</li>
   -->
-  <Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>TODO</Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
+  <Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
+    <li>questDescription->คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ มันกำลังจ่ายพลังงานให้กับรีเลย์ที่เป็นส่วนหนึ่งของเครือข่ายการสื่อสารของเมคคานอยด์ขนาดใหญ่\n\nคุณสามารถรื้อถอนรีเลย์ได้ แต่กระบวนการจะใช้เวลาหลายวัน และรีเลย์จะมีการป้องกันอย่างแน่นหนาโดยแมคคานอยด์\n\nรวบรวมกราฟคอร์และแผงกราฟไลต์เพื่อขยายขนาดยานกราฟชิพของคุณ</li>
+  </Gravcore_MechanoidRelay.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->mechanoid relay</li>
   -->
-  <Gravcore_MechanoidRelay.questNameRules.rulesStrings>TODO</Gravcore_MechanoidRelay.questNameRules.rulesStrings>
+  <Gravcore_MechanoidRelay.questNameRules.rulesStrings>
+    <li>questName->รีเลย์เมคคานอยด์</li>
+  </Gravcore_MechanoidRelay.questNameRules.rulesStrings>
   
   <!-- EN: Mechhive detected -->
-  <Gravcore_Mechhive.questAvailableLetterLabel>TODO</Gravcore_Mechhive.questAvailableLetterLabel>
+  <Gravcore_Mechhive.questAvailableLetterLabel>ตรวจพบเมคไฮฟ์</Gravcore_Mechhive.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected a huge gravtech energy spike originating from a mechhive in orbit. Its location is marked on the world map.\n\nThis mechhive is the center of mechanoid intelligence on this planet. Shutting it down will disable all murderous mechanoids planet-wide. Alternatively, you may be able to use the mechhive for your own purposes.\n\nThe mechhive is defended with anti-ship weapons. Build a signal jammer before approaching it.\n\nBe warned, mechhives are extremely dangerous. Finish exploring other locations first and ensure you're prepared for a long stay in orbit.</li>
   -->
-  <Gravcore_Mechhive.questDescriptionRules.rulesStrings>TODO</Gravcore_Mechhive.questDescriptionRules.rulesStrings>
+  <Gravcore_Mechhive.questDescriptionRules.rulesStrings>
+    <li>questDescription->คุณตรวจพบการพุ่งขึ้นของพลังงานเทคโนโลยีแรงโน้มถ่วงมหาศาลที่มีต้นตอมาจากเมคไฮฟ์ในวงโคจร ตำแหน่งของมันถูกทำเครื่องหมายไว้บนแผนที่โลกแล้ว\n\nเมคไฮฟ์นี้เป็นศูนย์กลางสติปัญญาของเมคคานอยด์ทั้งหมดบนดาวเคราะห์ดวงนี้ การปิดระบบมัจะทำให้เมคานอยด์สังหารทั้งหมดหยุดทำงาน อย่างไรก็ตาม คุณอาจใช้เมคไฮฟ์นี้เพื่อจุดประสงค์ของคุณเองได้เช่นกัน\n\nเมคไฮฟ์มีระบบป้องกันด้วยอาวุธต่อต้านยานอวกาศ สร้างเครื่องรบกวนสัญญาณก่อนเข้าใกล้\n\nคำเตือน: เมคไฮฟ์นั้นอันตรายอย่างยิ่ง สำรวจพื้นที่อื่นให้เสร็จสิ้นและเตรียมตัวให้พร้อมสำหรับการอยู่ในวงโคจรเป็นเวลานาน</li>
+  </Gravcore_Mechhive.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->mechhive</li>
   -->
-  <Gravcore_Mechhive.questNameRules.rulesStrings>TODO</Gravcore_Mechhive.questNameRules.rulesStrings>
+  <Gravcore_Mechhive.questNameRules.rulesStrings>
+    <li>questName->เมคไฮฟ์</li>
+  </Gravcore_Mechhive.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Orbital platform -->
-  <Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>TODO</Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>
+  <Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>ตรวจพบกราฟคอร์: แพลตฟอร์มวงโคจร</Gravcore_OrbitalAncientPlatform.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from an abandoned orbital platform.\n\nYou can travel to orbital platforms using gravships, shuttles, or transport pods.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</li>
   -->
-  <Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>TODO</Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
+  <Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->คุณได้ตรวจพบสัญญาณพลังงานของกราฟคอร์ สัญญาณส่งมาจากแพลตฟอร์มวงโคจรร้าง\n\nคุณสามารถเดินทางไปแพลตฟอร์มวงโคจรได้ด้วยยานกราฟชิป ยานกระสวย หรือกระสวยขนส่ง\n\nโปรดระวัง สถานที่ในวงโคจรนั้นอันตรายอย่างยิ่ง สวมสูทสุญญากาศให้ชาวนิคมของคน วางแผนการเดินทางกลับให้ดี เนื่องจากการใช้ชีวิตในวงโคจรเป็นเวลานานนั้นลำบากมาก</li>
+  </Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->abandoned orbital platform</li>
   -->
-  <Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>TODO</Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
+  <Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
+    <li>questName->แพลตฟอร์มวงโคจรร้าง</li>
+  </Gravcore_OrbitalAncientPlatform.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Mechanoid platform -->
-  <Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>TODO</Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>
+  <Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>ตรวจพบกราฟคอร์: แพลตฟอร์มเมคคานอยด์</Gravcore_OrbitalMechanoidPlatform.questAvailableLetterLabel>
   <!-- EN:
     <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from an orbital mechanoid platform. Scans reveal a heavy defensive presence.\n\nYou can travel to orbital platforms using gravships, shuttles, or transport pods.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</li>
   -->
-  <Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>TODO</Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
+  <Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
+    <li>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ สัญญาณส่งมาจากแพลตฟอร์มเมคคานอยด์ในวงโคจร การสแกนเผยให้เห็นการป้องกันอย่างหนาแน่น\n\nคุณสามารถเดินทางไปแพลตฟอร์มวงโคจรได้ด้วยยานกราฟชิป ยานกระสวย หรือกระสวยขนส่ง\n\nโปรดระวัง สถานที่ในวงโคจรนั้นอันตรายอย่างยิ่ง สวมสูทสุญญากาศให้ชาวนิคมของคน วางแผนการเดินทางกลับให้ดี เนื่องจากการใช้ชีวิตในวงโคจรเป็นเวลานานนั้นลำบากมาก</li>
+</Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Mechanoid platform</li>
   -->
-  <Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>TODO</Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
+  <Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
+    <li>questName->แพลตฟอร์มเมคคานอยด์</li>
+  </Gravcore_OrbitalMechanoidPlatform.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->You've discovered a mechanoid grav engine! You can use this to build a gravship to quickly move around the planet.\n\nThe engine includes tech that passively scans for nearby gravship technology. If you obtain this gravship tech, you can upgrade your gravship over time.</li>
   -->
-  <GravEngine.questDescriptionRules.rulesStrings>TODO</GravEngine.questDescriptionRules.rulesStrings>
+  <GravEngine.questDescriptionRules.rulesStrings>
+    <li>คุณได้ค้นพบกราฟเอนจิ้นของเมคคานอยด์! คุณสามารถใช้มันเพื่อสร้างยานแรงโน้มถ่วงเพื่อเคลื่อนที่อย่างรวดเร็วไปทั่วทั้งดาวเคราะห์\n\nเครื่องยนต์นี้มีเทคโนโลยีที่สามารถสแกนหาชิ้นส่วนเทคโนโลยียานกราฟชิปที่อยู่ใกล้โดยอัตโนมัติ หากคุณได้เทคโนโลยีจากยานกราฟชิปเหล่านี้มา คุณจะสามารถอัปเกรดยานของคุณได้เรื่อยๆ</li>
+  </GravEngine.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->the gravship</li>
   -->
-  <GravEngine.questNameRules.rulesStrings>TODO</GravEngine.questNameRules.rulesStrings>
+  <GravEngine.questNameRules.rulesStrings>
+    <li>questName->ยานกราฟชิป</li>
+  </GravEngine.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription(askerIsNull==true)->You've intercepted the distress beacon from a crashed gravship. The wreckage contains valuable gravtech. Be careful - it is guarded by hostile mechanoids.</li>
     <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] has shared with you the location of a crashed gravship. [asker_pronoun] heard of your study of gravcore technology and thought you might be interested in scavenging whatever gravtech remains. [asker_nameDef] warns you that the crash site is guarded by hostile mechanoids.</li>
     <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], demands that you destroy a number of bothersome mechanoids that are harassing a nearby settlement. The mechanoids are guarding the wreckage of a gravship. If you destroy the mechanoids, [asker_nameDef] will let you keep whatever gravtech you're able to scavenge.</li>
   -->
-  <GravshipWreckage.questDescriptionRules.rulesStrings>TODO</GravshipWreckage.questDescriptionRules.rulesStrings>
+  <GravshipWreckage.questDescriptionRules.rulesStrings>
+    <li>(askerIsNull==true)คุณได้ดักจับสัญญาณขอความช่วยเหลือจากยานกราฟชิปที่ตกลงมา ซากของมันมีเทคโนโลยีแรงโน้มถ่วงที่มีค่า โปรดระวัง มันถูกคุ้มกันด้วยเมคคานอยด์ที่ไม่เป็นมิตรอยู่</li>
+    <li>(asker_factionLeader==true)[asker_faction_leaderTitle] [asker_nameFull] ผู้นำแห่ง [asker_faction_name] ได้แบ่งปันตำแหน่งของยานกราฟชิปที่ตกลงมาให้คุณ [asker_pronoun]ได้ยินมาว่าคุณกำลังศึกษาเทคโนโลยีกราฟคอร์อยู่ และคิดว่าคุณอาจสนใจจะรื้อซากเทคโนโลยีแรงโน้มถ่วงอะไรก็ตามที่เหลืออยู่ [asker_nameDef] เตือนคุณว่าไซต์ร่วงตกนั้นมีเมคคานอยด์ที่ไม่เป็นมิตรคุ้มกันอยู่</li>
+    <li>(asker_royalInCurrentFaction==true)[asker_nameFull] ผู้ดำรงตำแหน่ง[asker_royalTitleInCurrentFaction] แห่ง [asker_faction_name] สั่งให้คุณทำลายเมคคานอยด์น่ารำคาญกลุ่มหนึ่งที่มารบกวนถิ่นฐานใกล้เคียง เมคคานอยด์เหล่านั้นกำลังคุ้มกันซากยานกราฟชิปอยู่ หากคุณสามารถกำจัดพวกมันได้ [asker_nameDef] จะยอมให้คุณเก็บเอาเทคโนโลยีแร้งโน้มถ่วงอะไรก็ตามที่คุณสามารถรื้อซากมาได้</li>
+  </GravshipWreckage.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Gravship wreckage</li>
   -->
-  <GravshipWreckage.questNameRules.rulesStrings>TODO</GravshipWreckage.questNameRules.rulesStrings>
+  <GravshipWreckage.questNameRules.rulesStrings>
+    <li>questName->ซากยานกราฟชิป</li>
+  </GravshipWreckage.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->You've detected a signal from a mechanoid ship in orbit. The ship has malfunctioned and is slowly losing altitude.\n\nBy falsely responding to the signal you can make the ship crashland nearby, letting you salvage valuable grav tech.</li>
     <li>gravEngineSpawnedLetterLabel->grav engine</li>
     <li>gravEngineSpawnedLetterText->The mechanoid ship has crashlanded nearby.\n\nIt contains a working grav engine. The engine pushes against gravity and generates a lift field around itself, allowing it to levitate massive ships or platforms. While it does not work when far from a planet, it can be used to move across the planet and to reach orbit.\n\nInspect the engine to make use of it.</li>
   -->
-  <MechanoidSignal.questDescriptionRules.rulesStrings>TODO</MechanoidSignal.questDescriptionRules.rulesStrings>
+  <MechanoidSignal.questDescriptionRules.rulesStrings>
+    <li>questDescription->คุณได้ตรวจพบสัญญาณจากยานเมคคานอยด์ในวงโคจร ยานลำนี้ได้เกิดอาการขัดข้องและกำลังลดระดับลงอย่างช้าๆ\n\nหากคุณตอบสนองต่อสัญญาณแบบหลอกๆ คุณสามารถทำให้มันร่วงลงพื้นในบริเวณใกล้เคียง และทำให้คุณสามารถรื้อซากเทคโนโลยีแรงโน้มถ่วงที่มีค่าได้</li>
+    <li>gravEngineSpawnedLetterLabel->กราฟเอนจิ้น</li>
+    <li>gravEngineSpawnedLetterText->ยานเมคคานอยด์ได้ตกลงมาในบริเวณใกล้เคียง\n\nภายในยานมีกราฟเอนจิ้นที่ยังใช้งานได้ เครื่องยนต์นี้ต่อต้านแรงโน้มถ่วงและสร้างสนามยกตัวรอบตัวมัน ทำให้มันสามารถลอยยานหรือแพลตฟอร์มขนาดใหญ่ได้ แม้มันจะไม่สามารถใช้งานได้เมื่ออยู่ห่างจากดาวเคราะห์ แต่สามารถใช้เพื่อเดินทางรอบดาวเคราะห์หรือขึ้นสู่วงโคจรได้\n\nตรวจสอบเครื่องยนต์เพื่อใช้งานมัน</li>
+  </MechanoidSignal.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->mechanoid signal</li>
   -->
-  <MechanoidSignal.questNameRules.rulesStrings>TODO</MechanoidSignal.questNameRules.rulesStrings>
+  <MechanoidSignal.questNameRules.rulesStrings>
+    <li>questName->สัญญาณเมคคานอยด์</li>
+  </MechanoidSignal.questNameRules.rulesStrings>
   
 </LanguageData>

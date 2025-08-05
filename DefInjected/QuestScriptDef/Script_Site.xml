@@ -9,13 +9,24 @@
     <li>attackReason->want to scrap the surveying equipment for parts</li>
     <li>attackReason->claim that the surveying scanner is secretly a weapon and its activation has caused psychic disturbances</li>
   -->
-  <SurveySite.questContentRules.rulesStrings>TODO</SurveySite.questContentRules.rulesStrings>
+  <SurveySite.questContentRules.rulesStrings>
+    <li>attackReason->อ้างว่าเครื่องแสกนสำรวจถูกส่งมาเพื่อสอดแนมพิธีกรรมลับของพวกเขา</li>
+    <li>attackReason->กล่าวว่าไซต์สำรวจรุกล้ำอาณาเขตของพวกเขา</li>
+    <li>attackReason->กล่าวว่าพวกเขาถูกส่งมาทำลายเครื่องแสกนเพื่อตอบโต้</li>
+    <li>attackReason->อ้างว่าเครื่องแสกนสำรวจอยู่ใกล้กับที่ซ่อนของพวกเขามากเกินไป</li>
+    <li>attackReason->ต้องการรื้ออุปกรณ์สำรวจเพื่อนำไปเป็นอะไหล่</li>
+    <li>attackReason->อ้างว่าเครื่องแสกนสำรวจเป็นอาวุธลับ และการทำงานของมันได้ก่อให้เกิดความผิดปกติทางจิต</li>
+  </SurveySite.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription(askerIsNull==true)->An anonymous AI has requested your help defending surveying equipment at a remote site.\n\nThe surveying operation will take ten to fifteen days and will require traveling to a remote destination.\n\nIn exchange for your services, the AI is offering a valuable gravtech device.</li>
     <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle] [asker_nameFull] of [asker_faction_name] has heard rumors of your gravship. [asker_pronoun] wants to survey a distant region and asks that you protect [asker_possessive] surveying equipment.\n\nThe surveying operation will take ten to fifteen days and will require traveling to a remote destination.\n\nIn exchange for your services, [asker_nameDef] is offering a valuable gravtech device.</li>
     <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], requests that you protect [asker_possessive] surveying operation. If you do so, [asker_pronoun] will reward you handsomely.\n\nThe surveying operation will take ten to fifteen days and will require traveling to a remote destination.\n\nIn exchange for your services, [asker_nameDef] is offering a valuable gravtech device.</li>
   -->
-  <SurveySite.questDescriptionRules.rulesStrings>TODO</SurveySite.questDescriptionRules.rulesStrings>
+  <SurveySite.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->เอไอนิรนามได้ร้องขอให้คุณช่วยปกป้องอุปกรณ์สำรวจ ณ พื้นที่ห่างไกล\n\nการปฏิบัติการสำรวจจะใช้เวลาประมาณสิบถึงสิบห้าวัน และคุณจะต้องเดินทางไปยังสถานที่นั้น\n\nเพื่อเป็นการตอบแทน เอไอจะมอบอุปกรณ์เทคโนโลยีแรงโน้มถ่วงอันมีค่าให้คุณ</li>
+    <li>questDescription(asker_factionLeader==true)->[asker_faction_leaderTitle] [asker_nameFull] แห่ง [asker_faction_name] ได้ยินข่าวลือเกี่ยวกับยานกราฟชิปของคุณ [asker_pronoun] ต้องการสำรวจภูมิภาคห่างไกล และขอให้คุณช่วยปกป้องอุปกรณ์สำรวจ[asker_possessive]\n\nการสำรวจจะใช้เวลาประมาณสิบถึงสิบห้าวัน และคุณจะต้องเดินทางไปยังสถานที่นั้น\n\nเพื่อเป็นการตอบแทน [asker_nameDef] จะมอบอุปกรณ์เทคโนโลยีแรงโน้มถ่วงอันมีค่าให้คุณ</li>
+    <li>questDescription(asker_royalInCurrentFaction==true)->[asker_nameFull] [asker_royalTitleInCurrentFaction] แห่ง [asker_faction_name] ขอให้คุณช่วยปกป้องการปฏิบัติการสำรวจ[asker_possessive] หากคุณทำเช่นนั้น [asker_pronoun]จะตอบแทนคุณอย่างงาม\n\nการสำรวจจะใช้เวลาประมาณสิบถึงสิบห้าวัน และคุณจะต้องเดินทางไปยังสถานที่นั้น\n\nเพื่อเป็นการตอบแทน [asker_nameDef] จะมอบอุปกรณ์เทคโนโลยีแรงโน้มถ่วงอันมีค่าให้คุณ</li>
+  </SurveySite.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Surveying [site]</li>
     <li>questName->[remote] Survey</li>
@@ -29,16 +40,28 @@
     <li>remote->Regional</li>
     <li>remote->Distant</li>
   -->
-  <SurveySite.questNameRules.rulesStrings>TODO</SurveySite.questNameRules.rulesStrings>
+  <SurveySite.questNameRules.rulesStrings>
+    <li>questName->[site]สำรวจ</li>
+    <li>questName->สำรวจ[remote]</li>
+    <li>questName(p=0.5)->ปกป้องเครื่องแสกน</li>
+    <li>questName(p=0.5)->คุ้มกันระยะไกล</li>
+    <li>site->ไซต์</li>
+    <li>site->สถานี</li>
+    <li>site->ปกป้องการ</li>
+    <li>site->ปฏิบัติการณ์</li>
+    <li>remote->ระยะไกล</li>
+    <li>remote->ภูมิภาค</li>
+    <li>remote->ห่างไกล</li>
+  </SurveySite.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <SurveySite.LetterLabelQuestExpired.slateRef>TODO</SurveySite.LetterLabelQuestExpired.slateRef>
+  <SurveySite.LetterLabelQuestExpired.slateRef>ภารกิจหมดเวลา: [resolvedQuestName]</SurveySite.LetterLabelQuestExpired.slateRef>
   <!-- EN: The scanner has gone offline. The quest [resolvedQuestName] has expired. -->
-  <SurveySite.LetterTextQuestExpired.slateRef>TODO</SurveySite.LetterTextQuestExpired.slateRef>
+  <SurveySite.LetterTextQuestExpired.slateRef>เครื่องแสกนได้ออฟไลน์หายไป ภารกิจ [resolvedQuestName] ได้หมดเวลาแล้ว</SurveySite.LetterTextQuestExpired.slateRef>
   <!-- EN: {BASETEXT}\n\nThe [enemyFaction_pawnsPlural] [attackReason]. -->
-  <SurveySite.root.nodes.Root_SurveyScanner.raidLetterText>TODO</SurveySite.root.nodes.Root_SurveyScanner.raidLetterText>
+  <SurveySite.root.nodes.Root_SurveyScanner.raidLetterText>{BASETEXT}\n\n[enemyFaction_pawnsPlural] [attackReason]</SurveySite.root.nodes.Root_SurveyScanner.raidLetterText>
   <!-- EN: Quest completed -->
-  <SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.label.slateRef>TODO</SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.label.slateRef>
+  <SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.label.slateRef>ภารกิจเสร็จสิ้น</SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.label.slateRef>
   <!-- EN: You have successfully completed the quest '[resolvedQuestName]'! -->
-  <SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.text.slateRef>TODO</SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.text.slateRef>
+  <SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.text.slateRef>คุณได้ทำภารกิจ '[resolvedQuestName]' สำเร็จลุล่วง!</SurveySite.root.nodes.AllSignals.node.node.nodes.Letter.text.slateRef>
   
 </LanguageData>

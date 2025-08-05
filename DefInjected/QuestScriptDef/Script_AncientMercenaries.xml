@@ -6,7 +6,11 @@
     <li>location(atLandmark==true)->The soldiers are hiding out in an ancient structure at [landmarkName].</li>
     <li>location(atLandmark==false)->The soldiers are hiding out in an ancient structure.</li>
   -->
-  <OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>TODO</OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]ตำแหน่งของกลุ่มทหารรับจ้างชื่อฉาว พวกเขาเป็นทหารจากยุคที่นานจนถูกลืมไปแล้วในประวัติศาสตร์ของดาวเคราะห์ดวงนี้ พวกเขาเพิ่งตื่นจากการหลับไหลในคริปโตสลีปและกำลังสร้างปัญหาในพื้นที่\n\nกลุ่มนี้นำโดย [LEADER_nameDef] ซึ่งครอบครองอาวุธ[WEAPON_quality]ยูนีคอยู่ กลุ่มนี้ประกอบไปด้วย:\n\n[mercenaryList]\n\nหากคุณสามารถจับกุมหรือล้มผู้นำได้ คุณจะสามารถเอาอาวุธยูนีคนั้นไปได้\n\n[location]</li>
+    <li>location(atLandmark==true)->ทหารเหล่านี้ซ่อนตัวอยู่ในสิ่งปลูกสร้างโบราณที่ [landmarkName]</li>
+    <li>location(atLandmark==false)->ทหารเหล่านี้ซ่อนตัวอยู่ในสิ่งปลูกสร้างโบราณแห่งหนึ่ง</li>
+  </OpportunitySite_AncientMercenaries.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [ancient] [mercenaries]</li>
     <li>questName->[ancient] [mercenaries]</li>
@@ -18,7 +22,17 @@
     <li>mercenaries->Warriors</li>
     <li>mercenaries->Fighters</li>
   -->
-  <OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>TODO</OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>
+  <OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>
+    <li>questName->[mercenaries][ancient]</li>
+    <li>questName->[mercenaries][ancient]</li>
+    <li>ancient->โบราณ</li>
+    <li>ancient->ตื่นจากนิทรา</li>
+    <li>ancient->คริปโตสลีป</li>
+    <li>mercenaries->ทหารรับจ้าง</li>
+    <li>mercenaries->ทหาร</li>
+    <li>mercenaries->นักรบ</li>
+    <li>mercenaries->นักสู้</li>
+  </OpportunitySite_AncientMercenaries.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->ancient mercenaries</li>
     <li>subject->ancient soldiers</li>
@@ -30,6 +44,16 @@
     <li>questMapText->dangerous ancients</li>
     <li>questMapText->ancient weapons</li>
   -->
-  <OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>TODO</OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>
+  <OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>
+    <li>subject->ทหารรับจ้างโบราณ</li>
+    <li>subject->ทหารโบราณ</li>
+    <li>subject->กลุ่มคนโบราณ</li>
+    <li>questMapFeature->ป้อมทหาร</li>
+    <li>questMapFeature->ภาพวาดของทหารจากอดีตกาล</li>
+    <li>questMapFeature->ภาพสเก็ตช์ของชายจากอีกยุคหนึ่ง</li>
+    <li>questMapText->พวกเขาตื่นแล้ว</li>
+    <li>questMapText->กลุ่มคนโบราณสุดอันตราย</li>
+    <li>questMapText->อาวุธโบราณ</li>
+  </OpportunitySite_AncientMercenaries.questSubjectRules.rulesStrings>
   
 </LanguageData>

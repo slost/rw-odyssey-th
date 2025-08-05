@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of a collection of valuable items worth [itemStashContentsValue]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
   -->
-  <OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>TODO</OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
+  <OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]ตำแหน่งของชุดสะสมของมีค่าที่มีมูลค่า [itemStashContentsValue] ชุดสะสมประกอบไปด้วย:\n\n[itemStashContents]\n\nดูเหมือนว่า [allSitePartsDescriptionsExceptFirst]</li>
+  </OpportunitySite_ItemStash_Giver.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[stash] of [treasure]</li>
     <li>stash->Stash</li>
@@ -17,7 +19,18 @@
     <li>treasure->Goodies</li>
     <li>treasure->Supplies</li>
   -->
-  <OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>TODO</OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
+  <OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
+    <li>questName->[stash][treasure]</li>
+    <li>stash->คลัง</li>
+    <li>stash->ขุมทรัพย์</li>
+    <li>stash->ชุดสะสม</li>
+    <li>stash->เพิง</li>
+    <li>treasure->สมบัติ</li>
+    <li>treasure->ของล้ำค่า</li>
+    <li>treasure->แห่งโชคลาภ</li>
+    <li>treasure->สินค้า</li>
+    <li>treasure->เสบียง</li>
+  </OpportunitySite_ItemStash_Giver.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->loot stashes</li>
     <li>subject->secret treasures</li>
@@ -28,10 +41,19 @@
     <li>questMapText->loot here</li>
     <li>questMapText->hidden valuables</li>
   -->
-  <OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>TODO</OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
+  <OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
+      <li>subject->ค้นของในคลัง</li>
+    <li>subject->สมบัติลับ</li>
+    <li>subject->ของมีค่า</li>
+    <li>questMapFeature->รูปวาดหีบสมบัติ</li>
+    <li>questMapFeature->เพิงเสบียง</li>
+    <li>questMapText->คลังเก็บของลับ</li>
+    <li>questMapText->มีของให้ค้นที่นี่</li>
+    <li>questMapText->ของมีค่าที่ซ่อนอยู่</li>
+  </OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>ภารกิจหมดเวลา: [resolvedQuestName]</OpportunitySite_ItemStash_Giver.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>มีการสกัดกั้นสัญญาณที่ระบุว่าคลังเก็บของได้ถูกผู้อื่นฉกไป ภารกิจ [resolvedQuestName] หมดเวลาแล้ว</OpportunitySite_ItemStash_Giver.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of a camp controlled by [siteFaction_name]. The camp contains hostile [siteFaction_pawnsPlural], but you don't know what defenses they have.</li>
   -->
-  <OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>TODO</OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
+  <OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]ตำแหน่งของค่ายที่ถูกควบคุมโดย [siteFaction_name] ค่ายนั้นมี[siteFaction_pawnsPlural]ที่ไม่เป็นมิตร แต่คุณไม่ทราบว่าพวกเขามีการป้องกันอะไรบ้าง</li>
+  </OpportunitySite_BanditCamp_Giver.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [bandit] [camp]</li>
     <li>questName->[bandit] [camp]</li>
@@ -22,7 +24,23 @@
     <li>bandit->Robber</li>
     <li>bandit->Brigand</li>
   -->
-  <OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>TODO</OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
+  <OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
+    <li>questName->[camp][bandit]</li>
+    <li>questName->[camp][bandit]</li>
+    <li>questName->[asker_nameDef] และ[camp]</li>
+    <li>camp->ค่าย</li>
+    <li>camp->ด่านหน้า</li>
+    <li>camp->แหล่งกบดาน</li>
+    <li>camp->ที่พักแรม</li>
+    <li>bandit->โจร</li>
+    <li>bandit->โจรปล้นสะดม</li>
+    <li>bandit->พวกนอกกฏหมาย</li>
+    <li>bandit->ขุนโจร</li>
+    <li>bandit->ผู้ลี้ภัย</li>
+    <li>bandit->จอมโจร</li>
+    <li>bandit->หัวขโมย</li>
+    <li>bandit->โจรป่า</li>
+  </OpportunitySite_BanditCamp_Giver.questNameRules.rulesStrings>
   <!-- EN:
     <li>subject->bandit camps</li>
     <li>subject->outlaws</li>
@@ -35,14 +53,25 @@
     <li>questMapText->trespassers get skinned</li>
     <li>questMapText->traders beware - outlaws</li>
   -->
-  <OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>TODO</OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
+  <OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
+    <li>subject->ค่ายโจร</li>
+    <li>subject->พวกนอกกฏหมาย</li>
+    <li>subject->การพบเห็นโจรปล้นสะดม</li>
+    <li>questMapFeature->ค่ายเล็ก</li>
+    <li>questMapFeature->ด่านหน้าโจร</li>
+    <li>questMapFeature->ที่พักแรมโจรปล้นสะดม</li>
+    <li>questMapText->พวกอันตราย</li>
+    <li>questMapText->ค้นของในค่าย</li>
+    <li>questMapText->ใครรุกล้ำโดนถลกหนังแน่</li>
+    <li>questMapText->ผู้ค้าทั้งหลายโปรดระวังพวกนอกกฏหมาย</li>
+  </OpportunitySite_BanditCamp_Giver.questSubjectRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>Quest expired: [resolvedQuestName]</OpportunitySite_BanditCamp_Giver.LetterLabelQuestExpired.slateRef>
   <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>ค่ายโจรได้เก็บข้าวของและเดินทางต่อไป ภารกิจ [resolvedQuestName] หมดเวลาแล้ว</OpportunitySite_BanditCamp_Giver.LetterTextQuestExpired.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>TODO</OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>ภารกิจล้มเหลว: [resolvedQuestName]</OpportunitySite_BanditCamp_Giver.LetterLabelQuestFailed.slateRef>
   <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
-  <OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>TODO</OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>หลังจากถูกค้นพบ ค่ายโจรก็ได้แตกกระเจิง ภารกิจ {resolvedQuestName} สิ้นสุดลงแล้ว</OpportunitySite_BanditCamp_Giver.LetterTextQuestFailed.slateRef>
   
 </LanguageData>
