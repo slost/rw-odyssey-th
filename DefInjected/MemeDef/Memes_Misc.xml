@@ -30,7 +30,31 @@
     <li>veneratedRole->navigator</li>
     <li>veneratedRole->captain</li>
   -->
-  <Shipborn.descriptionMaker.rules.rulesStrings>TODO</Shipborn.descriptionMaker.rules.rulesStrings>
+  <Shipborn.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Shipborn)        ->[deity0_name] ปั้นแต่งมนุษยชาติจากผงธุลีของ[celestialComponents] และเป่าลมหายใจแห่งชีวิตด้วยสายลมแห่งดวงดาว[deity0_possessive]</li>
+    <li>episode(uses=1,tag=meme_Shipborn)  ->[deity0_name] กระจายผู้คนอันยิ่งใหญ่แห่ง [place_name] สู่ความเวิ้งว้าง เพื่อให้พวกท่านได้เห็นการบรรจบกันของดวงดาวและจิตวิญญาณ</li>
+    <li>intro(tag=meme_Shipborn)           ->ในยุคแห่งความมืดมิด [deity0_name] เห็นว่ามนุษยชาติต้องการการชี้นำ และได้บัญชาให้[memberNamePlural][deity0_possessive]สร้างยานอันยิ่งใหญ่</li>
+    <li>conflict(tag=meme_Shipborn)        ->เมื่อ[memberNamePlural]เริ่มเติมเต็มวิสัยทัศน์ของ [deity0_name] ศัตรูผู้ทรยศ [foeLeader] ได้พยายามขัดขวาง[foeSoldiers][foeLeader_possessive] ใช้อาวุธ[place_personalWeapon]อันโหดร้ายต่อผู้ที่พยายามขึ้นยานศักดิ์สิทธิ์</li>
+    <li>founderJoin(tag=meme_Shipborn)     ->[place_job]นาม [founderName] ได้รวบรวมผู้ศรัทธา นำพวกท่านไปยัง [altarRoomLabel] ที่ซ่อนอยู่ ที่นั่น[founder_pronoun]ได้กลายเป็น[veneratedRole]ของพวกท่าน</li>
+    <li>victory(tag=meme_Shipborn)         ->จากนั้น [founderName] ได้กล่าวด้วยเสียงของ [deity0_name] ในการบรรจบกันของแสงและพลังงานอันเจิดจ้า [founderName] ได้เอาชนะศัตรู[founder_possessive] และนำพาผู้คน[founder_possessive]ไปยังยานศักดิ์สิทธิ์</li>
+    <li>setup(tag=meme_Shipborn)           ->ในยานศักดิ์สิทธิ์[founder_possessive] [founderName] ได้เดินทางผ่านทะเลแห่งดวงดาวเป็นเวลานับพันปี สื่อสารกับวิญญาณแห่งจักรวาลและไขความลับของจักรวาล</li>
+    <li>story(uses=1,tag=meme_Shipborn)    ->[founderName] เห็นว่าชะตากรรมของมนุษยชาติสามารถถูกเติมเต็มได้เพียงในหมู่ดวงดาวเท่านั้น</li>
+    <li>lessonIntro(tag=meme_Shipborn)         ->จากการสังเกต[celestialComponents] ข้าพเจ้าได้ค้นพบความจริงหนึ่งที่เหนือสิ่งอื่นใด:</li>
+    <li>lesson(tag=meme_Shipborn)              ->ดวงดาวคือ[veneratedRole]ที่แท้จริงของเรา และเป็นหน้าที่ของเราที่จะค้นหาปัญญาและเดินทางในหมู่พวกมัน</li>
+    <li>lesson(tag=meme_Shipborn)              ->มนุษย์มิเคยถูกกำหนดให้เป็นนักโทษของก้อนศิลา เราจักต้องอาศัยอยู่ท่ามกลางสวรรค์</li>
+    <li>lesson(tag=meme_Shipborn)              ->ยานของเราคือมารดาและบิดาอันศักดิ์สิทธิ์ของเรา เราจักต้องดูแลพวกมันเหมือนที่พวกมันดูแลเรา</li>
+    <li>lessonReinforcement(tag=meme_Shipborn) ->ขอให้เท้าของท่านมิต้องแตะพื้นดินอีกเลย</li>
+    <li>archistBasis(tag=meme_Shipborn)    ->ตั้งแต่การปรากฏตัวของพวกท่าน อาร์โคเทคได้ขยายจิตสำนึกของพวกท่านในหมู่ดวงดาว</li>
+    <li>archistFact(tag=meme_Shipborn)     ->อาร์โคเทคเหนือกว่าข้อจำกัดของชีวิตที่ติดอยู่บนดาวเคราะห์</li>
+    <li>archistProphecy(tag=meme_Shipborn) ->[inTheEnd] อาร์โคเทคจะสอนเราให้เคลื่อนไหวในหมู่ดวงดาวได้อย่างง่ายดาย หากเราสังเกตปัญญาแห่งจักรวาลของพวกท่าน</li>
+    <li>animistBasis(tag=meme_Shipborn)    ->บรรพบุรุษของเราได้เดินทางผ่าน[celestialComponents] และสอนให้เราเห็นว่ามนุษยชาติและสิ่งมีชีวิตแห่งจักรวาลเป็นคู่กัน</li>
+    <li>animistFact(tag=meme_Shipborn)     ->วิญญาณเดียวกันที่อาศัยอยู่ในวัตถุท้องฟ้าเป็นผู้ชี้นำชะตากรรมของมนุษยชาติ</li>
+    <li>celestialComponents->ดวงดาว ดวงจันทร์ และดาวหาง</li>
+    <li>celestialComponents->จักรวาล</li>
+    <li>celestialComponents->ดวงอาทิตย์นับพันดวง</li>
+    <li>veneratedRole->ต้นหน</li>
+    <li>veneratedRole->กัปตัน</li>
+  </Shipborn.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeCreed->crew</li>
     <li>memeCreed->ship</li>
@@ -53,6 +77,27 @@
     <li>memeMoralist->navigator</li>
     <li>memeMoralist->councillor</li>
   -->
-  <Shipborn.generalRules.rulesStrings>TODO</Shipborn.generalRules.rulesStrings>
+  <Shipborn.generalRules.rulesStrings>
+  <li>memeCreed->ลูกเรือ</li>
+  <li>memeCreed->ยาน</li>
+  <li>memeCreed->ยานอวกาศ</li>
+  <li>memeAdjective->แห่งดวงดาว</li>
+  <li>memeAdjective->ที่ว่างเปล่า</li>
+  <li>memeAdjective->คอสมิค</li>
+  <li>memeAdjective->แห่งท้องฟ้า</li>
+  <li>memeAdjective->แห่งดารา</li>
+  <li>memeHyphenPrefix->อวกาศ</li>
+  <li>memeHyphenPrefix->มืด</li>
+  <li>memeConcept->อวกาศ</li>
+  <li>memeConcept->ดวงดาว</li>
+  <li>memeConcept->ยานอวกาศ</li>
+  <li>memeLeaderNoun->กัปตัน</li>
+  <li>memeLeaderNoun->ผู้เกิดในดวงดาว</li>
+  <li>memeLeaderNoun->นักบิน</li>
+  <li>memeLeaderAdjective->เจิดจรัส</li>
+  <li>memeMoralist->ผู้ชี้ทาง</li>
+  <li>memeMoralist->ต้นหน</li>
+  <li>memeMoralist->ที่ปรึกษา</li>
+  </Shipborn.generalRules.rulesStrings>
   
 </LanguageData>
