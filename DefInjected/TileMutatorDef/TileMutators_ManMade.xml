@@ -47,7 +47,7 @@
   <AncientUplink.description>บริเวณนี้มีอัปลิงค์ที่ใช้สำหรับการสื่อสารกับดาวเทียมวงโคจรต่ำ การแฮ็กอัปลิงค์จะเปิดเผยตำแหน่งที่ซ่อนอยู่ในวงโคจร</AncientUplink.description>
   
   <!-- EN: harbor -->
-  <Harbor.label>ท่าเรือ</Harbor.label>
+  <Harbor.label>ท่าเทียบ</Harbor.label>
   <!-- EN: An abandoned coastal settlement. -->
   <Harbor.description>ถิ่นฐานชายฝั่งที่ถูกทิ้งร้าง</Harbor.description>
   

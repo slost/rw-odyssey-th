@@ -7,13 +7,21 @@
     <li>terrain_word->outpost</li>
     <li>terrain_word->ghost town</li>
   -->
-  <NamerLandmark_AbandonedColonyOutlander.rulePack.rulesStrings>TODO</NamerLandmark_AbandonedColonyOutlander.rulePack.rulesStrings>
+  <NamerLandmark_AbandonedColonyOutlander.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->คำสาปแห่ง [NamePerson]</li>
+    <li>terrain_word(p=2)->เมือง</li>
+    <li>terrain_word->ด่านหน้า</li>
+    <li>terrain_word->เมืองผีดุ</li>
+  </NamerLandmark_AbandonedColonyOutlander.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=2)->village</li>
     <li>terrain_word->camp</li>
   -->
-  <NamerLandmark_AbandonedColonyTribal.rulePack.rulesStrings>TODO</NamerLandmark_AbandonedColonyTribal.rulePack.rulesStrings>
+  <NamerLandmark_AbandonedColonyTribal.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->หมู่บ้าน</li>
+    <li>terrain_word->ค่าย</li>
+  </NamerLandmark_AbandonedColonyTribal.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=2)->heat vents</li>

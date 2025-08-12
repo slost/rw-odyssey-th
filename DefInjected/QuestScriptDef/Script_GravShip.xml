@@ -119,7 +119,7 @@
     <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from an abandoned orbital platform.\n\nYou can travel to orbital platforms using gravships, shuttles, or transport pods.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</li>
   -->
   <Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
-    <li>questDescription->คุณได้ตรวจพบสัญญาณพลังงานของกราฟคอร์ สัญญาณส่งมาจากแพลตฟอร์มวงโคจรร้าง\n\nคุณสามารถเดินทางไปแพลตฟอร์มวงโคจรได้ด้วยยานกราฟชิป ยานกระสวย หรือกระสวยขนส่ง\n\nโปรดระวัง สถานที่ในวงโคจรนั้นอันตรายอย่างยิ่ง สวมสูทสุญญากาศให้ชาวนิคมของคน วางแผนการเดินทางกลับให้ดี เนื่องจากการใช้ชีวิตในวงโคจรเป็นเวลานานนั้นลำบากมาก</li>
+    <li>questDescription->คุณได้ตรวจพบสัญญาณพลังงานของกราฟคอร์ สัญญาณส่งมาจากแพลตฟอร์มวงโคจรร้าง\n\nคุณสามารถเดินทางไปแพลตฟอร์มวงโคจรได้ด้วยยานกราฟชิป ยานกระสวย หรือกระสวยขนส่ง\n\nโปรดระวัง สถานที่ในวงโคจรนั้นอันตรายอย่างยิ่ง สวมสูทสุญญากาศให้ชาวนิคมของคน วางแผนการเดินทางกลับให้ดี เนื่องจากการใช้ชีวิตในวงโคจรเป็นเวลานานนั้นยากลำบากมาก</li>
   </Gravcore_OrbitalAncientPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->abandoned orbital platform</li>
@@ -134,7 +134,7 @@
     <li>questDescription->You have detected the energy signature of a gravcore. The signal is coming from an orbital mechanoid platform. Scans reveal a heavy defensive presence.\n\nYou can travel to orbital platforms using gravships, shuttles, or transport pods.\n\nBe careful, orbital locations are extremely dangerous. Equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult.</li>
   -->
   <Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
-    <li>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ สัญญาณส่งมาจากแพลตฟอร์มเมคคานอยด์ในวงโคจร การสแกนเผยให้เห็นการป้องกันอย่างหนาแน่น\n\nคุณสามารถเดินทางไปแพลตฟอร์มวงโคจรได้ด้วยยานกราฟชิป ยานกระสวย หรือกระสวยขนส่ง\n\nโปรดระวัง สถานที่ในวงโคจรนั้นอันตรายอย่างยิ่ง สวมสูทสุญญากาศให้ชาวนิคมของคน วางแผนการเดินทางกลับให้ดี เนื่องจากการใช้ชีวิตในวงโคจรเป็นเวลานานนั้นลำบากมาก</li>
+    <li>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ สัญญาณส่งมาจากแพลตฟอร์มเมคคานอยด์ในวงโคจร การสแกนเผยให้เห็นการป้องกันอย่างหนาแน่น\n\nคุณสามารถเดินทางไปแพลตฟอร์มวงโคจรได้ด้วยยานกราฟชิป ยานกระสวย หรือกระสวยขนส่ง\n\nโปรดระวัง สถานที่ในวงโคจรนั้นอันตรายอย่างยิ่ง สวมสูทสุญญากาศให้ชาวนิคมของคน วางแผนการเดินทางกลับให้ดี เนื่องจากการใช้ชีวิตในวงโคจรเป็นเวลานานนั้นยากลำบากมาก</li>
 </Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Mechanoid platform</li>

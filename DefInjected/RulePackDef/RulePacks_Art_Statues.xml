@@ -166,7 +166,171 @@
     <li>prop->psychic relic</li>
     <li>prop->human heart</li>
   -->
-  <ArtDescription_Statue.rulePack.rulesStrings>TODO</ArtDescription_Statue.rulePack.rulesStrings>
+  <ArtDescription_Statue.rulePack.rulesStrings>
+    <li>r_statue_description->รูปปั้นนี้[statueDepicts] [SUBJECT_nameFull] [statueSubjectDesc][statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->รูปปั้น[statueAdj]ที่แสดงถึง [SUBJECT_nameFull] [statueSubjectDesc] [statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->รูปปั้นที่ถูก[carvedVerb][carvedAdverb]ของ [SUBJECT_nameFull] มัน[statueDepicts] [SUBJECT_indefinite ][statueSubjectDesc] [statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->รูปปั้นที่แสดง [SUBJECT_nameFull] [statueSubjectDesc] [statueFaceDesc] [style_group_statue]</li>
+    <li>r_statue_description->รูปปั้น[statueAdj]ของ [SUBJECT_nameFull] [statueFaceDesc] [style_group_statue]</li>
+    <li>statueSubjectDesc->กำลังยืนตรงถือ[prop]ด้วยสองมือ</li>
+    <li>statueSubjectDesc->ยืนสูงสง่าและมองไปไกลอย่างมีภูมิฐาน</li>
+    <li>statueSubjectDesc->กำลังชูกำปั้นขึ้นฟ้า</li>
+    <li>statueSubjectDesc->กำลังเอื้อมมือขึ้นไปคว้าสิ่งที่มองไม่เห็น</li>
+    <li>statueSubjectDesc->กำลังเอนตัวไปด้านข้างราวกับกำลังจะล้ม[maybeInsult]</li>
+    <li>statueSubjectDesc->กำลังยืนด้วยขาข้างเดียว[maybeInsult]</li>
+    <li>statueSubjectDesc->กำลังโค้งตัวคำนับอย่างลึกซึ้ง</li>
+    <li>statueSubjectDesc->กำลังยืนต้านลม</li>
+    <li>statueSubjectDesc->กำลังคุกเข่าอธิษฐาน</li>
+    <li>statueSubjectDesc->กำลังชูมือขึ้นราวกับกำลังสวดภาวนา</li>
+    <li>statueSubjectDesc->กำลังประสานมือแสดงความขอบคุณ</li>
+    <li>statueSubjectDesc->กำลังวิ่งด้วยความเร็วเต็มฝีเท้า</li>
+    <li>statueSubjectDesc->กางแขนมอกำลังกางแขน มองขึ้นฟ้า</li>
+    <li>statueSubjectDesc->กำลังวางมือบนสะโพก</li>
+    <li>statueSubjectDesc->กำลังชูแขนขึ้นด้วยท่าทีแห่งชัยชนะ</li>
+    <li>statueSubjectDesc->กำลังถือ[prop]ไว้ในมือข้างหนึ่ง[maybeOtherHand]</li>
+    <li>statueSubjectDesc->กำลังทำความเคารพด้วยมือข้างหนึ่ง[maybeOtherHand]</li>
+    <li>statueSubjectDesc->กำลังชี้ไปยังขอบฟ้า[maybeOtherHand]</li>
+    <li>statueSubjectDesc->กำลังยื่นมือออกต้อนรับ[maybeOtherHand]</li>
+    <li>statueSubjectDesc->กำลังชี้ขอบฟ้าด้วยมือข้างหนึ่ง[maybeOtherHand]</li>
+    <li>statueSubjectDesc->กำลังเต้นยั่วยวน</li>
+    <li>statueSubjectDesc->กำลังเอนกายอย่างมีเสน่ห์</li>
+    <li>statueSubjectDesc->กำลังเตรียมพร้อมต่อสู้</li>
+    <li>statueSubjectDesc->กำลังกระโดดขึ้นกลางอากาศ หยุดนิ่งกลางจังหวะ</li>
+    <li>statueSubjectDesc->กำลังเหวี่ยงแหในน่านน้ำที่มองไม่เห็น</li>
+    <li>statueSubjectDesc->กำลังรับประทานอาหารหรูหรา</li>
+    <li>statueSubjectDesc->กำลังต่อสู้ดิ้นรนเพื่อหลุดพ้นจากโซ่ตรวน</li>
+    <li>statueSubjectDesc->กำลังกระซิบความลับอย่างแผ่วเบา</li>
+    <li>statueSubjectDesc->กำลังเงยหน้ามองดวงดาว ดวงตาเต็มไปด้วยความพิศวง</li>
+    <li>statueSubjectDesc->ขว้างหอกที่มองไม่เห็น</li>
+    <li>statueSubjectDesc->กำลังฉีกกระดาษเพื่อเป็นการต่อต้าน</li>
+    <li>statueSubjectDesc->กำลังเดินลุยน้ำลึก</li>
+    <li>statueSubjectDesc->กำลังถือ[prop]ขนาดใหญ่ไว้ในสองมือ</li>
+    <li>statueSubjectDesc->มีสภาพไร้ฟัน[maybeInsult]</li>
+    <li>statueSubjectDesc->กำลังหยีตาเพราะแสงแดด[maybeInsult]</li>
+    <li>statueSubjectDesc->กำลังสูดดมช่อดอกไม้[maybeNoNose]</li>
+    <li>maybeOtherHand-> ส่วน[otherHand]</li>
+    <li>maybeOtherHand-></li>
+    <li>otherHand->มืออีกข้างของรูปปั้นถือ[prop]</li>
+    <li>otherHand->มืออีกข้างของรูปปั้นวางอยู่บนสะโพก</li>
+    <li>otherHand->มืออีกข้างของรูปปั้นกำลังทำท่าหยาบโลน</li>
+    <li>otherHand->มืออีกข้างของรูปปั้นหายไป[maybeInsult]</li>
+    <li>maybeNoNose-> รูปปั้นนี้ไม่มีจมูก[maybeInsult]</li>
+    <li>maybeNoNose-></li>
+    <li>maybeInsult-> นี่เป็นการดูหมิ่นอย่างชัดเจน</li>
+    <li>maybeInsult->ไม่ชัดเจนว่านี่เป็นการล้อเลียนโดยศิลปินหรือเป็นเพียงความผิดพลาด</li>
+    <li>maybeInsult-> นี่บ่งบอกว่าศิลปินกำลังดูหมิ่นตัวแบบ</li>
+    <li>maybeInsult(p=3)-></li>
+    <li>statueFaceDesc(p=2)->ใบหน้าของรูปปั้นดูมี[facialLook]</li>
+    <li>statueFaceDesc(p=2)->เห็น[facialLook]ได้ชัดในใบหน้าของ [SUBJECT_indefinite]</li>
+    <li>statueFaceDesc->[SUBJECT_indefinite] ดูมี[facialLook]</li>
+    <li>statueFaceDesc->ใบหน้าของ [SUBJECT_indefinite] [depicts][facialLook]</li>
+    <li>statueFaceDesc->[SUBJECT_indefinite] มีสีหน้าที่เปี่ยมด้วยความเฉลียวฉลาดและครุ่นคิด</li>
+    <li>statueFaceDesc->[SUBJECT_indefinite] กำลังร้องออกมา อ้ากรีดปากร้องโดยไร้เสียง</li>
+    <li>statueFaceDesc->[SUBJECT_indefinite] มองออกไปด้วยแววตาเศร้าสร้อย</li>
+    <li>statueFaceDesc->รูปปั้น[depicts] [SUBJECT_indefinite] ด้วยแววตาแห่งความมุ่งมั่น</li>
+    <li>statueFaceDesc->รูปปั้นdepicts] [SUBJECT_indefinite] หัวเราะอย่างบ้าคลั่ง</li>
+    <li>statueFaceDesc->[SUBJECT_indefinite] มี[facialFeature]</li>
+    <li>statueFaceDesc->รูปปั้นมี[facialFeature]</li>
+    <li>statueFaceDesc->ที่โดดเด่นคือรูปปั้นมี[facialFeature]</li>
+    <li>facialLook->ความสุขแท้จริง</li>
+    <li>facialLook->ความหวาดกลัวสุดขีด</li>
+    <li>facialLook->ความปีติยินดีสุดขีด</li>
+    <li>facialLook->ความสุขสมบูรณ์</li>
+    <li>facialLook->ความตกใจและความละอาย</li>
+    <li>facialLook->ความขบขัน</li>
+    <li>facialLook->ความเศร้าโศกที่บอกไม่ถูก</li>
+    <li>facialLook->ครุ่นคิดอย่างลึกซึ้ง</li>
+    <li>facialLook->ความสับสน</li>
+    <li>facialLook->ความภูมิใจและพอใจ</li>
+    <li>facialLook->ความขบขัน</li>
+    <li>facialLook->ความรังเกียจ</li>
+    <li>facialLook->ความต่อต้าน</li>
+    <li>facialFeature->รอยยิ้มเจ้าเล่ห์</li>
+    <li>facialFeature->คิ้วขมวด</li>
+    <li>facialFeature->คิ้วยกขึ้นเหมือนตั้งคำถามกับศิลปิน</li>
+    <li>facialFeature->ลิ้นยาวแลบออกมา</li>
+    <li>facialFeature->ใบหน้าบิดเบี้ยวด้วยความเจ็บปวด</li>
+    <li>facialFeature->ดวงตาเป็นประกาย</li>
+    <li>facialFeature->ตาทั้งสองข้างที่ปิดสนิท ราวกับอยู่ในความสงบ</li>
+    <li>facialFeature->แก้มพองเหมือนกำลังเป่าลม</li>
+    <li>facialFeature->ดวงตากลมเล็กกับริมฝีปากที่กำลังแยกเขี้ยว</li>
+    <li>style_group_statue->[artextra_clause_statue] [style_clause]</li>
+    <li>style_group_statue->[style_clause] [artextra_clause_statue]</li>
+    <li>style_group_statue->[style_clause]</li>
+    <li>style_group_statue->[artextra_clause_statue]</li>
+    <li>style_group_statue-></li>
+    <li>artextra_clause_statue->ฐานของรูปปั้นมีขอบประดับด้วย[subimageplural]</li>
+    <li>artextra_clause_statue->[subimageplural]ถูกสลักลงบนผิวของตัวแบบ</li>
+    <li>artextra_clause_statue->มีงานแกะสลักขนาดเล็กหลายชิ้นล้อมรอบรูปปั้น แต่ละชิ้นมีรูปร่างคล้าย[subimagesingle]</li>
+    <li>artextra_clause_statue->ขาของรูปปั้นถูกบดบังด้วย[subimageplural]</li>
+    <li>artextra_clause_statue->บนใบหน้าของรูปปั้นถูก[carvedVerb]ด้วยภาพของ[subimageany]</li>
+    <li>artextra_clause_statue->[SUBJECT_indefinite] ยืนอยู่กลาง[Community]</li>
+    <li>artextra_clause_statue->ฐานของรูปปั้นมีลักษณะคล้าย[TerrainFeature]</li>
+    <li>artextra_clause_statue->[SUBJECT_indefinite] ดูเหมือนกำลังโผล่ขึ้นมาจาก[TerrainFeature]</li>
+    <li>artextra_clause_statue->มี[Character]ขนาดเล็กปรากฏ[side_position_statue]</li>
+    <li>artextra_clause_statue->มี[Character][pawn_adj]ปรากฏ[side_position_statue]</li>
+    <li>artextra_clause_statue->[Character][Quantity_adjphrase]คนปรากฏ[side_position_statue]</li>
+    <li>artextra_clause_statue->[Character][pawn_adj][Quantity_adjphrase]คนปรากฏ[side_position_statue]</li>
+    <li>artextra_clause_statue->มี[Animal]ถูกแกะสลัก[side_position_statue]</li>
+    <li>artextra_clause_statue->เมื่อมองจากระยะไกล องค์ประกอบ[composition]ของรูปปั้นเผยให้เห็นโครงร่างของ[subimageany]</li>
+    <li>artextra_clause_statue->รูปปั้นกำลังอุ้ม[Animal]ไว้ใต้แขนข้างหนึ่ง</li>
+    <li>artextra_clause_statue->รูปปั้นกำลังอุ้ม[Character][pawn_adj][Quantity_adjphrase]คน</li>
+    <li>artextra_clause_statue->[statueBodyPart]ของ [SUBJECT_indefinite] ถูกผ่าออก ข้างในเห็นเป็น[subimageplural]</li>
+    <li>carvedAdverb->อย่างประณีต</li>
+    <li>carvedAdverb->อย่างรวดเร็ว</li>
+    <li>carvedAdverb->อย่างหยาบ</li>
+    <li>carvedAdverb->อย่างละเอียด</li>
+    <li>carvedAdverb->อย่างละเอียด</li>
+    <li>carvedVerb->แกะสลัก</li>
+    <li>carvedVerb->ปั้น</li>
+    <li>carvedVerb->สกัด</li>
+    <li>statueAdj->ขนาดใหญ่กว่าชีวิตจริง</li>
+    <li>statueAdj->สูงตระหง่าน</li>
+    <li>statueAdj->อันยิ่งใหญ่</li>
+    <li>statueAdj->ขนาดใหญ่</li>
+    <li>statueAdj->เหมือนจริง</li>
+    <li>statueAdj->เคร่งขรึม</li>
+    <li>statueAdj->อันสง่างาม</li>
+    <li>statueAdj->สำรวม</li>
+    <li>statueAdj->อันสูงส่ง</li>
+    <li>statueAdj->สงบ</li>
+    <li>statueAdj->ทรุดโทรม</li>
+    <li>statueAdj->เรียบง่าย</li>
+    <li>statueAdj->เปิดเผย</li>
+    <li>statueAdj->หยาบ</li>
+    <li>statueAdj->เย้ายวน</li>
+    <li>statueAdj->ยั่วยุ</li>
+    <li>statueAdj->ชวนฉุกคิด</li>
+    <li>statueAdj->พิลึก</li>
+    <li>statueAdj->น่าขนลุก</li>
+    <li>statueAdj->อันหรูหราโอ่อ่า</li>
+    <li>statueDepicts->พรรณนาถึง</li>
+    <li>statueDepicts->แสดงถึง</li>
+    <li>statueDepicts->ปั้นจำลอง</li>
+    <li>side_position_statue->ที่ฐาน</li>
+    <li>side_position_statue->บนแท่นข้าง [SUBJECT_indefinite]</li>
+    <li>side_position_statue->ใต้ส้นเท้าของ [SUBJECT_indefinite]</li>
+    <li>side_position_statue->ในอ้อมแขนของ [SUBJECT_indefinite]</li>
+    <li>side_position_statue->บนศีรษะของ [SUBJECT_indefinite]</li>
+    <li>side_position_statue->บนไหล่ของ [SUBJECT_indefinite]</li>
+    <li>side_position_statue->ด้านหลังของรูปปั้นหลัก</li>
+    <li>side_position_statue->ในโพรงที่แกะสลักไว้บน[statueBodyPart]ของรูปปั้น</li>
+    <li>side_position_statue->ในฝ่ามือของ [SUBJECT_indefinite]</li>
+    <li>side_position_statue->โผล่ออกมาจาก[statueBodyPart] ของ [SUBJECT_indefinite]</li>
+    <li>side_position_statue->โผล่ออกมาจากปากของ [SUBJECT_indefinite]</li>
+    <li>side_position_statue->บนหลังของ [SUBJECT_indefinite]</li>
+    <li>statueBodyPart->หน้าอก</li>
+    <li>statueBodyPart->ท้อง</li>
+    <li>statueBodyPart->หลัง</li>
+    <li>statueBodyPart->หัว</li>
+    <li>statueBodyPart->ตา</li>
+    <li>prop->หนังสือ</li>
+    <li>prop->ดาบ</li>
+    <li>prop->หอก</li>
+    <li>prop->ปืน</li>
+    <li>prop->รีลิคพลังจิต</li>
+    <li>prop->หัวใจมนุษย์</li>
+  </ArtDescription_Statue.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_statue_name(p=4)->[SUBJECT_nameFull]</li>
@@ -242,6 +406,79 @@
     <li>statueIdea->Everlasting Love</li>
     <li>statueIdea->Passion</li>
   -->
-  <NamerStatue.rulePack.rulesStrings>TODO</NamerStatue.rulePack.rulesStrings>
+  <NamerStatue.rulePack.rulesStrings>
+    <li>r_statue_name(p=4)->[SUBJECT_nameFull]</li>
+    <li>r_statue_name->รูปปั้นของ [SUBJECT_indefinite]</li>
+    <li>r_statue_name->การศึกษา [SUBJECT_indefinite]</li>
+    <li>r_statue_name->การศึกษาใน [statueIdea]</li>
+    <li>r_statue_name->[SUBJECT_indefinite] [statueAdj]</li>
+    <li>r_statue_name->[SUBJECT_indefinite] [statueAdj]</li>
+    <li>r_statue_name->[subjectNoun][statueAdj]</li>
+    <li>r_statue_name->[subjectNoun][statueAdj]</li>
+    <li>r_statue_name->ร่างแห่ง[statueIdea]</li>
+    <li>r_statue_name->[statueIdea]และ[subjectNoun]</li>
+    <li>r_statue_name->[subjectNoun]ของ [SUBJECT_indefinite]</li>
+    <li>r_statue_name->[SUBJECT_indefinite] [subjectNoun]</li>
+    <li>r_statue_name->[subjectNoun]</li>
+    <li>r_statue_name->[subjectNoun]แห่ง[statueIdea]</li>
+    <li>r_statue_name->[SUBJECT_indefinite] และ[talktopicheavyfile]</li>
+    <li>statueAdj(p=5)->[AdjectiveAny]</li>
+    <li>statueAdj->ที่ถูกแกะสลัก</li>
+    <li>statueAdj->เงียบสงบ</li>
+    <li>statueAdj->นิรันดร์</li>
+    <li>statueAdj->สมบูรณ์แบบ</li>
+    <li>statueAdj->ที่ถูกสกัด</li>
+    <li>statueAdj->ไร้กาลเวลา</li>
+    <li>statueAdj->ไม่แตกหัก</li>
+    <li>statueAdj->สะท้อนเสียง</li>
+    <li>statueAdj->ในอุดมคติ</li>
+    <li>statueAdj->มนุษย์</li>
+    <li>statueAdj->มีตำหนิ</li>
+    <li>statueAdj->เฝ้าสังเกต</li>
+    <li>statueAdj->สะท้อนเสียง</li>
+    <li>statueAdj->เศร้าสร้อย</li>
+    <li>statueAdj->ที่หยุดนิ่ง</li>
+    <li>statueAdj->ที่ทรุดโทรม</li>
+    <li>subjectNoun(p=2)->[PersonJob]</li>
+    <li>subjectNoun(p=2)->[PersonFamily]</li>
+    <li>subjectNoun(p=2)->[PersonAlly]</li>
+    <li>subjectNoun(p=2)->[PersonBadass]</li>
+    <li>subjectNoun->ผู้เฝ้าดู</li>
+    <li>subjectNoun->วีรบุรุษ</li>
+    <li>subjectNoun->ตำนาน</li>
+    <li>subjectNoun->ผู้พิทักษ์</li>
+    <li>subjectNoun->ผู้เฝ้ายาม</li>
+    <li>subjectNoun->เทพบุตร</li>
+    <li>subjectNoun->จิตวิญญาณ</li>
+    <li>subjectNoun->ร่าง</li>
+    <li>subjectNoun->ภาพ</li>
+    <li>subjectNoun->วิญญาณ</li>
+    <li>subjectNoun->ร่างกาย</li>
+    <li>subjectNoun->ใบหน้า</li>
+    <li>subjectNoun->การครุ่นคิด</li>
+    <li>subjectNoun->รูปร่าง</li>
+    <li>subjectNoun->เทวทูต</li>
+    <li>subjectNoun->รูปปั้น</li>
+    <li>subjectNoun->ภาพลวงตา</li>
+    <li>statueIdea(p=3)->[ConceptPositive]</li>
+    <li>statueIdea(p=3)->[ConceptBadass]</li>
+    <li>statueIdea(p=3)->[ConceptAngsty]</li>
+    <li>statueIdea(p=3)->[ConceptAngsty]</li>
+    <li>statueIdea->ความแข็งแกร่ง</li>
+    <li>statueIdea->ปัญญา</li>
+    <li>statueIdea->ความเล่ห์เหลี่ยม</li>
+    <li>statueIdea->ความกล้าหาญ</li>
+    <li>statueIdea->พลัง</li>
+    <li>statueIdea->ความทรงจำ</li>
+    <li>statueIdea->จิตวิญญาณ</li>
+    <li>statueIdea->แสงสว่าง</li>
+    <li>statueIdea->ความรักชาติ</li>
+    <li>statueIdea->แสงเช้า</li>
+    <li>statueIdea->ท้องฟ้ายามค่ำคืน</li>
+    <li>statueIdea->พระอาทิตย์ขึ้น</li>
+    <li>statueIdea->ทรายที่ล่องลอย</li>
+    <li>statueIdea->ความรักนิรันดร์</li>
+    <li>statueIdea->ความหลงใหล</li>
+  </NamerStatue.rulePack.rulesStrings>
   
 </LanguageData>

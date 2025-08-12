@@ -8,6 +8,12 @@
     <li>terrain_word->planetoid</li>
     <li>terrain_word->moon</li>
   -->
-  <NamerWorldObject_AsteroidBasic.rulePack.rulesStrings>TODO</NamerWorldObject_AsteroidBasic.rulePack.rulesStrings>
+  <NamerWorldObject_AsteroidBasic.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->ดาวเคราะห์น้อย</li>
+    <li>terrain_word->หิน</li>
+    <li>terrain_word->ดาวเทียม</li>
+    <li>terrain_word->ดาวเคราะห์น้อย</li>
+    <li>terrain_word->ดวงจันทร์</li>
+  </NamerWorldObject_AsteroidBasic.rulePack.rulesStrings>
   
 </LanguageData>

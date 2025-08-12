@@ -37,7 +37,42 @@
     <li>spaceCollectiveNoun->Marauders</li>
     <li>spaceCollectiveNoun->Reapers</li>
   -->
-  <NamerFactionSalvagers.rulePack.rulesStrings>TODO</NamerFactionSalvagers.rulePack.rulesStrings>
+  <NamerFactionSalvagers.rulePack.rulesStrings>
+    <li>r_name->ผู้เก็บกู้[spaceAdj]</li>
+    <li>r_name->ผู้คุ้ยซาก[spaceAdj]</li>
+    <li>r_name->[spaceAdj][AnimalBadass]s</li>
+    <li>r_name->[AnimalBadass][spaceAdj]</li>
+    <li>r_name->[Enemy][spaceAdj] </li>
+    <li>r_name->[spaceNoun][Enemy]</li>
+    <li>r_name->[spaceNoun][groupname]</li>
+    <li>r_name->[groupname][spaceAdj]</li>
+    <li>r_name->[spaceNoun][ColorBadass]</li>
+    <li>r_name->[spaceNoun][AdjectiveBadass]</li>
+    <li>r_name->[spaceCollectiveNoun][ColorBadass]</li>
+    <li>r_name->[spaceCollectiveNoun][AdjectiveBadass]</li>
+    <li>r_name->[spaceNoun]แห่ง[ConceptBadass]</li>
+    <li>r_name(p=2)->[spaceNoun]แห่ง [NamePerson]</li>
+    <li>r_name(p=2)->[spaceCollectiveNoun]แห่ง [NamePerson]</li>
+    <li>r_name(p=2)->[spaceCollectiveNoun][spaceAdj]แห่ง [NamePerson]</li>
+    <li>spaceAdj->วงโคจร</li>
+    <li>spaceAdj->คอสมิค</li>
+    <li>spaceAdj->แอสทรัล</li>
+    <li>spaceAdj->โซลาร์</li>
+    <li>spaceAdj->เซเลสเชียล</li>
+    <li>spaceNoun->ดาว</li>
+    <li>spaceNoun->ดวงจันทร์</li>
+    <li>spaceNoun->ดาวหาง</li>
+    <li>spaceNoun->ดาวเคราะห์น้อย</li>
+    <li>spaceNoun->อุปราคา</li>
+    <li>spaceCollectiveNoun->กองยาน</li>
+    <li>spaceCollectiveNoun->ฝูงยาน</li>
+    <li>spaceCollectiveNoun->หมู่ยาน</li>
+    <li>spaceCollectiveNoun->ฝูงบิน</li>
+    <li>spaceCollectiveNoun->โจรสลัด</li>
+    <li>spaceCollectiveNoun->สลัดอวกาศ</li>
+    <li>spaceCollectiveNoun->ผู้ปล้นสะดม</li>
+    <li>spaceCollectiveNoun->ยมทูต</li>
+  </NamerFactionSalvagers.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[tradeAdj] [tradeNoun]</li>
@@ -66,7 +101,33 @@
     <li>tradeNoun->emporium</li>
     <li>tradeNoun->nexus</li>
   -->
-  <NamerFactionTradersGuild.rulePack.rulesStrings>TODO</NamerFactionTradersGuild.rulePack.rulesStrings>
+  <NamerFactionTradersGuild.rulePack.rulesStrings>
+    <li>r_name->[tradeNoun][tradeAdj]</li>
+    <li>tradeAdj->แห่งผู้ค้า</li>
+    <li>tradeAdj->วงโคจร</li>
+    <li>tradeAdj->การค้า</li>
+    <li>tradeAdj->ชาวอวกาศ</li>
+    <li>tradeAdj->อวกาศ</li>
+    <li>tradeAdj->คอสมิค</li>
+    <li>tradeAdj->แห่งท้องฟ้า</li>
+    <li>tradeAdj->วอยบอนด์</li>
+    <li>tradeAdj->เอกโซ</li>
+    <li>tradeNoun->สมาคม</li>
+    <li>tradeNoun->กลุ่มบริษัท</li>
+    <li>tradeNoun->องค์กร</li>
+    <li>tradeNoun->พันธมิตร</li>
+    <li>tradeNoun->กงสี</li>
+    <li>tradeNoun->สหภาพ</li>
+    <li>tradeNoun->สหพันธ์</li>
+    <li>tradeNoun->กลุ่มธุรกิจ</li>
+    <li>tradeNoun->บรรษัท</li>
+    <li>tradeNoun->บริษัท</li>
+    <li>tradeNoun->เครือข่าย</li>
+    <li>tradeNoun->ผู้จัดจำหน่าย</li>
+    <li>tradeNoun->ตลาด</li>
+    <li>tradeNoun->ศูนย์สรรพสินค้า</li>
+    <li>tradeNoun->ศูนย์กลาง</li>
+  </NamerFactionTradersGuild.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[platAdj] [platform]</li>
@@ -105,6 +166,42 @@
     <li>platform->dock</li>
     <li>platform->ring</li>
   -->
-  <NamerSettlementTradersGuild.rulePack.rulesStrings>TODO</NamerSettlementTradersGuild.rulePack.rulesStrings>
+  <NamerSettlementTradersGuild.rulePack.rulesStrings>
+    <li>r_name->[platform][platAdj]</li>
+    <li>platAdj->แสงดาว</li>
+    <li>platAdj->แสงอาทิตย์</li>
+    <li>platAdj->เนบิวลา</li>
+    <li>platAdj->สตาร์ดัสต์</li>
+    <li>platAdj->โอไรออน</li>
+    <li>platAdj->ขอบฟ้า</li>
+    <li>platAdj->กาแล็กซี</li>
+    <li>platAdj->คอสมอส</li>
+    <li>platAdj->สุญญากาศ</li>
+    <li>platAdj->ดาวเคราะห์น้อย</li>
+    <li>platAdj->ดาวหาง</li>
+    <li>platAdj->อุปราคา</li>
+    <li>platAdj->เควซาร์</li>
+    <li>platAdj->พัลซาร์</li>
+    <li>platAdj->อุกกาบาต</li>
+    <li>platAdj->จุดสูงสุด</li>
+    <li>platAdj->จันทรา</li>
+    <li>platAdj->สุริยะ</li>
+    <li>platAdj->เซเลสเชียล</li>
+    <li>platAdj->ลำแสงจันทร์</li>
+    <li>platAdj->แสงอาทิตย์พุ่ง</li>
+    <li>platAdj->ทุ่งดาว</li>
+    <li>platAdj->คอสมิค</li>
+    <li>platAdj->แอสทรัล</li>
+    <li>platAdj->ออโรรา</li>
+    <li>platAdj->ส่องแสง</li>
+    <li>platAdj->โคโรนา</li>
+    <li>platform->แพลตฟอร์ม</li>
+    <li>platform->สถานี</li>
+    <li>platform->ศูนย์กลาง</li>
+    <li>platform->สถานี</li>
+    <li>platform->ฐาน</li>
+    <li>platform->ท่าเทียบ</li>
+    <li>platform->วงแหวน</li>
+  </NamerSettlementTradersGuild.rulePack.rulesStrings>
   
 </LanguageData>

@@ -16,7 +16,21 @@
     <li>terrain_word(p=0.3)->stretch</li>
     <li>terrain_word(p=0.3)->tract</li>
   -->
-  <NamerGlacialPlain.rulePack.rulesStrings>TODO</NamerGlacialPlain.rulePack.rulesStrings>
+  <NamerGlacialPlain.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[narrative_name][glacialPlain_adjective]</li>
+    <li>glacialPlain_adjective(p=2)->น้ำแข็ง</li>
+    <li>glacialPlain_adjective->เย็นยะเยือก</li>
+    <li>glacialPlain_adjective->เย็นจัด</li>
+    <li>glacialPlain_adjective->งดงาม</li>
+    <li>glacialPlain_adjective->แข็งตัว</li>
+    <li>terrain_word->ธารน้ำแข็ง</li>
+    <li>terrain_word(p=0.5)->ทุ่งน้ำแข็ง</li>
+    <li>terrain_word(p=0.5)->แผ่นน้ำแข็ง</li>
+    <li>terrain_word(p=0.3)->ทุ่ง</li>
+    <li>terrain_word(p=0.3)->ที่ราบน้ำแข็ง</li>
+    <li>terrain_word(p=0.3)->แนว</li>
+    <li>terrain_word(p=0.3)->ผืน</li>
+  </NamerGlacialPlain.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.3)->[glowForest_adjective] [narrative_name]</li>
@@ -31,7 +45,19 @@
     <li>terrain_word->darklands</li>
     <li>terrain_word->dark forest</li>
   -->
-  <NamerGlowforest.rulePack.rulesStrings>TODO</NamerGlowforest.rulePack.rulesStrings>
+  <NamerGlowforest.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[narrative_name][glowForest_adjective]</li>
+    <li>glowForest_adjective(p=2)->เห็ดรา</li>
+    <li>glowForest_adjective->เบ่งบาน</li>
+    <li>glowForest_adjective->มืด</li>
+    <li>glowForest_adjective->รกทึบ</li>
+    <li>glowForest_adjective->คดเคี้ยว</li>
+    <li>terrain_word(p=3)->ป่าเรืองแสง</li>
+    <li>terrain_word->แปลงไมซีเลียม</li>
+    <li>terrain_word->ป่าเห็ดรา</li>
+    <li>terrain_word->แดนมืด</li>
+    <li>terrain_word->ป่ามืด</li>
+  </NamerGlowforest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.3)->[grasslands_adjective] [narrative_name]</li>
@@ -47,7 +73,20 @@
     <li>terrain_word->steppe</li>
     <li>terrain_word->flats</li>
   -->
-  <NamerGrasslands.rulePack.rulesStrings>TODO</NamerGrasslands.rulePack.rulesStrings>
+  <NamerGrasslands.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[grasslands_adjective][narrative_name]</li>
+    <li>grasslands_adjective(p=2)->ราบเรียบ</li>
+    <li>grasslands_adjective->แห้งแล้ง</li>
+    <li>grasslands_adjective->ลมแรง</li>
+    <li>grasslands_adjective->ลูกคลื่น</li>
+    <li>grasslands_adjective->ไม่มีที่สิ้นสุด</li>
+    <li>terrain_word(p=2)->ทุ่งหญ้า</li>
+    <li>terrain_word(p=2)->ทุ่งแพรรี</li>
+    <li>terrain_word(p=2)->ที่ราบ</li>
+    <li>terrain_word->สะวันนา</li>
+    <li>terrain_word->ทุ่งสเตปป์</li>
+    <li>terrain_word->ที่ราบแบน</li>
+  </NamerGrasslands.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.3)->[lavaField_adjective] [narrative_name]</li>
@@ -65,7 +104,22 @@
     <li>terrain_word->inferno</li>
     <li>terrain_word->range</li>
   -->
-  <NamerLavaField.rulePack.rulesStrings>TODO</NamerLavaField.rulePack.rulesStrings>
+  <NamerLavaField.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[narrative_name][lavaField_adjective]</li>
+    <li>lavaField_adjective(p=2)->ภูเขาไฟ</li>
+    <li>lavaField_adjective->ที่ร่ำร้อน</li>
+    <li>lavaField_adjective->โลกันต์</li>
+    <li>lavaField_adjective->ที่ลุกไหม้</li>
+    <li>lavaField_adjective->ที่ลุกโชติช่วง</li>
+    <li>terrain_word(p=3)->ทุ่งลาวา</li>
+    <li>terrain_word->รอยแยก</li>
+    <li>terrain_word->ที่สูง</li>
+    <li>terrain_word->ที่ราบแมกมา</li>
+    <li>terrain_word->ช่องระบาย</li>
+    <li>terrain_word->เตาเผา</li>
+    <li>terrain_word->นรก</li>
+    <li>terrain_word->แนวเขา</li>
+  </NamerLavaField.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->[ruin_adjective] [narrative_name]</li>
@@ -87,6 +141,25 @@
     <li>terrain_word->lands</li>
     <li>terrain_word->bastion</li>
   -->
-  <NamerScarlands.rulePack.rulesStrings>TODO</NamerScarlands.rulePack.rulesStrings>
+  <NamerScarlands.rulePack.rulesStrings>
+      <li>r_name(p=0.2)->[narrative_name][ruin_adjective]</li>
+    <li>r_name(p=0.2)->[terrain_word][narrative_name]</li>
+    <li>ruin_adjective(p=2)->ที่ถูกทำลาย</li>
+    <li>ruin_adjective->โบราณ</li>
+    <li>ruin_adjective->เก่าแก่</li>
+    <li>ruin_adjective->ที่แตกสลาย</li>
+    <li>ruin_adjective->ที่เสื่อมโทรม</li>
+    <li>ruin_adjective->ที่หม่นหมอง</li>
+    <li>terrain_word(p=6)->ซากปรักหักพัง</li>
+    <li>terrain_word(p=3)->ดินแดนแผลเป็น</li>
+    <li>terrain_word->สิ่งปลูกสร้างขนาดใหญ่</li>
+    <li>terrain_word->ดินแดนรกร้าง</li>
+    <li>terrain_word->ที่รกร้าง</li>
+    <li>terrain_word->พื้นที่แห้งแล้ง</li>
+    <li>terrain_word->ซากปรักหักพัง</li>
+    <li>terrain_word->ดินแดนพิษ</li>
+    <li>terrain_word->ดินแดน</li>
+    <li>terrain_word->ป้อมปราการ</li>
+  </NamerScarlands.rulePack.rulesStrings>
   
 </LanguageData>

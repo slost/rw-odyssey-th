@@ -20,7 +20,7 @@
   <AncientInfestedSettlement.label>นิคมที่ถูกรบกวน</AncientInfestedSettlement.label>
   
   <!-- EN: ancient launch site -->
-  <AncientLaunchSite.label>สถานที่ปล่อยจรวดโบราณ</AncientLaunchSite.label>
+  <AncientLaunchSite.label>ไซต์ปล่อยจรวดโบราณ</AncientLaunchSite.label>
   
   <!-- EN: ancient quarry -->
   <AncientQuarry.label>เหมืองหินโบราณ</AncientQuarry.label>
@@ -77,7 +77,7 @@
   <FrozenRuins.label>ซากปรักหักพังเยือกแข็ง</FrozenRuins.label>
   
   <!-- EN: harbor -->
-  <Harbor.label>ท่าเรือ</Harbor.label>
+  <Harbor.label>ท่าเทียบ</Harbor.label>
   
   <!-- EN: hollow -->
   <Hollow.label>โพรง</Hollow.label>

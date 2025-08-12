@@ -216,7 +216,221 @@
     <li>noteLocation->below a large [mapFeature]</li>
     <li>noteLocation->along the edge of the map</li>
   -->
-  <Description_Map.rulePack.rulesStrings>TODO</Description_Map.rulePack.rulesStrings>
+  <Description_Map.rulePack.rulesStrings>
+    <li>desc->แผนที่ที่[physicalDescription]ซึ่งแสดงสถานที่ที่น่าสนใจ [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->[physicalDescription] [mapType]นี้[has][mapContents] [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->[mapType]นี้[physicalDescription]และ[has][mapContents] [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->[mapType]ที่มี[mapContents] [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->ชุดสะสมของแผนที่พร้อม[mapContents] [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>desc->แผนที่จาก[place]พร้อม[mapContents] [maybe_specialFact] [maybe_authorInfo] [maybe_condition]\n\n[maybe_questInfo]</li>
+    <li>physicalDescription->พิมพ์บนโพลิเมอร์บางและทนความร้อน</li>
+    <li>physicalDescription->พิมพ์ด้วยเลเซอร์บนไฮเปอร์วีฟ</li>
+    <li>physicalDescription->วาดด้วยสิ่งที่ดูเหมือนเลือดแห้ง</li>
+    <li>physicalDescription->ผูกเข้าด้วยกันด้วยเชือก</li>
+    <li>physicalDescription->เย็บด้วยหนังเก่า</li>
+    <li>physicalDescription->วาดบนหนังบาง</li>
+    <li>physicalDescription->เย็บด้วยไวนิล</li>
+    <li>physicalDescription->แกะสลักลงบนแผ่นกระดาษหนังบาง</li>
+    <li>physicalDescription->แกะสลักด้วยถ่าน</li>
+    <li>physicalDescription->แกะสลักบนผ้าใบที่เปียกน้ำ</li>
+    <li>physicalDescription->แกะสลักบนหนังสัตว์ที่เน่าเหม็น</li>
+    <li>physicalDescription->ขีดเขียนด้วยหมึกดำ</li>
+    <li>physicalDescription->เย็บลงบนหนังเอลค์</li>
+    <li>physicalDescription->เขียนบนหนัง[Animal]แห้ง</li>
+    <li>physicalDescription->ทำจากกระดาษหนังที่ถูกเผาไหม้</li>
+    <li>physicalDescription->พับอย่างประณีตเป็นสิบหกส่วน</li>
+    <li>physicalDescription->พิมพ์โดยเครื่องพิมพ์อุตสาหกรรม</li>
+    <li>physicalDescription->พิมพ์บนไฮเปอร์วีฟ</li>
+    <li>physicalDescription->ทำอย่างประณีตบนไฮเปอร์วีฟคุณภาพดี</li>
+    <li>physicalDescription->ตกแต่งด้วยสติ๊กเกอร์โฮโลกราฟิก</li>
+    <li>physicalDescription->เขียนด้วยลายมือที่เหมือนใยแมงมุม</li>
+    <li>physicalDescription->เขียนด้วยหมึกบนกระดาษเหลืองเก่า</li>
+    <li>physicalDescription->เขียนด้วยสีสดใส</li>
+    <li>physicalDescription->เสียหายจากไฟอย่างเห็นได้ชัด</li>
+    <li>physicalDescription->วาดบนผ้าใบที่แข็งแรง</li>
+    <li>physicalDescription->พับหลายครั้งและเปื้อนด้วยดินและถ่าน</li>
+    <li>physicalDescription->วาดบนกระดาษหนังที่ผุพังพร้อมลายมือจางๆ </li>
+    <li>physicalDescription->แกะสลักบนกระดาษหนังสีเหลืองที่ขอบขาดและผุพัง</li>
+    <li>mapContents->ภาพวาดเล็กๆ เป็นร้อยของ[mapSubject][mapSubjectAdj]</li>
+    <li>mapContents->ภาพร่างชุ่ยๆ ของ[mapSubject][mapSubjectAdj]</li>
+    <li>mapContents->รายชื่อ[mapSubject]ที่โดดเด่น รายชื่อที่ยาวที่สุดมีชื่อว่า '[AdjectiveBadass]!' มันถูกวงไว้ด้วยหมึกแดง</li>
+    <li>mapContents->ขอบแผนที่ไหม้และเส้นขีดเขียนเลอะเทอะ แผนที่ตรงกลางแสดง[mapSubject][mapSubjectAdj] แต่เส้นถูกบดบังด้วยคราบ[stain]</li>
+    <li>mapContents->ไดอะแกรมใหม่ในทุกหน้า บางไดอะแกรมให้รายละเอียดที่ดีเกี่ยวกับ[mapSubject] ซึ่งอันที่ใหญ่ที่สุดนั้นเป็น[mapSubjectAdj]อย่างไม่ต้องสงสัย</li>
+    <li>mapContents->การผสมผสานระหว่าง[mapSubject]ในจินตนาการและ[mapSubject]อิงประวัติศาสตร์</li>
+    <li>mapContents->ไดอะแกรมเป็นโหลๆ ของ[mapSubject][mapSubjectAdj]</li>
+    <li>mapContents->ภาพวาดตามธีม ตรงกลางมี[depiction]ขนาดใหญ่คล้าย[Animal] วาดในสไตล์[artstyle_adj]</li>
+    <li>mapContents->สัญลักษณ์ประหลาดนับพัน ซึ่งส่วนใหญ่คล้าย[mapSubject] สัญลักษณ์ที่พบมากที่สุดดูเหมือน[Animal][emotionalState] วาดในสไตล์[artstyle_adj]</li>
+    <li>mapContents->ร่องรอยความเก่าแก่ชัดเจน มีไดอะแกรมอันหนึ่งถูกวาดด้วยลายมือที่ต่างออกไป แสดง[mapSubject]โบราณของ[place]</li>
+    <li>mapContents->ไดอะแกรมละเอียดของ[mapSubject][place]และความสัมพันธ์กับ[mapSubject][mapSubjectAdj]</li>
+    <li>mapContents->ภาพร่างขนาดใหญ่สี่ภาพของ[mapSubject][place]</li>
+    <li>mapContents->ไดอะแกรมเล็กๆ หลายอัน หนึ่งในนั้นมีชื่อกำกับว่า '[place] [RomanNumeral]' และมีการสำรวจ[mapSubject][place]อย่างละเอียด</li>
+    <li>mapContents->ภาพวาดเล็กๆ ของ[mapSubject][mapSubjectAdj]และ[mapSubject][mapSubjectAdj]</li>
+    <li>mapContents->ภาพวาดรายละเอียดของดาวเคราะห์ หลายตำแหน่งใกล้เคียงมีชื่อกำกับไว้ว่า '[Enemy]' ด้วยหมึกแดง</li>
+    <li>mapContents->พิกัดของ[mapSubject][mapSubjectAdj]หลายแห่ง</li>
+    <li>mapContents->พิกัดถูกไฮไลต์ด้วยปากกาเน้นคำสีเหลือง</li>
+    <li>mapContents->ภาพวาดของดินแดนใกล้เคียง สัญลักษณ์หยาบๆ ระบุที่หลบภัยและที่ซ่อนของลับ</li>
+    <li>mapContents->ตำแหน่งของสถานที่พักพิง[Animal][Quantity_adjphrase]ตัว 'X' สีแดงยังใช้ระบุถึงหลุมศพหลายแห่ง</li>
+    <li>mapContents->สิ่งที่ไม่สำคัญ หรืออย่างน้อยก็ดูเหมือนเป็นเช่นนั้น</li>
+    <li>mapContents->เส้นตารางจางๆ แต่ละช่องมี[mapSubject][mapSubjectAdj]</li>
+    <li>mapContents->[mapSubject][Quantity_adjphrase]แห่งถูกวาดในสไตล์[artstyle_adj] ใต้แต่ละภาพมี[Animal][AdjectiveAny]</li>
+    <li>maybe_specialFact-></li>
+    <li>maybe_specialFact->[specialFact]</li>
+    <li>specialFact->เครื่องหมายจะมองไม่เห็นในแสงปกติ แต่ในความมืดสนิทจะปรากฏสัญลักษณ์และเส้นเรืองแสงสีเงินจางๆ อย่างลึกลับ</li>
+    <li>specialFact->เครื่องหมายปรากฏและหายไปตามมุมของแสง</li>
+    <li>specialFact->หน้ากระดาษเรืองแสงจางๆ ด้วยสัญลักษณ์สีแดงเข้มที่เปลี่ยนรูปร่างเมื่อถูกไฟ</li>
+    <li>specialFact->คำอธิบายประกอบเขียนด้วยภาษาถิ่น บ่งบอกว่าผู้เขียนมาจาก[place]</li>
+    <li>specialFact->แต่ละรอยพับมีตัวอักษรและตัวเลขหลายตัว แต่ความหมายของมันไม่แน่ชัด</li>
+    <li>specialFact->บางสิ่งเกี่ยวกับเครื่องหมายนี้ชวนให้รู้สึกไม่สบายใจ</li>
+    <li>specialFact->มีคำอธิบายประกอบจากภาษาที่ถูกลืมเลือนไปนานแล้ว</li>
+    <li>specialFact->เครื่องหมายหยาบและไม่สม่ำเสมอมีการเปลี่ยนแปลงไปตามกาลเวลา เผยความหมายที่ซ่อนไว้</li>
+    <li>specialFact->กล่าวกันว่าแผนที่นี้เปิดเผยแก่นแท้ของผืนแผ่นดิน นำทางผู้อ่านไปสู่สถานที่ที่มีพลังธรรมชาติอันยิ่งใหญ่</li>
+    <li>specialFact->ท่ามกลางรอยพับมากมาย มีแผ่นกระดาษเล็กๆ ซ่อนอยู่ บนกระดาษมีภาพวาดของ [Animal]ที่ดู[emotionalState]</li>
+    <li>specialFact->การสัมผัสแผนที่นานเกินไปจะทิ้งคราบแดงจางๆ บนปลายนิ้วของผู้อ่าน</li>
+    <li>specialFact->สามารถพบเม็ดทรายได้ในรอยพับของแผนที่</li>
+    <li>specialFact->คำอธิบายประกอบบนแผนที่บ่งบอกว่าอาจมีความลับที่ยิ่งใหญ่ซ่อนอยู่</li>
+    <li>specialFact->มีภาพร่างหยาบๆ ของ[mapSubject]หลายแห่งจาก[place]ตามขอบแผนที่</li>
+    <li>specialFact->หมึกที่จางและคราบรอยเปื้อนได้บดบังรายละเอียดบางส่วน ทำให้การถอดรหัสเป็นเรื่องยาก</li>
+    <li>specialFact->รอยเย็บอย่างประณีตบอกเป็นนัยว่ามันถูกทำขึ้นจากการนำแผนที่ขนาดใหญ่มาหลายผืนมาประกอบกันใหม่</li>
+    <li>specialFact->แผนที่นี้อาจเป็นทั้งคำเตือนและคำแนะนำในเวลาเดียวกัน</li>
+    <li>specialFact->เครื่องหมายบางส่วนถูกทำอย่างลวกๆ บ่งชี้ว่าแผนที่นี้ถูกสร้างขึ้นอย่างเร่งรีบ</li>
+    <li>specialFact->ความละเอียดของมันบอกว่ามันถูกว่าจ้างโดยผู้มีฐานะ และความลับของมันบอกเป็นนัยว่ามีบางสิ่งที่คุ้มค่าจะปกปิด</li>
+    <li>specialFact->มี[Character][Quantity_adjphrase]คนถูกวาดไว้[noteLocation] พวกเขาดู[emotionalState]</li>
+    <li>specialFact->มีการเขียนชื่อ[mapSubject]บางแห่งด้วยลายมือสวยงาม แต่กลับมีภาพวาดโดดเดี่ยวเพียงภาพเดียวที่มีเพียงสัญลักษณ์ลึกลับ สัญลักษณ์ของ[mapSymbol]</li>
+    <li>specialFact->แผนที่มีชีวประวัติสั้นๆ ของผู้เขียน ซึ่งเป็น[PersonJob]ผู้โด่งดังจาก[place]</li>
+    <li>specialFact->แผนที่นี้ถูกเขียนโดย[PersonBadass]ที่มีชื่อเสียงฉาวโฉ่</li>
+    <li>specialFact->แผนที่นี้ถูกเขียนโดย[PersonBadass]ผู้[emotionalState]</li>
+    <li>specialFact->ความเรียบง่ายของแผนที่บ่งบอกว่าถูกสร้างอย่างเร่งรีบโดย[PersonBadass]ที่ต้องการหลบหนีเจ้าหน้าที่</li>
+    <li>specialFact->พื้นที่สำคัญถูกวงไว้ พร้อมคำอธิบายเช่น 'หลีกเลี่ยง[Enemy]' และ 'แข็งแกร่งเหมือน[Animal]'</li>
+    <li>specialFact->บนแผนที่มี[mapSymbol]ถูกวงและเขียนกำกับว่า '[smell]และ[stain]'</li>
+    <li>specialFact->ตามขอบแผนที่มีบทกวีพันปีชื่อ 'เดียโบลัส' ถูกเขียนไว้</li>
+    <li>specialFact->ตำนานแผนที่ระบุว่า[mapSymbol][Color]คือรังของ[Enemy] และ[mapSymbol][Color]คือที่ล่าสัตว์ของ[Animal]</li>
+    <li>specialFact->มาตราส่วนของแผนที่นี้ผิดเพี้ยนอย่างเห็นได้ชัด</li>
+    <li>specialFact->บนแผนที่มีคราบขี้ผึงจางๆ [noteLocation] ซึ่งดูคล้าย[Animal]ที่ดู[emotionalState]</li>
+    <li>maybe_questInfo-></li>
+    <li>maybe_questInfo(p=3)->[questInfo]</li>
+    <li>questInfo->มีพื้นที่บนแผนที่ถูกวงและเขียนกำกับว่า '[mapText]!'</li>
+    <li>questInfo->มีโน้ตแนบมาพร้อมข้อความกำกับว่า '[mapText]?'</li>
+    <li>questInfo->'[mapText]' ถูกขีดเขียนด้วยหมึกจางๆ [noteLocation]</li>
+    <li>questInfo->มีโน้ต[noteLocation]เขียนไว้ว่า '[mapText].'</li>
+    <li>questInfo->มีโน้ตที่เขียนอย่างเร่งรีบ[noteLocation]ว่า '[mapText]!'</li>
+    <li>questInfo->มีปริศนาลึกลับถูกขีดเขียน[noteLocation] มันลงท้ายด้วย '...[mapText].'</li>
+    <li>questInfo->ถัดจาก[mapSymbol]สี[Color]มีข้อความว่า '[mapText].'</li>
+    <li>questInfo->มีข้อความ '[mapText]' ถูกเผาลงบนแผนที่</li>
+    <li>questInfo->มี[mapSymbol]ขนาดใหญ่ถูกวาดใกล้[mapFeature] พร้อมข้อความกำกับว่า '[mapText].'</li>
+    <li>questInfo->มีเข็มทิศ[Color]ถูกแกะสลักลงบนแผนที่ โดยทิศเหนือและใต้ถูกระบุผิด ตรงกลางเข็มทิศมีข้อความว่า: '[mapText].'</li>
+    <li>questInfo->เจ้าของแผนที่คนก่อนดูเหมือนกำลังค้นหาอะไรบางอย่าง มีพื้นที่แห่งหนึ่งถูกวงไว้ข้างข้อความว่า '[mapText].'</li>
+    <li>questInfo->เมื่อยกแผนที่ขึ้นส่องกับแสง จะเห็นข้อความว่า '[mapText].'</li>
+    <li>questInfo->[noteLocation]มี[mapSymbol]สี[Color]ถูกเขียนกำกับว่า '[mapText]!'</li>
+    <li>questInfo->[noteLocation]มี[mapSymbol]ถูกเขียนกำกับว่า '[mapText]?'</li>
+    <li>questInfo->[noteLocation]มีโน้ตบางส่วนได้ลบเลือน เหลือเพียงข้อความเดียวที่อ่านได้: '[mapText] - ยืนยันแล้ว'</li>
+    <li>questInfo->[noteLocation] มีภาพวาดหยาบๆ ของ[PersonBadass]ที่ดู[emotionalState] ใต้ภาพมีข้อความว่า '[mapText].'</li>
+    <li>questInfo->มี[Animal]ถูกวาดด้วยดินสอ[noteLocation] ใต้ภาพมีข้อความว่า '[mapText].'</li>
+    <li>questInfo->ตำนานแผนที่ระบุว่า[mapSymbol][Color]คือ '[mapText].'</li>
+    <li>questInfo->มี X สีแดงหนาขีดทับสถานที่แห่งหนึ่ง ข้างๆ มีข้อความ '[mapText]' เขียนด้วยตัวหนังสือเล็กๆ</li>
+    <li>questInfo->เมื่อดูใกล้ๆ จะเห็นว่ามีคนพยายามลบข้อความ '[mapText]' ออกจากแผนที่</li>
+    <li>questInfo->ใกล้สัญลักษณ์หัวกะโหลกสี[Color] มีคนเขียนข้อความตัวหนาว่า '[mapText]'</li>
+    <li>questInfo->มีสัญลักษณ์ประหลาดถูกวาด[noteLocation] ข้างใต้สัญลักษณ์มีข้อความ '[mapText]'</li>
+    <li>questInfo->มีมีดสี[Color]ถูกแกะสลักลงบนแผนที่ ชี้ไปที่ข้อความ '[mapText]'</li>
+    <li>questInfo->[noteLocation]มีรายการตรวจสอบ แต่ละรายการถูกขีดฆ่า เหลือเพียงรายการเดียว: '[mapText]'</li>
+    <li>maybe_condition-></li>
+    <li>maybe_condition->[conditionSmell]</li>
+    <li>maybe_condition->[conditionStains]</li>
+    <li>maybe_condition->[conditionTouch]</li>
+    <li>conditionSmell->มีกลิ่นเหม็นของ[smell]</li>
+    <li>conditionSmell->มีกลิ่น[smell]จางๆ</li>
+    <li>conditionSmell->แผนที่มีกลิ่น[smell]จางๆ เป็นเบาะแสถึงการแลกเปลี่ยนของเจ้าของคนเก่า</li>
+    <li>smell->น้ำเค็มและสาหร่าย</li>
+    <li>smell->กุหลาบ</li>
+    <li>smell->กำมะถัน</li>
+    <li>smell->เชื้อเพลิงเคมี</li>
+    <li>smell->หญ้าแห้งและมูลสัตว์</li>
+    <li>smell->เนื้อไหม้</li>
+    <li>smell->เยลลี่แมลง</li>
+    <li>smell->น้ำหอม</li>
+    <li>smell->น้ำมันและดินปืน</li>
+    <li>smell->มันฝรั่งพิษเน่า</li>
+    <li>smell->อัลมอนด์</li>
+    <li>smell->น้ำยาฟอกขาว</li>
+    <li>smell->อุจจาระ[Animal]</li>
+    <li>conditionStains->รอยขีดข่วนและคราบ[stain]บดบังรายละเอียดบางส่วน ทำให้อ่านยาก</li>
+    <li>conditionStains->คราบ[stain]และรอยไหม้บ่งบอกว่าถูกใช้งานหนักในสภาพแวดล้อมโหดร้าย</li>
+    <li>conditionStains->ไดอะแกรมถูกบดบังด้วยสิ่งที่ดูเหมือน[stain]</li>
+    <li>conditionStains->แผนที่ยังไม่สมบูรณ์และเปื้อนคราบ[stain]</li>
+    <li>conditionTouch->คราบ[stain]และขอบที่รุ่ยให้ความรู้สึกว่าใช้งานมานาน</li>
+    <li>stain->เลือด</li>
+    <li>stain->น้ำมัน</li>
+    <li>stain->คราบไขมัน</li>
+    <li>stain->หมึกแดง</li>
+    <li>stain->น้ำเค็ม</li>
+    <li>stain->ขี้ผึง</li>
+    <li>stain->กาแฟ</li>
+    <li>stain->สนิม</li>
+    <li>stain->เชื้อเพลิงเคมี</li>
+    <li>conditionTouch->หน้ากระดาษให้ความรู้สึกหยาบเมื่อสัมผัส</li>
+    <li>conditionTouch->แผนที่ให้ความรู้สึกเปราะบางเมื่อสัมผัส</li>
+    <li>conditionTouch->รอยไหม้ตามขอบบ่งบอกว่าเคยถูกเก็บมาจากภารกิจที่ล้มเหลว</li>
+    <li>conditionTouch->แผนที่ดูเปราะบางแต่เต็มไปด้วยความรู้ที่สั่งสมมาหลายปี</li>
+    <li>conditionTouch->ขอบแผนที่มีรอยขีดข่วนและซีดจาง มุมหนึ่งถูกปะด้วยกาว</li>
+    <li>maybe_authorInfo-></li>
+    <li>maybe_authorInfo->\n\n[authorInfo]</li>
+    <li>authorInfo->ไม่ทราบแน่ชัดว่าใครเป็นผู้สร้างแผนที่</li>
+    <li>authorInfo->แผนที่ถูกสร้างโดย[ANYPAWN_nameFull] [ANYPAWN_kind]ผู้โด่งดังจาก [ANYPAWN_factionName]</li>
+    <li>authorInfo->[noteLocation]ของแผนที่ถูกเซ็นชื่อโดย[PersonJob] [ANYPAWN_nameIndef]</li>
+    <li>authorInfo->แผนที่นี้มีชีวประวัติสั้นๆ ของผู้เขียน [ANYPAWN_nameIndef] ซึ่งเป็น[ANYPAWN_kind]</li>
+    <li>authorInfo->เจ้าของคนก่อนของแผนที่ดูเหมือนจะเป็นบุคคลที่ชื่อ [ANYPAWN_nameIndef]</li>
+    <li>authorInfo->แผนที่นี้เคยเป็นของ[ANYPAWN_kind]นิรนาม ร่องรอยบนแผนที่บ่งบอกว่า[ANYPAWN_pronoun]เป็นสมาชิกของ [ANYPAWN_factionName]</li>
+    <li>has->มี</li>
+    <li>has->ประกอบด้วย</li>
+    <li>has->มีลักษณะเด่น</li>
+    <li>emotionalState->มีความสุข</li>
+    <li>emotionalState->เศร้าสร้อย</li>
+    <li>emotionalState->โมโห</li>
+    <li>emotionalState->เย้ายวน</li>
+    <li>mapType(p=4)->แผนที่</li>
+    <li>mapType->แผนภูมิ</li>
+    <li>mapType->สมุดแผนที่</li>
+    <li>mapType->การสำรวจ</li>
+    <li>mapSymbol->กุญแจ</li>
+    <li>mapSymbol->'X'</li>
+    <li>mapSymbol->ดวงดาว</li>
+    <li>mapSymbol->ดวงจันทร์</li>
+    <li>mapSymbol->หอคอย</li>
+    <li>mapSymbol->หัวกะโหลก</li>
+    <li>mapSymbol->[Animal]</li>
+    <li>mapText(p=10)->[questMapText]</li>
+    <li>mapText(p=2)->[subject]</li>
+    <li>mapText->อันตรายอย่างยิ่ง</li>
+    <li>mapText->โปรดระวัง[Enemy]</li>
+    <li>mapText->ความหิวโหยอยู่ข้างหน้า</li>
+    <li>mapText->ไม่เหลือร่องรอย</li>
+    <li>mapText->[Animal]บ้า</li>
+    <li>mapText->ผู้บุกรุกโจมตี</li>
+    <li>mapText->คาราวานกองสุดท้ายของเรา</li>
+    <li>mapText->ไม่เหลือผู้รอดชีวิต</li>
+    <li>mapText->มันตั้งอยู่นี่</li>
+    <li>mapText->[ANYPAWN_nameIndef] อยู่ที่นี่</li>
+    <li>mapText->สุสานของ [ANYPAWN_nameIndef]</li>
+    <li>mapText->ทรัพย์สมบัติของ [ANYPAWN_factionName]</li>
+    <li>mapFeature(p=8)->[questMapFeature]</li>
+    <li>mapFeature->แม่น้ำ</li>
+    <li>mapFeature->จุดบรรจบของแม่น้ำสองสาย</li>
+    <li>mapFeature->ทางแยก</li>
+    <li>mapFeature->เทือกเขา</li>
+    <li>mapFeature->ชายฝั่ง</li>
+    <li>mapFeature->ทะเลสาบ</li>
+    <li>mapFeature->ปากน้ำชายฝั่ง</li>
+    <li>mapFeature->เกาะชายฝั่ง</li>
+    <li>noteLocation->ที่มุม</li>
+    <li>noteLocation->ที่มุมของแผนที่</li>
+    <li>noteLocation->ที่มุมหนึ่ง</li>
+    <li>noteLocation->ที่ด้านซ้ายมือ</li>
+    <li>noteLocation->ที่ด้านหลัง</li>
+    <li>noteLocation->ที่ด้านล่าง</li>
+    <li>noteLocation->ใกล้กับ[mapFeature]</li>
+    <li>noteLocation->ถัดจาก[mapFeature]</li>
+    <li>noteLocation->ข้างใต้[mapFeature]ขนาดใหญ่</li>
+    <li>noteLocation->ตามขอบของแผนที่</li>
+  </Description_Map.rulePack.rulesStrings>
   
   <!-- EN:
     <li>place->[PlaceOutlander]</li>
@@ -400,7 +614,188 @@
     <li>CapSylE->Wit</li>
     <li>CapSylE->You</li>
   -->
-  <MapUtility.rulePack.rulesStrings>TODO</MapUtility.rulePack.rulesStrings>
+  <MapUtility.rulePack.rulesStrings>
+    <li>place->[PlaceOutlander]</li>
+    <li>place->[PlaceOutlander] [direction]</li>
+    <li>PlaceOutlander->[CapSylE][place_end]</li>
+    <li>PlaceOutlander->[CapSylE][place_end]</li>
+    <li>PlaceOutlander->[CapSylE][place_end]</li>
+    <li>PlaceOutlander->[CapSylE][SylE][place_end]</li>
+    <li>PlaceOutlander->[CapSylE][SylE][place_end]</li>
+    <li>PlaceOutlander->[CapSylE][SylE][SylE][place_end]</li>
+    <li>mapSubjectAdj(p=6)->[direction]</li>
+    <li>mapSubjectAdj->โบราณ</li>
+    <li>mapSubjectAdj->ในประวัติศาสตร์</li>
+    <li>mapSubjectAdj->เก่าแก่</li>
+    <li>mapSubjectAdj->ที่ถูกลืม</li>
+    <li>mapSubjectAdj->ลับ</li>
+    <li>mapSubjectAdj->ส่วนตัว</li>
+    <li>mapSubjectAdj->ซ่อนเร้น</li>
+    <li>mapSubjectAdj->ลึกลับ</li>
+    <li>mapSubjectAdj->ที่ไม่มีใครทราบ</li>
+    <li>mapSubjectAdj->แปลกประหลาด</li>
+    <li>mapSubjectAdj->ผิดปกติ</li>
+    <li>mapSubjectAdj->ประหลาด</li>
+    <li>mapSubjectAdj->มหัศจรรย์</li>
+    <li>mapSubjectAdj->ที่คุ้มค่า</li>
+    <li>mapSubjectAdj->อันล้ำค่า</li>
+    <li>mapSubjectAdj->ที่น่าหลงใหล</li>
+    <li>mapSubjectAdj->ที่หรูหรา</li>
+    <li>mapSubjectAdj->สุดโต่ง</li>
+    <li>mapSubjectAdj->ป่า</li>
+    <li>mapSubjectAdj->ยิ่งใหญ่</li>
+    <li>mapSubjectAdj->ใหญ่โต</li>
+    <li>mapSubjectAdj->รองลงมา</li>
+    <li>mapSubjectAdj->เล็ก</li>
+    <li>mapSubjectAdj->แย่</li>
+    <li>mapSubjectAdj->น่ากลัว</li>
+    <li>mapSubjectAdj->เหนือธรรมชาติ</li>
+    <li>mapSubjectAdj->ศักดิ์สิทธิ์</li>
+    <li>mapSubjectAdj->ท้องถิ่น</li>
+    <li>mapSubjectAdj->ในภูมิภาค</li>
+    <li>mapSubjectAdj->พื้นเมือง</li>
+    <li>mapSubjectAdj->ใกล้เคียง</li>
+    <li>mapSubjectAdj->ดาวเคราะห์</li>
+    <li>mapSubjectAdj->อันตราย</li>
+    <li>mapSubjectAdj->มรณะ</li>
+    <li>mapSubjectAdj->พิษ</li>
+    <li>mapSubjectAdj->คัดสรร</li>
+    <li>mapSubjectAdj->ยูนีค</li>
+    <li>mapSubjectAdj->สำคัญ</li>
+    <li>direction->เหนือ</li>
+    <li>direction->ตะวันออก</li>
+    <li>direction->ใต้</li>
+    <li>direction->ตะวันตก</li>
+    <li>direction(p=0.2)->ใต้พิภพ</li>
+    <li>direction(p=0.2)->ใต้ดิน</li>
+    <li>mapSubject->ถนน</li>
+    <li>mapSubject->ทางเดิน</li>
+    <li>mapSubject->เส้นทาง</li>
+    <li>mapSubject->ถ้ำ</li>
+    <li>mapSubject->เนินเขา</li>
+    <li>mapSubject->ภูเขา</li>
+    <li>mapSubject->แม่น้ำ</li>
+    <li>mapSubject->ป่า</li>
+    <li>mapSubject->บึง</li>
+    <li>mapSubject->ที่รกร้าง</li>
+    <li>mapSubject->แลนด์มาร์ค</li>
+    <li>mapSubject->ลุ่มน้ำ</li>
+    <li>mapSubject->ทะเลสาบ</li>
+    <li>mapSubject->หุบเขา</li>
+    <li>mapSubject->สถานที่</li>
+    <li>mapSubject->ไซต์</li>
+    <li>mapSubject->ตำนาน</li>
+    <li>mapSubject->ความลับ</li>
+    <li>mapSubject->พรมแดน</li>
+    <li>mapSubject->ชายแดน</li>
+    <li>mapSubject->ตำแหน่ง</li>
+    <li>mapSubject->ทรัพยากร</li>
+    <li>mapSubject->สิ่งประดิษฐ์</li>
+    <li>mapSubject->วัตถุโบราณ</li>
+    <li>mapSubject->เมือง</li>
+    <li>mapSubject->ถิ่นฐาน</li>
+    <li>mapSubject->ป้อมปราการ</li>
+    <li>mapSubject->ซากปรักหักพัง</li>
+    <li>mapSubject->เผ่า</li>
+    <li>mapSubject->ผู้คน</li>
+    <li>mapSubject->ประวัติศาสตร์</li>
+    <li>mapSubject->ดินแดน</li>
+    <li>mapSubject->มวลแผ่นดิน</li>
+    <li>CapSylE->Al</li>
+    <li>CapSylE->All</li>
+    <li>CapSylE->An</li>
+    <li>CapSylE->And</li>
+    <li>CapSylE->Ar</li>
+    <li>CapSylE->Are</li>
+    <li>CapSylE->As</li>
+    <li>CapSylE->At</li>
+    <li>CapSylE->Ban</li>
+    <li>CapSylE->Bin</li>
+    <li>CapSylE->Bon</li>
+    <li>CapSylE->But</li>
+    <li>CapSylE->Ca</li>
+    <li>CapSylE->Co</li>
+    <li>CapSylE->Da</li>
+    <li>CapSylE->Del</li>
+    <li>CapSylE->Din</li>
+    <li>CapSylE->Do</li>
+    <li>CapSylE->Ea</li>
+    <li>CapSylE->Ed</li>
+    <li>CapSylE->En</li>
+    <li>CapSylE->Ent</li>
+    <li>CapSylE->Er</li>
+    <li>CapSylE->Era</li>
+    <li>CapSylE->Ere</li>
+    <li>CapSylE->Es</li>
+    <li>CapSylE->Eve</li>
+    <li>CapSylE->Far</li>
+    <li>CapSylE->Fen</li>
+    <li>CapSylE->Fin</li>
+    <li>CapSylE->For</li>
+    <li>CapSylE->Fun</li>
+    <li>CapSylE->Ga</li>
+    <li>CapSylE->Go</li>
+    <li>CapSylE->Ha</li>
+    <li>CapSylE->Had</li>
+    <li>CapSylE->Hat</li>
+    <li>CapSylE->He</li>
+    <li>CapSylE->Hen</li>
+    <li>CapSylE->Her</li>
+    <li>CapSylE->Hi</li>
+    <li>CapSylE->Hi</li>
+    <li>CapSylE->Hin</li>
+    <li>CapSylE->His</li>
+    <li>CapSylE->In</li>
+    <li>CapSylE->Is</li>
+    <li>CapSylE->It</li>
+    <li>CapSylE->Ith</li>
+    <li>CapSylE->Ja</li>
+    <li>CapSylE->Ka</li>
+    <li>CapSylE->Ko</li>
+    <li>CapSylE->La</li>
+    <li>CapSylE->Lan</li>
+    <li>CapSylE->Le</li>
+    <li>CapSylE->Len</li>
+    <li>CapSylE->Lon</li>
+    <li>CapSylE->Ma</li>
+    <li>CapSylE->Me</li>
+    <li>CapSylE->Men</li>
+    <li>CapSylE->Min</li>
+    <li>CapSylE->Mon</li>
+    <li>CapSylE->Na</li>
+    <li>CapSylE->Ne</li>
+    <li>CapSylE->Not</li>
+    <li>CapSylE->Ome</li>
+    <li>CapSylE->On</li>
+    <li>CapSylE->Or</li>
+    <li>CapSylE->Ou</li>
+    <li>CapSylE->Oul</li>
+    <li>CapSylE->Our</li>
+    <li>CapSylE->Pa</li>
+    <li>CapSylE->Qua</li>
+    <li>CapSylE->Ra</li>
+    <li>CapSylE->Re</li>
+    <li>CapSylE->Ro</li>
+    <li>CapSylE->Se</li>
+    <li>CapSylE->Sho</li>
+    <li>CapSylE->St</li>
+    <li>CapSylE->Te</li>
+    <li>CapSylE->Ted</li>
+    <li>CapSylE->Ter</li>
+    <li>CapSylE->Tha</li>
+    <li>CapSylE->The</li>
+    <li>CapSylE->Thi</li>
+    <li>CapSylE->Thi</li>
+    <li>CapSylE->Ti</li>
+    <li>CapSylE->To</li>
+    <li>CapSylE->Un</li>
+    <li>CapSylE->Ve</li>
+    <li>CapSylE->Ver</li>
+    <li>CapSylE->Wa</li>
+    <li>CapSylE->Was</li>
+    <li>CapSylE->Wit</li>
+    <li>CapSylE->You</li>
+  </MapUtility.rulePack.rulesStrings>
   
   <!-- EN:
     <li>title(p=2)->[mapType] [mapNoun] of [subject]</li>
@@ -448,6 +843,51 @@
     <li>mapType->laminated</li>
     <li>mapType->holographic</li>
   -->
-  <Namer_Map.rulePack.rulesStrings>TODO</Namer_Map.rulePack.rulesStrings>
+  <Namer_Map.rulePack.rulesStrings>
+    <li>title(p=2)->[mapNoun][mapType]ของ[subject]</li>
+    <li>title(p=2)->[maybeThe][map][mapType]</li>
+    <li>title(p=2)->[map][maybeAdjective]ของ [ANYPAWN_nameIndef] [maybeAdjective] </li>
+    <li>title->[mapNoun][mapType]: [subject]</li>
+    <li>title->[mapNoun]แห่ง[mapSubject][mapSubjectAdj]</li>
+    <li>title->[maybeThe][map][AdjectiveAny]</li>
+    <li>title(p=0.5)->แผนที่สำหรับ[mapSubject][mapSubjectAdj]</li>
+    <li>title(p=0.5)->[mapNoun][place]</li>
+    <li>maybeAdjective-></li>
+    <li>maybeAdjective->[adjective]</li>
+    <li>adjective->[AdjectiveAny]</li>
+    <li>adjective->[Color]</li>
+    <li>adjective->[AdjectiveLarge]</li>
+    <li>maybeThe-></li>
+    <li>maybeThe-></li>
+    <li>map->[mapNoun]</li>
+    <li>map(p=2)->[mapNoun]ของ[place]</li>
+    <li>map->[mapNoun]ของ[mapSubject]</li>
+    <li>map->[mapNoun]ของ[mapSubject][mapSubjectAdj]</li>
+    <li>mapNoun(p=5)->แผนที่</li>
+    <li>mapNoun(p=2)->สมุดแผนที่</li>
+    <li>mapNoun->ปฏิทิน</li>
+    <li>mapNoun->แผนภูมิ</li>
+    <li>mapNoun->การสำรวจ</li>
+    <li>mapNoun->การศึกษา</li>
+    <li>mapNoun->แผ่นพับ</li>
+    <li>mapType(p=2)->[Animal]</li>
+    <li>mapType(p=2)->[TreeType]</li>
+    <li>mapType->โครงร่าง</li>
+    <li>mapType->ภูมิประเทศ</li>
+    <li>mapType->นูนต่ำ</li>
+    <li>mapType->ประชากร</li>
+    <li>mapType->ขุมทรัพย์</li>
+    <li>mapType->พร้อมอธิบายประกอบ</li>
+    <li>mapType->พร้อมภาพประกอบ</li>
+    <li>mapType->สมาพันธ์</li>
+    <li>mapType->พันธมิตร</li>
+    <li>mapType->สหพันธ์</li>
+    <li>mapType->ประวัติศาสตร์</li>
+    <li>mapType->กระดาษ</li>
+    <li>mapType->หนัง</li>
+    <li>mapType->หนังหมู</li>
+    <li>mapType->เคลือบพลาสติก</li>
+    <li>mapType->โฮโลกราฟิก</li>
+  </Namer_Map.rulePack.rulesStrings>
   
 </LanguageData>

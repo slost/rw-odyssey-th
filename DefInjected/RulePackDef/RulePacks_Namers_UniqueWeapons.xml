@@ -60,6 +60,64 @@
     <li>badass_concept->love</li>
     <li>badass_concept->laughter</li>
   -->
-  <NamerUniqueWeapon.rulePack.rulesStrings>TODO</NamerUniqueWeapon.rulePack.rulesStrings>
+  <NamerUniqueWeapon.rulePack.rulesStrings>
+    <li>r_weapon_name(p=2)->[weapon_noun][weapon_adjective]</li>
+    <li>r_weapon_name(p=0.5)->[weapon_type]แห่ง[badass_concept]</li>
+    <li>r_weapon_name(p=0.5)->[weapon_type][weapon_adjective]</li>
+    <li>r_weapon_name(p=0.5)->[weapon_type]แห่ง[badass_concept]</li>
+    <li>r_weapon_name(p=0.3)->[weapon_noun]ของ [ANYPAWN_nameIndef]</li>
+    <li>r_weapon_name(p=0.3)->[weapon_noun]ของ [ANYPAWN_nameIndef][weapon_adjective]</li>
+    <li>r_weapon_name(p=0.3)->[badass_concept]ของ [ANYPAWN_nameIndef]</li>
+    <li>weapon_noun(p=2)->[weapon_type]</li>
+    <li>weapon_noun->[badass_noun]</li>
+    <li>weapon_noun->[badass_concept]</li>
+    <li>weapon_adjective(p=2)->[trait_adjective]</li>
+    <li>weapon_adjective->[badass_adjective]</li>
+    <li>badass_adjective->หม่นหมอง</li>
+    <li>badass_adjective->นิรันดร์</li>
+    <li>badass_adjective->รัตติกาล</li>
+    <li>badass_adjective->หลุมศพ</li>
+    <li>badass_adjective->ยอดเยี่ยม</li>
+    <li>badass_adjective->มรณะ</li>
+    <li>badass_adjective->ฉาวโฉ่</li>
+    <li>badass_adjective->พิเศษ</li>
+    <li>badass_adjective->มรณะ</li>
+    <li>badass_adjective->กึกก้อง</li>
+    <li>badass_adjective->ต้องสาป</li>
+    <li>badass_adjective->ยิ่งใหญ่</li>
+    <li>badass_noun->ยมทูต</li>
+    <li>badass_noun->จุดจบ</li>
+    <li>badass_noun->เสียงหอน</li>
+    <li>badass_noun->พายุ</li>
+    <li>badass_noun->ภูตผี</li>
+    <li>badass_noun->แม่ม่าย</li>
+    <li>badass_noun->ไททัน</li>
+    <li>badass_noun->ยักษ์</li>
+    <li>badass_noun->อสรพิษ</li>
+    <li>badass_noun->ทั่งเหล็ก</li>
+    <li>badass_noun->นักฆ่า</li>
+    <li>badass_noun->คนรัก</li>
+    <li>badass_noun->อสูร</li>
+    <li>badass_noun->เขี้ยว</li>
+    <li>badass_noun->อาวุธ</li>
+    <li>badass_noun->เขา</li>
+    <li>badass_concept->ความยุติธรรม</li>
+    <li>badass_concept->การล้างแค้น</li>
+    <li>badass_concept->การแก้แค้น</li>
+    <li>badass_concept->ความเจ็บปวด</li>
+    <li>badass_concept->ความทรมาน</li>
+    <li>badass_concept->ความทุกข์ทรมาน</li>
+    <li>badass_concept->ตำนาน</li>
+    <li>badass_concept->ความปิติยินดี</li>
+    <li>badass_concept->ความเสียใจ</li>
+    <li>badass_concept->ความภูมิใจ</li>
+    <li>badass_concept->ความหลงตัวเอง</li>
+    <li>badass_concept->เกียรติยศ</li>
+    <li>badass_concept->ความเดือดดาล</li>
+    <li>badass_concept->การล้างแค้น</li>
+    <li>badass_concept->ความสงบ</li>
+    <li>badass_concept->ความรัก</li>
+    <li>badass_concept->เสียงหัวเราะ</li>
+  </NamerUniqueWeapon.rulePack.rulesStrings>
   
 </LanguageData>
