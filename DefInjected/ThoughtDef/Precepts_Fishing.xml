@@ -10,26 +10,26 @@
   <SlaughteredFish_Know_Disapproved.stages.killed_fish.label>ปลาถูกฆ่า</SlaughteredFish_Know_Disapproved.stages.killed_fish.label>
   
   <!-- EN: fish slaughtered -->
-  <SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>TODO</SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>
+  <SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>ปลาถูกฆ่า</SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>
   <!-- EN: Someone is killing fish! We should protect these beautiful creatures. -->
-  <SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.description>TODO</SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.description>
+  <SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.description>มีคนกำลังฆ่าปลา! เราควรปกป้องสิ่งมีชีวิตที่สวยงามเหล่านี้</SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.description>
   
   <!-- EN: killed fish -->
-  <SlaughteredFish_Know_Prohibited.stages.killed_fish.label>TODO</SlaughteredFish_Know_Prohibited.stages.killed_fish.label>
+  <SlaughteredFish_Know_Prohibited.stages.killed_fish.label>ปลาถูกฆ่า</SlaughteredFish_Know_Prohibited.stages.killed_fish.label>
   
   <!-- EN: fish slaughtered -->
-  <SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.label>TODO</SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.label>
+  <SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.label>ปลาถูกฆ่า</SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.label>
   <!-- EN: Someone is killing fish! Our slippery brothers and sisters are dying. -->
-  <SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.description>TODO</SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.description>
+  <SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.description>มีคนกำลังฆ่าปลา! พี่น้องผิวลื่นของเรากำลังตาย</SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.description>
   
   <!-- EN: fished recently -->
-  <SlaughteredFish_Sacred.stages.fished_recently.label>TODO</SlaughteredFish_Sacred.stages.fished_recently.label>
+  <SlaughteredFish_Sacred.stages.fished_recently.label>ตกปลาเมื่อเร็วๆ นี้</SlaughteredFish_Sacred.stages.fished_recently.label>
   <!-- EN: Fishing puts me on the right path - at least for a little while. -->
-  <SlaughteredFish_Sacred.stages.fished_recently.description>TODO</SlaughteredFish_Sacred.stages.fished_recently.description>
+  <SlaughteredFish_Sacred.stages.fished_recently.description>การตกปลาทำให้ฉันอยู่ในเส้นทางที่ถูกต้อง อย่างน้อยก็ชั่วขณะหนึ่ง</SlaughteredFish_Sacred.stages.fished_recently.description>
   
   <!-- EN: not enough fish -->
-  <SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.label>TODO</SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.label>
+  <SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.label>ปลาไม่เพียงพอ</SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.label>
   <!-- EN: I wish we were somewhere we could fish. -->
-  <SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.description>TODO</SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.description>
+  <SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.description>ฉันอยากให้เราอยู่ที่ไหนสักแห่งที่เราสามารถตกปลาได้</SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.description>
   
 </LanguageData>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: vacstone flagstone -->
-  <FlagstoneVacstone.label>TODO</FlagstoneVacstone.label>
+  <FlagstoneVacstone.label>แผ่นหินปูพื้นแวคสโตน</FlagstoneVacstone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneVacstone.description>TODO</FlagstoneVacstone.description>
+  <FlagstoneVacstone.description>กระเบื้องหินที่ตัดอย่างหยาบแม้จะไม่สวยงาม แต่เหมาะอย่างยิ่งสำหรับถนนและทางเดินกลางแจ้ง การรื้อถอนแผ่นหินปูพื้นจะไม่ให้วัสดุคืน</FlagstoneVacstone.description>
   
   <!-- EN: vacstone tile -->
-  <TileVacstone.label>TODO</TileVacstone.label>
+  <TileVacstone.label>กระเบื้องแวคสโตน</TileVacstone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileVacstone.description>TODO</TileVacstone.description>
+  <TileVacstone.description>กระเบื้องหินที่ถูกตัดและจัดวางอย่างพิถีพิถัน มอบบรรยากาศแบบอยู่ในปราสาท ดูงดงาม แต่ใช้เวลาปูค่อนข้างนาน</TileVacstone.description>
   
 </LanguageData>

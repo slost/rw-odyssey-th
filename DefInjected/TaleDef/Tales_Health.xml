@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: vacuum exposure revealed -->
-  <VacuumExposureRevealed.label>TODO</VacuumExposureRevealed.label>
+  <VacuumExposureRevealed.label>เผชิญกับสุญญากาศ</VacuumExposureRevealed.label>
   <!-- EN:
     <li>tale_noun->[PAWN_nameDef] being exposed to hard vacuum</li>
     <li>tale_noun->[PAWN_nameDef] suffering from vacuum exposure</li>
@@ -26,6 +26,28 @@
     <li>desc_sentence->A [Color] asteroid looms large behind the image.</li>
     <li>desc_sentence->Behind the image is a large [Color] planet.</li>
   -->
-  <VacuumExposureRevealed.rulePack.rulesStrings>TODO</VacuumExposureRevealed.rulePack.rulesStrings>
+  <VacuumExposureRevealed.rulePack.rulesStrings>
+    <li>tale_noun->[PAWN_nameDef] สัมผัสกับสูญญากาศอย่างรุนแรง</li>
+    <li>tale_noun->[PAWN_nameDef] ได้รับผลกระทบจากการสัมผัสสูญญากาศ</li>
+    <li>image->[PAWN_nameFull] ลอยออกห่างจากยานอวกาศ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ล่องลอยไปในอวกาศ [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] ล่องลอยท่ามกลางหมู่ดาว [circumstance_group]</li>
+    <li>image->[PAWN_nameFull] เดินโซเซออกจากประตูอากาศ [circumstance_group]</li>
+    <li>circumstance_phrase->ในขณะที่ใบหน้าของ [PAWN_possessive] เริ่มกลายเป็นสีฟ้า</li>
+    <li>circumstance_phrase->ในขณะที่น้ำลายของ [PAWN_possessive] เริ่มเดือด</li>
+    <li>circumstance_phrase->ในขณะที่ร่างกายของ [PAWN_possessive] ร่างกายเริ่มบวมพอง</li>
+    <li>circumstance_phrase->ในขณะที่ผิวหนังของ [PAWN_possessive] เริ่มกลายเป็นน้ำแข็ง</li>
+    <li>circumstance_phrase->ในขณะที่กรีดร้องอย่างเงียบงัน</li>
+    <li>circumstance_phrase->และเริ่มหมดสติ</li>
+    <li>circumstance_phrase->และพยายามหายใจ</li>
+    <li>desc_sentence->ดวงตาของ [PAWN_nameDef] กำลังกลายเป็นกระจก</li>
+    <li>desc_sentence->ความมืดมิดอันไม่มีที่สิ้นสุดรายล้อมอยู่ตัว</li>
+    <li>desc_sentence->ฉากนี้ดูเหมือนเกิดขึ้นในอวกาศ</li>
+    <li>desc_sentence->ใต้หมวกกันน็อคที่แตกร้าวคือมีเพียงดวงตาที่ไร้ชีวิต</li>
+    <li>desc_sentence->ดวงดาวบิดเบี้ยว [Quantity_adjphrase] ล้อมรอบภาพนั้น</li>
+    <li>desc_sentence->[PAWN_nameDef] สวมชุดสูญญากาศที่ขาดวิ่น</li>
+    <li>desc_sentence->มีดาวเคราะห์น้อยสี[Color] ขนาดใหญ่ปรากฏอยู่เบื้องหลังภาพ</li>
+    <li>desc_sentence->เบื้องหลังภาพคือดาวเคราะห์สี[Color]ขนาดใหญ่</li>
+  </VacuumExposureRevealed.rulePack.rulesStrings>
   
 </LanguageData>

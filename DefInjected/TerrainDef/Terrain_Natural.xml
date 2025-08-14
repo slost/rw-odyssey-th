@@ -2,36 +2,36 @@
 <LanguageData>
   
   <!-- EN: ancient megastructure -->
-  <AncientMegastructure.label>TODO</AncientMegastructure.label>
+  <AncientMegastructure.label>โครงสร้างขนาดยักษ์โบราณ</AncientMegastructure.label>
   
   <!-- EN: cooled lava -->
-  <CooledLava.label>TODO</CooledLava.label>
+  <CooledLava.label>ลาวาที่เย็นตัวแล้ว</CooledLava.label>
   
   <!-- EN: dry lake bed -->
-  <DryLakeBed.label>TODO</DryLakeBed.label>
+  <DryLakeBed.label>ราบทะเลสาบแห้ง</DryLakeBed.label>
   <!-- EN: sand -->
-  <DryLakeBed.tools.sand.label>TODO</DryLakeBed.tools.sand.label>
+  <DryLakeBed.tools.sand.label>ทราย</DryLakeBed.tools.sand.label>
   
   <!-- EN: soil -->
-  <GlowforestSoil.label>TODO</GlowforestSoil.label>
+  <GlowforestSoil.label>ดินป่าเรืองแสง</GlowforestSoil.label>
   <!-- EN: dirt -->
-  <GlowforestSoil.tools.dirt.label>TODO</GlowforestSoil.tools.dirt.label>
+  <GlowforestSoil.tools.dirt.label>ดิน</GlowforestSoil.tools.dirt.label>
   
   <!-- EN: soil -->
-  <GrasslandSoil.label>TODO</GrasslandSoil.label>
+  <GrasslandSoil.label>ดินทุ่งหญ้า</GrasslandSoil.label>
   <!-- EN: dirt -->
-  <GrasslandSoil.tools.dirt.label>TODO</GrasslandSoil.tools.dirt.label>
+  <GrasslandSoil.tools.dirt.label>ดิน</GrasslandSoil.tools.dirt.label>
   
   <!-- EN: deep lava -->
-  <LavaDeep.label>TODO</LavaDeep.label>
+  <LavaDeep.label>ลาวาลึก</LavaDeep.label>
   
   <!-- EN: space -->
-  <Space.label>TODO</Space.label>
+  <Space.label>อวกาศ</Space.label>
   
   <!-- EN: volcanic rock -->
-  <VolcanicRock.label>TODO</VolcanicRock.label>
+  <VolcanicRock.label>>หินภูเขาไฟ</VolcanicRock.label>
   
   <!-- EN: smooth volcanic rock -->
-  <VolcanicRock_Smooth.label>TODO</VolcanicRock_Smooth.label>
+  <VolcanicRock_Smooth.label>หินภูเขาไฟเรียบ</VolcanicRock_Smooth.label>
   
 </LanguageData>

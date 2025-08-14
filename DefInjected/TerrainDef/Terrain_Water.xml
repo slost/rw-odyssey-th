@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: hot spring water -->
-  <HotSpring.label>TODO</HotSpring.label>
+  <HotSpring.label>น้ำพุร้อน</HotSpring.label>
   <!-- EN: water -->
-  <HotSpring.tools.water.label>TODO</HotSpring.tools.water.label>
+  <HotSpring.tools.water.label>น้ำ</HotSpring.tools.water.label>
   
   <!-- EN: toxic deep water -->
-  <ToxicWaterDeep.label>TODO</ToxicWaterDeep.label>
+  <ToxicWaterDeep.label>น้ำลึกที่มีพิษ</ToxicWaterDeep.label>
   <!-- EN: water -->
-  <ToxicWaterDeep.tools.water.label>TODO</ToxicWaterDeep.tools.water.label>
+  <ToxicWaterDeep.tools.water.label>น้ำ</ToxicWaterDeep.tools.water.label>
   
   <!-- EN: toxic chest-deep moving water -->
-  <ToxicWaterMovingChestDeep.label>TODO</ToxicWaterMovingChestDeep.label>
+  <ToxicWaterMovingChestDeep.label>น้ำที่มีพิษลึกระดับอกที่ไหลเชี่ยว</ToxicWaterMovingChestDeep.label>
   <!-- EN: water -->
-  <ToxicWaterMovingChestDeep.tools.water.label>TODO</ToxicWaterMovingChestDeep.tools.water.label>
+  <ToxicWaterMovingChestDeep.tools.water.label>น้ำ</ToxicWaterMovingChestDeep.tools.water.label>
   
   <!-- EN: toxic shallow moving water -->
-  <ToxicWaterMovingShallow.label>TODO</ToxicWaterMovingShallow.label>
+  <ToxicWaterMovingShallow.label>น้ำที่มีพิษตื้นที่ไหลเชี่ยว</ToxicWaterMovingShallow.label>
   <!-- EN: water -->
-  <ToxicWaterMovingShallow.tools.water.label>TODO</ToxicWaterMovingShallow.tools.water.label>
+  <ToxicWaterMovingShallow.tools.water.label>น้ำ</ToxicWaterMovingShallow.tools.water.label>
   
   <!-- EN: toxic deep ocean water -->
-  <ToxicWaterOceanDeep.label>TODO</ToxicWaterOceanDeep.label>
+  <ToxicWaterOceanDeep.label>น้ำมหาสมุทลึกที่มีพิษ</ToxicWaterOceanDeep.label>
   <!-- EN: water -->
-  <ToxicWaterOceanDeep.tools.water.label>TODO</ToxicWaterOceanDeep.tools.water.label>
+  <ToxicWaterOceanDeep.tools.water.label>น้ำ</ToxicWaterOceanDeep.tools.water.label>
   
   <!-- EN: toxic shallow ocean water -->
-  <ToxicWaterOceanShallow.label>TODO</ToxicWaterOceanShallow.label>
+  <ToxicWaterOceanShallow.label>น้ำมหาสมุทตื้นที่มีพิษ</ToxicWaterOceanShallow.label>
   <!-- EN: water -->
-  <ToxicWaterOceanShallow.tools.water.label>TODO</ToxicWaterOceanShallow.tools.water.label>
+  <ToxicWaterOceanShallow.tools.water.label>น้ำ</ToxicWaterOceanShallow.tools.water.label>
   
   <!-- EN: toxic shallow water -->
-  <ToxicWaterShallow.label>TODO</ToxicWaterShallow.label>
+  <ToxicWaterShallow.label>น้ำที่มีพิษตื้น</ToxicWaterShallow.label>
   <!-- EN: water -->
-  <ToxicWaterShallow.tools.water.label>TODO</ToxicWaterShallow.tools.water.label>
+  <ToxicWaterShallow.tools.water.label>น้ำ</ToxicWaterShallow.tools.water.label>
   
 </LanguageData>
