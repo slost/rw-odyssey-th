@@ -6,6 +6,6 @@
   <!-- EN: Barren wastes burned clean by volcanic heat. Periodic lava eruptions can burn people and buildings, but also enrich the soil with mineral deposits. -->
   <LavaField.description>พื้นที่รกร้างว่างเปล่าที่ถูกความร้อนจากภูเขาไฟเผาจนสะอาด การปะทุของลาวาเป็นระยะอาจเผาคนและอาคารได้ แต่ก็ช่วยเพิ่มแร่ธาตุในดินด้วย</LavaField.description>
   <!-- EN: This area has high volcanic activity. It is threatened by clouds of volcanic ash, as well as periodic lava eruptions. -->
-  <LavaField.settleWarning>TODO</LavaField.settleWarning>
+  <LavaField.settleWarning>พื้นที่นี้มีกิจกรรมภูเขาไฟสูง มีความเสี่ยงจากเถ้าภูเขาไฟและการปะทุของลาวาเป็นระยะ</LavaField.settleWarning>
   
 </LanguageData>

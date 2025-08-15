@@ -6,318 +6,83 @@
   <!-- EN: A large semi-aquatic reptile with a powerful bite. Alligators are slow on land, but deadly in the water. -->
   <Alligator.description>สัตว์เลื้อยคลานกึ่งน้ำขนาดใหญ่ที่มีแรงกัดทรงพลัง แอลลิเกเตอร์เชื่องช้าบนบก แต่ร้ายกาจในน้ำ</Alligator.description>
   <!-- EN: left claw -->
-  <Alligator.tools.left_claw.label>TODO</Alligator.tools.left_claw.label>
+  <Alligator.tools.left_claw.label>กรงเล็บซ้าย</Alligator.tools.left_claw.label>
   <!-- EN: claw -->
-  <Alligator.tools.left_claw.labelNoLocation>TODO</Alligator.tools.left_claw.labelNoLocation>
+  <Alligator.tools.left_claw.labelNoLocation>กรงเล็บ</Alligator.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Alligator.tools.right_claw.label>TODO</Alligator.tools.right_claw.label>
+  <Alligator.tools.right_claw.label>กรงเล็บขวา</Alligator.tools.right_claw.label>
   <!-- EN: claw -->
-  <Alligator.tools.right_claw.labelNoLocation>TODO</Alligator.tools.right_claw.labelNoLocation>
+  <Alligator.tools.right_claw.labelNoLocation>กรงเล็บ</Alligator.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Alligator.tools.head.label>TODO</Alligator.tools.head.label>
+  <Alligator.tools.head.label>หัว</Alligator.tools.head.label>
   
   <!-- EN: alpha thrumbo -->
   <AlphaThrumbo.label>อัลฟ่าธรัมโบ</AlphaThrumbo.label>
   <!-- EN: A gigantic, graceful creature of unknown origin. Alpha thrumbos are even rarer and more dangerous than the typical thrumbo. Their hide is nearly impossible to pierce and their razor-sharp horn is worth more than its weight in gold.\n\nAlpha thrumbos are some of the longest-lived moving creatures in the known universe. Some tribes believe they remember and psychically pass on everything they ever experience to their young, so each one has a memory going back thousands of years. -->
-  <AlphaThrumbo.description>สิ่งมีชีวิตขนาดมหึมาที่สง่างามซึ่งไม่ทราบที่มา อัลฟ่าธรัมโบนั้นหายากและอันตรายยิ่งกว่าธรัมโบทั่วไป หนังของพวกมันแทบจะเป็นไปไม่ได้ที่จะเจาะทะลวงและเขาที่คมกริบของมันมีค่ามากกว่าน้ำหนักของทองคำเท่ากับตัวมัน\n\nอัลฟ่าธรัมโบเป็นหนึ่งในสิ่งมีชีวิตที่เคลื่อนไหวได้และมีอายุยืนยาวที่สุดในจักรวาลที่รู้จัก บางชนเผื่อเชื่อว่าพวกมันจดจำและส่งต่อทุกสิ่งที่เคยประสบพบเจอทางพลังจิตไปยังลูกหลานของมัน ดังนั้นแต่ละตัวจึงมีความทรงจำย้อนหลังไปหลายพันปี</AlphaThrumbo.description>
+  <AlphaThrumbo.description>สิ่งมีชีวิตขนาดมหึมาที่สง่างามซึ่งไม่ทราบที่มา อัลฟ่าธรัมโบนั้นหายากและอันตรายยิ่งกว่าธรัมโบทั่วไป หนังของพวกมันแทบจะเป็นไปไม่ได้ที่จะเจาะทะลวงและเขาที่คมกริบของมันมีค่ามากกว่าน้ำหนักของทองคำเท่ากับตัวมัน\n\nอัลฟ่าธรัมโบเป็นหนึ่งในสิ่งมีชีวิตที่เคลื่อนไหวได้และมีอายุยืนยาวที่สุดในจักรวาลที่รู้จัก บางชนเผ่าเผื่อเชื่อว่าพวกมันจดจำและส่งต่อทุกสิ่งที่เคยประสบพบเจอทางพลังจิตไปยังลูกหลานของมัน ดังนั้นแต่ละตัวจึงมีความทรงจำย้อนหลังไปหลายพันปี</AlphaThrumbo.description>
   <!-- EN: horn -->
-  <AlphaThrumbo.tools.horn.label>TODO</AlphaThrumbo.tools.horn.label>
+  <AlphaThrumbo.tools.horn.label>เขา</AlphaThrumbo.tools.horn.label>
   <!-- EN: left foot -->
-  <AlphaThrumbo.tools.left_foot.label>TODO</AlphaThrumbo.tools.left_foot.label>
+  <AlphaThrumbo.tools.left_foot.label>เท้าซ้าย</AlphaThrumbo.tools.left_foot.label>
   <!-- EN: foot -->
-  <AlphaThrumbo.tools.left_foot.labelNoLocation>TODO</AlphaThrumbo.tools.left_foot.labelNoLocation>
+  <AlphaThrumbo.tools.left_foot.labelNoLocation>เท้า</AlphaThrumbo.tools.left_foot.labelNoLocation>
   <!-- EN: right foot -->
-  <AlphaThrumbo.tools.right_foot.label>TODO</AlphaThrumbo.tools.right_foot.label>
+  <AlphaThrumbo.tools.right_foot.label>เท้าขวา</AlphaThrumbo.tools.right_foot.label>
   <!-- EN: foot -->
-  <AlphaThrumbo.tools.right_foot.labelNoLocation>TODO</AlphaThrumbo.tools.right_foot.labelNoLocation>
+  <AlphaThrumbo.tools.right_foot.labelNoLocation>เท้า</AlphaThrumbo.tools.right_foot.labelNoLocation>
   <!-- EN: head -->
-  <AlphaThrumbo.tools.head.label>TODO</AlphaThrumbo.tools.head.label>
+  <AlphaThrumbo.tools.head.label>หัว</AlphaThrumbo.tools.head.label>
   
   <!-- EN: armadillo -->
   <Armadillo.label>อาร์มาดิลโล</Armadillo.label>
   <!-- EN: A small mammal with leathery armor all over its body. It is surprisingly quick for a creature with such stubby legs. -->
   <Armadillo.description>สัตว์เลี้ยงลูกด้วยนมขนาดเล็กที่มีเกราะหนังทั่วร่างกาย มันเร็วอย่างน่าประหลาดใจสำหรับสิ่งมีชีวิตที่มีขาสั้นเช่นนี้</Armadillo.description>
   <!-- EN: left claw -->
-  <Armadillo.tools.left_claw.label>TODO</Armadillo.tools.left_claw.label>
+  <Armadillo.tools.left_claw.label>กรงเล็บซ้าย</Armadillo.tools.left_claw.label>
   <!-- EN: claw -->
-  <Armadillo.tools.left_claw.labelNoLocation>TODO</Armadillo.tools.left_claw.labelNoLocation>
+  <Armadillo.tools.left_claw.labelNoLocation>กรงเล็บ</Armadillo.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Armadillo.tools.right_claw.label>TODO</Armadillo.tools.right_claw.label>
+  <Armadillo.tools.right_claw.label>กรงเล็บขวา</Armadillo.tools.right_claw.label>
   <!-- EN: claw -->
-  <Armadillo.tools.right_claw.labelNoLocation>TODO</Armadillo.tools.right_claw.labelNoLocation>
+  <Armadillo.tools.right_claw.labelNoLocation>กรงเล็บ</Armadillo.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Armadillo.tools.head.label>TODO</Armadillo.tools.head.label>
+  <Armadillo.tools.head.label>หัว</Armadillo.tools.head.label>
   
   <!-- EN: badger -->
   <Badger.label>แบดเจอร์</Badger.label>
   <!-- EN: A stocky omnivorous mammal. Badgers are surprisingly tough for their size. -->
   <Badger.description>สัตว์เลี้ยงลูกด้วยนมกินทั้งพืชและสัตว์ที่ตัวเตี้ยล่ำ แบดเจอร์แข็งแกร่งอย่างน่าประหลาดใจเมื่อเทียบกับขนาดตัวของมัน</Badger.description>
   <!-- EN: left claw -->
-  <Badger.tools.left_claw.label>TODO</Badger.tools.left_claw.label>
+  <Badger.tools.left_claw.label>กรงเล็บซ้าย</Badger.tools.left_claw.label>
   <!-- EN: claw -->
-  <Badger.tools.left_claw.labelNoLocation>TODO</Badger.tools.left_claw.labelNoLocation>
+  <Badger.tools.left_claw.labelNoLocation>กรงเล็บ</Badger.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Badger.tools.right_claw.label>TODO</Badger.tools.right_claw.label>
+  <Badger.tools.right_claw.label>กรงเล็บขวา</Badger.tools.right_claw.label>
   <!-- EN: claw -->
-  <Badger.tools.right_claw.labelNoLocation>TODO</Badger.tools.right_claw.labelNoLocation>
+  <Badger.tools.right_claw.labelNoLocation>กรงเล็บ</Badger.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Badger.tools.head.label>TODO</Badger.tools.head.label>
+  <Badger.tools.head.label>หัว</Badger.tools.head.label>
   
   <!-- EN: bog hound -->
-  <BogHound.label>สุนัขหนองน้ำ</BogHound.label>
+  <BogHound.label>หมาบึง</BogHound.label>
   <!-- EN: Descended from domesticated dogs, these canines have grown unaccustomed to human company. They're skilled scavengers, able to survive in extremely toxic environments. Bog hounds are harder to tame than their domesticated cousins, and much more dangerous. -->
-  <BogHound.description>สืบเชื้อสายมาจากสุนัขบ้าน สุนัขเหล่านี้ไม่คุ้นเคยกับการอยู่ร่วมกับมนุษย์ พวกมันเป็นนักเก็บกวาดฝีมือดี สามารถเอาชีวิตรอดในสภาพแวดล้อมที่เป็นพิษอย่างยิ่งได้ สุนัขหนองน้ำฝึกให้เชื่องได้ยากกว่าญาติที่เลี้ยงในบ้านและอันตรายกว่ามาก</BogHound.description>
+  <BogHound.description>สืบเชื้อสายมาจากหมาบ้าน พวกหมาเหล่านี้ไม่คุ้นเคยกับการอยู่ร่วมกับมนุษย์ พวกมันเป็นนักเก็บกวาดฝีมือดี สามารถเอาชีวิตรอดในสภาพแวดล้อมที่เป็นพิษอย่างยิ่งได้ หมาบึงฝึกให้เชื่องได้ยากกว่าญาติสายพันธ์ที่เลี้ยงในบ้านและอันตรายกว่ามาก</BogHound.description>
   <!-- EN: left claw -->
-  <BogHound.tools.left_claw.label>TODO</BogHound.tools.left_claw.label>
+  <BogHound.tools.left_claw.label>กรงเล็บซ้าย</BogHound.tools.left_claw.label>
   <!-- EN: claw -->
-  <BogHound.tools.left_claw.labelNoLocation>TODO</BogHound.tools.left_claw.labelNoLocation>
+  <BogHound.tools.left_claw.labelNoLocation>กรงเล็บ</BogHound.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <BogHound.tools.right_claw.label>TODO</BogHound.tools.right_claw.label>
+  <BogHound.tools.right_claw.label>กรงเล็บขวา</BogHound.tools.right_claw.label>
   <!-- EN: claw -->
-  <BogHound.tools.right_claw.labelNoLocation>TODO</BogHound.tools.right_claw.labelNoLocation>
+  <BogHound.tools.right_claw.labelNoLocation>กรงเล็บ</BogHound.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <BogHound.tools.head.label>TODO</BogHound.tools.head.label>
+  <BogHound.tools.head.label>หัว</BogHound.tools.head.label>
   
   <!-- EN: bullfrog -->
   <Bullfrog.label>กบกระทิง</Bullfrog.label>
   <!-- EN: A large frog known for its loud croak. Bullfrog legs are a delicacy on some planets. -->
-  <Bullfrog.description>กบขนาดใหญ่ที่ขึ้นชื่อเรื่องเสียงร้องดังลั่น ขากบกระทิงเป็นอาหารอันโอชะในบางดาวเคราะห์</Bullfrog.description>
+  <Bullfrog.description>กบขนาดใหญ่ที่ขึ้นชื่อเรื่องเสียงร้องดังลั่น ขาของกบกระทิงเป็นอาหารอันโอชะในดาวเคราะห์บางดวง</Bullfrog.description>
   <!-- EN: head -->
-  <Bullfrog.tools.head.label>TODO</Bullfrog.tools.head.label>
-  
-  <!-- EN: scimitar cat -->
-  <Cat_Scimitar.label>แมวดาบโค้ง</Cat_Scimitar.label>
-  <!-- EN: A bioengineered predator that resembles its long-extinct namesake. Originally bred to populate iceworld hunting reserves, these animals are now common pets among glitterworld socialites. Their ferocity should not be underestimated. -->
-  <Cat_Scimitar.description>นักล่าที่ดัดแปลงพันธุกรรมซึ่งมีลักษณะคล้ายกับชื่อที่สูญพันธุ์ไปนานแล้วของมัน เดิมทีเพาะพันธุ์เพื่อเติมเต็มเขตอนุรักษ์การล่าสัตว์ในโลกน้ำแข็ง ปัจจุบันสัตว์เหล่านี้เป็นสัตว์เลี้ยงทั่วไปในหมู่สังคมชั้นสูงของกลิตเตอร์เวิลด์ ไม่ควรประเมินความดุร้ายของพวกมันต่ำเกินไป</Cat_Scimitar.description>
-  <!-- EN: left claw -->
-  <Cat_Scimitar.tools.left_claw.label>TODO</Cat_Scimitar.tools.left_claw.label>
-  <!-- EN: claw -->
-  <Cat_Scimitar.tools.left_claw.labelNoLocation>TODO</Cat_Scimitar.tools.left_claw.labelNoLocation>
-  <!-- EN: right claw -->
-  <Cat_Scimitar.tools.right_claw.label>TODO</Cat_Scimitar.tools.right_claw.label>
-  <!-- EN: claw -->
-  <Cat_Scimitar.tools.right_claw.labelNoLocation>TODO</Cat_Scimitar.tools.right_claw.labelNoLocation>
-  <!-- EN: head -->
-  <Cat_Scimitar.tools.head.label>TODO</Cat_Scimitar.tools.head.label>
-  
-  <!-- EN: colossus toad -->
-  <ColossusToad.label>คางคกยักษ์</ColossusToad.label>
-  <!-- EN: A massive frog bioengineered for industrial farms. While safe to eat, its thick skin secretes an unpleasant slime. -->
-  <ColossusToad.description>กบขนาดมหึมาที่ดัดแปลงพันธุกรรมสำหรับฟาร์มอุตสาหกรรม แม้จะปลอดภัยที่จะกิน แต่ผิวหนังหนาของมันก็หลั่งเมือกที่ไม่พึงประสงค์ออกมา</ColossusToad.description>
-  <!-- EN: head -->
-  <ColossusToad.tools.head.label>TODO</ColossusToad.tools.head.label>
-  
-  <!-- EN: gorilla -->
-  <Gorilla.label>กอริลลา</Gorilla.label>
-  <!-- EN: A massive and intelligent great ape. While generally peaceful, gorillas are terrifying when enraged. -->
-  <Gorilla.description>ลิงใหญ่ขนาดมหึมาและฉลาด แม้โดยทั่วไปจะสงบสุข แต่กอริลลาก็น่าสะพรึงกลัวเมื่อโกรธ</Gorilla.description>
-  <!-- EN: left fist -->
-  <Gorilla.tools.left_fist.label>TODO</Gorilla.tools.left_fist.label>
-  <!-- EN: fist -->
-  <Gorilla.tools.left_fist.labelNoLocation>TODO</Gorilla.tools.left_fist.labelNoLocation>
-  <!-- EN: right fist -->
-  <Gorilla.tools.right_fist.label>TODO</Gorilla.tools.right_fist.label>
-  <!-- EN: fist -->
-  <Gorilla.tools.right_fist.labelNoLocation>TODO</Gorilla.tools.right_fist.labelNoLocation>
-  <!-- EN: head -->
-  <Gorilla.tools.head.label>TODO</Gorilla.tools.head.label>
-  
-  <!-- EN: hippo -->
-  <Hippo.label>ฮิปโป</Hippo.label>
-  <!-- EN: An enormous semi-aquatic mammal with short stocky legs. While it is a herbivore, it can attack with devastating force if provoked. Its powerful jaw can crush bone and armor. -->
-  <Hippo.description>สัตว์เลี้ยงลูกด้วยนมกึ่งน้ำขนาดมหึมามีขาเตี้ยล่ำ แม้จะเป็นสัตว์กินพืช แต่ก็สามารถโจมตีด้วยพลังทำลายล้างสูงหากถูกยั่วยุ ขากรรไกรอันทรงพลังของมันสามารถบดขยี้กระดูกและชุดเกราะได้</Hippo.description>
-  <!-- EN: head -->
-  <Hippo.tools.head.label>TODO</Hippo.tools.head.label>
-  
-  <!-- EN: lava snail -->
-  <LavaSnail.label>หอยทากลาวา</LavaSnail.label>
-  <!-- EN: A large slow-moving mollusk. Originating from the volcanic planet Nuchandus, lava snails were bred as farm animals. Their skin secretes a thick slime that protects them from extreme temperatures. -->
-  <LavaSnail.description>หอยขนาดใหญ่ที่เคลื่อนไหวช้า มีต้นกำเนิดจากดาวเคราะห์ภูเขาไฟนูแชนดัส หอยทากลาวาถูกเพาะพันธุ์เป็นสัตว์ในฟาร์ม ผิวหนังของพวกมันหลั่งเมือกหนาที่ป้องกันพวกมันจากอุณหภูมิที่สูงเกินไป</LavaSnail.description>
-  <!-- EN: head -->
-  <LavaSnail.tools.head.label>TODO</LavaSnail.tools.head.label>
-  
-  <!-- EN: mastodon -->
-  <Mastodon.label>มาสโตดอน</Mastodon.label>
-  <!-- EN: A massive elephant-like mammal. While briefly extinct, the mastodon now roams countless worlds due its resilience to bitter cold. Its thick hide makes excellent cold-weather clothing. However, hunting the animal is a dangerous proposition even for skilled hunters. -->
-  <Mastodon.description>สัตว์เลี้ยงลูกด้วยนมคล้ายช้างขนาดมหึมา แม้จะสูญพันธุ์ไปชั่วครู่ แต่ปัจจุบันมาสโตดอนท่องไปในโลกนับไม่ถ้วนเนื่องจากความทนทานต่อความหนาวเย็นจัด หนังหนาของมันทำเสื้อผ้าสำหรับอากาศหนาวได้ดีเยี่ยม อย่างไรก็ตาม การล่าสัตว์ชนิดนี้เป็นเรื่องอันตรายแม้สำหรับนักล่าที่มีทักษะ</Mastodon.description>
-  <!-- EN: tusk -->
-  <Mastodon.tools.tusk.label>TODO</Mastodon.tools.tusk.label>
-  <!-- EN: left foot -->
-  <Mastodon.tools.left_foot.label>TODO</Mastodon.tools.left_foot.label>
-  <!-- EN: foot -->
-  <Mastodon.tools.left_foot.labelNoLocation>TODO</Mastodon.tools.left_foot.labelNoLocation>
-  <!-- EN: right foot -->
-  <Mastodon.tools.right_foot.label>TODO</Mastodon.tools.right_foot.label>
-  <!-- EN: foot -->
-  <Mastodon.tools.right_foot.labelNoLocation>TODO</Mastodon.tools.right_foot.labelNoLocation>
-  <!-- EN: head -->
-  <Mastodon.tools.head.label>TODO</Mastodon.tools.head.label>
-  
-  <!-- EN: megavole -->
-  <Megavole.label>เมกาโวล</Megavole.label>
-  <!-- EN: A massive burrowing rodent, bred for its size and strength. It's almost completely blind but can be surprisingly aggressive when cornered. On some low-tech worlds, these creatures are trained to dig for valuable minerals. -->
-  <Megavole.description>สัตว์ฟันแทะขุดโพรงขนาดมหึมา เพาะพันธุ์เพื่อขนาดและความแข็งแกร่งของมัน มันตาบอดเกือบสนิท แต่สามารถก้าวร้าวอย่างน่าประหลาดใจเมื่อจนมุม ในโลกเทคโนโลยีต่ำบางแห่ง สิ่งมีชีวิตเหล่านี้ถูกฝึกให้ขุดหาแร่ธาตุที่มีค่า</Megavole.description>
-  <!-- EN: left claw -->
-  <Megavole.tools.left_claw.label>TODO</Megavole.tools.left_claw.label>
-  <!-- EN: claw -->
-  <Megavole.tools.left_claw.labelNoLocation>TODO</Megavole.tools.left_claw.labelNoLocation>
-  <!-- EN: right claw -->
-  <Megavole.tools.right_claw.label>TODO</Megavole.tools.right_claw.label>
-  <!-- EN: claw -->
-  <Megavole.tools.right_claw.labelNoLocation>TODO</Megavole.tools.right_claw.labelNoLocation>
-  <!-- EN: head -->
-  <Megavole.tools.head.label>TODO</Megavole.tools.head.label>
-  
-  <!-- EN: mink -->
-  <Mink.label>มิงค์</Mink.label>
-  <!-- EN: A small semi-aquatic mammal. The high value of its fur has resulted in mink being farmed on numerous planets. -->
-  <Mink.description>สัตว์เลี้ยงลูกด้วยนมกึ่งน้ำขนาดเล็ก มูลค่าสูงของขนส่งผลให้มีการทำฟาร์มมิงค์บนดาวเคราะห์หลายดวง</Mink.description>
-  <!-- EN: left claw -->
-  <Mink.tools.left_claw.label>TODO</Mink.tools.left_claw.label>
-  <!-- EN: claw -->
-  <Mink.tools.left_claw.labelNoLocation>TODO</Mink.tools.left_claw.labelNoLocation>
-  <!-- EN: right claw -->
-  <Mink.tools.right_claw.label>TODO</Mink.tools.right_claw.label>
-  <!-- EN: claw -->
-  <Mink.tools.right_claw.labelNoLocation>TODO</Mink.tools.right_claw.labelNoLocation>
-  <!-- EN: head -->
-  <Mink.tools.head.label>TODO</Mink.tools.head.label>
-  
-  <!-- EN: monitor lizard -->
-  <MonitorLizard.label>กิ้งก่ามอนิเตอร์</MonitorLizard.label>
-  <!-- EN: A large venomous lizard. They secrete toxins from venom glands in their lower jaw to neutralize their prey. -->
-  <MonitorLizard.description>กิ้งก่ามีพิษขนาดใหญ่ พวกมันหลั่งพิษจากต่อมพิษในขากรรไกรล่างเพื่อจัดการเหยื่อ</MonitorLizard.description>
-  <!-- EN: left claw -->
-  <MonitorLizard.tools.left_claw.label>TODO</MonitorLizard.tools.left_claw.label>
-  <!-- EN: claw -->
-  <MonitorLizard.tools.left_claw.labelNoLocation>TODO</MonitorLizard.tools.left_claw.labelNoLocation>
-  <!-- EN: right claw -->
-  <MonitorLizard.tools.right_claw.label>TODO</MonitorLizard.tools.right_claw.label>
-  <!-- EN: claw -->
-  <MonitorLizard.tools.right_claw.labelNoLocation>TODO</MonitorLizard.tools.right_claw.labelNoLocation>
-  <!-- EN: head -->
-  <MonitorLizard.tools.head.label>TODO</MonitorLizard.tools.head.label>
-  
-  <!-- EN: moose -->
-  <Moose.label>กวางมูส</Moose.label>
-  <!-- EN: One of the largest members of the deer family, adapted to extremely cold climates. Its long legs allow it to travel easily through deep snow. -->
-  <Moose.description>หนึ่งในสมาชิกที่ใหญ่ที่สุดของตระกูลกวาง ปรับตัวให้เข้ากับสภาพอากาศที่หนาวจัด ขาที่ยาวของมันช่วยให้เดินทางผ่านหิมะลึกได้อย่างง่ายดาย</Moose.description>
-  <!-- EN: left hoof -->
-  <Moose.tools.left_hoof.label>TODO</Moose.tools.left_hoof.label>
-  <!-- EN: hoof -->
-  <Moose.tools.left_hoof.labelNoLocation>TODO</Moose.tools.left_hoof.labelNoLocation>
-  <!-- EN: right hoof -->
-  <Moose.tools.right_hoof.label>TODO</Moose.tools.right_hoof.label>
-  <!-- EN: hoof -->
-  <Moose.tools.right_hoof.labelNoLocation>TODO</Moose.tools.right_hoof.labelNoLocation>
-  <!-- EN: head -->
-  <Moose.tools.head.label>TODO</Moose.tools.head.label>
-  
-  <!-- EN: muskox -->
-  <Muskox.label>วัวมัสก์</Muskox.label>
-  <!-- EN: A shaggy hoofed mammal found in colder climates. Muskox wool is known for being scratchy, but offers good protection against the cold. -->
-  <Muskox.description>สัตว์เลี้ยงลูกด้วยนมมีกีบขนดกที่พบในสภาพอากาศที่หนาวเย็น ขนวัวมัสก์ขึ้นชื่อเรื่องความหยาบแต่ให้การป้องกันความหนาวเย็นได้ดี</Muskox.description>
-  <!-- EN: left hoof -->
-  <Muskox.tools.left_hoof.label>TODO</Muskox.tools.left_hoof.label>
-  <!-- EN: hoof -->
-  <Muskox.tools.left_hoof.labelNoLocation>TODO</Muskox.tools.left_hoof.labelNoLocation>
-  <!-- EN: right hoof -->
-  <Muskox.tools.right_hoof.label>TODO</Muskox.tools.right_hoof.label>
-  <!-- EN: hoof -->
-  <Muskox.tools.right_hoof.labelNoLocation>TODO</Muskox.tools.right_hoof.labelNoLocation>
-  <!-- EN: head -->
-  <Muskox.tools.head.label>TODO</Muskox.tools.head.label>
-  
-  <!-- EN: panda -->
-  <Panda.label>แพนด้า</Panda.label>
-  <!-- EN: A slow lumbering herbivore. Pandas are admired by many for their clumsy charm, making them common pets on urbworlds. On the rim, pandas are rarely seen outside of captivity. -->
-  <Panda.description>สัตว์กินพืชที่อุ้ยอ้ายเชื่องช้า แพนด้าเป็นที่ชื่นชมของหลายคนในเรื่องเสน่ห์ความซุ่มซ่าม ทำให้เป็นสัตว์เลี้ยงทั่วไปในโลกเมือง ในดินแดนริมขอบ แพนด้าแทบไม่เคยพบเห็นนอกจากการกักขัง</Panda.description>
-  <!-- EN: left claw -->
-  <Panda.tools.left_claw.label>TODO</Panda.tools.left_claw.label>
-  <!-- EN: claw -->
-  <Panda.tools.left_claw.labelNoLocation>TODO</Panda.tools.left_claw.labelNoLocation>
-  <!-- EN: right claw -->
-  <Panda.tools.right_claw.label>TODO</Panda.tools.right_claw.label>
-  <!-- EN: claw -->
-  <Panda.tools.right_claw.labelNoLocation>TODO</Panda.tools.right_claw.labelNoLocation>
-  <!-- EN: head -->
-  <Panda.tools.head.label>TODO</Panda.tools.head.label>
-  
-  <!-- EN: porcupine -->
-  <Porcupine.label>เม่น</Porcupine.label>
-  <!-- EN: A large rodent. While slow moving, it has a cloak of sharp quills which protect it from predators. -->
-  <Porcupine.description>สัตว์ฟันแทะขนาดใหญ่ แม้จะเคลื่อนไหวช้า แต่ก็มีขนแหลมคมที่ปกป้องมันจากผู้ล่า</Porcupine.description>
-  <!-- EN: left claw -->
-  <Porcupine.tools.left_claw.label>TODO</Porcupine.tools.left_claw.label>
-  <!-- EN: claw -->
-  <Porcupine.tools.left_claw.labelNoLocation>TODO</Porcupine.tools.left_claw.labelNoLocation>
-  <!-- EN: right claw -->
-  <Porcupine.tools.right_claw.label>TODO</Porcupine.tools.right_claw.label>
-  <!-- EN: claw -->
-  <Porcupine.tools.right_claw.labelNoLocation>TODO</Porcupine.tools.right_claw.labelNoLocation>
-  <!-- EN: head -->
-  <Porcupine.tools.head.label>TODO</Porcupine.tools.head.label>
-  
-  <!-- EN: prairie dog -->
-  <PrairieDog.label>แพรรีด็อก</PrairieDog.label>
-  <!-- EN: A burrowing rodent with a short tail and sharp claws used for digging. They are social animals, often living in large colonies. -->
-  <PrairieDog.description>สัตว์ฟันแทะที่ขุดโพรง มีหางสั้นและกรงเล็บแหลมคมใช้สำหรับขุด พวกมันเป็นสัตว์สังคม มักอาศัยอยู่เป็นฝูงใหญ่</PrairieDog.description>
-  <!-- EN: left claw -->
-  <PrairieDog.tools.left_claw.label>TODO</PrairieDog.tools.left_claw.label>
-  <!-- EN: claw -->
-  <PrairieDog.tools.left_claw.labelNoLocation>TODO</PrairieDog.tools.left_claw.labelNoLocation>
-  <!-- EN: right claw -->
-  <PrairieDog.tools.right_claw.label>TODO</PrairieDog.tools.right_claw.label>
-  <!-- EN: claw -->
-  <PrairieDog.tools.right_claw.labelNoLocation>TODO</PrairieDog.tools.right_claw.labelNoLocation>
-  <!-- EN: head -->
-  <PrairieDog.tools.head.label>TODO</PrairieDog.tools.head.label>
-  
-  <!-- EN: tiger -->
-  <Tiger.label>เสือ</Tiger.label>
-  <!-- EN: A solitary and dangerous apex predator. Tigers make quick work of their prey, using a mix of stealth and razor-sharp claws. -->
-  <Tiger.description>นักล่าที่สันโดษและอันตราย เสือจัดการกับเหยื่อได้อย่างรวดเร็วโดยใช้การลอบเร้นและกรงเล็บที่คมกริบผสมผสานกัน</Tiger.description>
-  <!-- EN: left claw -->
-  <Tiger.tools.left_claw.label>TODO</Tiger.tools.left_claw.label>
-  <!-- EN: claw -->
-  <Tiger.tools.left_claw.labelNoLocation>TODO</Tiger.tools.left_claw.labelNoLocation>
-  <!-- EN: right claw -->
-  <Tiger.tools.right_claw.label>TODO</Tiger.tools.right_claw.label>
-  <!-- EN: claw -->
-  <Tiger.tools.right_claw.labelNoLocation>TODO</Tiger.tools.right_claw.labelNoLocation>
-  <!-- EN: head -->
-  <Tiger.tools.head.label>TODO</Tiger.tools.head.label>
-  
-  <!-- EN: greatwolf -->
-  <Wolf_Great.label>หมาป่าใหญ่</Wolf_Great.label>
-  <!-- EN: A genetically engineered canine modeled on long-extinct dire wolves. These fearsome predators were created as pets for the glitterworld elite. Wild greatwolves now populate many planets, due to their tendency to escape confinement. -->
-  <Wolf_Great.description>สุนัขดัดแปลงพันธุกรรมที่จำลองมาจากหมาป่าไดร์วูล์ฟที่สูญพันธุ์ไปนานแล้ว นักล่าที่น่าเกรงขามเหล่านี้ถูกสร้างขึ้นเพื่อเป็นสัตว์เลี้ยงสำหรับชนชั้นสูงของกลิตเตอร์เวิลด์ ปัจจุบันหมาป่าใหญ่ป่าอาศัยอยู่บนดาวเคราะห์หลายดวงเนื่องจากแนวโน้มที่จะหลบหนีจากการกักขัง</Wolf_Great.description>
-  <!-- EN: greatwolf meat -->
-  <Wolf_Great.race.meatLabel>TODO</Wolf_Great.race.meatLabel>
-  <!-- EN: left claw -->
-  <Wolf_Great.tools.left_claw.label>TODO</Wolf_Great.tools.left_claw.label>
-  <!-- EN: claw -->
-  <Wolf_Great.tools.left_claw.labelNoLocation>TODO</Wolf_Great.tools.left_claw.labelNoLocation>
-  <!-- EN: right claw -->
-  <Wolf_Great.tools.right_claw.label>TODO</Wolf_Great.tools.right_claw.label>
-  <!-- EN: claw -->
-  <Wolf_Great.tools.right_claw.labelNoLocation>TODO</Wolf_Great.tools.right_claw.labelNoLocation>
-  <!-- EN: head -->
-  <Wolf_Great.tools.head.label>TODO</Wolf_Great.tools.head.label>
-  
-  <!-- EN: wolverine -->
-  <Wolverine.label>วูล์ฟเวอรีน</Wolverine.label>
-  <!-- EN: A small but ferocious predator. Wolverines are solitary animals that prefer to eat carrion but can kill animals many times their size if needed. -->
-  <Wolverine.description>นักล่าขนาดเล็กแต่ดุร้าย วูล์ฟเวอรีนเป็นสัตว์สันโดษที่ชอบกินซากสัตว์ แต่สามารถฆ่าสัตว์ที่มีขนาดใหญ่กว่าตัวมันหลายเท่าได้หากจำเป็น</Wolverine.description>
-  <!-- EN: left claw -->
-  <Wolverine.tools.left_claw.label>TODO</Wolverine.tools.left_claw.label>
-  <!-- EN: claw -->
-  <Wolverine.tools.left_claw.labelNoLocation>TODO</Wolverine.tools.left_claw.labelNoLocation>
-  <!-- EN: right claw -->
-  <Wolverine.tools.right_claw.label>TODO</Wolverine.tools.right_claw.label>
-  <!-- EN: claw -->
-  <Wolverine.tools.right_claw.labelNoLocation>TODO</Wolverine.tools.right_claw.labelNoLocation>
-  <!-- EN: head -->
-  <Wolverine.tools.head.label>TODO</Wolverine.tools.head.label>
+  <Bullfrog.tools.head.label>หัว</Bullfrog.tools.head.label>
   
 </LanguageData>

@@ -6,24 +6,24 @@
   <!-- EN: An alpha thrumbo's horn. It's razor-sharp and priceless in most markets. This is a true trophy, as well as a deadly melee weapon.\n\nThe alpha horn is much lighter than a normal thrumbo horn, making it much faster to wield. -->
   <AlphaThrumboHorn.description>เขาของอัลฟ่าธรัมโบ มันคมกริบและประเมินค่าไม่ได้ในตลาดส่วนใหญ่ นี่คือถ้วยรางวัลที่แท้จริง เช่นเดียวกับอาวุธระยะประชิดที่อันตราย\n\nเขาอัลฟ่าเบากว่าเขาธรัมโบปกติมาก ทำให้ถือได้เร็วกว่ามาก</AlphaThrumboHorn.description>
   <!-- EN: point -->
-  <AlphaThrumboHorn.tools.point.label>TODO</AlphaThrumboHorn.tools.point.label>
+  <AlphaThrumboHorn.tools.point.label>ปลาย</AlphaThrumboHorn.tools.point.label>
   <!-- EN: base -->
-  <AlphaThrumboHorn.tools.base.label>TODO</AlphaThrumboHorn.tools.base.label>
+  <AlphaThrumboHorn.tools.base.label>ด้าม</AlphaThrumboHorn.tools.base.label>
   
   <!-- EN: mastodon tusk -->
   <MastodonTusk.label>งามาสโตดอน</MastodonTusk.label>
   <!-- EN: A mastodon's tusk. Traders pay handsomely for samples like this. While somewhat unwieldy as a melee weapon, it still hits quite hard. -->
   <MastodonTusk.description>งาของมาสโตดอน พ่อค้าจ่ายเงินอย่างงามสำหรับตัวอย่างเช่นนี้ แม้จะค่อนข้างเกะกะเมื่อใช้เป็นอาวุธระยะประชิด แต่ก็ยังโจมตีได้ค่อนข้างแรง</MastodonTusk.description>
   <!-- EN: point -->
-  <MastodonTusk.tools.point.label>TODO</MastodonTusk.tools.point.label>
+  <MastodonTusk.tools.point.label>ปลาย</MastodonTusk.tools.point.label>
   <!-- EN: base -->
-  <MastodonTusk.tools.base.label>TODO</MastodonTusk.tools.base.label>
+  <MastodonTusk.tools.base.label>ด้าม</MastodonTusk.tools.base.label>
   
   <!-- EN: sentience catalyst -->
   <SentienceCatalyst.label>ตัวกระตุ้นการรับรู้</SentienceCatalyst.label>
   <!-- EN: A single-use dose of mechanites used to enhance neural pathways in animals, permanently increasing their trainability and reducing their wildness.\n\nThe effect does not stack. -->
-  <SentienceCatalyst.description>เมคาไนต์ขนาดใช้ครั้งเดียวที่ใช้เพื่อเพิ่มประสิทธิภาพเส้นทางประสาทในสัตว์ เพิ่มความสามารถในการฝึกฝนและลดความป่าเถื่อนอย่างถาวร\n\nผลกระทบไม่ซ้อนทับกัน</SentienceCatalyst.description>
+  <SentienceCatalyst.description>เมคคาไนต์ขนาดใช้ครั้งเดียวที่ใช้เพื่อเพิ่มประสิทธิภาพเส้นทางประสาทในสัตว์ เพิ่มความสามารถในการฝึกฝนและลดความป่าเถื่อนอย่างถาวร\n\nผลกระทบไม่ซ้อนทับกัน</SentienceCatalyst.description>
   <!-- EN: Use {0_label} -->
-  <SentienceCatalyst.comps.CompUsable.useLabel>TODO</SentienceCatalyst.comps.CompUsable.useLabel>
+  <SentienceCatalyst.comps.CompUsable.useLabel>ใช้ {0_label}</SentienceCatalyst.comps.CompUsable.useLabel>
   
 </LanguageData>

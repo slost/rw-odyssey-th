@@ -260,7 +260,7 @@
   <!-- EN: Postpone -->
   <CerebrexCoreOption_Postpone>เลื่อนไปก่อน</CerebrexCoreOption_Postpone>
   <!-- EN: Stabilizers remaining -->
-  <StabilizersRemaining>เครื่องรักษาสมดุลที่เหลืออยู่</StabilizersRemaining>
+  <StabilizersRemaining>เครื่องรักษาเสถียรภาพที่เหลืออยู่</StabilizersRemaining>
   <!-- EN: Gestating mechanoids. -->
   <ProducingMechanoids>กำลังผลิตเมคคานอยด์</ProducingMechanoids>
 
@@ -270,7 +270,7 @@
   <OdysseyScavengedCredits>{PAWN_nameDef} เริ่มขุดดึงโหนดประมวลผลที่ฝังอยู่ในแกนออกมา โครงสร้างตาข่ายบิดเกร็งราวกับเจ็บปวด และเมื่อ {PAWN_nameDef} ดึงโหนดออกมา ตาข่ายก็เริ่มซ่อมแซมตัวเอง ตัวแกนสร้างระบบป้องกันขึ้นใหม่และปิดลง\n\nเมื่อพลิกโหนดดู {PAWN_nameDef} ก็ผงะถอยเมื่อมันเริ่มส่งประกายชีพจรและสั่นสะเทือนไปพร้อมกับตัวแกน ในมือของ{PAWN_possessive} {PAWN_nameDef} ถืออาวุธที่มีพลังอำนาจเหนือคำบรรยาย\n\nเรื่องราวยังดำเนินต่อไป...</OdysseyScavengedCredits>
 
   <!-- EN: {0} stabilizers remaining -->
-  <CoreNotInteractableStabilizersRemaining>{0} เครื่องรักษาสมดุลที่เหลืออยู่</CoreNotInteractableStabilizersRemaining>
+  <CoreNotInteractableStabilizersRemaining>{0} เครื่องรักษาเสถียรภาพที่เหลืออยู่</CoreNotInteractableStabilizersRemaining>
   <!-- EN: Deactivated -->
   <CoreNotInteractableDeactivated>ปิดใช้งานแล้ว</CoreNotInteractableDeactivated>
 

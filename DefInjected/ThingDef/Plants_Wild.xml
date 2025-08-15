@@ -7,19 +7,19 @@
   <Boomshroom.description>เห็ดเหล่านี้ผลิตสารเคมีที่ระเหยง่ายเพื่อเป็นมาตรการป้องกันตัว สามารถเก็บเกี่ยวเป็นเชื้อเพลิงเคมีได้ อย่างไรก็ตาม ต้องทำด้วยความระมัดระวังอย่างยิ่ง เนื่องจากเห็ดสามารถระเบิดได้หากถูกทำลาย\n\nนักวิจัยกลิตเตอร์เวิลด์ได้ใช้วัสดุทางพันธุกรรมจากบูมชรูมเพื่อดัดแปลงพันธุกรรมสัตว์ที่ผลิตเชื้อเพลิงเคมีได้หลายชนิด</Boomshroom.description>
   
   <!-- EN: berry bush -->
-  <Plant_Berry_Leafless.label>TODO</Plant_Berry_Leafless.label>
+  <Plant_Berry_Leafless.label>พุ่มเบอร์รี</Plant_Berry_Leafless.label>
   <!-- EN: A bushy wild plant which yields delicious berries. Berries can be cooked, but they're also good to eat even when raw. -->
-  <Plant_Berry_Leafless.description>TODO</Plant_Berry_Leafless.description>
+  <Plant_Berry_Leafless.description>พืชป่าเป็นพวงที่ให้ผลเบอร์รี่แสนอร่อย เบอร์รี่สามารถนำไปทำอาหารได้ แต่การกินแบบดิบๆ ก็ก็ดีเหมือนกัน</Plant_Berry_Leafless.description>
   
   <!-- EN: brambles -->
-  <Plant_Brambles_Leafless.label>TODO</Plant_Brambles_Leafless.label>
+  <Plant_Brambles_Leafless.label>พุ่มหนาม</Plant_Brambles_Leafless.label>
   <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
-  <Plant_Brambles_Leafless.description>TODO</Plant_Brambles_Leafless.description>
+  <Plant_Brambles_Leafless.description>กิ่งก้านไม้ที่ยุ่งเหยิงและมีหนาม ปกคลุมด้วยใบ พุ่มหนามเติบโตเป็นกระจุก และชะลอความเร็วของใครก็ตามที่เคลื่อนที่ผ่านพวกมัน</Plant_Brambles_Leafless.description>
   
   <!-- EN: bush -->
-  <Plant_Bush_Leafless.label>TODO</Plant_Bush_Leafless.label>
+  <Plant_Bush_Leafless.label>พุ่มไม้</Plant_Bush_Leafless.label>
   <!-- EN: A short shrub. Does not typically talk. -->
-  <Plant_Bush_Leafless.description>TODO</Plant_Bush_Leafless.description>
+  <Plant_Bush_Leafless.description>พุ่มไม้เตี้ย ไม่ค่อยพูดคุยตามปกติ</Plant_Bush_Leafless.description>
   
   <!-- EN: fireweed -->
   <Plant_Fireweed.label>ไฟร์วีด</Plant_Fireweed.label>

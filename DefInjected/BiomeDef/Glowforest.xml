@@ -6,6 +6,6 @@
   <!-- EN: Geysers spew out massive sulfur clouds that cast the region into permanent darkness. Huge fungal colonies bloom in the dark, fed by the nutrients that the geysers bring to the surface. These areas are alluring and dangerous. -->
   <Glowforest.description>น้ำพุร้อนไอน้ำพ่นเมฆกำมะถันขนาดใหญ่ออกมาซึ่งทำให้ภูมิภาคนี้ตกอยู่ในความมืดมิดถาวร อาณานิคมเชื้อราขนาดใหญ่เบ่งบานในความมืด โดยได้รับสารอาหารที่น้ำพุร้อนไอน้ำนำขึ้นมาสู่พื้นผิว พื้นที่เหล่านี้มีเสน่ห์ดึงดูดและอันตราย</Glowforest.description>
   <!-- EN: Large sulfur spouts permanently darken the skies in glowforests, making it hard to grow most crops. -->
-  <Glowforest.settleWarning>TODO</Glowforest.settleWarning>
+  <Glowforest.settleWarning>น้ำพุร้อนกำมะถันขนาดใหญ่ทำให้ท้องฟ้าในป่าเรืองแสงมืดมิดถาวร ทำให้การปลูกพืชส่วนใหญ่เป็นเรื่องยาก</Glowforest.settleWarning>
   
 </LanguageData>

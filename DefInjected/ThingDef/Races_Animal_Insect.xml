@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: hive queen -->
-  <HiveQueen.label>ราชินี</HiveQueen.label>
+  <HiveQueen.label>ไฮฟ์ควีน</HiveQueen.label>
   <!-- EN: The birth mother of an insect megahive. Under suitable conditions, several distinct insect hives will merge together and produce a hive queen. The queen quickly grows in size, becoming trapped in her own burrow. -->
   <HiveQueen.description>แม่ผู้ให้กำเนิดรังแมลงขนาดมหึมา ภายใต้สภาวะที่เหมาะสม รังแมลงที่แตกต่างกันหลายรังจะรวมตัวกันและผลิตราชินีรัง ราชินีจะเติบโตอย่างรวดเร็วและติดอยู่ในโพรงของตัวเอง</HiveQueen.description>
   <!-- EN: Hive queen -->
-  <HiveQueen.comps.CompLetterOnRevealed.label>TODO</HiveQueen.comps.CompLetterOnRevealed.label>
+  <HiveQueen.comps.CompLetterOnRevealed.label>ไฮฟ์ควีน</HiveQueen.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered the center of the nest. It's guarded by a massive insect queen! -->
-  <HiveQueen.comps.CompLetterOnRevealed.text>TODO</HiveQueen.comps.CompLetterOnRevealed.text>
+  <HiveQueen.comps.CompLetterOnRevealed.text>คุณได้ค้นพบศูนย์กลางของรัง มันได้รับการอารักขาโดยราชินีแมลงขนาดใหญ่!</HiveQueen.comps.CompLetterOnRevealed.text>
   <!-- EN: head claw -->
-  <HiveQueen.tools.head_claw.label>TODO</HiveQueen.tools.head_claw.label>
+  <HiveQueen.tools.head_claw.label>กรงเล็บหัว</HiveQueen.tools.head_claw.label>
   <!-- EN: head -->
-  <HiveQueen.tools.head.label>TODO</HiveQueen.tools.head.label>
+  <HiveQueen.tools.head.label>หัว</HiveQueen.tools.head.label>
   
   <!-- EN: larva -->
   <Larva.label>ตัวอ่อน</Larva.label>
   <!-- EN: The juvenile form of larger bioengineered insects. Larva maintain and expand hives using an acidic secretion. If provoked, they defend themselves by spewing sludge. -->
   <Larva.description>ร่างตัวอ่อนของแมลงดัดแปลงพันธุกรรมขนาดใหญ่ ตัวอ่อนจะดูแลและขยายรังโดยใช้สารคัดหลั่งที่เป็นกรด หากถูกยั่วยุ พวกมันจะป้องกันตัวเองด้วยการพ่นเมือก</Larva.description>
   <!-- EN: mandibles -->
-  <Larva.tools.mandibles.label>TODO</Larva.tools.mandibles.label>
+  <Larva.tools.mandibles.label>ขากรรไกรล่าง</Larva.tools.mandibles.label>
   <!-- EN: head -->
-  <Larva.tools.head.label>TODO</Larva.tools.head.label>
+  <Larva.tools.head.label>หัว</Larva.tools.head.label>
   
   <!-- EN: locust -->
   <Locust.label>ตั๊กแตน</Locust.label>
   <!-- EN: A bioengineered insect capable of flying short distances. Specialized chemical receptors allow locusts to effectively forage for food. While relatively weak on their own, swarms of locusts can be deadly. -->
   <Locust.description>แมลงดัดแปลงพันธุกรรมที่สามารถบินได้ในระยะทางสั้นๆ ตัวรับสารเคมีพิเศษช่วยให้ตั๊กแตนหาอาหารได้อย่างมีประสิทธิภาพ แม้จะค่อนข้างอ่อนแอเมื่ออยู่ตามลำพัง แต่ฝูงตั๊กแตนอาจเป็นอันตรายถึงชีวิตได้</Locust.description>
   <!-- EN: mandibles -->
-  <Locust.tools.mandibles.label>TODO</Locust.tools.mandibles.label>
+  <Locust.tools.mandibles.label>ขากรรไกรล่าง</Locust.tools.mandibles.label>
   <!-- EN: head -->
-  <Locust.tools.head.label>TODO</Locust.tools.head.label>
+  <Locust.tools.head.label>หัว</Locust.tools.head.label>
   
 </LanguageData>

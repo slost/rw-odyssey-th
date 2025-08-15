@@ -12,7 +12,7 @@
   <EggAlligatorUnfertilized.description>ไข่แอลลิเกเตอร์ที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggAlligatorUnfertilized.description>
   
   <!-- EN: bluebird egg (fert.) -->
-  <EggBluebirdFertilized.label>ไข่นกบลูเบิร์ด (ไม่ปฏิสนธิ)</EggBluebirdFertilized.label>
+  <EggBluebirdFertilized.label>ไข่นกบลูเบิร์ด (ปฏิสนธิ)</EggBluebirdFertilized.label>
   <!-- EN: A fertilized bluebird egg. If all goes well, it should hatch into a baby bluebird. It can be eaten raw, but it's much better cooked. -->
   <EggBluebirdFertilized.description>ไข่นกบลูเบิร์ดที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกนกบลูเบิร์ด สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggBluebirdFertilized.description>
   

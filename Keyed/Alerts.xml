@@ -17,15 +17,15 @@
 
   <!-- Mechhive -->
   <!-- EN: Stabilizers remaining -->
-  <StabilizersRemainingAlertLabel>เครื่องรักษาสมดุลที่เหลืออยู่</StabilizersRemainingAlertLabel>
+  <StabilizersRemainingAlertLabel>เครื่องรักษาเสถียรภาพที่เหลืออยู่</StabilizersRemainingAlertLabel>
   <!-- EN: The cerebrex core is currently invulnerable. Find and destroy its stabilizers to gain access to the core. -->
-  <StabilizersRemainingAlertDescription>แกนซีลีเบร็กซ์ยังไม่สามารถทำลายได้ในขณะนี้ ค้นหาและทำลายเครื่องรักษาสมดุลของมันเพื่อเข้าถึงแกนหลัก</StabilizersRemainingAlertDescription>
+  <StabilizersRemainingAlertDescription>แกนซีลีเบร็กซ์ยังไม่สามารถทำลายได้ในขณะนี้ ค้นหาและทำลายเครื่องรักษาเสถียรภาพของมันเพื่อเข้าถึงแกนหลัก</StabilizersRemainingAlertDescription>
 
   <!-- Relay -->
   <!-- EN: Stabilizers remaining -->
-  <RelayStabilizersRemainingAlertLabel>เครื่องรักษาสมดุลที่เหลืออยู่</RelayStabilizersRemainingAlertLabel>
+  <RelayStabilizersRemainingAlertLabel>เครื่องรักษาเสถียรภาพที่เหลืออยู่</RelayStabilizersRemainingAlertLabel>
   <!-- EN: The relay is currently protected by nearby stabilizers. Destroy or hack them to destabilize it. -->
-  <RelayStabilizersRemainingAlertDescription>รีเลย์ถูกป้องกันโดยเครื่องรักษาสมดุลที่อยู่ใกล้เคียง ทำลายหรือแฮ็คพวกมันเพื่อทำให้ระบบรีเลย์ไม่เสถียร</RelayStabilizersRemainingAlertDescription>
+  <RelayStabilizersRemainingAlertDescription>รีเลย์ถูกป้องกันโดยเครื่องรักษาเสถียรภาพที่อยู่ใกล้เคียง ทำลายหรือแฮ็คพวกมันเพื่อทำให้ระบบรีเลย์ไม่เสถียร</RelayStabilizersRemainingAlertDescription>
 
   <!-- Scanner -->
   <!-- EN: Protect the scanner -->

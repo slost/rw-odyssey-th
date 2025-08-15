@@ -12,11 +12,11 @@
   <!-- EN: copilot's piloting ability -->
   <GravshipLaunch.comps.1.labelAbstract>TODO</GravshipLaunch.comps.1.labelAbstract>
   <!-- EN: crew count -->
-  <GravshipLaunch.comps.2.label>TODO</GravshipLaunch.comps.2.label>
+  <GravshipLaunch.comps.2.label>จำนวนลูกเรือ</GravshipLaunch.comps.2.label>
   <!-- EN: small thrusters -->
-  <GravshipLaunch.comps.3.label>TODO</GravshipLaunch.comps.3.label>
+  <GravshipLaunch.comps.3.label>ท่อขับดันเล็ก</GravshipLaunch.comps.3.label>
   <!-- EN: large thrusters -->
-  <GravshipLaunch.comps.4.label>TODO</GravshipLaunch.comps.4.label>
+  <GravshipLaunch.comps.4.label>ท่อขับดันใหญ่</GravshipLaunch.comps.4.label>
   <!-- EN: pilot subpersona core -->
   <GravshipLaunch.comps.5.label>TODO</GravshipLaunch.comps.5.label>
   <!-- EN: At the current quality, the gravship won't be able to launch again for {0_time} after landing. -->
