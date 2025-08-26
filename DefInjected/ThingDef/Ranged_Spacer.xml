@@ -12,17 +12,17 @@
   <!-- EN: An ultratech weapon that emits gamma ray laser bursts in a rapid sequence. The tight gamma beams can pierce shields. -->
   <Gun_BeamRepeater.description>อาวุธอัลตร้าเทคที่ปล่อยลำแสงเลเซอร์รังสีแกมมาออกมาเป็นชุดอย่างรวดเร็ว ลำแสงแกมมาที่เข้มข้นสามารถทะลุทะลวงโล่ได้</Gun_BeamRepeater.description>
   <!-- EN: barrels -->
-  <Gun_BeamRepeater.tools.barrels.label>TODO</Gun_BeamRepeater.tools.barrels.label>
+  <Gun_BeamRepeater.tools.barrels.label>ลำกล้อง</Gun_BeamRepeater.tools.barrels.label>
   <!-- EN: beam repeater -->
-  <Gun_BeamRepeater.verbs.Verb_Shoot.label>TODO</Gun_BeamRepeater.verbs.Verb_Shoot.label>
+  <Gun_BeamRepeater.verbs.Verb_Shoot.label>ปืนยิงลำแสงรัว</Gun_BeamRepeater.verbs.Verb_Shoot.label>
   
   <!-- EN: scattergun -->
   <Gun_Scattergun.label>ปืนสแคตเตอร์</Gun_Scattergun.label>
   <!-- EN: A compact short-range shotgun designed to be mounted on a sentry drone. -->
   <Gun_Scattergun.description>ปืนลูกซองขนาดกะทัดรัดระยะสั้นที่ออกแบบมาเพื่อติดตั้งบนโดรนรักษาการณ์</Gun_Scattergun.description>
   <!-- EN: barrel -->
-  <Gun_Scattergun.tools.barrel.label>TODO</Gun_Scattergun.tools.barrel.label>
+  <Gun_Scattergun.tools.barrel.label>ลำกล้อง</Gun_Scattergun.tools.barrel.label>
   <!-- EN: scattergun -->
-  <Gun_Scattergun.verbs.Verb_Shoot.label>TODO</Gun_Scattergun.verbs.Verb_Shoot.label>
+  <Gun_Scattergun.verbs.Verb_Shoot.label>ปืนสแคตเตอร์</Gun_Scattergun.verbs.Verb_Shoot.label>
   
 </LanguageData>
