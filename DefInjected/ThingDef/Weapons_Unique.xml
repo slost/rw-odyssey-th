@@ -6,103 +6,103 @@
   <!-- EN: A greatbow with customized parts. -->
   <Bow_Great_Unique.description>ธนูใหญ่พร้อมชิ้นส่วนที่ปรับแต่งเอง</Bow_Great_Unique.description>
   <!-- EN: charge -->
-  <Bow_Great_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Bow_Great_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Bow_Great_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Bow_Great_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Bow_Great_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Bow_Great_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Bow_Great_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Bow_Great_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: greatbow -->
-  <Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.0>ธนู</Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: bow -->
-  <Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.1>ธนู</Bow_Great_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: limb -->
-  <Bow_Great_Unique.tools.limb.label>TODO</Bow_Great_Unique.tools.limb.label>
+  <Bow_Great_Unique.tools.limb.label>ปีกธนู</Bow_Great_Unique.tools.limb.label>
   <!-- EN: unique greatbow -->
-  <Bow_Great_Unique.verbs.Verb_Shoot.label>TODO</Bow_Great_Unique.verbs.Verb_Shoot.label>
+  <Bow_Great_Unique.verbs.Verb_Shoot.label>ธนูใหญ่พิเศษ</Bow_Great_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique assault rifle -->
   <Gun_AssaultRifle_Unique.label>ปืนไรเฟิลจู่โจมพิเศษ</Gun_AssaultRifle_Unique.label>
   <!-- EN: An assault rifle with customized parts. -->
   <Gun_AssaultRifle_Unique.description>ปืนไรเฟิลจู่โจมพร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_AssaultRifle_Unique.description>
   <!-- EN: charge -->
-  <Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_AssaultRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: assault rifle -->
-  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>ปืนไรเฟิลจู่โจม</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: carbine -->
-  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>ปืนคาร์ไบน์</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: battle rifle -->
-  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>ปืนไรเฟิลรบ</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: war rifle -->
-  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>TODO</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>ปืนไรเฟิลสงคราม</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
   <!-- EN: wargun -->
-  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>TODO</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>ปืนสงคราม</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
   <!-- EN: fusil -->
-  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>TODO</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>ปืนยาว</Gun_AssaultRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
   <!-- EN: stock -->
-  <Gun_AssaultRifle_Unique.tools.stock.label>TODO</Gun_AssaultRifle_Unique.tools.stock.label>
+  <Gun_AssaultRifle_Unique.tools.stock.label>พานท้าย</Gun_AssaultRifle_Unique.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_AssaultRifle_Unique.tools.barrel.label>TODO</Gun_AssaultRifle_Unique.tools.barrel.label>
+  <Gun_AssaultRifle_Unique.tools.barrel.label>ลำกล้อง</Gun_AssaultRifle_Unique.tools.barrel.label>
   <!-- EN: unique assault rifle -->
-  <Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>TODO</Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>
+  <Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>ปืนไรเฟิลจู่โจมพิเศษ</Gun_AssaultRifle_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique beam repeater -->
   <Gun_BeamRepeater_Unique.label>ปืนยิงลำแสงรัวพิเศษ</Gun_BeamRepeater_Unique.label>
   <!-- EN: A beam repeater with customized parts. -->
   <Gun_BeamRepeater_Unique.description>ปืนยิงลำแสงรัวพร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_BeamRepeater_Unique.description>
   <!-- EN: charge -->
-  <Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_BeamRepeater_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: repeater -->
-  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.0>รีพีตเตอร์</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: beam repeater -->
-  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.1>ปืนยิงลำแสงรัว</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: beamgun -->
-  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.2>ปืนยิงลำแสง</Gun_BeamRepeater_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: barrels -->
-  <Gun_BeamRepeater_Unique.tools.barrels.label>TODO</Gun_BeamRepeater_Unique.tools.barrels.label>
+  <Gun_BeamRepeater_Unique.tools.barrels.label>ลำกล้อง</Gun_BeamRepeater_Unique.tools.barrels.label>
   <!-- EN: unique beam repeater -->
-  <Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>TODO</Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>
+  <Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>ปืนยิงลำแสงรัวพิเศษ</Gun_BeamRepeater_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique bolt-action rifle -->
   <Gun_BoltActionRifle_Unique.label>ปืนไรเฟิลลูกเลื่อนพิเศษ</Gun_BoltActionRifle_Unique.label>
   <!-- EN: A bolt-action rifle with customized parts. -->
   <Gun_BoltActionRifle_Unique.description>ปืนไรเฟิลลูกเลื่อนพร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_BoltActionRifle_Unique.description>
   <!-- EN: charge -->
-  <Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_BoltActionRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: bolt-action rifle -->
-  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>ปืนไรเฟิลลูกเลื่อน</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: thumper -->
   <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: bolt-gun -->
-  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>ปืนลูกเลื่อน</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: rifle -->
-  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>TODO</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>ไรเฟิล</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
   <!-- EN: longshot -->
-  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>TODO</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>ยิงไกล</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
   <!-- EN: longshooter -->
-  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>TODO</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>นักยิงไกล</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
   <!-- EN: stock -->
-  <Gun_BoltActionRifle_Unique.tools.stock.label>TODO</Gun_BoltActionRifle_Unique.tools.stock.label>
+  <Gun_BoltActionRifle_Unique.tools.stock.label>พานท้าย</Gun_BoltActionRifle_Unique.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_BoltActionRifle_Unique.tools.barrel.label>TODO</Gun_BoltActionRifle_Unique.tools.barrel.label>
+  <Gun_BoltActionRifle_Unique.tools.barrel.label>ลำกล้อง</Gun_BoltActionRifle_Unique.tools.barrel.label>
   <!-- EN: unique bolt-action rifle -->
-  <Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>TODO</Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>
+  <Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>ปืนไรเฟิลลูกเลื่อนพิเศษ</Gun_BoltActionRifle_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique chain shotgun -->
   <Gun_ChainShotgun_Unique.label>ปืนลูกซองอัตโนมัติพิเศษ</Gun_ChainShotgun_Unique.label>
   <!-- EN: A chain shotgun with customized parts. -->
   <Gun_ChainShotgun_Unique.description>ปืนลูกซองอัตโนมัติพร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_ChainShotgun_Unique.description>
   <!-- EN: charge -->
-  <Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_ChainShotgun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: chain shotgun -->
-  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>ปืนลูกซองอัตโนมัติ</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: shotgun -->
-  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>ปืนลูกซอง</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: chainshot -->
   <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: blaster -->
@@ -114,64 +114,64 @@
   <!-- EN: gutspewer -->
   <Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.6>TODO</Gun_ChainShotgun_Unique.comps.CompUniqueWeapon.namerLabels.6>
   <!-- EN: stock -->
-  <Gun_ChainShotgun_Unique.tools.stock.label>TODO</Gun_ChainShotgun_Unique.tools.stock.label>
+  <Gun_ChainShotgun_Unique.tools.stock.label>พานท้าย</Gun_ChainShotgun_Unique.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_ChainShotgun_Unique.tools.barrel.label>TODO</Gun_ChainShotgun_Unique.tools.barrel.label>
+  <Gun_ChainShotgun_Unique.tools.barrel.label>ลำกล้อง</Gun_ChainShotgun_Unique.tools.barrel.label>
   <!-- EN: unique chain shotgun -->
-  <Gun_ChainShotgun_Unique.verbs.Verb_Shoot.label>TODO</Gun_ChainShotgun_Unique.verbs.Verb_Shoot.label>
+  <Gun_ChainShotgun_Unique.verbs.Verb_Shoot.label>ปืนลูกซองอัตโนมัติพิเศษ</Gun_ChainShotgun_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique charge lance -->
   <Gun_ChargeLance_Unique.label>หอกชาร์จพิเศษ</Gun_ChargeLance_Unique.label>
   <!-- EN: A charge lance with customized parts. -->
   <Gun_ChargeLance_Unique.description>หอกชาร์จพร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_ChargeLance_Unique.description>
   <!-- EN: charge -->
-  <Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_ChargeLance_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: charge lance -->
-  <Gun_ChargeLance_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_ChargeLance_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_ChargeLance_Unique.comps.CompUniqueWeapon.namerLabels.0>หอกชาร์จ</Gun_ChargeLance_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: barrel -->
-  <Gun_ChargeLance_Unique.tools.barrel.label>TODO</Gun_ChargeLance_Unique.tools.barrel.label>
+  <Gun_ChargeLance_Unique.tools.barrel.label>ลำกล้อง</Gun_ChargeLance_Unique.tools.barrel.label>
   <!-- EN: unique charge lance -->
-  <Gun_ChargeLance_Unique.verbs.Verb_Shoot.label>TODO</Gun_ChargeLance_Unique.verbs.Verb_Shoot.label>
+  <Gun_ChargeLance_Unique.verbs.Verb_Shoot.label>หอกชาร์จพิเศษ</Gun_ChargeLance_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique charge rifle -->
   <Gun_ChargeRifle_Unique.label>ปืนไรเฟิลชาร์จพิเศษ</Gun_ChargeRifle_Unique.label>
   <!-- EN: A charge rifle with customized parts. -->
   <Gun_ChargeRifle_Unique.description>ปืนไรเฟิลชาร์จพร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_ChargeRifle_Unique.description>
   <!-- EN: charge -->
-  <Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_ChargeRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: charge rifle -->
-  <Gun_ChargeRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_ChargeRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_ChargeRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>ปืนไรเฟิลชาร์จ</Gun_ChargeRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: stock -->
-  <Gun_ChargeRifle_Unique.tools.stock.label>TODO</Gun_ChargeRifle_Unique.tools.stock.label>
+  <Gun_ChargeRifle_Unique.tools.stock.label>พานท้าย</Gun_ChargeRifle_Unique.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_ChargeRifle_Unique.tools.barrel.label>TODO</Gun_ChargeRifle_Unique.tools.barrel.label>
+  <Gun_ChargeRifle_Unique.tools.barrel.label>ลำกล้อง</Gun_ChargeRifle_Unique.tools.barrel.label>
   <!-- EN: unique charge rifle -->
-  <Gun_ChargeRifle_Unique.verbs.Verb_Shoot.label>TODO</Gun_ChargeRifle_Unique.verbs.Verb_Shoot.label>
+  <Gun_ChargeRifle_Unique.verbs.Verb_Shoot.label>ปืนไรเฟิลชาร์จพิเศษ</Gun_ChargeRifle_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique heavy SMG -->
   <Gun_HeavySMG_Unique.label>ปืนกลมือหนักพิเศษ</Gun_HeavySMG_Unique.label>
   <!-- EN: A heavy SMG with customized parts. -->
   <Gun_HeavySMG_Unique.description>ปืนกลหนัก SMG พร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_HeavySMG_Unique.description>
   <!-- EN: charge -->
-  <Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_HeavySMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: heavy SMG -->
-  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.0>ปืนกลมือหนัก</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: SMG -->
-  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.1>ปืนกลมือ</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: chugger -->
   <Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_HeavySMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: grip -->
-  <Gun_HeavySMG_Unique.tools.grip.label>TODO</Gun_HeavySMG_Unique.tools.grip.label>
+  <Gun_HeavySMG_Unique.tools.grip.label>กริป</Gun_HeavySMG_Unique.tools.grip.label>
   <!-- EN: barrel -->
-  <Gun_HeavySMG_Unique.tools.barrel.label>TODO</Gun_HeavySMG_Unique.tools.barrel.label>
+  <Gun_HeavySMG_Unique.tools.barrel.label>ลำกล้อง</Gun_HeavySMG_Unique.tools.barrel.label>
   <!-- EN: unique heavy SMG -->
-  <Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>TODO</Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>
+  <Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>ปืนกลมือหนักพิเศษ</Gun_HeavySMG_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique hellcat rifle -->
   <Gun_HellcatRifle_Unique.label>ปืนไรเฟิลเฮลแคทพิเศษ</Gun_HellcatRifle_Unique.label>
@@ -180,7 +180,7 @@
   <!-- EN: burner charge -->
   <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: hellcat rifle -->
   <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: hellcat -->
@@ -194,9 +194,9 @@
   <!-- EN: burngun -->
   <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>TODO</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
   <!-- EN: stock -->
-  <Gun_HellcatRifle_Unique.tools.stock.label>TODO</Gun_HellcatRifle_Unique.tools.stock.label>
+  <Gun_HellcatRifle_Unique.tools.stock.label>พานท้าย</Gun_HellcatRifle_Unique.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_HellcatRifle_Unique.tools.barrel.label>TODO</Gun_HellcatRifle_Unique.tools.barrel.label>
+  <Gun_HellcatRifle_Unique.tools.barrel.label>ลำกล้อง</Gun_HellcatRifle_Unique.tools.barrel.label>
   <!-- EN: unique hellcat rifle -->
   <Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>TODO</Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>
   
@@ -205,9 +205,9 @@
   <!-- EN: An LMG with customized parts. -->
   <Gun_LMG_Unique.description>ปืนกลเบาพร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_LMG_Unique.description>
   <!-- EN: charge -->
-  <Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: LMG -->
   <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: machine gun -->
@@ -215,20 +215,20 @@
   <!-- EN: light machine gun -->
   <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: stock -->
-  <Gun_LMG_Unique.tools.stock.label>TODO</Gun_LMG_Unique.tools.stock.label>
+  <Gun_LMG_Unique.tools.stock.label>พานท้าย</Gun_LMG_Unique.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_LMG_Unique.tools.barrel.label>TODO</Gun_LMG_Unique.tools.barrel.label>
+  <Gun_LMG_Unique.tools.barrel.label>ลำกล้อง</Gun_LMG_Unique.tools.barrel.label>
   <!-- EN: unique LMG -->
-  <Gun_LMG_Unique.verbs.Verb_Shoot.label>TODO</Gun_LMG_Unique.verbs.Verb_Shoot.label>
+  <Gun_LMG_Unique.verbs.Verb_Shoot.label>ปืนกลเบาพิเศษ</Gun_LMG_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique minigun -->
   <Gun_Minigun_Unique.label>ปืนมินิกันพิเศษ</Gun_Minigun_Unique.label>
   <!-- EN: A minigun with customized parts. -->
   <Gun_Minigun_Unique.description>ปืนมินิกันพร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_Minigun_Unique.description>
   <!-- EN: charge -->
-  <Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: minigun -->
   <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: gatling gun -->
@@ -236,18 +236,18 @@
   <!-- EN: six-barrel -->
   <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: barrels -->
-  <Gun_Minigun_Unique.tools.barrels.label>TODO</Gun_Minigun_Unique.tools.barrels.label>
+  <Gun_Minigun_Unique.tools.barrels.label>ลำกล้อง</Gun_Minigun_Unique.tools.barrels.label>
   <!-- EN: unique minigun -->
-  <Gun_Minigun_Unique.verbs.Verb_Shoot.label>TODO</Gun_Minigun_Unique.verbs.Verb_Shoot.label>
+  <Gun_Minigun_Unique.verbs.Verb_Shoot.label>ปืนมินิกันพิเศษ</Gun_Minigun_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique revolver -->
   <Gun_Revolver_Unique.label>ปืนลูกโม่พิเศษ</Gun_Revolver_Unique.label>
   <!-- EN: A revolver with customized parts. -->
   <Gun_Revolver_Unique.description>ปืนพกลูกโม่พร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_Revolver_Unique.description>
   <!-- EN: charge -->
-  <Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: revolver -->
   <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: six-shooter -->
@@ -259,18 +259,18 @@
   <!-- EN: grip -->
   <Gun_Revolver_Unique.tools.grip.label>TODO</Gun_Revolver_Unique.tools.grip.label>
   <!-- EN: barrel -->
-  <Gun_Revolver_Unique.tools.barrel.label>TODO</Gun_Revolver_Unique.tools.barrel.label>
+  <Gun_Revolver_Unique.tools.barrel.label>ลำกล้อง</Gun_Revolver_Unique.tools.barrel.label>
   <!-- EN: unique revolver -->
-  <Gun_Revolver_Unique.verbs.Verb_Shoot.label>TODO</Gun_Revolver_Unique.verbs.Verb_Shoot.label>
+  <Gun_Revolver_Unique.verbs.Verb_Shoot.label>ปืนลูกโม่พิเศษ</Gun_Revolver_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique sniper rifle -->
   <Gun_SniperRifle_Unique.label>ปืนไรเฟิลซุ่มยิงพิเศษ</Gun_SniperRifle_Unique.label>
   <!-- EN: A sniper rifle with customized parts. -->
   <Gun_SniperRifle_Unique.description>ปืนไรเฟิลซุ่มยิงพร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_SniperRifle_Unique.description>
   <!-- EN: charge -->
-  <Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>ชาร์จ</Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: sniper rifle -->
   <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: precision rifle -->
@@ -288,10 +288,10 @@
   <!-- EN: assassinator -->
   <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>TODO</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>
   <!-- EN: stock -->
-  <Gun_SniperRifle_Unique.tools.stock.label>TODO</Gun_SniperRifle_Unique.tools.stock.label>
+  <Gun_SniperRifle_Unique.tools.stock.label>พานท้าย</Gun_SniperRifle_Unique.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_SniperRifle_Unique.tools.barrel.label>TODO</Gun_SniperRifle_Unique.tools.barrel.label>
+  <Gun_SniperRifle_Unique.tools.barrel.label>ลำกล้อง</Gun_SniperRifle_Unique.tools.barrel.label>
   <!-- EN: unique sniper rifle -->
-  <Gun_SniperRifle_Unique.verbs.Verb_Shoot.label>TODO</Gun_SniperRifle_Unique.verbs.Verb_Shoot.label>
+  <Gun_SniperRifle_Unique.verbs.Verb_Shoot.label>ปืนไรเฟิลซุ่มยิงพิเศษ</Gun_SniperRifle_Unique.verbs.Verb_Shoot.label>
   
 </LanguageData>
