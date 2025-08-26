@@ -249,13 +249,13 @@
   <!-- EN: on cooldown -->
   <Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_Revolver_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: revolver -->
-  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>ปืนลูกโม่</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: six-shooter -->
   <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: iron -->
-  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.2>เหล็ก</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: hammer -->
-  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>TODO</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>ค้อน</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>
   <!-- EN: grip -->
   <Gun_Revolver_Unique.tools.grip.label>TODO</Gun_Revolver_Unique.tools.grip.label>
   <!-- EN: barrel -->
@@ -272,21 +272,21 @@
   <!-- EN: on cooldown -->
   <Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_SniperRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: sniper rifle -->
-  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>สไนเปอร์ไรเฟิล</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: precision rifle -->
-  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>ไรเฟิลความแม่นยำสูง</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: marksman rifle -->
-  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>ไรเฟิลนักซุ่มยิง</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: sniper -->
-  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>TODO</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>สไนเปอร์</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
   <!-- EN: headshotter -->
-  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>TODO</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>นักยิงหัว</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
   <!-- EN: snipegun -->
-  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>TODO</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>ปืนสไนป์</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
   <!-- EN: stalker -->
-  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>TODO</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>สตอร์คเกอร์</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.6>
   <!-- EN: assassinator -->
-  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>TODO</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>
+  <Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>นักลอบสังหาร</Gun_SniperRifle_Unique.comps.CompUniqueWeapon.namerLabels.7>
   <!-- EN: stock -->
   <Gun_SniperRifle_Unique.tools.stock.label>พานท้าย</Gun_SniperRifle_Unique.tools.stock.label>
   <!-- EN: barrel -->
