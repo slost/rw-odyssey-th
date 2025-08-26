@@ -11,7 +11,7 @@
   <!-- EN: vacstone chunk -->
   <ChunkVacstone.label>ชิ้นส่วนแวคสโตน</ChunkVacstone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkVacstone.description>TODO</ChunkVacstone.description>
+  <ChunkVacstone.description>ชิ้นส่วนของหินชิ้นหนึ่ง สามารถตัดเป็นบล็อคหินได้</ChunkVacstone.description>
   
   <!-- EN: smoothed solid ice -->
   <SmoothedSolidIce.label>น้ำแข็งก้อนขัดเรียบ</SmoothedSolidIce.label>
