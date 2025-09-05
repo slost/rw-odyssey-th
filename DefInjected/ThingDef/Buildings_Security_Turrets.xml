@@ -9,13 +9,13 @@
   <!-- EN: A simple automatic gun made to be mounted on a turret. -->
   <Gun_AncientArmoredTurret.description>ปืนอัตโนมัติแบบง่ายๆ ที่สร้างขึ้นเพื่อติดตั้งบนป้อมปืน</Gun_AncientArmoredTurret.description>
   <!-- EN: ancient defender turret gun -->
-  <Gun_AncientArmoredTurret.verbs.Verb_Shoot.label>TODO</Gun_AncientArmoredTurret.verbs.Verb_Shoot.label>
+  <Gun_AncientArmoredTurret.verbs.Verb_Shoot.label>ปืนของป้อมปืนป้องกันโบราณ</Gun_AncientArmoredTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: ancient defender turret -->
   <Turret_AncientArmoredTurret.label>ป้อมปืนป้องกันโบราณ</Turret_AncientArmoredTurret.label>
   <!-- EN: An armored security turret containing a long-lasting battery. -->
   <Turret_AncientArmoredTurret.description>ป้อมปืนรักษาความปลอดภัยหุ้มเกราะที่มีแบตเตอรี่อายุการใช้งานยาวนาน</Turret_AncientArmoredTurret.description>
   <!-- EN: Disabled -->
-  <Turret_AncientArmoredTurret.comps.CompHackable.hackedInspectString>TODO</Turret_AncientArmoredTurret.comps.CompHackable.hackedInspectString>
+  <Turret_AncientArmoredTurret.comps.CompHackable.hackedInspectString>ปิดการทำงานแล้ว</Turret_AncientArmoredTurret.comps.CompHackable.hackedInspectString>
   
 </LanguageData>
