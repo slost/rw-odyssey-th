@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: wild cotton plant -->
-  <Plant_Cotton_Wild.label>TODO</Plant_Cotton_Wild.label>
+  <Plant_Cotton_Wild.label>ต้นฝ้ายป่า</Plant_Cotton_Wild.label>
   <!-- EN: A mid-size crop that yields fine white cotton fibers. These are used to make cloth. -->
-  <Plant_Cotton_Wild.description>TODO</Plant_Cotton_Wild.description>
+  <Plant_Cotton_Wild.description>พืชขนาดกลางที่ให้เส้นใยฝ้ายสีขาวละเอียด เส้นใยเหล่านี้ใช้สำหรับทำผ้า</Plant_Cotton_Wild.description>
   
   <!-- EN: wild fibercorn -->
-  <Plant_Fibercorn_Wild.label>TODO</Plant_Fibercorn_Wild.label>
+  <Plant_Fibercorn_Wild.label>ไฟเบอร์คอร์น</Plant_Fibercorn_Wild.label>
   <!-- EN: An inedible, fibrous plant which produces a small amount of a wood-like substance. -->
-  <Plant_Fibercorn_Wild.description>TODO</Plant_Fibercorn_Wild.description>
+  <Plant_Fibercorn_Wild.description>พืชเส้นใยที่กินไม่ได้ซึ่งให้สารคล้ายไม้ในปริมาณเล็กน้อย</Plant_Fibercorn_Wild.description>
   
   <!-- EN: wild psychoid plant -->
-  <Plant_Psychoid_Wild.label>TODO</Plant_Psychoid_Wild.label>
+  <Plant_Psychoid_Wild.label>ต้นไซคอยด์ป่า</Plant_Psychoid_Wild.label>
   <!-- EN: A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive. -->
-  <Plant_Psychoid_Wild.description>TODO</Plant_Psychoid_Wild.description>
+  <Plant_Psychoid_Wild.description>พืชใบที่สร้างสารประกอบเคมีไซไคต์ เดิมทีวิวัฒนาการมาเป็นกลไกป้องกันตัวเพื่อขับไล่สัตว์กินพืชโดยการกระตุ้นพวกมันมากเกินไปและทำให้พวกมันป่วย ยาไซไคต์สามารถสกัดและกลั่นเป็นรูปแบบต่างๆ สำหรับใช้ในเชิงสันทนาการ มันทำให้เสพติด</Plant_Psychoid_Wild.description>
   
   <!-- EN: wild smokeleaf plant -->
-  <Plant_Smokeleaf_Wild.label>TODO</Plant_Smokeleaf_Wild.label>
+  <Plant_Smokeleaf_Wild.label>ต้นสโมคลีฟป่า</Plant_Smokeleaf_Wild.label>
   <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
-  <Plant_Smokeleaf_Wild.description>TODO</Plant_Smokeleaf_Wild.description>
+  <Plant_Smokeleaf_Wild.description>พืชใบที่ปลูกเพื่อผลทางจิตประสาทของสารเคมีในใบ ใบสโมคลีฟสามารถนำไปแปรรูปเป็นมวนได้ที่จุดงานผลิต สโมคลีฟทำให้ผู้ใช้รู้สึกผ่อนคลาย แต่ลดแรงจูงใจ และสามารถทำให้เสพติดได้</Plant_Smokeleaf_Wild.description>
   
   <!-- EN: wild strawberry plant -->
-  <Plant_Strawberry_Wild.label>TODO</Plant_Strawberry_Wild.label>
+  <Plant_Strawberry_Wild.label>ต้นสตรอเบอร์รี่ป่า</Plant_Strawberry_Wild.label>
   <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
-  <Plant_Strawberry_Wild.description>TODO</Plant_Strawberry_Wild.description>
+  <Plant_Strawberry_Wild.description>พืชเตี้ยคล้ายพุ่มไม้ที่ให้ผลสตรอว์เบอร์รีที่บอบบางแต่อร่อย แม้จะให้ผลผลิตแคลอรี่ต่อแคลอรี่ไม่เท่าพืชชนิดอื่น แต่สตรอว์เบอร์รีก็อร่อยแม้จะกินดิบๆ</Plant_Strawberry_Wild.description>
   
   <!-- EN: wild tinctoria -->
-  <Plant_Tinctoria_Wild.label>TODO</Plant_Tinctoria_Wild.label>
+  <Plant_Tinctoria_Wild.label>ทิงค์ทอเรียป่า</Plant_Tinctoria_Wild.label>
   <!-- EN: A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to change the color of walls, buildings, and more. -->
-  <Plant_Tinctoria_Wild.description>TODO</Plant_Tinctoria_Wild.description>
+  <Plant_Tinctoria_Wild.description>พืชผลคล้ายดอกไม้ที่ผ่านการดัดแปลงพันธุกรรมซึ่งจะหลั่งสีย้อมที่เปลี่ยนสีได้เอง สีย้อมจากทิงค์ทอเรียสามารถนำมาปรับให้เป็นสีต่างๆ และใช้เปลี่ยนสีของกำแพง อาคาร และอื่นๆ ได้</Plant_Tinctoria_Wild.description>
   
   <!-- EN: wild cocoa tree -->
-  <Plant_TreeCocoa_Wild.label>TODO</Plant_TreeCocoa_Wild.label>
+  <Plant_TreeCocoa_Wild.label>ต้นโกโก้ป่า</Plant_TreeCocoa_Wild.label>
   <!-- EN: A tropical tree that produces chocolate, genetically engineered to sweeten its own product, and survive in slightly less-warm climates. -->
-  <Plant_TreeCocoa_Wild.description>TODO</Plant_TreeCocoa_Wild.description>
+  <Plant_TreeCocoa_Wild.description>ต้นไม้เขตร้อนที่ผลิตช็อกโกแลต ถูกดัดแปลงพันธุกรรมเพื่อให้ผลผลิตของมันหวานขึ้น และสามารถอยู่รอดได้ในสภาพอากาศที่อบอุ่นน้อยลงเล็กน้อย</Plant_TreeCocoa_Wild.description>
   
 </LanguageData>

@@ -50,7 +50,7 @@
   <!-- EN: A large marine turtle. Their streamlined shell and powerful flippers make them excellent swimmers. -->
   <SeaTurtle.description>เต่าทะเลขนาดใหญ่ กระดองที่เพรียวบางและครีบอันทรงพลังทำให้เป็นนักว่ายน้ำที่ยอดเยี่ยม</SeaTurtle.description>
   <!-- EN: beak -->
-  <SeaTurtle.tools.beak.label>TODO</SeaTurtle.tools.beak.label>
+  <SeaTurtle.tools.beak.label>จะงอยปาก</SeaTurtle.tools.beak.label>
   <!-- EN: head -->
   <SeaTurtle.tools.head.label>หัว</SeaTurtle.tools.head.label>
   
@@ -74,7 +74,7 @@
   <!-- EN: A large marine animal with tusks and whiskers. Its considerable bulk allows it to survive in extremely cold environments. While slow on land, it is relatively quick in water. -->
   <Walrus.description>สัตว์ทะเลขนาดใหญ่มีเขี้ยวและหนวด ขนาดตัวที่ใหญ่โตช่วยให้มันอยู่รอดในสภาพแวดล้อมที่หนาวจัดได้ แม้จะเชื่องช้าบนบก แต่ก็ค่อนข้างเร็วในน้ำ</Walrus.description>
   <!-- EN: tusk -->
-  <Walrus.tools.tusk.label>TODO</Walrus.tools.tusk.label>
+  <Walrus.tools.tusk.label>งา</Walrus.tools.tusk.label>
   <!-- EN: head -->
   <Walrus.tools.head.label>หัว</Walrus.tools.head.label>
   

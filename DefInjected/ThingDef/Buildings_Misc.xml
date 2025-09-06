@@ -95,7 +95,7 @@
   <!-- EN: Contains: Gravcore -->
   <AncientTerraformer.comps.CompInspectString.inspectString>มีอยู่: เกรฟคอร์</AncientTerraformer.comps.CompInspectString.inspectString>
   <!-- EN: Ancient terraformer -->
-  <AncientTerraformer.comps.CompLetterOnRevealed.label>TODO</AncientTerraformer.comps.CompLetterOnRevealed.label>
+  <AncientTerraformer.comps.CompLetterOnRevealed.label>เครื่องปรับสภาพดาวเคราะห์โบราณ</AncientTerraformer.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered the malfunctioning terraformer. Destroy it to obtain a gravcore and end the deep freeze. -->
   <AncientTerraformer.comps.CompLetterOnRevealed.text>TODO</AncientTerraformer.comps.CompLetterOnRevealed.text>
   
@@ -109,11 +109,11 @@
   <!-- EN: An ancient transmitter used for secure communications between the surface and orbit. Hack it to determine the last location it transmitted to. -->
   <AncientUplink.description>เครื่องส่งสัญญาณโบราณที่ใช้สำหรับการสื่อสารที่ปลอดภัยระหว่างพื้นผิวและวงโคจร แฮ็กเพื่อระบุตำแหน่งสุดท้ายที่ส่งไป</AncientUplink.description>
   <!-- EN: Hacked. -->
-  <AncientUplink.comps.CompHackable.hackedInspectString>TODO</AncientUplink.comps.CompHackable.hackedInspectString>
+  <AncientUplink.comps.CompHackable.hackedInspectString>แฮคแล้ว</AncientUplink.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
-  <AncientUplink.comps.CompHackable.hackedMessage>TODO</AncientUplink.comps.CompHackable.hackedMessage>
+  <AncientUplink.comps.CompHackable.hackedMessage>{HACKER_labelShort} ได้ทำการแฮค {SUBJECT_labelNoParenthesisDef} เสร็จสิ้น</AncientUplink.comps.CompHackable.hackedMessage>
   <!-- EN: Hack for information. -->
-  <AncientUplink.comps.CompHackable.notHackedInspectString>TODO</AncientUplink.comps.CompHackable.notHackedInspectString>
+  <AncientUplink.comps.CompHackable.notHackedInspectString>แฮคเพื่อข้อมูล</AncientUplink.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: anticraft beam -->
   <AnticraftBeam.label>ลำแสงต่อต้านอากาศยาน</AnticraftBeam.label>
@@ -125,24 +125,24 @@
   <!-- EN: The thinking mind of the mechanoid swarm. The cerebrex core commands mechanoids across the entire planet.\n\nAt its heart is an AI persona core that knows, thinks, and believes that it must kill every human on this planet. In one sense, this impulse is a command programmed by a human military leader aeons ago. In another sense, it is cold seething hatred. Either way, if you liberate the AI persona you can reset its desire and use it for other purposes.\n\nThe structure is protected by nearby stabilizers. Destroy all cerebrex stabilizers to access it. -->
   <CerebrexCore.description>จิตใจที่คิดของฝูงเมคานอยด์ แกนเซเรเบรกซ์ควบคุมเมคานอยด์ทั่วทั้งดาวเคราะห์\n\nหัวใจของมันคือแกนบุคลิกภาพเอไอที่รู้ คิด และเชื่อว่ามันต้องฆ่ามนุษย์ทุกคนบนดาวเคราะห์ดวงนี้ ในแง่หนึ่ง แรงกระตุ้นนี้เป็นคำสั่งที่ตั้งโปรแกรมโดยผู้นำทางทหารของมนุษย์เมื่อนานมาแล้ว ในอีกแง่หนึ่ง มันคือความเกลียดชังที่เย็นชา ไม่ว่าจะด้วยวิธีใด หากคุณปลดปล่อยแกนบุคลิกภาพเอไอ คุณสามารถรีเซ็ตความปรารถนาของมันและใช้เพื่อวัตถุประสงค์อื่นได้\n\nโครงสร้างนี้ได้รับการป้องกันโดยตัวรักษาเสถียรภาพในบริเวณใกล้เคียง ทำลายตัวรักษาเสถียรภาพเซเรเบรกซ์ทั้งหมดเพื่อเข้าถึงมัน</CerebrexCore.description>
   <!-- EN: Inspect the core. -->
-  <CerebrexCore.comps.CompCerebrexCore.activateDescString>TODO</CerebrexCore.comps.CompCerebrexCore.activateDescString>
+  <CerebrexCore.comps.CompCerebrexCore.activateDescString>ตรวจสอบแกนกลาง</CerebrexCore.comps.CompCerebrexCore.activateDescString>
   <!-- EN: Inspect... -->
-  <CerebrexCore.comps.CompCerebrexCore.activateLabelString>TODO</CerebrexCore.comps.CompCerebrexCore.activateLabelString>
+  <CerebrexCore.comps.CompCerebrexCore.activateLabelString>ตรวจสอบ...</CerebrexCore.comps.CompCerebrexCore.activateLabelString>
   <!-- EN: inspecting core: {1}s -->
   <CerebrexCore.comps.CompCerebrexCore.activatingString>TODO</CerebrexCore.comps.CompCerebrexCore.activatingString>
   <!-- EN: inspecting core -->
   <CerebrexCore.comps.CompCerebrexCore.activatingStringPending>TODO</CerebrexCore.comps.CompCerebrexCore.activatingStringPending>
   <!-- EN: Choose who should do this -->
-  <CerebrexCore.comps.CompCerebrexCore.guiLabelString>TODO</CerebrexCore.comps.CompCerebrexCore.guiLabelString>
+  <CerebrexCore.comps.CompCerebrexCore.guiLabelString>เลือกใครควรทำสิ่งนี้</CerebrexCore.comps.CompCerebrexCore.guiLabelString>
   <!-- EN: inspect core -->
-  <CerebrexCore.comps.CompCerebrexCore.jobString>TODO</CerebrexCore.comps.CompCerebrexCore.jobString>
+  <CerebrexCore.comps.CompCerebrexCore.jobString>ตรวจสอบแกนกลาง</CerebrexCore.comps.CompCerebrexCore.jobString>
   
   <!-- EN: destroyed cerebrex core -->
   <CerebrexCore_Destroyed.label>แกนเซเรเบรกซ์ที่ถูกทำลาย</CerebrexCore_Destroyed.label>
   <!-- EN: The smashed neural nexus of the mechanoid swarm that once commanded mechanoids around the planet. -->
   <CerebrexCore_Destroyed.description>จุดเชื่อมต่อประสาทที่ถูกทุบของฝูงเมคานอยด์ที่เคยควบคุมเมคานอยด์ทั่วดาวเคราะห์</CerebrexCore_Destroyed.description>
   <!-- EN: Destroy for valuable resources. -->
-  <CerebrexCore_Destroyed.comps.CompInspectString.inspectString>TODO</CerebrexCore_Destroyed.comps.CompInspectString.inspectString>
+  <CerebrexCore_Destroyed.comps.CompInspectString.inspectString>ทำลายเพื่อทรัพยาการที่มีค่า</CerebrexCore_Destroyed.comps.CompInspectString.inspectString>
   
   <!-- EN: cerebrex stabilizer -->
   <CerebrexStabilizer.label>ตัวรักษาเสถียรภาพเซเรเบรกซ์</CerebrexStabilizer.label>
@@ -193,7 +193,7 @@
   <!-- EN: Relay crash -->
   <MechRelay.comps.CompMechRelay.crashedLetterLabel>รีเลย์พัง</MechRelay.comps.CompMechRelay.crashedLetterLabel>
   <!-- EN: The mechanoid relay has crashed to the ground. Destroy it to obtain a gravcore.\n\nBe warned, hostile mechanoids will soon arrive in response to the relay going offline. -->
-  <MechRelay.comps.CompMechRelay.crashedLetterText>TODO</MechRelay.comps.CompMechRelay.crashedLetterText>
+  <MechRelay.comps.CompMechRelay.crashedLetterText>รีเลย์เมคานอยด์ได้ตกลงสู่พื้น ทำลายมันเพื่อรับเกรฟคอร์</MechRelay.comps.CompMechRelay.crashedLetterText>
   <!-- EN: Destabilizing -->
   <MechRelay.comps.CompMechRelay.destabilizationInspectString>TODO</MechRelay.comps.CompMechRelay.destabilizationInspectString>
   <!-- EN: The mechanoid relay has begun to destabilize. -->
@@ -213,7 +213,7 @@
   <!-- EN: Deactivated. -->
   <MechStabilizer.comps.CompHackable.hackedInspectString>TODO</MechStabilizer.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
-  <MechStabilizer.comps.CompHackable.hackedMessage>TODO</MechStabilizer.comps.CompHackable.hackedMessage>
+  <MechStabilizer.comps.CompHackable.hackedMessage>{HACKER_labelShort} ได้ทำการแฮค {SUBJECT_labelNoParenthesisDef} เสร็จสิ้น</MechStabilizer.comps.CompHackable.hackedMessage>
   <!-- EN: Hack to disable stabilizer. -->
   <MechStabilizer.comps.CompHackable.notHackedInspectString>แฮคเพื่อปิดตัวรักษาเสถียรภาพรีเลย์</MechStabilizer.comps.CompHackable.notHackedInspectString>
   
