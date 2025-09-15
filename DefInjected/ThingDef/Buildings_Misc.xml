@@ -82,11 +82,11 @@
   <!-- EN: {HACKER_nameDef} used the ancient security terminal to disable a turret. -->
   <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>
   <!-- EN: Turret reprogrammed -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>ป้อมปืนถูกตั้งโปรแกรมใหม่</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>
   <!-- EN: {HACKER_nameDef} used the ancient security terminal to reprogram a turret. The turret will now only target hostiles. -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>{HACKER_nameDef} ใช้เครื่องเทอร์มินัลรักษาความปลอดภัยโบราณเพื่อตั้งโปรแกรมป้อมปืนใหม่ ตอนนี้ป้อมปืนจะโจมตีเฉพาะศัตรูเท่านั้น</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedText>
   <!-- EN: {HACKER_nameDef} couldn't find any security systems using the ancient security terminal. -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>{HACKER_nameDef} ไม่พบระบบรักษาความปลอดภัยใดๆ โดยใช้เครื่องเทอร์มินัลรักษาความปลอดภัยโบราณ</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.messageNoValidTarget>
   
   <!-- EN: ancient terraformer -->
   <AncientTerraformer.label>เครื่องปรับสภาพดาวเคราะห์โบราณ</AncientTerraformer.label>
@@ -97,7 +97,7 @@
   <!-- EN: Ancient terraformer -->
   <AncientTerraformer.comps.CompLetterOnRevealed.label>เครื่องปรับสภาพดาวเคราะห์โบราณ</AncientTerraformer.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered the malfunctioning terraformer. Destroy it to obtain a gravcore and end the deep freeze. -->
-  <AncientTerraformer.comps.CompLetterOnRevealed.text>TODO</AncientTerraformer.comps.CompLetterOnRevealed.text>
+  <AncientTerraformer.comps.CompLetterOnRevealed.text>คุณได้ค้นพบเครื่องปรับสภาพดาวเคราะห์ที่ทำงานผิดปกติแล้ว ทำลายมันเพื่อรับเกรฟคอร์ และยุติภาวะเยือกแข็งลึก</AncientTerraformer.comps.CompLetterOnRevealed.text>
   
   <!-- EN: ancient transport pod -->
   <AncientTransportPod.label>กระสวยขนส่งโบราณ</AncientTransportPod.label>
@@ -129,9 +129,9 @@
   <!-- EN: Inspect... -->
   <CerebrexCore.comps.CompCerebrexCore.activateLabelString>ตรวจสอบ...</CerebrexCore.comps.CompCerebrexCore.activateLabelString>
   <!-- EN: inspecting core: {1}s -->
-  <CerebrexCore.comps.CompCerebrexCore.activatingString>TODO</CerebrexCore.comps.CompCerebrexCore.activatingString>
+  <CerebrexCore.comps.CompCerebrexCore.activatingString>กำลังตรวจสอบแกนกลาง: {1}s</CerebrexCore.comps.CompCerebrexCore.activatingString>
   <!-- EN: inspecting core -->
-  <CerebrexCore.comps.CompCerebrexCore.activatingStringPending>TODO</CerebrexCore.comps.CompCerebrexCore.activatingStringPending>
+  <CerebrexCore.comps.CompCerebrexCore.activatingStringPending>กำลังตรวจสอบแกนกลาง</CerebrexCore.comps.CompCerebrexCore.activatingStringPending>
   <!-- EN: Choose who should do this -->
   <CerebrexCore.comps.CompCerebrexCore.guiLabelString>เลือกใครควรทำสิ่งนี้</CerebrexCore.comps.CompCerebrexCore.guiLabelString>
   <!-- EN: inspect core -->
@@ -195,9 +195,9 @@
   <!-- EN: The mechanoid relay has crashed to the ground. Destroy it to obtain a gravcore.\n\nBe warned, hostile mechanoids will soon arrive in response to the relay going offline. -->
   <MechRelay.comps.CompMechRelay.crashedLetterText>รีเลย์เมคานอยด์ได้ตกลงสู่พื้น ทำลายมันเพื่อรับเกรฟคอร์</MechRelay.comps.CompMechRelay.crashedLetterText>
   <!-- EN: Destabilizing -->
-  <MechRelay.comps.CompMechRelay.destabilizationInspectString>TODO</MechRelay.comps.CompMechRelay.destabilizationInspectString>
+  <MechRelay.comps.CompMechRelay.destabilizationInspectString>กำลังทำให้ไม่เสถียร</MechRelay.comps.CompMechRelay.destabilizationInspectString>
   <!-- EN: The mechanoid relay has begun to destabilize. -->
-  <MechRelay.comps.CompMechRelay.destabilizationMessage>TODO</MechRelay.comps.CompMechRelay.destabilizationMessage>
+  <MechRelay.comps.CompMechRelay.destabilizationMessage>รีเลย์เมคานอยด์กำลังเริ่มไม่เสถียร</MechRelay.comps.CompMechRelay.destabilizationMessage>
   
   <!-- EN: crashed mechanoid relay -->
   <MechRelay_Crashed.label>รีเลย์เมคานอยด์ที่ตก</MechRelay_Crashed.label>
@@ -211,7 +211,7 @@
   <!-- EN: A shield projecter that protects a nearby mechanoid relay. All stabilizers must be hacked or destroyed to deactivate the shield.\n\nDestroying a stabilizer will prompt a defensive response. Hacking is a slower but safer option. -->
   <MechStabilizer.description>เครื่องฉายโล่ที่ป้องกันรีเลย์เมคานอยด์ใกล้เคียง ต้องแฮ็กหรือทำลายตัวรักษาเสถียรภาพทั้งหมดเพื่อปิดการใช้งานโล่\n\nการทำลายตัวรักษาเสถียรภาพจะกระตุ้นให้เกิดการตอบสนองป้องกัน การแฮ็กเป็นตัวเลือกที่ช้ากว่าแต่ปลอดภัยกว่า</MechStabilizer.description>
   <!-- EN: Deactivated. -->
-  <MechStabilizer.comps.CompHackable.hackedInspectString>TODO</MechStabilizer.comps.CompHackable.hackedInspectString>
+  <MechStabilizer.comps.CompHackable.hackedInspectString>ถูกปิดการใช้งาน</MechStabilizer.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
   <MechStabilizer.comps.CompHackable.hackedMessage>{HACKER_labelShort} ได้ทำการแฮค {SUBJECT_labelNoParenthesisDef} เสร็จสิ้น</MechStabilizer.comps.CompHackable.hackedMessage>
   <!-- EN: Hack to disable stabilizer. -->
@@ -238,6 +238,6 @@
   <!-- EN: A wideband sensor unit that can detect and map various features in a local area. -->
   <SurveyScanner.description>หน่วยเซ็นเซอร์บรอดแบนด์ที่สามารถตรวจจับและทำแผนที่คุณลักษณะต่างๆ ในพื้นที่ท้องถิ่นได้</SurveyScanner.description>
   <!-- EN: Scanning local area: {DURATION} -->
-  <SurveyScanner.comps.CompCountdown.label>TODO</SurveyScanner.comps.CompCountdown.label>
+  <SurveyScanner.comps.CompCountdown.label>กำลังสแกนพื้นที่นี้: {DURATION}</SurveyScanner.comps.CompCountdown.label>
   
 </LanguageData>
