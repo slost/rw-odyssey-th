@@ -6,13 +6,13 @@
   <!-- EN: This weapon contains a rudimentary aim assistant computer which helps track targets, increasing accuracy at all ranges. The device can account for environmental challenges, allowing the weapon to ignore the accuracy penalty from bad weather and smoke. -->
   <AimAssistance.description>อาวุธนี้มีคอมพิวเตอร์ช่วยเล็งขั้นพื้นฐานซึ่งช่วยติดตามเป้าหมาย เพิ่มความแม่นยำในทุกระยะ อุปกรณ์นี้สามารถรับมือกับความท้าทายด้านสิ่งแวดล้อมได้ ทำให้ปืนสามารถเพิกเฉยต่อผลเสียด้านความแม่นยำจากสภาพอากาศเลวร้ายและควันได้</AimAssistance.description>
   <!-- EN: seeking -->
-  <AimAssistance.traitAdjectives.0>TODO</AimAssistance.traitAdjectives.0>
+  <AimAssistance.traitAdjectives.0>กำลังค้นหา</AimAssistance.traitAdjectives.0>
   <!-- EN: accurate -->
-  <AimAssistance.traitAdjectives.1>TODO</AimAssistance.traitAdjectives.1>
+  <AimAssistance.traitAdjectives.1>แม่นยำ</AimAssistance.traitAdjectives.1>
   <!-- EN: precise -->
   <AimAssistance.traitAdjectives.2>TODO</AimAssistance.traitAdjectives.2>
   <!-- EN: auto-aim -->
-  <AimAssistance.traitAdjectives.3>TODO</AimAssistance.traitAdjectives.3>
+  <AimAssistance.traitAdjectives.3>เล็งอัตโนมัติ</AimAssistance.traitAdjectives.3>
   <!-- EN: self-aim -->
   <AimAssistance.traitAdjectives.4>TODO</AimAssistance.traitAdjectives.4>
   
@@ -115,7 +115,7 @@
   <!-- EN: This weapon fires rounds with embedded EMP capacitors, which will temporarily disable electronics and mechanoids. -->
   <EMPRounds.description>อาวุธนี้ยิงกระสุนที่มีคาปาซิเตอร์ EMP ฝังอยู่ ซึ่งจะปิดการใช้งานอุปกรณ์อิเล็กทรอนิกส์และเมคานอยด์ชั่วคราว</EMPRounds.description>
   <!-- EN: EMP -->
-  <EMPRounds.traitAdjectives.0>TODO</EMPRounds.traitAdjectives.0>
+  <EMPRounds.traitAdjectives.0>EMP</EMPRounds.traitAdjectives.0>
   <!-- EN: electric -->
   <EMPRounds.traitAdjectives.1>TODO</EMPRounds.traitAdjectives.1>
   <!-- EN: shocking -->

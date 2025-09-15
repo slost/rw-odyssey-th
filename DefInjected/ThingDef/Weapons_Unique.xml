@@ -75,7 +75,7 @@
   <!-- EN: bolt-action rifle -->
   <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>ปืนไรเฟิลลูกเลื่อน</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: thumper -->
-  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>ทรัมเปอร์</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: bolt-gun -->
   <Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>ปืนลูกเลื่อน</Gun_BoltActionRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: rifle -->
@@ -178,27 +178,27 @@
   <!-- EN: A hellcat rifle with customized parts. -->
   <Gun_HellcatRifle_Unique.description>ปืนไรเฟิลเฮลแคทพร้อมชิ้นส่วนที่ปรับแต่งเอง</Gun_HellcatRifle_Unique.description>
   <!-- EN: burner charge -->
-  <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>เบิร์นเนอร์ชาร์จ</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
   <Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_HellcatRifle_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: hellcat rifle -->
-  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>ปืนไรเฟิลเฮลแคท</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: hellcat -->
-  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>เฮลแคท</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: flamer -->
-  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>เฟรมเมอร์</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: flamegun -->
-  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>TODO</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>ปืนไฟ</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.3>
   <!-- EN: burner -->
-  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>TODO</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>เบิร์นเนอร์</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.4>
   <!-- EN: burngun -->
-  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>TODO</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
+  <Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>ปืนเบิร์น</Gun_HellcatRifle_Unique.comps.CompUniqueWeapon.namerLabels.5>
   <!-- EN: stock -->
   <Gun_HellcatRifle_Unique.tools.stock.label>พานท้าย</Gun_HellcatRifle_Unique.tools.stock.label>
   <!-- EN: barrel -->
   <Gun_HellcatRifle_Unique.tools.barrel.label>ลำกล้อง</Gun_HellcatRifle_Unique.tools.barrel.label>
   <!-- EN: unique hellcat rifle -->
-  <Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>TODO</Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>
+  <Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>ปืนไรเฟิลเฮลแคทพิเศษ</Gun_HellcatRifle_Unique.verbs.Verb_Shoot.label>
   
   <!-- EN: unique LMG -->
   <Gun_LMG_Unique.label>ปืนกลเบาพิเศษ</Gun_LMG_Unique.label>
@@ -209,11 +209,11 @@
   <!-- EN: on cooldown -->
   <Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_LMG_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: LMG -->
-  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>ปืนกลเบา</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: machine gun -->
-  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.1>ปืนกล</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: light machine gun -->
-  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>ปืนกลเบา</Gun_LMG_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: stock -->
   <Gun_LMG_Unique.tools.stock.label>พานท้าย</Gun_LMG_Unique.tools.stock.label>
   <!-- EN: barrel -->
@@ -230,11 +230,11 @@
   <!-- EN: on cooldown -->
   <Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>กำลังคูลดาวน์</Gun_Minigun_Unique.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: minigun -->
-  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>TODO</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>มินิกัน</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: gatling gun -->
-  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.1>TODO</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.1>
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.1>ปืนแกตลิ่ง</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.1>
   <!-- EN: six-barrel -->
-  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>TODO</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>
+  <Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>6-ลำกล้อง</Gun_Minigun_Unique.comps.CompUniqueWeapon.namerLabels.2>
   <!-- EN: barrels -->
   <Gun_Minigun_Unique.tools.barrels.label>ลำกล้อง</Gun_Minigun_Unique.tools.barrels.label>
   <!-- EN: unique minigun -->
@@ -257,7 +257,7 @@
   <!-- EN: hammer -->
   <Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>ค้อน</Gun_Revolver_Unique.comps.CompUniqueWeapon.namerLabels.3>
   <!-- EN: grip -->
-  <Gun_Revolver_Unique.tools.grip.label>TODO</Gun_Revolver_Unique.tools.grip.label>
+  <Gun_Revolver_Unique.tools.grip.label>กริบ</Gun_Revolver_Unique.tools.grip.label>
   <!-- EN: barrel -->
   <Gun_Revolver_Unique.tools.barrel.label>ลำกล้อง</Gun_Revolver_Unique.tools.barrel.label>
   <!-- EN: unique revolver -->

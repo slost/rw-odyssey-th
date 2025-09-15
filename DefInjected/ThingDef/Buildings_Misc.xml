@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: ancient blast door -->
-  <AncientBlastDoor.label>ประตูทนระเบิดโบราณ</AncientBlastDoor.label>
+  <AncientBlastDoor.label>ประตูกันระเบิดโบราณ</AncientBlastDoor.label>
   <!-- EN: A heavily-reinforced door made of an ultratech polymer. Hack the door to open it. -->
-  <AncientBlastDoor.description>ประตูที่เสริมความแข็งแกร่งอย่างหนาแน่นทำจากพอลิเมอร์อัลตร้าเทค แฮ็กประตูเพื่อเปิด</AncientBlastDoor.description>
+  <AncientBlastDoor.description>ประตูที่เสริมความแข็งแกร่งอย่างหนาแน่นทำจากพอลิเมอร์อัลตร้าเทค แฮ็กประตูเพื่อเปิดมัน</AncientBlastDoor.description>
   <!-- EN: Unlocked. -->
   <AncientBlastDoor.comps.CompHackable.hackedInspectString>ปลดล็อคแล้ว</AncientBlastDoor.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
@@ -30,25 +30,25 @@
   <AncientGravEngine.comps.CompInspectString.inspectString>มีอยู่: เกรฟคอร์</AncientGravEngine.comps.CompInspectString.inspectString>
   
   <!-- EN: ancient grav reactor -->
-  <AncientGravReactor.label>เครื่องปฏิกรณ์แกรฟโบราณ</AncientGravReactor.label>
+  <AncientGravReactor.label>เครื่องปฏิกรณ์เกรฟโบราณ</AncientGravReactor.label>
   <!-- EN: An ancient generator powered by a gravcore. Once capable of producing massive amounts of power, it has now fallen into disrepair. The reactor containment shield is leaking, causing toxic fallout to blanket the whole region.\n\nHack or destroy the reactor to obtain a gravcore. Be warned, it may explode if damaged. -->
   <AncientGravReactor.description>เครื่องกำเนิดไฟฟ้าโบราณที่ขับเคลื่อนโดยแกรฟคอร์ ครั้งหนึ่งเคยสามารถผลิตพลังงานจำนวนมหาศาลได้ แต่ตอนนี้ชำรุดทรุดโทรม โล่กักกันเครื่องปฏิกรณ์กำลังรั่วไหล ทำให้ฝุ่นพิษปกคลุมทั่วทั้งภูมิภาค\n\nแฮ็กหรือทำลายเครื่องปฏิกรณ์เพื่อรับแกรฟคอร์ โปรดระวัง มันอาจระเบิดได้หากได้รับความเสียหาย</AncientGravReactor.description>
   <!-- EN: Gravcore obtained -->
   <AncientGravReactor.comps.CompHackable.destroyedLetterLabel>ได้รับเกรฟคอร์แล้ว</AncientGravReactor.comps.CompHackable.destroyedLetterLabel>
   <!-- EN: You've obtained a gravcore from the ancient reactor.\n\nThe reactor is shutting down and the toxic fallout is already beginning to clear. -->
-  <AncientGravReactor.comps.CompHackable.destroyedLetterText>TODO</AncientGravReactor.comps.CompHackable.destroyedLetterText>
+  <AncientGravReactor.comps.CompHackable.destroyedLetterText>ณได้รับเกรฟคอร์จากเครื่องปฏิกรณ์โบราณแล้ว \n\nเครื่องปฏิกรณ์กำลังปิดตัวลงและมลพิษได้เริ่มถูกเคลียแล้ว</AncientGravReactor.comps.CompHackable.destroyedLetterText>
   <!-- EN: Gravcore obtained -->
   <AncientGravReactor.comps.CompHackable.hackedLetterLabel>ได้รับเกรฟคอร์แล้ว</AncientGravReactor.comps.CompHackable.hackedLetterLabel>
   <!-- EN: You've obtained a gravcore from the ancient reactor.\n\nThe reactor is shutting down and the toxic fallout is already beginning to clear. -->
-  <AncientGravReactor.comps.CompHackable.hackedLetterText>TODO</AncientGravReactor.comps.CompHackable.hackedLetterText>
+  <AncientGravReactor.comps.CompHackable.hackedLetterText>คุณได้รับเกรฟคอร์จากเครื่องปฏิกรณ์โบราณแล้ว \n\nเครื่องปฏิกรณ์กำลังปิดตัวลงและมลพิษได้เริ่มถูกเคลียแล้ว</AncientGravReactor.comps.CompHackable.hackedLetterText>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_definite}. -->
   <AncientGravReactor.comps.CompHackable.hackedMessage>{HACKER_labelShort} ได้ทำการแฮค {SUBJECT_definite} เสร็จสิ้น</AncientGravReactor.comps.CompHackable.hackedMessage>
   <!-- EN: Hack to obtain gravcore. -->
   <AncientGravReactor.comps.CompHackable.notHackedInspectString>แฮคเพื่อเอาเกรฟคอร์</AncientGravReactor.comps.CompHackable.notHackedInspectString>
   <!-- EN: Ancient reactor -->
-  <AncientGravReactor.comps.CompLetterOnRevealed.label>TODO</AncientGravReactor.comps.CompLetterOnRevealed.label>
+  <AncientGravReactor.comps.CompLetterOnRevealed.label>เครื่องปฏิกรณ์โบราณ</AncientGravReactor.comps.CompLetterOnRevealed.label>
   <!-- EN: You've discovered the ancient grav reactor. Hack it or destroy it to obtain a gravcore and end the toxic fallout.\n\nBe warned, it may explode if damaged. -->
-  <AncientGravReactor.comps.CompLetterOnRevealed.text>TODO</AncientGravReactor.comps.CompLetterOnRevealed.text>
+  <AncientGravReactor.comps.CompLetterOnRevealed.text>คุณได้ค้นพบเครื่องปฏิกรณ์เกรฟโบราณแล้ว แฮคหรือทำลายเพื่อรับเกรฟคอร์และหยุดการปล่อยมลพิษ \n\nโปรดระวัง มันอาจระเบิดได้หากได้รับความเสียหาย</AncientGravReactor.comps.CompLetterOnRevealed.text>
   
   <!-- EN: ancient stockpile entrance -->
   <AncientHatch.label>ทางเข้าคลังเก็บของโบราณ</AncientHatch.label>
@@ -74,13 +74,13 @@
   <!-- EN: An ancient terminal. Hack it to disable nearby security systems. -->
   <AncientSecurityTerminal.description>เทอร์มินัลโบราณ แฮ็กเพื่อปิดการใช้งานระบบรักษาความปลอดภัยในบริเวณใกล้เคียง</AncientSecurityTerminal.description>
   <!-- EN: Blast door opened -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>ประตูกันระเบิดถูกเปิดแล้ว</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedLabel>
   <!-- EN: {HACKER_nameDef} used the ancient security terminal to open a blast door. -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>{HACKER_nameDef} ใช้เครื่องเทอร์มินัลรักษาความปลอดภัยโบราณเพื่อเปิดประตูกันระเบิด</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterDoorOpenedText>
   <!-- EN: Turret disabled -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>ถูกปิดการใช้งาน</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledLabel>
   <!-- EN: {HACKER_nameDef} used the ancient security terminal to disable a turret. -->
-  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>TODO</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>
+  <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>{HACKER_nameDef} ใช้เครื่องเทอร์มินัลรักษาความปลอดภัยโบราณเพื่อปิดการใช้งานป้อมปืน</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretDisabledText>
   <!-- EN: Turret reprogrammed -->
   <AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>ป้อมปืนถูกตั้งโปรแกรมใหม่</AncientSecurityTerminal.comps.CompAncientSecurityTerminal.letterTurretHackedLabel>
   <!-- EN: {HACKER_nameDef} used the ancient security terminal to reprogram a turret. The turret will now only target hostiles. -->
