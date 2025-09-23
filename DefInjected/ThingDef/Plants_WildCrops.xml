@@ -9,7 +9,7 @@
   <!-- EN: wild fibercorn -->
   <Plant_Fibercorn_Wild.label>ต้นไฟเบอร์คอร์นป่า</Plant_Fibercorn_Wild.label>
   <!-- EN: An inedible, fibrous plant which produces a small amount of a wood-like substance. -->
-  <Plant_Fibercorn_Wild.description>พืชที่มีเส้นใยซึ่งกินไม่ได้และให้ผลผลิตเป็นสารคล้ายไม้ในปริมาณเล็กน้อย</Plant_Fibercorn_Wild.description>
+  <Plant_Fibercorn_Wild.description>พืชเส้นใยซึ่งกินไม่ได้และให้ผลผลิตเป็นสารคล้ายไม้ในปริมาณเล็กน้อย</Plant_Fibercorn_Wild.description>
   
   <!-- EN: wild psychoid plant -->
   <Plant_Psychoid_Wild.label>ต้นไซคอยด์ป่า</Plant_Psychoid_Wild.label>
@@ -22,9 +22,9 @@
   <Plant_Smokeleaf_Wild.description>พืชใบที่ปลูกเพื่อเพื่อสร้างผลกระทบทางจิตใจของสารเคมีในใบของมัน สามารถจัดเตรียมใบสโมคลีฟเป็นพันลำได้ที่จุดประดิษฐ์ สโมคลีฟทำให้ผู้ใช้รู้สึกผ่อนคลาย แต่ลดแรงจูงใจและอาจทำให้เสพติดได้</Plant_Smokeleaf_Wild.description>
   
   <!-- EN: wild strawberry plant -->
-  <Plant_Strawberry_Wild.label>ต้นสตรอว์เบอร์รี</Plant_Strawberry_Wild.label>
+  <Plant_Strawberry_Wild.label>ต้นสตรอเบอร์รีป่า</Plant_Strawberry_Wild.label>
   <!-- EN: A low bush-like plant that yields fragile but delicious strawberries. While it isn't quite as productive calorie-for-calorie as other crops, strawberries are delicious even when raw. -->
-  <Plant_Strawberry_Wild.description>พืชคล้ายพุ่มไม้เตี้ยที่ให้ผลสตรอเบอร์รี่ที่เปราะบางแต่อร่อย แม้ว่าจะมันไม่ค่อยให้แคลอรีต่อแคลอรีมากเท่ากับพืชผลอื่นๆ แต่สตรอว์เบอร์รีก็ยังอร่อยแม้จะกินแบบดิบๆ</Plant_Strawberry_Wild.description>
+  <Plant_Strawberry_Wild.description>พืชเตี้ยคล้ายพุ่มไม้ที่ให้ผลสตรอว์เบอร์รีที่บอบบางแต่อร่อย แม้จะให้ผลผลิตแคลอรี่ต่อแคลอรี่ไม่เท่าพืชชนิดอื่น แต่สตรอว์เบอร์รีก็อร่อยแม้จะกินดิบๆ</Plant_Strawberry_Wild.description>
   
   <!-- EN: wild tinctoria -->
   <Plant_Tinctoria_Wild.label>ต้นครามป่า</Plant_Tinctoria_Wild.label>

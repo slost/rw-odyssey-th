@@ -4,9 +4,9 @@
   <!-- EN: ancient blast door -->
   <AncientBlastDoor.label>ประตูกันระเบิดโบราณ</AncientBlastDoor.label>
   <!-- EN: A heavily-reinforced door made of an ultratech polymer. Hack the door to open it. -->
-  <AncientBlastDoor.description>ประตูที่เสริมความแข็งแกร่งอย่างหนาแน่นทำจากพอลิเมอร์อัลตร้าเทค แฮ็กประตูเพื่อเปิด</AncientBlastDoor.description>
+  <AncientBlastDoor.description>ประตูที่เสริมความแข็งแกร่งอย่างหนาแน่นทำจากพอลิเมอร์อัลตร้าเทค แฮ็คประตูเพื่อเปิด</AncientBlastDoor.description>
   <!-- EN: Unlocked. -->
-  <AncientBlastDoor.comps.CompHackable.hackedInspectString>ปลดล็อค</AncientBlastDoor.comps.CompHackable.hackedInspectString>
+  <AncientBlastDoor.comps.CompHackable.hackedInspectString>ปลดล็อคแล้ว</AncientBlastDoor.comps.CompHackable.hackedInspectString>
   <!-- EN: {HACKER_labelShort} has finished hacking {SUBJECT_labelNoParenthesisDef}. -->
   <AncientBlastDoor.comps.CompHackable.hackedMessage>{HACKER_labelShort} ได้แฮ็ค {SUBJECT_labelNoParenthesisDef} เสร็จสิ้นแล้ว</AncientBlastDoor.comps.CompHackable.hackedMessage>
   <!-- EN: Hack to open. -->
