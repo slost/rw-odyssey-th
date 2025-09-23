@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: aim assistance -->
@@ -15,23 +15,6 @@
   <AimAssistance.traitAdjectives.3>เล็งอัตโนมัติ</AimAssistance.traitAdjectives.3>
   <!-- EN: self-aim -->
   <AimAssistance.traitAdjectives.4>เล็งด้วยตนเอง</AimAssistance.traitAdjectives.4>
-  
-  <!-- EN: bioferrite burner -->
-  <BioferriteBurner.label>เครื่องเผาไบโอเฟอร์ไรต์</BioferriteBurner.label>
-  <!-- EN: This weapon has a bioferrite-powered flamethrower unit. The burner generates a blast of flame from a pressurized bioferrite charge. Once used, it must be reloaded using bioferrite. -->
-  <BioferriteBurner.description>อาวุธนี้มีหน่วยพ่นไฟที่ใช้พลังงานจากไบโอเฟอร์ไรต์ เครื่องเผาจะสร้างเปลวไฟจากการอัดประจุไบโอเฟอร์ไรต์ เมื่อใช้แล้วจะต้องบรรจุใหม่โดยใช้ไบโอเฟอร์ไรต์</BioferriteBurner.description>
-  <!-- EN: burner charge -->
-  <BioferriteBurner.abilityProps.chargeNoun>ชาร์จเครื่องเผา</BioferriteBurner.abilityProps.chargeNoun>
-  <!-- EN: on cooldown -->
-  <BioferriteBurner.abilityProps.cooldownGerund>กำลังคูลดาวน์</BioferriteBurner.abilityProps.cooldownGerund>
-  <!-- EN: fiery -->
-  <BioferriteBurner.traitAdjectives.0>ร้อนแรง</BioferriteBurner.traitAdjectives.0>
-  <!-- EN: flame -->
-  <BioferriteBurner.traitAdjectives.1>เปลวไฟ</BioferriteBurner.traitAdjectives.1>
-  <!-- EN: flaming -->
-  <BioferriteBurner.traitAdjectives.2>ลุกไหม้</BioferriteBurner.traitAdjectives.2>
-  <!-- EN: burning -->
-  <BioferriteBurner.traitAdjectives.3>เผาไหม้</BioferriteBurner.traitAdjectives.3>
   
   <!-- EN: birdshot pellets -->
   <BirdshotPellets.label>ลูกปราย Birdshot</BirdshotPellets.label>
@@ -301,6 +284,7 @@
   <Ornamental.traitAdjectives.1>สง่างาม</Ornamental.traitAdjectives.1>
   <!-- EN: ornamental -->
   <Ornamental.traitAdjectives.2>ประดับ</Ornamental.traitAdjectives.2>
+  
   <!-- EN: heavy rounds -->
   <OversizedRounds.label>กระสุนหนัก</OversizedRounds.label>
   <!-- EN: This weapon deals more damage and has a much higher stopping power than normal. -->

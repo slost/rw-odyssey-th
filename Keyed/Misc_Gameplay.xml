@@ -108,6 +108,14 @@
   <MustBeOutside>ต้องอยู่ข้างนอก</MustBeOutside>
   <!-- EN: blocked by substructure -->
   <BlockedBySubstructure>ถูกปิดกั้นโดยโครงพื้นยาน</BlockedBySubstructure>
+  <!-- EN: {PAWN_nameDef} cannot board {1} -->
+  <FailedToBoardGravship>TODO</FailedToBoardGravship>
+  <!-- EN: {PAWN_nameDef} cannot exit {1} -->
+  <FailedToLeaveGravship>TODO</FailedToLeaveGravship>
+  <!-- EN: View range -->
+  <ViewRange>TODO</ViewRange>
+  <!-- EN: View the gravship’s current range on the world map. -->
+  <ViewRangeDesc>TODO</ViewRangeDesc>
 
   <!-- Map generation -->
   <!-- EN: Landmark -->
@@ -287,6 +295,8 @@
   <!-- EN: Unique weapon -->
   <UniqueWeapon>อาวุธยูนีค</UniqueWeapon>
 
+  <!-- EN: Reforming a caravan will abandon your gravship. Are you sure you want to continue?\n\nTo leave with your gravship, select the gravship's pilot console, then select 'launch'. -->
+  <ConfirmLoseGravship>TODO</ConfirmLoseGravship>
   <!-- EN: Reforming a caravan will abandon your shuttle. Are you sure you want to continue?\n\nTo leave with your shuttle, select the shuttle, then select 'launch'. -->
   <ConfirmLoseShuttle>การจัดตั้งคาราวานใหม่จะละทิ้งยานกระสวยของคุณ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?\n\nในการออกไปกับยานกระสวยของคุณ ให้เลือกยานกระสวยจากนั้นเลือก 'ปล่อยตัว'</ConfirmLoseShuttle>
 
@@ -303,7 +313,7 @@
   <!-- Special Trainables -->
   <!-- EN: Attack -->
   <AnimalAttackTarget>โจมตี</AnimalAttackTarget>
-  <!-- EN: Command this animal to attack a specific target that its master can see. -->
+  <!-- EN: Command this animal to attack a specific target. -->
   <AnimalAttackTargetDesc>สั่งสัตว์ตัวนี้ให้โจมตีเป้าหมายที่เจาะจงซึ่งเจ้านายของมันสามารถมองเห็นได้</AnimalAttackTargetDesc>
   <!-- EN: Animals attack target -->
   <AnimalsAttackTarget>สัตว์โจมตีเป้าหมาย</AnimalsAttackTarget>
@@ -328,18 +338,16 @@
   <!-- EN: Allow digging -->
   <DigEnabled>อนุญาตการขุด</DigEnabled>
 
-  <!-- EN: Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
-  <ConfirmSealHatch>การปิดผนึกทางเข้าคลังโบราณนั้นเป็นการปิดถาวร สิ่งใดหรือใครก็ตามที่เหลืออยู่ด้านล่างจะหายไปตลอดกาล {0}\n\nคุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?</ConfirmSealHatch>
-  <!-- EN: Cannot seal -->
-  <CannotChooseSealer>ปิดผนึกไม่ได้</CannotChooseSealer>
-  <!-- EN: Sealed -->
-  <Sealed>ปิดผนึก</Sealed>
-  <!-- EN: Permanently sealed. -->
-  <HatchSealed>ปิดผนึกฐาวร</HatchSealed>
   <!-- EN: Unlocked. -->
   <HatchUnlocked>ปลดล็อค</HatchUnlocked>
 
   <!-- EN: A short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. It shuts down instantly if hit by an EMP. -->
   <GravshipShieldTip>พื้นผิวแรงผลักดันโมเมนตัมระยะสั้นที่ปิดกั้นขีปนาวุธ มันทำงานกับการยิงปกติและปืนครก มันจะปิดตัวลงทันทีหากถูกยิงด้วยอีเอ็มพี</GravshipShieldTip>
+
+  <!-- UNUSED -->
+  <ConfirmSealHatch>การปิดผนึกทางเข้าคลังโบราณนั้นเป็นการปิดถาวร สิ่งใดหรือใครก็ตามที่เหลืออยู่ด้านล่างจะหายไปตลอดกาล {0}\n\nคุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?</ConfirmSealHatch>
+  <CannotChooseSealer>ปิดผนึกไม่ได้</CannotChooseSealer>
+  <Sealed>ปิดผนึก</Sealed>
+  <HatchSealed>ปิดผนึกฐาวร</HatchSealed>
 
 </LanguageData>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: alligator egg (fert.) -->
@@ -71,14 +71,14 @@
   <!-- EN: An unfertilized monitor lizard egg. It can be eaten raw, but it's much better cooked. -->
   <EggMonitorLizardUnfertilized.description>ไข่กิ้งก่ามอนิเตอร์ที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggMonitorLizardUnfertilized.description>
   
-  <!-- EN: peacock egg (fert.) -->
+  <!-- EN: peafowl egg (fert.) -->
   <EggPeacockFertilized.label>ไข่นกยูง (ปฏิสนธิ)</EggPeacockFertilized.label>
-  <!-- EN: A fertilized peacock egg. If all goes well, it should hatch into a baby peacock. It can be eaten raw, but it's much better cooked. -->
+  <!-- EN: A fertilized peafowl egg. If all goes well, it should hatch into a baby peacock. It can be eaten raw, but it's much better cooked. -->
   <EggPeacockFertilized.description>ไข่นกยูงที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกนกยูง สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggPeacockFertilized.description>
   
-  <!-- EN: peacock egg (unfert.) -->
+  <!-- EN: peafowl egg (unfert.) -->
   <EggPeacockUnfertilized.label>ไข่นกยูง (ไม่ปฏิสนธิ)</EggPeacockUnfertilized.label>
-  <!-- EN: An unfertilized peacock egg. It can be eaten raw, but it's much better cooked. -->
+  <!-- EN: An unfertilized peafowl egg. It can be eaten raw, but it's much better cooked. -->
   <EggPeacockUnfertilized.description>ไข่นกยูงที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggPeacockUnfertilized.description>
   
   <!-- EN: penguin egg (fert.) -->

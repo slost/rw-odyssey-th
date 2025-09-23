@@ -42,7 +42,7 @@
     <li>questMapText->hidden valuables</li>
   -->
   <OpportunitySite_ItemStash_Giver.questSubjectRules.rulesStrings>
-      <li>subject->ค้นของในคลัง</li>
+    <li>subject->ค้นของในคลัง</li>
     <li>subject->สมบัติลับ</li>
     <li>subject->ของมีค่า</li>
     <li>questMapFeature->รูปวาดหีบสมบัติ</li>

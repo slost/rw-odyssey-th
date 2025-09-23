@@ -12,7 +12,7 @@
   <AlertMechanoidThreatDesc>เมคไฮฟ์กำลังสแกนเพื่อตรวจหาตำแหน่งของคุณ มันจะส่งกองกำลังขนาดใหญ่ของเมคคานอยด์ที่ไม่เป็นมิตรเข้าจู่โจมเมื่อพบเป้าหมาย\n\nหนีจากแผนที่ก่อนพวกมันจะมาถึง!</AlertMechanoidThreatDesc>
   <!-- EN: Incoming mechanoids -->
   <AlertMechanoidThreatCritical>เมคคานอยด์กำลังมา</AlertMechanoidThreatCritical>
-  <!-- EN: A mechhive has discovered your location. It will continue to send hostile mechanoids until you flee this location. -->
+  <!-- EN: A mechhive has discovered your location. It will send multiple waves of hostile mechanoids.\n\nFlee the map before mechanoids arrive! -->
   <AlertMechanoidThreatCriticalDesc>เมคไฮฟ์ค้นพบตำแหน่งของคุณแล้ว และจะส่งเมคคานอยด์ที่ไม่เป็นมิตรเข้ามาเรื่อยๆ จนกว่าคุณจะหลบหนีออกจากพื้นที่นี้</AlertMechanoidThreatCriticalDesc>
 
   <!-- Mechhive -->

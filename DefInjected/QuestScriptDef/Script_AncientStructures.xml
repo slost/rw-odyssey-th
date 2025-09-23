@@ -66,7 +66,6 @@
     <li>questDescription->[discoveryMethod]ตำแหน่งของ[structureNameWithArticle] คุณสามารถเข้าไปค้นสิ่งก่อสร้างนั้นเพื่อเก็บทรัพยากรล้ำค่าได้\n\nแต่โปรดระวัง สิ่งปลูกสร้างโบราณอาจมีภัยอันตรายหลากหลายอย่างแฝงอยู่</li>
     <li>structureNameWithArticle->โรงกลั่นเชื้อเพลิงเคมีโบราณแห่งหนึ่ง</li>
   </Opportunity_AncientStructureChemfuelRefinery.questDescriptionRules.rulesStrings>
-  
   <!-- EN:
     <li>questName->The [ancient] [structureName]</li>
     <li>questName->[ancient] [structureName]</li>
@@ -260,7 +259,7 @@
     <li>ancient->Lost</li>
     <li>structureName->warehouse</li>
   -->
-  <Opportunity_AncientStructureWarehouse.questNameRules.rulesStrings>ฃ
+  <Opportunity_AncientStructureWarehouse.questNameRules.rulesStrings>
     <li>questName->[structureName][ancient]</li>
     <li>questName->[structureName][ancient]</li>
     <li>questName->[structureName]ถูกค้นพบ</li>

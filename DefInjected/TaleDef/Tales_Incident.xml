@@ -27,7 +27,6 @@
     <li>desc_sentence->[Quantity_adjphrase] figures scramble to secure their belongings.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s scurry about, seeking cover.</li>
     <li>desc_sentence->Space is charged with an eerie power.</li>
-    ดาวตกจิ๋ว อุกกาบาต 
   -->
   <OrbitalDebris.rulePack.rulesStrings>
     <li>tale_noun->พายุอุกกาบาตขนาดเล็กพัดถล่ม[Community]ของ [PAWN_nameDef]</li>

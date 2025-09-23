@@ -1,10 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
-  <!-- EN: blood warmer -->
-  <BloodWarmer.label>ตัวอุ่นเลือด</BloodWarmer.label>
-  <!-- EN: A special bioferrite prosthetic that actively heats a ghoul's blood, allowing it to survive in cold environments. The prosthetic replaces a ghoul's kidney, heating the blood as it passes through.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this enhancement. -->
-  <BloodWarmer.description>อวัยวะเทียมไบโอเฟอร์ไรต์พิเศษที่คอยอุ่นเลือดของกูล ทำให้สามารถอยู่รอดในสภาพแวดล้อมที่หนาวเย็นได้ อวัยวะเทียมจะมาแทนที่ไตของกูล คอยอุ่นเลือดขณะที่ไหลผ่าน\n\nเนื่องจากอวัยวะเทียมนี้สร้างความเจ็บปวดอย่างยิ่ง มีเพียงกูลเท่านั้นที่สามารถทนต่อการเสริมประสิทธิภาพนี้ได้</BloodWarmer.description>
   
   <!-- EN: pilot assistant -->
   <PilotAssistant.label>ระบบช่วยนักบิน</PilotAssistant.label>

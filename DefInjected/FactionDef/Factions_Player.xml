@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: gravship crew -->
@@ -10,8 +10,8 @@
   <!-- EN: {0} from {1} are attacking your {2}. -->
   <GravshipCrew.messageDefendersAttacking>{0} จาก {1} กำลังโจมตี {2} ของคุณ</GravshipCrew.messageDefendersAttacking>
   <!-- EN: colonist -->
-  <GravshipCrew.pawnSingular>ชาวอาณานิคม</GravshipCrew.pawnSingular>
+  <GravshipCrew.pawnSingular>ชาวนิคม</GravshipCrew.pawnSingular>
   <!-- EN: colonists -->
-  <GravshipCrew.pawnsPlural>ชาวอาณานิคม</GravshipCrew.pawnsPlural>
+  <GravshipCrew.pawnsPlural>ชาวนิคม</GravshipCrew.pawnsPlural>
   
 </LanguageData>

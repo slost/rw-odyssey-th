@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: fishing -->
   <Fishing.label>การตกปลา</Fishing.label>
-  <!-- EN: Place a 'fishing zone' where your hunters will fish. Larger bodies of water are better for fishing.\n\nFishing reduces the fish population in a body of water.\n\nAvoid overfishing - fewer fish will be caught if a body of water has under 300 fish.\n\nHunters with a high animals skill catch more fish faster. -->
+  <!-- EN: Place a 'fishing zone' where your colonists will fish. Larger bodies of water are better for fishing.\n\nFishing reduces the fish population in a body of water.\n\nAvoid overfishing - fewer fish will be caught if a body of water has under 300 fish.\n\nColonists with a high animals skill catch more fish faster. -->
   <Fishing.helpText>วาง 'โซนตกปลา' ที่นักล่าของคุณจะตกปลา แหล่งน้ำขนาดใหญ่เหมาะสำหรับการตกปลามากกว่า\n\nการตกปลาช่วยลดจำนวนปลาในแหล่งน้ำ\n\nหลีกเลี่ยงการตกปลามากเกินไป จะจับปลาได้น้อยลงหากแหล่งน้ำมีปลาน้อยกว่า 300 ตัว\n\nนักล่าที่มีทักษะด้านสัตว์สูงจะจับปลาได้มากขึ้นเร็วขึ้น</Fishing.helpText>
   
   <!-- EN: gravship -->
   <Gravship.label>ยานกราฟชิป</Gravship.label>
-  <!-- EN: Build a gravship around your grav engine. When you launch the ship will carry the entire structure to a new map.\n\nLaunching the gravship destroys the current map. You can build a grav anchor to prevent this.\n\nTo launch, a gravship needs:\n     - Pilot console\n     - Fuel tanks\n     - Thrusters\n\nResearch 'basic gravtech' to unlock these.\n\nYou can only build a limited amount of substructure. To increase this limit, find gravcores and gravlite panels.\n\nYour grav engine will occasionally detect gravtech around the planet and mark it on your world map. -->
+  <!-- EN: Build a gravship around your grav engine. When you launch the ship will carry the entire structure to a new map.\n\nLaunching the gravship destroys the current map. You can build a grav anchor to prevent this.\n\nTo launch, a gravship needs:\n     - Pilot console\n     - Fuel tanks\n     - Thrusters\n\nResearch 'basic gravtech' to unlock these.\n\nYou can only build a limited amount of substructure. To increase this limit, find gravcores and gravlite panels.\n\nGravship substructure can be removed using the 'remove foundation' designator.\n\nYour grav engine will occasionally detect gravtech around the planet and mark it on your world map. -->
   <Gravship.helpText>สร้างยานกราฟชิปรอบๆ เครื่องยนต์แรงโน้มถ่วงของคุณ เมื่อคุณปล่อย ยานจะนำโครงสร้างทั้งหมดไปยังแผนที่ใหม่\n\nการปล่อยยานกราฟชิปจะทำลายแผนที่ปัจจุบัน คุณสามารถสร้างสมอแรงโน้มถ่วงเพื่อป้องกันสิ่งนี้ได้\n\nในการปล่อย ยานกราฟชิปต้องการ:\n     - คอนโซลนักบิน\n     - ถังเชื้อเพลิง\n     - เครื่องขับดัน\n\nวิจัย 'เทคโนโลยีกราฟพื้นฐาน' เพื่อปลดล็อกสิ่งเหล่านี้\n\nคุณสามารถสร้างโครงสร้างย่อยได้ในปริมาณที่จำกัด หากต้องการเพิ่มขีดจำกัดนี้ ให้ค้นหากราฟคอร์และแผงกราฟไลท์\n\nเครื่องยนต์แรงโน้มถ่วงของคุณจะตรวจจับเทคโนโลยีกราฟรอบๆ ดาวเคราะห์เป็นครั้งคราวและทำเครื่องหมายไว้บนแผนที่โลกของคุณ</Gravship.helpText>
   
   <!-- EN: orbit -->

@@ -142,7 +142,7 @@
     <li>terrain_word->bastion</li>
   -->
   <NamerScarlands.rulePack.rulesStrings>
-      <li>r_name(p=0.2)->[narrative_name][ruin_adjective]</li>
+    <li>r_name(p=0.2)->[narrative_name][ruin_adjective]</li>
     <li>r_name(p=0.2)->[terrain_word][narrative_name]</li>
     <li>ruin_adjective(p=2)->ที่ถูกทำลาย</li>
     <li>ruin_adjective->โบราณ</li>

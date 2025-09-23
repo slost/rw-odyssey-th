@@ -6,11 +6,6 @@
   <!-- EN: A mid-size crop that yields fine white cotton fibers. These are used to make cloth. -->
   <Plant_Cotton_Wild.description>พืชขนาดกลางที่ให้เส้นใยฝ้ายสีขาวละเอียด พืชเหล่านี้ใช้ทำผ้า</Plant_Cotton_Wild.description>
   
-  <!-- EN: wild fibercorn -->
-  <Plant_Fibercorn_Wild.label>ต้นไฟเบอร์คอร์นป่า</Plant_Fibercorn_Wild.label>
-  <!-- EN: An inedible, fibrous plant which produces a small amount of a wood-like substance. -->
-  <Plant_Fibercorn_Wild.description>พืชเส้นใยซึ่งกินไม่ได้และให้ผลผลิตเป็นสารคล้ายไม้ในปริมาณเล็กน้อย</Plant_Fibercorn_Wild.description>
-  
   <!-- EN: wild psychoid plant -->
   <Plant_Psychoid_Wild.label>ต้นไซคอยด์ป่า</Plant_Psychoid_Wild.label>
   <!-- EN: A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive. -->

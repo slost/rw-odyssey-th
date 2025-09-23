@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: pinniped -->
@@ -59,7 +59,7 @@
   <!-- EN: front right flipper -->
   <PinnipedWithTusks.corePart.parts.right_forelimb.parts.front_right_flipper.customLabel>ครีบหน้าขวา</PinnipedWithTusks.corePart.parts.right_forelimb.parts.front_right_flipper.customLabel>
   <!-- EN: left hindlimb -->
-  <PinnipedWithTusks.corePart.parts.left_hindlimb.customLabel>ขาหลังซ้าย/PinnipedWithTusks.corePart.parts.left_hindlimb.customLabel>
+  <PinnipedWithTusks.corePart.parts.left_hindlimb.customLabel>ขาหลังซ้าย</PinnipedWithTusks.corePart.parts.left_hindlimb.customLabel>
   <!-- EN: rear left flipper -->
   <PinnipedWithTusks.corePart.parts.left_hindlimb.parts.rear_left_flipper.customLabel>ครีบหลังซ้าย</PinnipedWithTusks.corePart.parts.left_hindlimb.parts.rear_left_flipper.customLabel>
   <!-- EN: right hindlimb -->

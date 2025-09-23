@@ -59,11 +59,6 @@
   <!-- EN: Shuttle is already fully fueled -->
   <ShuttleFullyFueled>ยานกระสวยบรรจุเชื้อเพลิงเต็มแล้ว</ShuttleFullyFueled>
 
-  <!-- EN: Seal entrance... -->
-  <SealHatch>ปิดผนึกทางเข้า...</SealHatch>
-  <!-- EN: Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever. -->
-  <SealHatchDesc>เลือกชาวนิคมเพื่อปิดผนึกทางเข้าอย่างถาวร สิ่งใดหรือใครก็ตามที่เหลืออยู่ด้านล่างจะหายไปตลอดกาล</SealHatchDesc>
-
   <!-- EN: Activate -->
   <GravshipShieldOrderActivation>เปิดใช้งาน</GravshipShieldOrderActivation>
   <!-- EN: Deactivate -->
@@ -75,4 +70,8 @@
 
   <!-- EN: Merging these caravans will cause the following to be lost:\n{0}\n\nAre you sure you want to continue? -->
   <ConfirmMergeShuttles>การรวมคาราวานเหล่านี้จะทำให้สิ่งต่อไปนี้สูญหาย:\n{0}คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?</ConfirmMergeShuttles>
+  <!-- UNUSED -->
+  <SealHatch>ปิดผนึกทางเข้า...</SealHatch>
+  <SealHatchDesc>เลือกชาวนิคมเพื่อปิดผนึกทางเข้าอย่างถาวร สิ่งใดหรือใครก็ตามที่เหลืออยู่ด้านล่างจะหายไปตลอดกาล</SealHatchDesc>
+
 </LanguageData>

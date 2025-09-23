@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
+  
+  <!-- EN: drop pod -->
+  <ActiveDropPodAncient.label>TODO</ActiveDropPodAncient.label>
   
   <!-- EN: ancient blast door -->
   <AncientBlastDoor.label>ประตูกันระเบิดโบราณ</AncientBlastDoor.label>
@@ -14,7 +17,7 @@
   
   <!-- EN: ancient explosives crate -->
   <AncientExplosivesCrate.label>ลังวัตถุระเบิดโบราณ</AncientExplosivesCrate.label>
-  <!-- EN: A container of ancient mining charges. It will explode if damaged.\n\nThe explosion is powerful enough to penetrate through walls. -->
+  <!-- EN: A container of ancient mining charges. It will explode if damaged. -->
   <AncientExplosivesCrate.description>ภาชนะบรรจุระเบิดเหมืองโบราณ มันจะระเบิดหากได้รับความเสียหาย\n\nแรงระเบิดรุนแรงพอที่จะทะลุกำแพงได้</AncientExplosivesCrate.description>
   
   <!-- EN: fortified wall -->
@@ -58,6 +61,18 @@
   <AncientHatch.comps.CompHackable.hackedMessage>{HACKER_labelShort} ได้แฮ็ค {SUBJECT_labelNoParenthesisDef} เสร็จสิ้นแล้ว</AncientHatch.comps.CompHackable.hackedMessage>
   <!-- EN: Hack to open. -->
   <AncientHatch.comps.CompHackable.notHackedInspectString>แฮ็คเพื่อเปิด</AncientHatch.comps.CompHackable.notHackedInspectString>
+  <!-- EN: Sealed -->
+  <AncientHatch.comps.CompSealable.cannotEnterLabel>TODO</AncientHatch.comps.CompSealable.cannotEnterLabel>
+  <!-- EN: Cannot seal -->
+  <AncientHatch.comps.CompSealable.cannotSealLabel>TODO</AncientHatch.comps.CompSealable.cannotSealLabel>
+  <!-- EN: Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
+  <AncientHatch.comps.CompSealable.confirmSealText>TODO</AncientHatch.comps.CompSealable.confirmSealText>
+  <!-- EN: Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever. -->
+  <AncientHatch.comps.CompSealable.sealCommandDesc>TODO</AncientHatch.comps.CompSealable.sealCommandDesc>
+  <!-- EN: Seal entrance -->
+  <AncientHatch.comps.CompSealable.sealCommandLabel>TODO</AncientHatch.comps.CompSealable.sealCommandLabel>
+  <!-- EN: Permanently sealed. -->
+  <AncientHatch.comps.CompSealable.sealedInspectString>TODO</AncientHatch.comps.CompSealable.sealedInspectString>
   
   <!-- EN: ancient stockpile exit -->
   <AncientHatchExit.label>ทางออกคลังเก็บของโบราณ</AncientHatchExit.label>
@@ -66,7 +81,7 @@
   
   <!-- EN: ancient mining charge -->
   <AncientMiningCharge.label>ระเบิดเหมืองโบราณ</AncientMiningCharge.label>
-  <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate.\n\nThe explosion is powerful enough to penetrate through walls. -->
+  <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate. -->
   <AncientMiningCharge.description>อุปกรณ์ระเบิดที่ใช้ในการระเบิดหินอย่างรวดเร็ว ทำจากเชื้อเพลิงเคมีที่ผ่านการกลั่นแล้ว วัตถุระเบิดนี้เก่าแล้ว แต่ยังพร้อมที่จะระเบิด\n\nแรงระเบิดรุนแรงพอที่จะทะลุกำแพงได้</AncientMiningCharge.description>
   
   <!-- EN: ancient security terminal -->
@@ -198,6 +213,7 @@
   <MechRelay.comps.CompMechRelay.destabilizationInspectString>กำลังทำให้ไม่เสถียร</MechRelay.comps.CompMechRelay.destabilizationInspectString>
   <!-- EN: The mechanoid relay has begun to destabilize. -->
   <MechRelay.comps.CompMechRelay.destabilizationMessage>รีเลย์เมคคานอยด์เริ่มไม่เสถียร</MechRelay.comps.CompMechRelay.destabilizationMessage>
+  
   <!-- EN: crashed mechanoid relay -->
   <MechRelay_Crashed.label>รีเลย์เมคคานอยด์ที่ตก</MechRelay_Crashed.label>
   <!-- EN: A node that coordinates signals across a planet-wide mechanoid communication network. The command signals originate at the mechhive - the center of mechanoid intelligence. -->

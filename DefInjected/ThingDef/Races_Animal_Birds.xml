@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bluebird -->
@@ -56,7 +56,7 @@
   <!-- EN: head -->
   <Macaw.tools.head.label>หัว</Macaw.tools.head.label>
   
-  <!-- EN: peacock -->
+  <!-- EN: peafowl -->
   <Peacock.label>นกยูง</Peacock.label>
   <!-- EN: Large birds with extravagant plumage. Male peacocks use their tail feathers in elaborate courtship displays. -->
   <Peacock.description>นกขนาดใหญ่ที่มีขนนกหรูหรา นกยูงตัวผู้ใช้ขนหางในการแสดงการเกี้ยวพาราสีที่ประณีต</Peacock.description>

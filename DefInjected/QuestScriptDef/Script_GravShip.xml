@@ -13,7 +13,6 @@
     <li>questName->ancient reactor</li>
   -->
   <Gravcore_AncientReactor.questNameRules.rulesStrings>
-
     <li>questName->เครื่องปฏิกรณ์โบราณ</li>
   </Gravcore_AncientReactor.questNameRules.rulesStrings>
   
@@ -44,7 +43,7 @@
     <li>questName->crashed mechanoid platform</li>
   -->
   <Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
-    <li>questName->แพลตฟอร์มเมคคานอยด์ที่ร่วงตก</li> 
+    <li>questName->แพลตฟอร์มเมคคานอยด์ที่ร่วงตก</li>
   </Gravcore_CrashedMechanoidPlatform.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Frozen terraformer -->
@@ -73,7 +72,9 @@
   <!-- EN:
     <li>questName->cave entrance</li>
   -->
-  <Gravcore_InsectLair.questNameRules.rulesStrings><li>questName->ทางเข้าถ้ำ</li></Gravcore_InsectLair.questNameRules.rulesStrings>
+  <Gravcore_InsectLair.questNameRules.rulesStrings>
+    <li>questName->ทางเข้าถ้ำ</li>
+  </Gravcore_InsectLair.questNameRules.rulesStrings>
   
   <!-- EN: Gravcore detected: Mechanoid relay -->
   <Gravcore_MechanoidRelay.questAvailableLetterLabel>ตรวจพบกราฟคอร์: รีเลย์เมคคานอยด์</Gravcore_MechanoidRelay.questAvailableLetterLabel>
@@ -135,7 +136,7 @@
   -->
   <Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
     <li>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ สัญญาณส่งมาจากแพลตฟอร์มเมคคานอยด์ในวงโคจร การสแกนเผยให้เห็นการป้องกันอย่างหนาแน่น\n\nคุณสามารถเดินทางไปแพลตฟอร์มวงโคจรได้ด้วยยานกราฟชิป ยานกระสวย หรือกระสวยขนส่ง\n\nโปรดระวัง สถานที่ในวงโคจรนั้นอันตรายอย่างยิ่ง สวมสูทสุญญากาศให้ชาวนิคมของคน วางแผนการเดินทางกลับให้ดี เนื่องจากการใช้ชีวิตในวงโคจรเป็นเวลานานนั้นยากลำบากมาก</li>
-</Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
+  </Gravcore_OrbitalMechanoidPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Mechanoid platform</li>
   -->

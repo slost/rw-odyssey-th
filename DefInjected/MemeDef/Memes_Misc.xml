@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: shipborn -->
@@ -78,26 +78,26 @@
     <li>memeMoralist->councillor</li>
   -->
   <Shipborn.generalRules.rulesStrings>
-  <li>memeCreed->ลูกเรือ</li>
-  <li>memeCreed->ยาน</li>
-  <li>memeCreed->ยานอวกาศ</li>
-  <li>memeAdjective->แห่งดวงดาว</li>
-  <li>memeAdjective->ที่ว่างเปล่า</li>
-  <li>memeAdjective->คอสมิค</li>
-  <li>memeAdjective->แห่งท้องฟ้า</li>
-  <li>memeAdjective->แห่งดารา</li>
-  <li>memeHyphenPrefix->อวกาศ</li>
-  <li>memeHyphenPrefix->มืด</li>
-  <li>memeConcept->อวกาศ</li>
-  <li>memeConcept->ดวงดาว</li>
-  <li>memeConcept->ยานอวกาศ</li>
-  <li>memeLeaderNoun->กัปตัน</li>
-  <li>memeLeaderNoun->ผู้เกิดในดวงดาว</li>
-  <li>memeLeaderNoun->นักบิน</li>
-  <li>memeLeaderAdjective->เจิดจรัส</li>
-  <li>memeMoralist->ผู้ชี้ทาง</li>
-  <li>memeMoralist->ต้นหน</li>
-  <li>memeMoralist->ที่ปรึกษา</li>
+    <li>memeCreed->ลูกเรือ</li>
+    <li>memeCreed->ยาน</li>
+    <li>memeCreed->ยานอวกาศ</li>
+    <li>memeAdjective->แห่งดวงดาว</li>
+    <li>memeAdjective->ที่ว่างเปล่า</li>
+    <li>memeAdjective->คอสมิค</li>
+    <li>memeAdjective->แห่งท้องฟ้า</li>
+    <li>memeAdjective->แห่งดารา</li>
+    <li>memeHyphenPrefix->อวกาศ</li>
+    <li>memeHyphenPrefix->มืด</li>
+    <li>memeConcept->อวกาศ</li>
+    <li>memeConcept->ดวงดาว</li>
+    <li>memeConcept->ยานอวกาศ</li>
+    <li>memeLeaderNoun->กัปตัน</li>
+    <li>memeLeaderNoun->ผู้เกิดในดวงดาว</li>
+    <li>memeLeaderNoun->นักบิน</li>
+    <li>memeLeaderAdjective->เจิดจรัส</li>
+    <li>memeMoralist->ผู้ชี้ทาง</li>
+    <li>memeMoralist->ต้นหน</li>
+    <li>memeMoralist->ที่ปรึกษา</li>
   </Shipborn.generalRules.rulesStrings>
   
 </LanguageData>
