@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->[discoveryMethod] the location of an abandoned orbital platform. You don't detect any signs of life.\n\nYou can break in to obtain the loot inside, but the platform probably has defense systems.\n\nYou can travel to orbital locations using gravships, shuttles, or transport pods.</li>
   -->
-  <OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>TODO</OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
+    <li>questDescription->[discoveryMethod]ตำแหน่งของแพลตฟอร์มวงโคจรร้าง คุณไม่พบสัญญาณของสิ่งมีชีวิต\n\nคุณสามารถบุกเข้าไปเพื่อเก็บของมีค่าภายในได้ แต่แพลตฟอร์มอาจมีระบบป้องกัน\n\nคุณสามารถเดินทางไปยังสถานที่วงโคจรได้ด้วยยานกราฟชิป ยานกระสวย หรือกระสวยขนส่ง</li>
+  </OpportunitySite_AbandonedPlatform.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=3)->[ancientPlatAdj] [platform]</li>
     <li>questName->[PlaceOutlander] [platform]</li>

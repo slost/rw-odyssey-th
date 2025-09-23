@@ -5,7 +5,7 @@
   <!-- EN: Gravship -->
   <Gravship>ยานกราฟชิป</Gravship>
   <!-- EN: no grav engine -->
-  <CannotLaunchNoEngine>ไม่มีกราฟเอนจิ้น</CannotLaunchNoEngine>
+  <CannotLaunchNoEngine>ไม่มีเครื่องยนต์แรงโน้มถ่วง</CannotLaunchNoEngine>
   <!-- EN: not enough fuel -->
   <CannotLaunchNotEnoughFuel>เชื้อเพลิงไม่เพียงพอ</CannotLaunchNotEnoughFuel>
   <!-- EN: Cannot reach this destination -->
@@ -17,7 +17,7 @@
   <!-- EN: Substructure blueprints placed -->
   <SubstructureBlueprintsCount>พิมพ์เขียวโครงพื้นที่วางแล้ว</SubstructureBlueprintsCount>
   <!-- EN: not connected to grav engine -->
-  <CannotLaunchDisconnected>ไม่เชื่อมต่อกับกราฟเอนจิ้น</CannotLaunchDisconnected>
+  <CannotLaunchDisconnected>ไม่เชื่อมต่อกับเครื่องยนต์แรงโน้มถ่วง</CannotLaunchDisconnected>
   <!-- EN: no substructure -->
   <CannotLaunchNoSubstructure>ไม่มีโครงพื้น</CannotLaunchNoSubstructure>
   <!-- EN: no unblocked functioning thrusters -->
@@ -97,11 +97,11 @@
   <!-- EN: Gravship launch called off -->
   <GravshipLaunchInterrupted>การปล่อยตัวยานกราฟชิปถูกยกเลิก</GravshipLaunchInterrupted>
   <!-- EN: Not connected to grav engine. -->
-  <NotConnectedToGravEngine>ไม่เชื่อมต่อกับกราฟเอนจิ้น</NotConnectedToGravEngine>
+  <NotConnectedToGravEngine>ไม่เชื่อมต่อกับเครื่องยนต์แรงโน้มถ่วง</NotConnectedToGravEngine>
   <!-- EN: Not functional -->
   <ThrusterNotFunctional>ไม่ทำงาน</ThrusterNotFunctional>
   <!-- EN: not connected to grav engine -->
-  <ThrusterNotConnected>ไม่เชื่อมต่อกับกราฟเอนจิ้น</ThrusterNotConnected>
+  <ThrusterNotConnected>ไม่เชื่อมต่อกับเครื่องยนต์แรงโน้มถ่วง</ThrusterNotConnected>
   <!-- EN: blocked by {0_label} -->
   <ThrusterBlockedBy>ถูกปิดกั้นโดย {0_label}</ThrusterBlockedBy>
   <!-- EN: must be outside -->
@@ -239,9 +239,9 @@
   
   <!-- Orbital mechanoid platform -->
   <!-- EN: Ancient grav engine -->
-  <LetterAncientGravEngineDiscoveredLabel>กราฟเอนจิ้นโบราณ</LetterAncientGravEngineDiscoveredLabel>
+  <LetterAncientGravEngineDiscoveredLabel>เครื่องยนต์แรงโน้มถ่วงโบราณ</LetterAncientGravEngineDiscoveredLabel>
   <!-- EN: You've discovered an ancient grav engine. Destroy it to obtain a gravcore. -->
-  <LetterAncientGravEngineDiscovered>คุณได้ค้นพบกราฟเอนจิ้นโบราณ ทำลายมันเพื่อเอาเกรฟคอร์</LetterAncientGravEngineDiscovered>
+  <LetterAncientGravEngineDiscovered>คุณได้ค้นพบเครื่องยนต์แรงโน้มถ่วงโบราณ ทำลายมันเพื่อเอาเกรฟคอร์</LetterAncientGravEngineDiscovered>
 
   <!-- EN: Gravship -->
   <PlayerPawnsArriveMethod_Gravship>ยานกราฟชิป</PlayerPawnsArriveMethod_Gravship>
@@ -252,7 +252,7 @@
 
   <!-- Mechive -->
   <!-- EN: Before {PAWN_nameDef} stands the cerebrex core - a massive brain-like neural mesh that commands mechanoids across the planet.\n\nWith its stabilizers destroyed, {PAWN_nameDef} can now access it directly... but what should {PAWN_pronoun} do with that power? -->
-  <CerebrexCoreDialog>เบื้องหน้าของ {PAWN_nameDef} คือแกนเซเรเบลกซ์  โครงข่ายประสาทขนาดยักษ์คล้ายสมองที่ควบคุมเมคานอยด์ทั่วทั้งดาวเคราะห์\n\nเมื่อเครื่องรักษาเสถียรภาพถูกทำลายแล้ว {PAWN_nameDef} สามารถเข้าถึงมันได้โดยตรง... แต่{PAWN_pronoun}ควรจะใช้พลังนี้ทำอะไรดี?</CerebrexCoreDialog>
+  <CerebrexCoreDialog>เบื้องหน้าของ {PAWN_nameDef} คือแกนเซเรเบลกซ์  โครงข่ายประสาทขนาดยักษ์คล้ายสมองที่ควบคุมเมคคานอยด์ทั่วทั้งดาวเคราะห์\n\nเมื่อเครื่องรักษาเสถียรภาพถูกทำลายแล้ว {PAWN_nameDef} สามารถเข้าถึงมันได้โดยตรง... แต่{PAWN_pronoun}ควรจะใช้พลังนี้ทำอะไรดี?</CerebrexCoreDialog>
   <!-- EN: Destroy the core -->
   <CerebrexCoreOption_Destroy>ทำลายคอร์</CerebrexCoreOption_Destroy>
   <!-- EN: Scavenge technology -->
@@ -265,7 +265,7 @@
   <ProducingMechanoids>กำลังผลิตเมคคานอยด์</ProducingMechanoids>
 
   <!-- EN: {PAWN_nameDef} begins to tear apart the hair-thin cerebral mesh inside the cerebrex core. The mesh twists and groans, as if alive. Electricity arcs among the latticework frame - then in an instant, all goes dark and lifeless.\n\nThe mechanoid whirring stops. Here, and all across the planet, mechanoids begin to permanently deactivate, no longer under the control of the mechhive.\n\nThe mechanoid threat is over. But your story continues... -->
-  <OdysseyDestroyedCredits>{PAWN_nameDef} เริ่มฉีกตาข่ายเซเรเบลกซ์บางเฉียบภายในแกนเซเรเบลกซ์ ตาข่ายบิดเกร็งและครวญครางราวกับมีชีวิต สายฟ้าแลบผ่านโครงสร้างตาข่าย แล้วในชั่วพริบตา ทุกอย่างก็มืดสนิทและไร้ชีวิต\n\nเสียงจักรกลของเมคคานอยด์หยุดลง ไม่เพียงแค่ที่นี่ แต่ทั่วทั้งดาวเคราะห์ เมคคานอยด์เริ่มหยุดทำงานอย่างถาวร เพราะไม่ได้อยู่ภายใต้การควบคุมของเมคไฮฟ์อีกต่อไป\n\nภัยคุกคามจากเมคานอยด์สิ้นสุดลงแล้ว แต่เรื่องราวของคุณยังดำเนินต่อไป...</OdysseyDestroyedCredits>
+  <OdysseyDestroyedCredits>{PAWN_nameDef} เริ่มฉีกตาข่ายเซเรเบลกซ์บางเฉียบภายในแกนเซเรเบลกซ์ ตาข่ายบิดเกร็งและครวญครางราวกับมีชีวิต สายฟ้าแลบผ่านโครงสร้างตาข่าย แล้วในชั่วพริบตา ทุกอย่างก็มืดสนิทและไร้ชีวิต\n\nเสียงจักรกลของเมคคานอยด์หยุดลง ไม่เพียงแค่ที่นี่ แต่ทั่วทั้งดาวเคราะห์ เมคคานอยด์เริ่มหยุดทำงานอย่างถาวร เพราะไม่ได้อยู่ภายใต้การควบคุมของเมคไฮฟ์อีกต่อไป\n\nภัยคุกคามจากเมคคานอยด์สิ้นสุดลงแล้ว แต่เรื่องราวของคุณยังดำเนินต่อไป...</OdysseyDestroyedCredits>
   <!-- EN: {PAWN_nameDef} begins working to free a processing node buried within the core. The latticework frame convulses as if in agony. As {PAWN_nameDef} pulls the node free, the mesh begins to mend, repairing the damage. The core rebuilds its defences and closes.\n\nTurning the node over, {PAWN_nameDef} recoils as it sparks to life, pulsing in time with the core. In {PAWN_possessive} hand, {PAWN_nameDef} holds a weapon of untold power.\n\nThe story continues... -->
   <OdysseyScavengedCredits>{PAWN_nameDef} เริ่มขุดดึงโหนดประมวลผลที่ฝังอยู่ในแกนออกมา โครงสร้างตาข่ายบิดเกร็งราวกับเจ็บปวด และเมื่อ {PAWN_nameDef} ดึงโหนดออกมา ตาข่ายก็เริ่มซ่อมแซมตัวเอง ตัวแกนสร้างระบบป้องกันขึ้นใหม่และปิดลง\n\nเมื่อพลิกโหนดดู {PAWN_nameDef} ก็ผงะถอยเมื่อมันเริ่มส่งประกายชีพจรและสั่นสะเทือนไปพร้อมกับตัวแกน ในมือของ{PAWN_possessive} {PAWN_nameDef} ถืออาวุธที่มีพลังอำนาจเหนือคำบรรยาย\n\nเรื่องราวยังดำเนินต่อไป...</OdysseyScavengedCredits>
 

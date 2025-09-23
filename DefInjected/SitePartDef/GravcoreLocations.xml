@@ -2,71 +2,71 @@
 <LanguageData>
   
   <!-- EN: abandoned settlement -->
-  <AbandonedSettlement.label>TODO</AbandonedSettlement.label>
+  <AbandonedSettlement.label>ถิ่นฐานร้าง</AbandonedSettlement.label>
   <!-- EN: The gravcore energy signature is coming from somewhere in this settlement. Explore the abandoned buildings to find the gravcore. -->
-  <AbandonedSettlement.description>TODO</AbandonedSettlement.description>
+  <AbandonedSettlement.description>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์มาจากที่ใดที่หนึ่งในถิ่นฐานนี้ สำรวจอาคารร้างเพื่อค้นหากราฟคอร์</AbandonedSettlement.description>
   <!-- EN: Contains: Gravcore -->
-  <AbandonedSettlement.mainPartAllThreatsLabel>TODO</AbandonedSettlement.mainPartAllThreatsLabel>
+  <AbandonedSettlement.mainPartAllThreatsLabel>บรรจุ: กราฟคอร์</AbandonedSettlement.mainPartAllThreatsLabel>
   
   <!-- EN: ancient reactor -->
-  <AncientReactor.label>TODO</AncientReactor.label>
+  <AncientReactor.label>เครื่องปฏิกรณ์โบราณ</AncientReactor.label>
   <!-- EN: An ancient reactor is hidden within nearby ruins. The reactor is cracked and leaking toxic fallout over the whole region. Locate and disable the reactor to obtain a gravcore and stop the fallout. -->
-  <AncientReactor.description>TODO</AncientReactor.description>
+  <AncientReactor.description>เครื่องปฏิกรณ์โบราณถูกซ่อนอยู่ในซากปรักหักพังใกล้เคียง เครื่องปฏิกรณ์มีรอยร้าวและปล่อยสารพิษปกคลุมทั่วทั้งภูมิภาค ค้นหาและปิดการทำงานของเครื่องปฏิกรณ์เพื่อรับกราฟคอร์และหยุดการรั่วไหล</AncientReactor.description>
   <!-- EN: Contains: Gravcore -->
-  <AncientReactor.mainPartAllThreatsLabel>TODO</AncientReactor.mainPartAllThreatsLabel>
+  <AncientReactor.mainPartAllThreatsLabel>บรรจุ: กราฟคอร์</AncientReactor.mainPartAllThreatsLabel>
   
   <!-- EN: ancient stockpile -->
-  <AncientStockpile.label>TODO</AncientStockpile.label>
+  <AncientStockpile.label>คลังสินค้าโบราณ</AncientStockpile.label>
   <!-- EN: You have detected the energy signature of a gravcore emanating from an ancient underground stockpile. The location is marked on the world map.\n\nObtain gravcores and gravlite panels to increase the size of your gravship. -->
-  <AncientStockpile.description>TODO</AncientStockpile.description>
+  <AncientStockpile.description>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์จากคลังสินค้าใต้ดินโบราณ สถานที่นี้ถูกทำเครื่องหมายบนแผนที่โลก\n\nรับกราฟคอร์และแผงกราฟไลต์เพื่อเพิ่มขนาดของยานกราฟชิปของคุณ</AncientStockpile.description>
   <!-- EN: Contains: Gravcore -->
-  <AncientStockpile.mainPartAllThreatsLabel>TODO</AncientStockpile.mainPartAllThreatsLabel>
+  <AncientStockpile.mainPartAllThreatsLabel>บรรจุ: กราฟคอร์</AncientStockpile.mainPartAllThreatsLabel>
   
   <!-- EN: crashed mechanoid platform -->
-  <CrashedMechanoidPlatform.label>TODO</CrashedMechanoidPlatform.label>
+  <CrashedMechanoidPlatform.label>แท่นเมคคานอยด์ที่ตก</CrashedMechanoidPlatform.label>
   <!-- EN: The remains of an orbital platform are strewn nearby. Be careful, the wreckage contains hostile mechanoids.\n\nThe gravcore signal is coming from somewhere within the crash site. -->
-  <CrashedMechanoidPlatform.description>TODO</CrashedMechanoidPlatform.description>
+  <CrashedMechanoidPlatform.description>ซากของแท่นวงโคจรถูกกระจายอยู่ใกล้เคียง ระวังให้ดี ซากเหล่านี้มีหุ่นยนต์เมคคานอยด์ที่เป็นศัตรู\n\nสัญญาณกราฟคอร์มาจากที่ใดที่หนึ่งในจุดตก</CrashedMechanoidPlatform.description>
   <!-- EN: Contains: Gravcore -->
-  <CrashedMechanoidPlatform.mainPartAllThreatsLabel>TODO</CrashedMechanoidPlatform.mainPartAllThreatsLabel>
+  <CrashedMechanoidPlatform.mainPartAllThreatsLabel>บรรจุ: กราฟคอร์</CrashedMechanoidPlatform.mainPartAllThreatsLabel>
   
   <!-- EN: frozen terraformer -->
-  <FrozenTerraformer.label>TODO</FrozenTerraformer.label>
+  <FrozenTerraformer.label>เครื่องปรับสภาพแช่แข็ง</FrozenTerraformer.label>
   <!-- EN: You have detected the energy signature of a gravcore. The gravcore is powering a malfunctioning ancient terraformer. Its location is marked on the world map.\n\nThe terraformer is cooling the local region to dangerously low temperatures. Be prepared for cold weather.\n\nObtain gravcores and gravlite panels to increase the size of your gravship. -->
-  <FrozenTerraformer.description>TODO</FrozenTerraformer.description>
+  <FrozenTerraformer.description>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ กราฟคอร์กำลังจ่ายพลังงานให้กับเครื่องปรับสภาพโบราณที่ทำงานผิดปกติ สถานที่นี้ถูกทำเครื่องหมายบนแผนที่โลก\n\nเครื่องปรับสภาพกำลังทำให้ภูมิภาคนี้เย็นลงจนถึงอุณหภูมิที่อันตราย เตรียมพร้อมสำหรับสภาพอากาศหนาวเย็น\n\nรับกราฟคอร์และแผงกราฟไลต์เพื่อเพิ่มขนาดของยานยานกราฟชิปของคุณ</FrozenTerraformer.description>
   <!-- EN: Contains: Gravcore -->
-  <FrozenTerraformer.mainPartAllThreatsLabel>TODO</FrozenTerraformer.mainPartAllThreatsLabel>
+  <FrozenTerraformer.mainPartAllThreatsLabel>บรรจุ: กราฟคอร์</FrozenTerraformer.mainPartAllThreatsLabel>
   
   <!-- EN: cave system -->
-  <InsectLair.label>TODO</InsectLair.label>
+  <InsectLair.label>ระบบถ้ำ</InsectLair.label>
   <!-- EN: You have detected the energy signature of a gravcore emanating from a cave system deep underground. The entrance to the cave system is marked on the world map.\n\nObtain gravcores and gravlite paneling to upgrade your gravship. -->
-  <InsectLair.description>TODO</InsectLair.description>
+  <InsectLair.description>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์ที่มาจากระบบถ้ำลึกใต้ดิน ทางเข้าไปยังระบบถ้ำถูกทำเครื่องหมายบนแผนที่โลก\n\nรับกราฟคอร์และแผงกราฟไลต์เพื่ออัปเกรดยานกราฟชิปของคุณ</InsectLair.description>
   <!-- EN: Contains: Gravcore -->
-  <InsectLair.mainPartAllThreatsLabel>TODO</InsectLair.mainPartAllThreatsLabel>
+  <InsectLair.mainPartAllThreatsLabel>บรรจุ: กราฟคอร์</InsectLair.mainPartAllThreatsLabel>
   
   <!-- EN: mechanoid relay -->
-  <MechanoidRelay.label>TODO</MechanoidRelay.label>
+  <MechanoidRelay.label>รีเลย์เมคคานอยด์</MechanoidRelay.label>
   <!-- EN: The gravcore energy signature is coming from a mechanoid communication relay here. Disassemble it to acquire the gravcore. -->
-  <MechanoidRelay.description>TODO</MechanoidRelay.description>
+  <MechanoidRelay.description>สัญญาณพลังงานของกราฟคอร์มาจากรีเลย์การสื่อสารของเมคคานอยด์ที่นี่ ถอดชิ้นส่วนเพื่อรับกราฟคอร์</MechanoidRelay.description>
   <!-- EN: Contains: Gravcore -->
-  <MechanoidRelay.mainPartAllThreatsLabel>TODO</MechanoidRelay.mainPartAllThreatsLabel>
+  <MechanoidRelay.mainPartAllThreatsLabel>บรรจุ: กราฟคอร์</MechanoidRelay.mainPartAllThreatsLabel>
   
   <!-- EN: abandoned orbital platform -->
-  <OrbitalAncientPlatform.label>TODO</OrbitalAncientPlatform.label>
+  <OrbitalAncientPlatform.label>แพลตฟอร์มวงโคจรโบราณที่ถูกทิ้งร้าง</OrbitalAncientPlatform.label>
   <!-- EN: You have detected the energy signature of a gravcore.\n\nBe careful - orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
-  <OrbitalAncientPlatform.description>TODO</OrbitalAncientPlatform.description>
+  <OrbitalAncientPlatform.description>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์\n\nโปรดระวัง สถานที่ในวงโคจรนั้นอันตรายมาก ตรวจสอบให้แน่ใจว่ายานกราฟชิปของคุณถูกปิดล้อมอย่างสมบูรณ์ด้วยผนังที่ปิดสนิท และเตรียมชุดสูญญากาศให้กับผู้ตั้งถิ่นฐานของคุณ วางแผนการเดินทางกลับ เนื่องจากการอยู่อาศัยในวงโคจรเป็นเวลานานนั้นยากมาก</OrbitalAncientPlatform.description>
   <!-- EN: Contains: Gravcore -->
-  <OrbitalAncientPlatform.mainPartAllThreatsLabel>TODO</OrbitalAncientPlatform.mainPartAllThreatsLabel>
+  <OrbitalAncientPlatform.mainPartAllThreatsLabel>บรรจุ: กราฟคอร์</OrbitalAncientPlatform.mainPartAllThreatsLabel>
   
   <!-- EN: mechanoid platform -->
-  <OrbitalMechanoidPlatform.label>TODO</OrbitalMechanoidPlatform.label>
+  <OrbitalMechanoidPlatform.label>แพลตฟอร์มเมคคานอยด์</OrbitalMechanoidPlatform.label>
   <!-- EN: You have detected the energy signature of a gravcore on this platform. There is a heavy mechanoid presence.\n\nBe careful, orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
-  <OrbitalMechanoidPlatform.description>TODO</OrbitalMechanoidPlatform.description>
+  <OrbitalMechanoidPlatform.description>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์บนแท่นนี้ มีการปรากฏตัวของเมคคานอยด์จำนวนมาก\n\nระวัง สถานที่ในวงโคจรนั้นอันตรายมาก ตรวจสอบให้แน่ใจว่ายานกราฟชิปของคุณถูกปิดล้อมอย่างสมบูรณ์ด้วยผนังที่ปิดสนิท และเตรียมชุดสูญญากาศให้กับผู้ตั้งถิ่นฐานของคุณ วางแผนการเดินทางกลับ เนื่องจากการอยู่อาศัยในวงโคจรเป็นเวลานานนั้นยากมาก</OrbitalMechanoidPlatform.description>
   <!-- EN: Contains: Gravcore -->
-  <OrbitalMechanoidPlatform.mainPartAllThreatsLabel>TODO</OrbitalMechanoidPlatform.mainPartAllThreatsLabel>
+  <OrbitalMechanoidPlatform.mainPartAllThreatsLabel>บรรจุ: กราฟคอร์</OrbitalMechanoidPlatform.mainPartAllThreatsLabel>
   
   <!-- EN: mechhive -->
-  <OrbitalMechhive.label>TODO</OrbitalMechhive.label>
+  <OrbitalMechhive.label>เมคไฮฟ์</OrbitalMechhive.label>
   <!-- EN: You have detected the mechhive in orbit above the planet. Its location is marked on the world map.\n\nThe mechhive is the center of mechanoid intelligence and directs mechanoids across planet. If shut it down, it will disable mechanoids planet-wide. Alternatively, you may be able to use the mechhive for your own purposes.\n\nBe warned, mechhives are extremely dangerous. Finish exploring other locations first and ensure you're prepared for a long stay in orbit. -->
-  <OrbitalMechhive.description>TODO</OrbitalMechhive.description>
+  <OrbitalMechhive.description>คุณตรวจพบเมคไฮฟ์ในวงโคจรเหนือดาวเคราะห์ สถานที่นี้ถูกทำเครื่องหมายบนแผนที่โลก\n\nเมคไฮฟ์เป็นศูนย์กลางของปัญญาเมคคานอยด์และควบคุมเมคคานอยด์ทั่วทั้งดาวเคราะห์ หากปิดการทำงาน มันจะปิดการใช้งานเมคคานอยด์ทั่วทั้งดาวเคราะห์ หรือคุณอาจสามารถใช้เมคไฮฟ์เพื่อวัตถุประสงค์ของคุณเองได้\n\nโปรดทราบ เมคไฮฟ์นั้นอันตรายมาก สำรวจสถานที่อื่นให้เสร็จก่อนและตรวจสอบให้แน่ใจว่าคุณพร้อมสำหรับการอยู่อาศัยในวงโคจรเป็นเวลานาน</OrbitalMechhive.description>
   
 </LanguageData>

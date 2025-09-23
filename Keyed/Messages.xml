@@ -5,7 +5,7 @@
   <!-- EN: Must be placed on gravship substructure. -->
   <MessageMustBePlacedOnSubstructure>ต้องวางบนโครงพื้นยานกราฟชิป</MessageMustBePlacedOnSubstructure>
   <!-- EN: Must be placed within the radius of a grav engine or grav field extender. -->
-  <MessageMustBePlacedInRangeOfGravEngineOrExtender>ต้องวางไว้ในรัศมีของกราฟเอนจิ้นหรือเครื่องขยายสนามแรงโน้มถ่วง</MessageMustBePlacedInRangeOfGravEngineOrExtender>
+  <MessageMustBePlacedInRangeOfGravEngineOrExtender>ต้องวางไว้ในรัศมีของเครื่องยนต์แรงโน้มถ่วงหรือเครื่องขยายสนามแรงโน้มถ่วง</MessageMustBePlacedInRangeOfGravEngineOrExtender>
   <!-- EN: Cannot be placed under rock or mountain roofs. -->
   <MessageCannotPlaceUnderRockRoof>ไม่สามารถวางใต้หินหรือเพดานถ้ำ</MessageCannotPlaceUnderRockRoof>
   <!-- EN: {ACTIVATOR_labelShort} has finished hacking {SUBJECT_definite}. -->
@@ -15,7 +15,7 @@
   <!-- EN: Gravship substructure is blocked. -->
   <MessageSubstructureBlocked>โครงพื้นยานกราฟชิปถูกปิดกั้น</MessageSubstructureBlocked>
   <!-- EN: Must be placed within range of a grav engine. -->
-  <MessageMustBePlacedInRangeOfGravEngine>ต้องวางภายในระยะของกราฟเอนจิ้น</MessageMustBePlacedInRangeOfGravEngine>
+  <MessageMustBePlacedInRangeOfGravEngine>ต้องวางภายในระยะของเครื่องยนต์แรงโน้มถ่วง</MessageMustBePlacedInRangeOfGravEngine>
 
   <!-- Alerts -->
   <!-- EN: {0} has died from vacuum exposure. -->

@@ -6,499 +6,498 @@
   <!-- EN: This weapon contains a rudimentary aim assistant computer which helps track targets, increasing accuracy at all ranges. The device can account for environmental challenges, allowing the weapon to ignore the accuracy penalty from bad weather and smoke. -->
   <AimAssistance.description>อาวุธนี้มีคอมพิวเตอร์ช่วยเล็งขั้นพื้นฐานซึ่งช่วยติดตามเป้าหมาย เพิ่มความแม่นยำในทุกระยะ อุปกรณ์นี้สามารถรับมือกับความท้าทายด้านสิ่งแวดล้อมได้ ทำให้ปืนสามารถเพิกเฉยต่อผลเสียด้านความแม่นยำจากสภาพอากาศเลวร้ายและควันได้</AimAssistance.description>
   <!-- EN: seeking -->
-  <AimAssistance.traitAdjectives.0>TODO</AimAssistance.traitAdjectives.0>
+  <AimAssistance.traitAdjectives.0>การค้นหา</AimAssistance.traitAdjectives.0>
   <!-- EN: accurate -->
-  <AimAssistance.traitAdjectives.1>TODO</AimAssistance.traitAdjectives.1>
+  <AimAssistance.traitAdjectives.1>แม่นยำ</AimAssistance.traitAdjectives.1>
   <!-- EN: precise -->
-  <AimAssistance.traitAdjectives.2>TODO</AimAssistance.traitAdjectives.2>
+  <AimAssistance.traitAdjectives.2>เที่ยงตรง</AimAssistance.traitAdjectives.2>
   <!-- EN: auto-aim -->
-  <AimAssistance.traitAdjectives.3>TODO</AimAssistance.traitAdjectives.3>
+  <AimAssistance.traitAdjectives.3>เล็งอัตโนมัติ</AimAssistance.traitAdjectives.3>
   <!-- EN: self-aim -->
-  <AimAssistance.traitAdjectives.4>TODO</AimAssistance.traitAdjectives.4>
+  <AimAssistance.traitAdjectives.4>เล็งด้วยตนเอง</AimAssistance.traitAdjectives.4>
   
   <!-- EN: bioferrite burner -->
   <BioferriteBurner.label>เครื่องเผาไบโอเฟอร์ไรต์</BioferriteBurner.label>
   <!-- EN: This weapon has a bioferrite-powered flamethrower unit. The burner generates a blast of flame from a pressurized bioferrite charge. Once used, it must be reloaded using bioferrite. -->
   <BioferriteBurner.description>อาวุธนี้มีหน่วยพ่นไฟที่ใช้พลังงานจากไบโอเฟอร์ไรต์ เครื่องเผาจะสร้างเปลวไฟจากการอัดประจุไบโอเฟอร์ไรต์ เมื่อใช้แล้วจะต้องบรรจุใหม่โดยใช้ไบโอเฟอร์ไรต์</BioferriteBurner.description>
   <!-- EN: burner charge -->
-  <BioferriteBurner.abilityProps.chargeNoun>TODO</BioferriteBurner.abilityProps.chargeNoun>
+  <BioferriteBurner.abilityProps.chargeNoun>ชาร์จเครื่องเผา</BioferriteBurner.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <BioferriteBurner.abilityProps.cooldownGerund>TODO</BioferriteBurner.abilityProps.cooldownGerund>
+  <BioferriteBurner.abilityProps.cooldownGerund>กำลังคูลดาวน์</BioferriteBurner.abilityProps.cooldownGerund>
   <!-- EN: fiery -->
-  <BioferriteBurner.traitAdjectives.0>TODO</BioferriteBurner.traitAdjectives.0>
+  <BioferriteBurner.traitAdjectives.0>ร้อนแรง</BioferriteBurner.traitAdjectives.0>
   <!-- EN: flame -->
-  <BioferriteBurner.traitAdjectives.1>TODO</BioferriteBurner.traitAdjectives.1>
+  <BioferriteBurner.traitAdjectives.1>เปลวไฟ</BioferriteBurner.traitAdjectives.1>
   <!-- EN: flaming -->
-  <BioferriteBurner.traitAdjectives.2>TODO</BioferriteBurner.traitAdjectives.2>
+  <BioferriteBurner.traitAdjectives.2>ลุกไหม้</BioferriteBurner.traitAdjectives.2>
   <!-- EN: burning -->
-  <BioferriteBurner.traitAdjectives.3>TODO</BioferriteBurner.traitAdjectives.3>
+  <BioferriteBurner.traitAdjectives.3>เผาไหม้</BioferriteBurner.traitAdjectives.3>
   
   <!-- EN: birdshot pellets -->
   <BirdshotPellets.label>ลูกปราย Birdshot</BirdshotPellets.label>
   <!-- EN: This weapon fires shells containing smaller pellets than normal. It's much more accurate at close range, but less effective at long range. -->
   <BirdshotPellets.description>อาวุธนี้ยิงกระสุนที่มีลูกปรายขนาดเล็กกว่าปกติ มีความแม่นยำสูงในระยะใกล้ แต่มีประสิทธิภาพน้อยกว่าในระยะไกล</BirdshotPellets.description>
   <!-- EN: birdshot -->
-  <BirdshotPellets.traitAdjectives.0>TODO</BirdshotPellets.traitAdjectives.0>
+  <BirdshotPellets.traitAdjectives.0>ลูกปราย</BirdshotPellets.traitAdjectives.0>
   <!-- EN: nearshot -->
-  <BirdshotPellets.traitAdjectives.1>TODO</BirdshotPellets.traitAdjectives.1>
+  <BirdshotPellets.traitAdjectives.1>ยิงใกล้</BirdshotPellets.traitAdjectives.1>
   
   <!-- EN: broadhead arrows -->
   <BroadheadArrows.label>ลูกธนูหัวใบมีด</BroadheadArrows.label>
   <!-- EN: This bow shoots arrows tipped with sharp blades, increasing its damage. -->
   <BroadheadArrows.description>ธนูนี้ยิงลูกธนูที่มีหัวเป็นใบมีดคม เพิ่มความเสียหาย</BroadheadArrows.description>
   <!-- EN: strong -->
-  <BroadheadArrows.traitAdjectives.0>TODO</BroadheadArrows.traitAdjectives.0>
+  <BroadheadArrows.traitAdjectives.0>แข็งแรง</BroadheadArrows.traitAdjectives.0>
   <!-- EN: broadhead -->
-  <BroadheadArrows.traitAdjectives.1>TODO</BroadheadArrows.traitAdjectives.1>
+  <BroadheadArrows.traitAdjectives.1>หัวใบมีด</BroadheadArrows.traitAdjectives.1>
   
   <!-- EN: charge capacitor -->
   <ChargeCapacitor.label>คาปาซิเตอร์ชาร์จ</ChargeCapacitor.label>
   <!-- EN: This weapon amplifies pulse-charge technology with a massive capacitor, increasing damage and armor penetration. -->
   <ChargeCapacitor.description>อาวุธนี้ขยายเทคโนโลยีพัลส์ชาร์จด้วยคาปาซิเตอร์ขนาดใหญ่ เพิ่มความเสียหายและการเจาะเกราะ</ChargeCapacitor.description>
   <!-- EN: overcharged -->
-  <ChargeCapacitor.traitAdjectives.0>TODO</ChargeCapacitor.traitAdjectives.0>
+  <ChargeCapacitor.traitAdjectives.0>ชาร์จเกิน</ChargeCapacitor.traitAdjectives.0>
   
   <!-- EN: cumbersome -->
   <Cumbersome.label>เทอะทะ</Cumbersome.label>
   <!-- EN: This weapon is unwieldy to use, making it slower to aim. -->
   <Cumbersome.description>อาวุธนี้ใช้งานไม่สะดวก ทำให้เล็งได้ช้าลง</Cumbersome.description>
   <!-- EN: cumbersome -->
-  <Cumbersome.traitAdjectives.0>TODO</Cumbersome.traitAdjectives.0>
+  <Cumbersome.traitAdjectives.0>เทอะทะ</Cumbersome.traitAdjectives.0>
   <!-- EN: bulky -->
-  <Cumbersome.traitAdjectives.1>TODO</Cumbersome.traitAdjectives.1>
+  <Cumbersome.traitAdjectives.1>ใหญ่โต</Cumbersome.traitAdjectives.1>
   <!-- EN: awkward -->
-  <Cumbersome.traitAdjectives.2>TODO</Cumbersome.traitAdjectives.2>
+  <Cumbersome.traitAdjectives.2>เก้งก้าง</Cumbersome.traitAdjectives.2>
   
   <!-- EN: custom grip -->
   <CustomGrip.label>ด้ามจับแบบแต่งเองพิเศษ</CustomGrip.label>
   <!-- EN: This weapon contains a customized grip that handles recoil better, improving accuracy at short range. It looks cool too. -->
   <CustomGrip.description>อาวุธนี้มีด้ามจับที่ปรับแต่งมาโดยเฉพาะซึ่งจัดการแรงถีบกลับได้ดีขึ้น เพิ่มความแม่นยำในระยะใกล้ แถมยังดูเท่อีกด้วย</CustomGrip.description>
   <!-- EN: custom -->
-  <CustomGrip.traitAdjectives.0>TODO</CustomGrip.traitAdjectives.0>
+  <CustomGrip.traitAdjectives.0>ปรับแต่ง</CustomGrip.traitAdjectives.0>
   <!-- EN: customized -->
-  <CustomGrip.traitAdjectives.1>TODO</CustomGrip.traitAdjectives.1>
+  <CustomGrip.traitAdjectives.1>แต่งเอง</CustomGrip.traitAdjectives.1>
   <!-- EN: gripped -->
-  <CustomGrip.traitAdjectives.2>TODO</CustomGrip.traitAdjectives.2>
+  <CustomGrip.traitAdjectives.2>จับแน่น</CustomGrip.traitAdjectives.2>
   <!-- EN: hi-grip -->
-  <CustomGrip.traitAdjectives.3>TODO</CustomGrip.traitAdjectives.3>
+  <CustomGrip.traitAdjectives.3>จับแน่นพิเศษ</CustomGrip.traitAdjectives.3>
   
   <!-- EN: EMP cannon -->
-  <EMPLauncher.label>ปืนใหญ่ EMP</EMPLauncher.label>
+  <EMPLauncher.label>ปืนใหญ่อีเอ็มพี</EMPLauncher.label>
   <!-- EN: This weapon has an attached EMP shell launcher. The shell emits a burst of electromagnetic energy that stuns electronic targets like turrets and mechanoids. Once fired, it must be reloaded using steel. -->
-  <EMPLauncher.description>อาวุธนี้มีเครื่องยิงกระสุน EMP ติดอยู่ กระสุนจะปล่อยพลังงานแม่เหล็กไฟฟ้าออกมาซึ่งทำให้เป้าหมายอิเล็กทรอนิกส์ เช่น ป้อมปืนและเมคานอยด์มึนงง เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เหล็ก</EMPLauncher.description>
+  <EMPLauncher.description>อาวุธนี้มีเครื่องยิงกระสุนอีเอ็มพีติดอยู่ กระสุนจะปล่อยพลังงานแม่เหล็กไฟฟ้าออกมาซึ่งทำให้เป้าหมายอิเล็กทรอนิกส์ เช่น ป้อมปืนและเมคคานอยด์เกิดการชะงัก เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เหล็ก</EMPLauncher.description>
   <!-- EN: shell -->
-  <EMPLauncher.abilityProps.chargeNoun>TODO</EMPLauncher.abilityProps.chargeNoun>
+  <EMPLauncher.abilityProps.chargeNoun>กระสุน</EMPLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <EMPLauncher.abilityProps.cooldownGerund>TODO</EMPLauncher.abilityProps.cooldownGerund>
+  <EMPLauncher.abilityProps.cooldownGerund>กำลังคูลดาวน์</EMPLauncher.abilityProps.cooldownGerund>
   <!-- EN: EMP -->
-  <EMPLauncher.traitAdjectives.0>TODO</EMPLauncher.traitAdjectives.0>
+  <EMPLauncher.traitAdjectives.0>อีเอ็มพี</EMPLauncher.traitAdjectives.0>
   <!-- EN: disabling -->
-  <EMPLauncher.traitAdjectives.1>TODO</EMPLauncher.traitAdjectives.1>
+  <EMPLauncher.traitAdjectives.1>ปิดการใช้งาน</EMPLauncher.traitAdjectives.1>
   <!-- EN: stunning -->
-  <EMPLauncher.traitAdjectives.2>TODO</EMPLauncher.traitAdjectives.2>
+  <EMPLauncher.traitAdjectives.2>สตั๊น</EMPLauncher.traitAdjectives.2>
   
   <!-- EN: EMP pulser -->
-  <EMPPulser.label>เครื่องปล่อยพัลส์ EMP</EMPPulser.label>
+  <EMPPulser.label>เครื่องปล่อยพัลส์อีเอ็มพี</EMPPulser.label>
   <!-- EN: This weapon can emit a burst of energy centered on the user. The burst will stun nearby electronic targets like mechanoids or turrets. Once used, the pulser takes some time to recharge. -->
-  <EMPPulser.description>อาวุธนี้สามารถปล่อยพลังงานออกมาโดยมีจุดศูนย์กลางอยู่ที่ผู้ใช้ การระเบิดจะทำให้เป้าหมายอิเล็กทรอนิกส์ในบริเวณใกล้เคียง เช่น เมคานอยด์หรือป้อมปืนมึนงง เมื่อใช้แล้ว เครื่องปล่อยพัลส์จะใช้เวลาในการชาร์จใหม่</EMPPulser.description>
+  <EMPPulser.description>อาวุธนี้สามารถปล่อยพลังงานออกมาโดยมีจุดศูนย์กลางอยู่ที่ผู้ใช้ การระเบิดจะทำให้เป้าหมายอิเล็กทรอนิกส์ในบริเวณใกล้เคียง เช่น เมคคานอยด์หรือป้อมปืนมึนงง เมื่อใช้แล้ว เครื่องปล่อยพัลส์จะใช้เวลาในการชาร์จใหม่</EMPPulser.description>
   <!-- EN: charge -->
-  <EMPPulser.abilityProps.chargeNoun>TODO</EMPPulser.abilityProps.chargeNoun>
+  <EMPPulser.abilityProps.chargeNoun>ชาร์จ</EMPPulser.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <EMPPulser.abilityProps.cooldownGerund>TODO</EMPPulser.abilityProps.cooldownGerund>
+  <EMPPulser.abilityProps.cooldownGerund>กำลังคูลดาวน์</EMPPulser.abilityProps.cooldownGerund>
   <!-- EN: pulse -->
-  <EMPPulser.traitAdjectives.0>TODO</EMPPulser.traitAdjectives.0>
+  <EMPPulser.traitAdjectives.0>คลื่น</EMPPulser.traitAdjectives.0>
   <!-- EN: EMP -->
-  <EMPPulser.traitAdjectives.1>TODO</EMPPulser.traitAdjectives.1>
+  <EMPPulser.traitAdjectives.1>อีเอ็มพี</EMPPulser.traitAdjectives.1>
   
   <!-- EN: EMP rounds -->
-  <EMPRounds.label>กระสุน EMP</EMPRounds.label>
+  <EMPRounds.label>กระสุนอีเอ็มพี</EMPRounds.label>
   <!-- EN: This weapon fires rounds with embedded EMP capacitors, which will temporarily disable electronics and mechanoids. -->
-  <EMPRounds.description>อาวุธนี้ยิงกระสุนที่มีคาปาซิเตอร์ EMP ฝังอยู่ ซึ่งจะปิดการใช้งานอุปกรณ์อิเล็กทรอนิกส์และเมคานอยด์ชั่วคราว</EMPRounds.description>
+  <EMPRounds.description>อาวุธนี้ยิงกระสุนที่มีคาปาซิเตออีเอ็มพีฝังอยู่ ซึ่งจะปิดการใช้งานอุปกรณ์อิเล็กทรอนิกส์และเมคคานอยด์ชั่วคราว</EMPRounds.description>
   <!-- EN: EMP -->
-  <EMPRounds.traitAdjectives.0>TODO</EMPRounds.traitAdjectives.0>
+  <EMPRounds.traitAdjectives.0>อีเอ็มพี</EMPRounds.traitAdjectives.0>
   <!-- EN: electric -->
-  <EMPRounds.traitAdjectives.1>TODO</EMPRounds.traitAdjectives.1>
+  <EMPRounds.traitAdjectives.1>ไฟฟ้า</EMPRounds.traitAdjectives.1>
   <!-- EN: shocking -->
-  <EMPRounds.traitAdjectives.2>TODO</EMPRounds.traitAdjectives.2>
+  <EMPRounds.traitAdjectives.2>ช็อก</EMPRounds.traitAdjectives.2>
   <!-- EN: sparky -->
-  <EMPRounds.traitAdjectives.3>TODO</EMPRounds.traitAdjectives.3>
+  <EMPRounds.traitAdjectives.3>ประกายไฟ</EMPRounds.traitAdjectives.3>
   <!-- EN: zapping -->
-  <EMPRounds.traitAdjectives.4>TODO</EMPRounds.traitAdjectives.4>
+  <EMPRounds.traitAdjectives.4>ช็อต</EMPRounds.traitAdjectives.4>
   
   <!-- EN: extended barrel -->
   <ExtendedBarrel.label>ลำกล้องยาวขึ้น</ExtendedBarrel.label>
   <!-- EN: This weapon has a longer range than normal. -->
   <ExtendedBarrel.description>อาวุธนี้มีระยะยิงไกลกว่าปกติ</ExtendedBarrel.description>
   <!-- EN: long -->
-  <ExtendedBarrel.traitAdjectives.0>TODO</ExtendedBarrel.traitAdjectives.0>
+  <ExtendedBarrel.traitAdjectives.0>ยาว</ExtendedBarrel.traitAdjectives.0>
   <!-- EN: extended -->
-  <ExtendedBarrel.traitAdjectives.1>TODO</ExtendedBarrel.traitAdjectives.1>
+  <ExtendedBarrel.traitAdjectives.1>ขยาย</ExtendedBarrel.traitAdjectives.1>
   
   <!-- EN: extended magazine -->
   <ExtendedMagazine.label>ขยายแม็กกาซีน</ExtendedMagazine.label>
   <!-- EN: This weapon fires 50% more shots in a single burst than normal. -->
   <ExtendedMagazine.description>อาวุธนี้ยิงกระสุนได้มากกว่าปกติ 50% ในการยิงเป็นชุดเดียว</ExtendedMagazine.description>
   <!-- EN: high-capacity -->
-  <ExtendedMagazine.traitAdjectives.0>TODO</ExtendedMagazine.traitAdjectives.0>
+  <ExtendedMagazine.traitAdjectives.0>ขยาย</ExtendedMagazine.traitAdjectives.0>
   <!-- EN: extendo-clip -->
-  <ExtendedMagazine.traitAdjectives.1>TODO</ExtendedMagazine.traitAdjectives.1>
+  <ExtendedMagazine.traitAdjectives.1>ซองกระสุนยาว</ExtendedMagazine.traitAdjectives.1>
   
   <!-- EN: frequency amplifier -->
   <FrequencyAmplifier.label>เครื่องขยายความถี่</FrequencyAmplifier.label>
   <!-- EN: This weapon passes the beam through a crystal amplifier, dramatically increasing the weapon's damage and range. The weapon needs to cool down between uses. -->
   <FrequencyAmplifier.description>อาวุธนี้ส่งลำแสงผ่านเครื่องขยายคริสตัล เพิ่มความเสียหายและระยะของอาวุธอย่างมาก อาวุธต้องเย็นลงระหว่างการใช้งาน</FrequencyAmplifier.description>
   <!-- EN: amplified -->
-  <FrequencyAmplifier.traitAdjectives.0>TODO</FrequencyAmplifier.traitAdjectives.0>
+  <FrequencyAmplifier.traitAdjectives.0>ขยาย</FrequencyAmplifier.traitAdjectives.0>
   
   <!-- EN: gold inlay -->
   <GoldInlay.label>ฝังทอง</GoldInlay.label>
   <!-- EN: This weapon is inlaid with gold. Traders will pay more for it. -->
   <GoldInlay.description>อาวุธนี้ฝังด้วยทอง พ่อค้าจะจ่ายมากขึ้นสำหรับมัน</GoldInlay.description>
   <!-- EN: gold -->
-  <GoldInlay.traitAdjectives.0>TODO</GoldInlay.traitAdjectives.0>
+  <GoldInlay.traitAdjectives.0>ทอง</GoldInlay.traitAdjectives.0>
   <!-- EN: golden -->
-  <GoldInlay.traitAdjectives.1>TODO</GoldInlay.traitAdjectives.1>
+  <GoldInlay.traitAdjectives.1>สีทอง</GoldInlay.traitAdjectives.1>
   
   <!-- EN: grenade launcher -->
   <GrenadeLauncher.label>เครื่องยิงลูกระเบิด</GrenadeLauncher.label>
   <!-- EN: This weapon has an attached frag grenade launcher. Once fired, it must be reloaded using steel. -->
   <GrenadeLauncher.description>อาวุธนี้มีเครื่องยิงลูกระเบิดสังหารติดอยู่ เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เหล็ก</GrenadeLauncher.description>
   <!-- EN: grenade -->
-  <GrenadeLauncher.abilityProps.chargeNoun>TODO</GrenadeLauncher.abilityProps.chargeNoun>
+  <GrenadeLauncher.abilityProps.chargeNoun>กระสุน</GrenadeLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <GrenadeLauncher.abilityProps.cooldownGerund>TODO</GrenadeLauncher.abilityProps.cooldownGerund>
+  <GrenadeLauncher.abilityProps.cooldownGerund>กำลังคูลดาวน์</GrenadeLauncher.abilityProps.cooldownGerund>
   <!-- EN: explosive -->
-  <GrenadeLauncher.traitAdjectives.0>TODO</GrenadeLauncher.traitAdjectives.0>
+  <GrenadeLauncher.traitAdjectives.0>ระเบิด</GrenadeLauncher.traitAdjectives.0>
   
   <!-- EN: high-power rounds -->
   <HighPowerRounds.label>กระสุนแรงสูง</HighPowerRounds.label>
   <!-- EN: Special ammunition makes this weapon more powerful than normal. The heavy recoil makes it less accurate. -->
   <HighPowerRounds.description>กระสุนพิเศษทำให้อาวุธนี้ทรงพลังกว่าปกติ แรงถีบกลับที่หนักทำให้มีความแม่นยำน้อยลง</HighPowerRounds.description>
   <!-- EN: atlas -->
-  <HighPowerRounds.traitAdjectives.0>TODO</HighPowerRounds.traitAdjectives.0>
+  <HighPowerRounds.traitAdjectives.0>แอตลาส</HighPowerRounds.traitAdjectives.0>
   <!-- EN: hi-power -->
-  <HighPowerRounds.traitAdjectives.1>TODO</HighPowerRounds.traitAdjectives.1>
+  <HighPowerRounds.traitAdjectives.1>พลังสูง</HighPowerRounds.traitAdjectives.1>
   <!-- EN: heavy-shot -->
-  <HighPowerRounds.traitAdjectives.2>TODO</HighPowerRounds.traitAdjectives.2>
+  <HighPowerRounds.traitAdjectives.2>ยิงหนัก</HighPowerRounds.traitAdjectives.2>
   <!-- EN: hardpunch -->
-  <HighPowerRounds.traitAdjectives.3>TODO</HighPowerRounds.traitAdjectives.3>
+  <HighPowerRounds.traitAdjectives.3>แรงกระแทก</HighPowerRounds.traitAdjectives.3>
   <!-- EN: heavy-hit -->
-  <HighPowerRounds.traitAdjectives.4>TODO</HighPowerRounds.traitAdjectives.4>
+  <HighPowerRounds.traitAdjectives.4>โจมตีหนัก</HighPowerRounds.traitAdjectives.4>
   
   <!-- EN: hollow-point rounds -->
   <HollowPointRounds.label>กระสุนหัวกลวง</HollowPointRounds.label>
   <!-- EN: This weapon fires bullets that expand on impact, dealing more damage than normal. -->
   <HollowPointRounds.description>อาวุธนี้ยิงกระสุนที่ขยายตัวเมื่อกระทบ สร้างความเสียหายมากกว่าปกติ</HollowPointRounds.description>
   <!-- EN: shredding -->
-  <HollowPointRounds.traitAdjectives.0>TODO</HollowPointRounds.traitAdjectives.0>
+  <HollowPointRounds.traitAdjectives.0>ฉีกขาด</HollowPointRounds.traitAdjectives.0>
   <!-- EN: hollowpoint -->
-  <HollowPointRounds.traitAdjectives.1>TODO</HollowPointRounds.traitAdjectives.1>
+  <HollowPointRounds.traitAdjectives.1>หัวกลวง</HollowPointRounds.traitAdjectives.1>
   <!-- EN: hardpunch -->
-  <HollowPointRounds.traitAdjectives.2>TODO</HollowPointRounds.traitAdjectives.2>
+  <HollowPointRounds.traitAdjectives.2>แรงกระแทก</HollowPointRounds.traitAdjectives.2>
   <!-- EN: meatrip -->
-  <HollowPointRounds.traitAdjectives.3>TODO</HollowPointRounds.traitAdjectives.3>
+  <HollowPointRounds.traitAdjectives.3>ฉีกเนื้อ</HollowPointRounds.traitAdjectives.3>
   <!-- EN: grinder -->
-  <HollowPointRounds.traitAdjectives.4>TODO</HollowPointRounds.traitAdjectives.4>
+  <HollowPointRounds.traitAdjectives.4>บดขยี้</HollowPointRounds.traitAdjectives.4>
   
   <!-- EN: tactical sight -->
   <ImprovedSights.label>ศูนย์เล็งยุทธวิธี</ImprovedSights.label>
   <!-- EN: This weapon has a custom sight, increasing its accuracy at long range. -->
   <ImprovedSights.description>อาวุธนี้มีศูนย์เล็งที่แต่งเองพิเศษ เพิ่มความแม่นยำในระยะไกล</ImprovedSights.description>
   <!-- EN: accurate -->
-  <ImprovedSights.traitAdjectives.0>TODO</ImprovedSights.traitAdjectives.0>
+  <ImprovedSights.traitAdjectives.0>แม่นยำ</ImprovedSights.traitAdjectives.0>
   <!-- EN: precise -->
-  <ImprovedSights.traitAdjectives.1>TODO</ImprovedSights.traitAdjectives.1>
+  <ImprovedSights.traitAdjectives.1>เที่ยงตรง</ImprovedSights.traitAdjectives.1>
   <!-- EN: sniper -->
-  <ImprovedSights.traitAdjectives.2>TODO</ImprovedSights.traitAdjectives.2>
+  <ImprovedSights.traitAdjectives.2>ซุ่มยิง</ImprovedSights.traitAdjectives.2>
   
   <!-- EN: incendiary launcher -->
   <IncendiaryLauncher.label>เครื่องยิงเพลิง</IncendiaryLauncher.label>
   <!-- EN: This weapon has an attached incendiary shell launcher. The shell creates a small flame explosion that ignites everything nearby. Once fired, it must be reloaded using chemfuel. -->
   <IncendiaryLauncher.description>อาวุธนี้มีเครื่องยิงกระสุนเพลิงติดอยู่ กระสุนจะสร้างการระเบิดของเปลวไฟขนาดเล็กที่จุดไฟทุกอย่างในบริเวณใกล้เคียง เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เชื้อเพลิงเคมี</IncendiaryLauncher.description>
   <!-- EN: shell -->
-  <IncendiaryLauncher.abilityProps.chargeNoun>TODO</IncendiaryLauncher.abilityProps.chargeNoun>
+  <IncendiaryLauncher.abilityProps.chargeNoun>กระสุน</IncendiaryLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <IncendiaryLauncher.abilityProps.cooldownGerund>TODO</IncendiaryLauncher.abilityProps.cooldownGerund>
+  <IncendiaryLauncher.abilityProps.cooldownGerund>กำลังคูลดาวน์</IncendiaryLauncher.abilityProps.cooldownGerund>
   <!-- EN: fiery -->
-  <IncendiaryLauncher.traitAdjectives.0>TODO</IncendiaryLauncher.traitAdjectives.0>
+  <IncendiaryLauncher.traitAdjectives.0>ร้อนแรง</IncendiaryLauncher.traitAdjectives.0>
   <!-- EN: flame -->
-  <IncendiaryLauncher.traitAdjectives.1>TODO</IncendiaryLauncher.traitAdjectives.1>
+  <IncendiaryLauncher.traitAdjectives.1>เปลวไฟ</IncendiaryLauncher.traitAdjectives.1>
   <!-- EN: flaming -->
-  <IncendiaryLauncher.traitAdjectives.2>TODO</IncendiaryLauncher.traitAdjectives.2>
+  <IncendiaryLauncher.traitAdjectives.2>ลุกไหม้</IncendiaryLauncher.traitAdjectives.2>
   <!-- EN: burning -->
-  <IncendiaryLauncher.traitAdjectives.3>TODO</IncendiaryLauncher.traitAdjectives.3>
+  <IncendiaryLauncher.traitAdjectives.3>เผาไหม้</IncendiaryLauncher.traitAdjectives.3>
   
   <!-- EN: incendiary pellets -->
   <IncendiaryPellets.label>ลูกปรายเพลิง</IncendiaryPellets.label>
   <!-- EN: This weapon fires phosphorus pellets that have a chance to ignite targets. -->
   <IncendiaryPellets.description>อาวุธนี้ยิงลูกปรายฟอสฟอรัสที่มีโอกาสทำให้เป้าหมายติดไฟ</IncendiaryPellets.description>
   <!-- EN: red -->
-  <IncendiaryPellets.traitAdjectives.0>TODO</IncendiaryPellets.traitAdjectives.0>
+  <IncendiaryPellets.traitAdjectives.0>สีแดง</IncendiaryPellets.traitAdjectives.0>
   <!-- EN: fiery -->
-  <IncendiaryPellets.traitAdjectives.1>TODO</IncendiaryPellets.traitAdjectives.1>
+  <IncendiaryPellets.traitAdjectives.1>ร้อนแรง</IncendiaryPellets.traitAdjectives.1>
   <!-- EN: flaming -->
-  <IncendiaryPellets.traitAdjectives.2>TODO</IncendiaryPellets.traitAdjectives.2>
+  <IncendiaryPellets.traitAdjectives.2>ลุกไหม้</IncendiaryPellets.traitAdjectives.2>
   <!-- EN: burning -->
-  <IncendiaryPellets.traitAdjectives.3>TODO</IncendiaryPellets.traitAdjectives.3>
+  <IncendiaryPellets.traitAdjectives.3>เผาไหม้</IncendiaryPellets.traitAdjectives.3>
   <!-- EN: hot -->
-  <IncendiaryPellets.traitAdjectives.4>TODO</IncendiaryPellets.traitAdjectives.4>
+  <IncendiaryPellets.traitAdjectives.4>ร้อน</IncendiaryPellets.traitAdjectives.4>
   <!-- EN: volcanic -->
-  <IncendiaryPellets.traitAdjectives.5>TODO</IncendiaryPellets.traitAdjectives.5>
+  <IncendiaryPellets.traitAdjectives.5>ภูเขาไฟ</IncendiaryPellets.traitAdjectives.5>
   <!-- EN: promethean -->
-  <IncendiaryPellets.traitAdjectives.6>TODO</IncendiaryPellets.traitAdjectives.6>
+  <IncendiaryPellets.traitAdjectives.6>โพรมีเธียน</IncendiaryPellets.traitAdjectives.6>
   
   <!-- EN: incendiary rounds -->
   <IncendiaryRounds.label>กระสุนเพลิง</IncendiaryRounds.label>
   <!-- EN: This weapon fires ammunition that contains a flammable chemical. It has a chance to ignite targets. -->
   <IncendiaryRounds.description>อาวุธนี้ยิงกระสุนที่มีสารเคมีที่ติดไฟได้ มีโอกาสทำให้เป้าหมายติดไฟ</IncendiaryRounds.description>
   <!-- EN: red -->
-  <IncendiaryRounds.traitAdjectives.0>TODO</IncendiaryRounds.traitAdjectives.0>
+  <IncendiaryRounds.traitAdjectives.0>สีแดง</IncendiaryRounds.traitAdjectives.0>
   <!-- EN: fiery -->
-  <IncendiaryRounds.traitAdjectives.1>TODO</IncendiaryRounds.traitAdjectives.1>
+  <IncendiaryRounds.traitAdjectives.1>ร้อนแรง</IncendiaryRounds.traitAdjectives.1>
   <!-- EN: flaming -->
-  <IncendiaryRounds.traitAdjectives.2>TODO</IncendiaryRounds.traitAdjectives.2>
+  <IncendiaryRounds.traitAdjectives.2>ลุกไหม้</IncendiaryRounds.traitAdjectives.2>
   <!-- EN: burning -->
-  <IncendiaryRounds.traitAdjectives.3>TODO</IncendiaryRounds.traitAdjectives.3>
+  <IncendiaryRounds.traitAdjectives.3>เผาไหม้</IncendiaryRounds.traitAdjectives.3>
   <!-- EN: hot -->
-  <IncendiaryRounds.traitAdjectives.4>TODO</IncendiaryRounds.traitAdjectives.4>
+  <IncendiaryRounds.traitAdjectives.4>ร้อน</IncendiaryRounds.traitAdjectives.4>
   <!-- EN: igniting -->
-  <IncendiaryRounds.traitAdjectives.5>TODO</IncendiaryRounds.traitAdjectives.5>
+  <IncendiaryRounds.traitAdjectives.5>จุดไฟ</IncendiaryRounds.traitAdjectives.5>
   <!-- EN: napalm -->
-  <IncendiaryRounds.traitAdjectives.6>TODO</IncendiaryRounds.traitAdjectives.6>
+  <IncendiaryRounds.traitAdjectives.6>นาปาล์ม</IncendiaryRounds.traitAdjectives.6>
   
   <!-- EN: jade inlay -->
   <JadeInlay.label>ฝังหยก</JadeInlay.label>
   <!-- EN: This weapon is adorned with jade. Traders will pay more for it. -->
   <JadeInlay.description>อาวุธนี้ประดับด้วยหยก พ่อค้าจะจ่ายมากขึ้นสำหรับมัน</JadeInlay.description>
   <!-- EN: jade -->
-  <JadeInlay.traitAdjectives.0>TODO</JadeInlay.traitAdjectives.0>
+  <JadeInlay.traitAdjectives.0>หยก</JadeInlay.traitAdjectives.0>
   
   <!-- EN: lightweight -->
   <Lightweight.label>น้ำหนักเบา</Lightweight.label>
   <!-- EN: This weapon is much lighter than normal, lowering its aiming time. -->
   <Lightweight.description>อาวุธนี้เบากว่าปกติมาก ทำให้ใช้เวลาเล็งน้อยลง</Lightweight.description>
   <!-- EN: light -->
-  <Lightweight.traitAdjectives.0>TODO</Lightweight.traitAdjectives.0>
+  <Lightweight.traitAdjectives.0>เบา</Lightweight.traitAdjectives.0>
   <!-- EN: quickdraw -->
-  <Lightweight.traitAdjectives.1>TODO</Lightweight.traitAdjectives.1>
+  <Lightweight.traitAdjectives.1>ชักไว</Lightweight.traitAdjectives.1>
   
   <!-- EN: lightweight arrows -->
   <LightweightArrows.label>ลูกธนูน้ำหนักเบา</LightweightArrows.label>
   <!-- EN: This bow is adept at firing lightweight arrows. They fly farther but deal less damage. -->
   <LightweightArrows.description>ธนูนี้เชี่ยวชาญในการยิงลูกธนูน้ำหนักเบา พวกมันบินได้ไกลขึ้นแต่สร้างความเสียหายน้อยลง</LightweightArrows.description>
   <!-- EN: light -->
-  <LightweightArrows.traitAdjectives.0>TODO</LightweightArrows.traitAdjectives.0>
+  <LightweightArrows.traitAdjectives.0>เบา</LightweightArrows.traitAdjectives.0>
   <!-- EN: longreach -->
-  <LightweightArrows.traitAdjectives.1>TODO</LightweightArrows.traitAdjectives.1>
+  <LightweightArrows.traitAdjectives.1>ระยะไกล</LightweightArrows.traitAdjectives.1>
   
   <!-- EN: ornamental -->
   <Ornamental.label>ประดับ</Ornamental.label>
   <!-- EN: This weapon was crafted for aesthetics over functionality. It deals less damage but looks great. -->
   <Ornamental.description>อาวุธนี้ถูกสร้างขึ้นเพื่อความสวยงามมากกว่าการใช้งาน สร้างความเสียหายน้อยลงแต่ดูดีมาก</Ornamental.description>
   <!-- EN: beautiful -->
-  <Ornamental.traitAdjectives.0>TODO</Ornamental.traitAdjectives.0>
+  <Ornamental.traitAdjectives.0>สวยงาม</Ornamental.traitAdjectives.0>
   <!-- EN: elegant -->
-  <Ornamental.traitAdjectives.1>TODO</Ornamental.traitAdjectives.1>
+  <Ornamental.traitAdjectives.1>สง่างาม</Ornamental.traitAdjectives.1>
   <!-- EN: ornamental -->
-  <Ornamental.traitAdjectives.2>TODO</Ornamental.traitAdjectives.2>
-  
+  <Ornamental.traitAdjectives.2>ประดับ</Ornamental.traitAdjectives.2>
   <!-- EN: heavy rounds -->
   <OversizedRounds.label>กระสุนหนัก</OversizedRounds.label>
   <!-- EN: This weapon deals more damage and has a much higher stopping power than normal. -->
   <OversizedRounds.description>อาวุธนี้สร้างความเสียหายได้มากกว่าและมีอำนาจหยุดยั้งสูงกว่าปกติมาก</OversizedRounds.description>
   <!-- EN: hammering -->
-  <OversizedRounds.traitAdjectives.0>TODO</OversizedRounds.traitAdjectives.0>
+  <OversizedRounds.traitAdjectives.0>ทุบ</OversizedRounds.traitAdjectives.0>
   <!-- EN: forceful -->
-  <OversizedRounds.traitAdjectives.1>TODO</OversizedRounds.traitAdjectives.1>
+  <OversizedRounds.traitAdjectives.1>ทรงพลัง</OversizedRounds.traitAdjectives.1>
   <!-- EN: oversized -->
-  <OversizedRounds.traitAdjectives.2>TODO</OversizedRounds.traitAdjectives.2>
+  <OversizedRounds.traitAdjectives.2>ขนาดใหญ่</OversizedRounds.traitAdjectives.2>
   <!-- EN: knockout -->
-  <OversizedRounds.traitAdjectives.3>TODO</OversizedRounds.traitAdjectives.3>
+  <OversizedRounds.traitAdjectives.3>น็อคเอาท์</OversizedRounds.traitAdjectives.3>
   
   <!-- EN: paralytic arrows -->
   <ParalyticArrows.label>ลูกธนูอัมพาต</ParalyticArrows.label>
   <!-- EN: This bow shoots arrows embedded with a paralytic biotoxin, which briefly stuns targets. -->
   <ParalyticArrows.description>ธนูนี้ยิงลูกธนูที่ฝังด้วยไบโอท็อกซินที่เป็นอัมพาต ซึ่งทำให้เป้าหมายมึนงงชั่วครู่</ParalyticArrows.description>
   <!-- EN: paralyzing -->
-  <ParalyticArrows.traitAdjectives.0>TODO</ParalyticArrows.traitAdjectives.0>
+  <ParalyticArrows.traitAdjectives.0>อัมพาต</ParalyticArrows.traitAdjectives.0>
   <!-- EN: paralytic -->
-  <ParalyticArrows.traitAdjectives.1>TODO</ParalyticArrows.traitAdjectives.1>
+  <ParalyticArrows.traitAdjectives.1>อัมพาต</ParalyticArrows.traitAdjectives.1>
   <!-- EN: stunning -->
-  <ParalyticArrows.traitAdjectives.2>TODO</ParalyticArrows.traitAdjectives.2>
+  <ParalyticArrows.traitAdjectives.2>สตั๊น</ParalyticArrows.traitAdjectives.2>
   
   <!-- EN: piercing arrows -->
   <PiercingArrows.label>ลูกธนูเจาะเกราะ</PiercingArrows.label>
   <!-- EN: This bow shoots bodkin-tipped arrows, making it more effective against armored targets. -->
   <PiercingArrows.description>ธนูนี้ยิงลูกธนูหัวแหลม ทำให้มีประสิทธิภาพมากขึ้นในการต่อสู้กับเป้าหมายที่มีเกราะ</PiercingArrows.description>
   <!-- EN: piercing -->
-  <PiercingArrows.traitAdjectives.0>TODO</PiercingArrows.traitAdjectives.0>
+  <PiercingArrows.traitAdjectives.0>เจาะ</PiercingArrows.traitAdjectives.0>
   <!-- EN: sharp -->
-  <PiercingArrows.traitAdjectives.1>TODO</PiercingArrows.traitAdjectives.1>
+  <PiercingArrows.traitAdjectives.1>คม</PiercingArrows.traitAdjectives.1>
   <!-- EN: penetrating -->
-  <PiercingArrows.traitAdjectives.2>TODO</PiercingArrows.traitAdjectives.2>
+  <PiercingArrows.traitAdjectives.2>ทะลุทะลวง</PiercingArrows.traitAdjectives.2>
   <!-- EN: bodkin -->
-  <PiercingArrows.traitAdjectives.3>TODO</PiercingArrows.traitAdjectives.3>
+  <PiercingArrows.traitAdjectives.3>หัวแหลม</PiercingArrows.traitAdjectives.3>
   <!-- EN: anti-armor -->
-  <PiercingArrows.traitAdjectives.4>TODO</PiercingArrows.traitAdjectives.4>
+  <PiercingArrows.traitAdjectives.4>ต้านเกราะ</PiercingArrows.traitAdjectives.4>
   
   <!-- EN: piercing rounds -->
   <PiercingRounds.label>กระสุนเจาะเกราะ</PiercingRounds.label>
   <!-- EN: This weapon fires rounds designed to penetrate thick armor. -->
   <PiercingRounds.description>อาวุธนี้ยิงกระสุนที่ออกแบบมาเพื่อเจาะเกราะหนา</PiercingRounds.description>
   <!-- EN: piercing -->
-  <PiercingRounds.traitAdjectives.0>TODO</PiercingRounds.traitAdjectives.0>
+  <PiercingRounds.traitAdjectives.0>เจาะ</PiercingRounds.traitAdjectives.0>
   <!-- EN: sharp -->
-  <PiercingRounds.traitAdjectives.1>TODO</PiercingRounds.traitAdjectives.1>
+  <PiercingRounds.traitAdjectives.1>คม</PiercingRounds.traitAdjectives.1>
   <!-- EN: sabot -->
-  <PiercingRounds.traitAdjectives.2>TODO</PiercingRounds.traitAdjectives.2>
+  <PiercingRounds.traitAdjectives.2>กระสุนซาโบ</PiercingRounds.traitAdjectives.2>
   <!-- EN: penetrating -->
-  <PiercingRounds.traitAdjectives.3>TODO</PiercingRounds.traitAdjectives.3>
+  <PiercingRounds.traitAdjectives.3>ทะลุทะลวง</PiercingRounds.traitAdjectives.3>
   
   <!-- EN: tracking scope -->
   <PrecisionScope.label>กล้องติดตามเป้า</PrecisionScope.label>
   <!-- EN: This weapon's scope uses target recognition software to automate target tracking, making it faster to fire. -->
   <PrecisionScope.description>กล้องเล็งของอาวุธนี้ใช้ซอฟต์แวร์จดจำเป้าหมายเพื่อติดตามเป้าหมายโดยอัตโนมัติ ทำให้ยิงได้เร็วขึ้น</PrecisionScope.description>
   <!-- EN: trackscope -->
-  <PrecisionScope.traitAdjectives.0>TODO</PrecisionScope.traitAdjectives.0>
+  <PrecisionScope.traitAdjectives.0>กล้องติดตาม</PrecisionScope.traitAdjectives.0>
   <!-- EN: fastfire -->
-  <PrecisionScope.traitAdjectives.1>TODO</PrecisionScope.traitAdjectives.1>
+  <PrecisionScope.traitAdjectives.1>ยิงเร็ว</PrecisionScope.traitAdjectives.1>
   
   <!-- EN: pulse charger -->
   <PulseCharger.label>เครื่องชาร์จพัลส์</PulseCharger.label>
   <!-- EN: This weapon is retrofitted with pulse-charge technology, imbuing bullets with unstable energy. The weapon was clearly not designed for this, dramatically lowering its accuracy. -->
   <PulseCharger.description>อาวุธนี้ได้รับการติดตั้งเทคโนโลยีพัลส์ชาร์จเพิ่มเติม ทำให้กระสุนเต็มไปด้วยพลังงานที่ไม่เสถียร เห็นได้ชัดว่าอาวุธไม่ได้ถูกออกแบบมาเพื่อสิ่งนี้ ทำให้ความแม่นยำลดลงอย่างมาก</PulseCharger.description>
   <!-- EN: charged-shot -->
-  <PulseCharger.traitAdjectives.0>TODO</PulseCharger.traitAdjectives.0>
+  <PulseCharger.traitAdjectives.0>ยิงชาร์จ</PulseCharger.traitAdjectives.0>
   <!-- EN: charged -->
-  <PulseCharger.traitAdjectives.1>TODO</PulseCharger.traitAdjectives.1>
+  <PulseCharger.traitAdjectives.1>ชาร์จ</PulseCharger.traitAdjectives.1>
   <!-- EN: pulse-charged -->
-  <PulseCharger.traitAdjectives.2>TODO</PulseCharger.traitAdjectives.2>
+  <PulseCharger.traitAdjectives.2>ชาร์จคลื่น</PulseCharger.traitAdjectives.2>
   
   <!-- EN: quick reload -->
   <QuickReload.label>บรรจุกระสุนเร็ว</QuickReload.label>
   <!-- EN: This weapon has a quick release-and-replace mechanism that makes it faster to reload. -->
   <QuickReload.description>อาวุธนี้มีกลไกปลดและเปลี่ยนที่รวดเร็วซึ่งทำให้บรรจุกระสุนได้เร็วขึ้น</QuickReload.description>
   <!-- EN: quick -->
-  <QuickReload.traitAdjectives.0>TODO</QuickReload.traitAdjectives.0>
+  <QuickReload.traitAdjectives.0>เร็ว</QuickReload.traitAdjectives.0>
   <!-- EN: nimble -->
-  <QuickReload.traitAdjectives.1>TODO</QuickReload.traitAdjectives.1>
+  <QuickReload.traitAdjectives.1>คล่องแคล่ว</QuickReload.traitAdjectives.1>
   <!-- EN: quickload -->
-  <QuickReload.traitAdjectives.2>TODO</QuickReload.traitAdjectives.2>
+  <QuickReload.traitAdjectives.2>บรรจุเร็ว</QuickReload.traitAdjectives.2>
   <!-- EN: quickshot -->
-  <QuickReload.traitAdjectives.3>TODO</QuickReload.traitAdjectives.3>
+  <QuickReload.traitAdjectives.3>ยิงเร็ว</QuickReload.traitAdjectives.3>
   <!-- EN: fastload -->
-  <QuickReload.traitAdjectives.4>TODO</QuickReload.traitAdjectives.4>
+  <QuickReload.traitAdjectives.4>โหลดเร็ว</QuickReload.traitAdjectives.4>
   
   <!-- EN: rangefinder -->
   <RangefinderScope.label>เครื่องวัดระยะ</RangefinderScope.label>
   <!-- EN: This weapon's scope contains an advanced rangefinder, allowing it to fire further. -->
   <RangefinderScope.description>กล้องเล็งของอาวุธนี้มีเครื่องวัดระยะขั้นสูง ทำให้สามารถยิงได้ไกลขึ้น</RangefinderScope.description>
   <!-- EN: eagle -->
-  <RangefinderScope.traitAdjectives.0>TODO</RangefinderScope.traitAdjectives.0>
+  <RangefinderScope.traitAdjectives.0>อินทรี</RangefinderScope.traitAdjectives.0>
   <!-- EN: farsight -->
-  <RangefinderScope.traitAdjectives.1>TODO</RangefinderScope.traitAdjectives.1>
+  <RangefinderScope.traitAdjectives.1>มองไกล</RangefinderScope.traitAdjectives.1>
   
   <!-- EN: rapid fire -->
   <RapidFire.label>ยิงเร็ว</RapidFire.label>
   <!-- EN: This weapon contains an improved self-loading mechanism. When firing bursts of multiple rounds, the time between each round is dramatically reduced. -->
   <RapidFire.description>อาวุธนี้มีกลไกบรรจุกระสุนเองที่ได้รับการปรับปรุง เมื่อยิงเป็นชุดหลายนัด เวลาในแต่ละนัดจะลดลงอย่างมาก</RapidFire.description>
   <!-- EN: rapid -->
-  <RapidFire.traitAdjectives.0>TODO</RapidFire.traitAdjectives.0>
+  <RapidFire.traitAdjectives.0>รวดเร็ว</RapidFire.traitAdjectives.0>
   <!-- EN: burst -->
-  <RapidFire.traitAdjectives.1>TODO</RapidFire.traitAdjectives.1>
+  <RapidFire.traitAdjectives.1>ยิงชุด</RapidFire.traitAdjectives.1>
   <!-- EN: rapid-fire -->
-  <RapidFire.traitAdjectives.2>TODO</RapidFire.traitAdjectives.2>
+  <RapidFire.traitAdjectives.2>ยิงเร็ว</RapidFire.traitAdjectives.2>
   
   <!-- EN: reinforced bow limbs -->
   <ReinforcedLimbs.label>คันธนูเสริมความแข็งแรง</ReinforcedLimbs.label>
   <!-- EN: The limbs of this bow have been strengthened, allowing it to shoot further. -->
   <ReinforcedLimbs.description>คันธนูนี้ได้รับการเสริมความแข็งแรง ทำให้สามารถยิงได้ไกลขึ้น</ReinforcedLimbs.description>
   <!-- EN: reinforced -->
-  <ReinforcedLimbs.traitAdjectives.0>TODO</ReinforcedLimbs.traitAdjectives.0>
+  <ReinforcedLimbs.traitAdjectives.0>เสริมความแข็งแรง</ReinforcedLimbs.traitAdjectives.0>
   
   <!-- EN: shoddy sights -->
-  <ShoddySights.label>ศูนย์เล็งห่วยๆ</ShoddySights.label>
+  <ShoddySights.label>ศูนย์เล็งด้อยคุณภาพ</ShoddySights.label>
   <!-- EN: Defects in this weapon's sights decrease its accuracy at long ranges. -->
   <ShoddySights.description>ข้อบกพร่องในศูนย์เล็งของอาวุธนี้ทำให้ความแม่นยำในระยะไกลลดลง</ShoddySights.description>
   <!-- EN: inaccurate -->
-  <ShoddySights.traitAdjectives.0>TODO</ShoddySights.traitAdjectives.0>
+  <ShoddySights.traitAdjectives.0>ไม่แม่นยำ</ShoddySights.traitAdjectives.0>
   <!-- EN: imprecise -->
-  <ShoddySights.traitAdjectives.1>TODO</ShoddySights.traitAdjectives.1>
+  <ShoddySights.traitAdjectives.1>ไม่เที่ยงตรง</ShoddySights.traitAdjectives.1>
   
   <!-- EN: shortened barrel -->
   <ShortenedBarrel.label>ลำกล้องสั้นลง</ShortenedBarrel.label>
   <!-- EN: This weapon's barrel has been sawn off, reducing its range but making it quicker to aim and fire. -->
   <ShortenedBarrel.description>ลำกล้องของอาวุธนี้ถูกเลื่อยออก ลดระยะยิงแต่ทำให้เล็งและยิงได้เร็วขึ้น</ShortenedBarrel.description>
   <!-- EN: shortened -->
-  <ShortenedBarrel.traitAdjectives.0>TODO</ShortenedBarrel.traitAdjectives.0>
+  <ShortenedBarrel.traitAdjectives.0>สั้นลง</ShortenedBarrel.traitAdjectives.0>
   <!-- EN: sawn-off -->
-  <ShortenedBarrel.traitAdjectives.1>TODO</ShortenedBarrel.traitAdjectives.1>
+  <ShortenedBarrel.traitAdjectives.1>เลื่อยออก</ShortenedBarrel.traitAdjectives.1>
   
   <!-- EN: smoke launcher -->
   <SmokeLauncher.label>เครื่องยิงควัน</SmokeLauncher.label>
   <!-- EN: This weapon has an attached smoke shell launcher. The shell releases smoke that obscures incoming shots and prevents turrets from locking on. Once fired, it must be reloaded using steel. -->
   <SmokeLauncher.description>อาวุธนี้มีเครื่องยิงกระสุนควันติดอยู่ กระสุนจะปล่อยควันออกมาซึ่งบดบังการยิงที่เข้ามาและป้องกันไม่ให้ป้อมปืนล็อคเป้า เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เหล็ก</SmokeLauncher.description>
   <!-- EN: shell -->
-  <SmokeLauncher.abilityProps.chargeNoun>TODO</SmokeLauncher.abilityProps.chargeNoun>
+  <SmokeLauncher.abilityProps.chargeNoun>กระสุน</SmokeLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
-  <SmokeLauncher.abilityProps.cooldownGerund>TODO</SmokeLauncher.abilityProps.cooldownGerund>
+  <SmokeLauncher.abilityProps.cooldownGerund>กำลังคูลดาวน์</SmokeLauncher.abilityProps.cooldownGerund>
   <!-- EN: smoke -->
-  <SmokeLauncher.traitAdjectives.0>TODO</SmokeLauncher.traitAdjectives.0>
+  <SmokeLauncher.traitAdjectives.0>ควัน</SmokeLauncher.traitAdjectives.0>
   <!-- EN: concealing -->
-  <SmokeLauncher.traitAdjectives.1>TODO</SmokeLauncher.traitAdjectives.1>
+  <SmokeLauncher.traitAdjectives.1>ปกปิด</SmokeLauncher.traitAdjectives.1>
   <!-- EN: clouding -->
-  <SmokeLauncher.traitAdjectives.2>TODO</SmokeLauncher.traitAdjectives.2>
+  <SmokeLauncher.traitAdjectives.2>บดบัง</SmokeLauncher.traitAdjectives.2>
   
   <!-- EN: pistol brace -->
   <StabilizerBrace.label>พานท้ายปืนพก</StabilizerBrace.label>
   <!-- EN: This weapon has a stabilizing brace that connects to the user's arm, increasing its accuracy. -->
   <StabilizerBrace.description>อาวุธนี้มีพานท้ายที่เชื่อมต่อกับแขนของผู้ใช้ เพิ่มความแม่นยำ</StabilizerBrace.description>
   <!-- EN: stable -->
-  <StabilizerBrace.traitAdjectives.0>TODO</StabilizerBrace.traitAdjectives.0>
+  <StabilizerBrace.traitAdjectives.0>มั่นคง</StabilizerBrace.traitAdjectives.0>
   <!-- EN: accurate -->
-  <StabilizerBrace.traitAdjectives.1>TODO</StabilizerBrace.traitAdjectives.1>
+  <StabilizerBrace.traitAdjectives.1>แม่นยำ</StabilizerBrace.traitAdjectives.1>
   <!-- EN: precise -->
-  <StabilizerBrace.traitAdjectives.2>TODO</StabilizerBrace.traitAdjectives.2>
+  <StabilizerBrace.traitAdjectives.2>เที่ยงตรง</StabilizerBrace.traitAdjectives.2>
   <!-- EN: braced -->
-  <StabilizerBrace.traitAdjectives.3>TODO</StabilizerBrace.traitAdjectives.3>
+  <StabilizerBrace.traitAdjectives.3>เสริมความมั่นคง</StabilizerBrace.traitAdjectives.3>
   
   <!-- EN: toxic pellets -->
   <ToxPellets.label>ลูกปรายพิษ</ToxPellets.label>
   <!-- EN: This weapon fires chemical pellets which cause toxic buildup. -->
   <ToxPellets.description>อาวุธนี้ยิงลูกปรายเคมีซึ่งทำให้เกิดการสะสมของสารพิษ</ToxPellets.description>
   <!-- EN: green -->
-  <ToxPellets.traitAdjectives.0>TODO</ToxPellets.traitAdjectives.0>
+  <ToxPellets.traitAdjectives.0>สีเขียว</ToxPellets.traitAdjectives.0>
   <!-- EN: toxic -->
-  <ToxPellets.traitAdjectives.1>TODO</ToxPellets.traitAdjectives.1>
+  <ToxPellets.traitAdjectives.1>เป็นพิษ</ToxPellets.traitAdjectives.1>
   <!-- EN: poisonous -->
-  <ToxPellets.traitAdjectives.2>TODO</ToxPellets.traitAdjectives.2>
+  <ToxPellets.traitAdjectives.2>มีพิษ</ToxPellets.traitAdjectives.2>
   <!-- EN: poison -->
-  <ToxPellets.traitAdjectives.3>TODO</ToxPellets.traitAdjectives.3>
+  <ToxPellets.traitAdjectives.3>พิษ</ToxPellets.traitAdjectives.3>
   
   <!-- EN: tox rounds -->
   <ToxRounds.label>กระสุนพิษ</ToxRounds.label>
   <!-- EN: This weapon fires rounds coated with toxic chemicals, which sicken wounded targets. -->
   <ToxRounds.description>อาวุธนี้ยิงกระสุนที่เคลือบด้วยสารเคมีพิษ ซึ่งทำให้เป้าหมายที่บาดเจ็บป่วย</ToxRounds.description>
   <!-- EN: green -->
-  <ToxRounds.traitAdjectives.0>TODO</ToxRounds.traitAdjectives.0>
+  <ToxRounds.traitAdjectives.0>สีเขียว</ToxRounds.traitAdjectives.0>
   <!-- EN: poison -->
-  <ToxRounds.traitAdjectives.1>TODO</ToxRounds.traitAdjectives.1>
+  <ToxRounds.traitAdjectives.1>พิษ</ToxRounds.traitAdjectives.1>
   <!-- EN: venom -->
-  <ToxRounds.traitAdjectives.2>TODO</ToxRounds.traitAdjectives.2>
+  <ToxRounds.traitAdjectives.2>พิษงู</ToxRounds.traitAdjectives.2>
   <!-- EN: venomous -->
-  <ToxRounds.traitAdjectives.3>TODO</ToxRounds.traitAdjectives.3>
+  <ToxRounds.traitAdjectives.3>มีพิษ</ToxRounds.traitAdjectives.3>
   <!-- EN: snakebite -->
-  <ToxRounds.traitAdjectives.4>TODO</ToxRounds.traitAdjectives.4>
+  <ToxRounds.traitAdjectives.4>งูกัด</ToxRounds.traitAdjectives.4>
   
   <!-- EN: ugly -->
   <Ugly.label>น่าเกลียด</Ugly.label>
   <!-- EN: This weapon was crafted with no respect for aesthetics. It looks like junk but gets the job done. Traders will pay less for it. -->
-  <Ugly.description>อาวุธนี้ถูกสร้างขึ้นโดยไม่คำนึงถึงความสวยงาม ดูเหมือนขยะแต่ก็ทำงานได้ พ่อค้าจะจ่ายน้อยลงสำหรับมัน</Ugly.description>
+  <Ugly.description>อาวุธนี้ถูกสร้างขึ้นโดยไม่คำนึงถึงความสวยงาม มันดูเหมือนขยะแต่ก็ทำงานได้ พ่อค้าจะจ่ายเงินให้มันน้อยลง</Ugly.description>
   <!-- EN: monstrous -->
-  <Ugly.traitAdjectives.0>TODO</Ugly.traitAdjectives.0>
+  <Ugly.traitAdjectives.0>น่ากลัว</Ugly.traitAdjectives.0>
   <!-- EN: crude -->
-  <Ugly.traitAdjectives.1>TODO</Ugly.traitAdjectives.1>
+  <Ugly.traitAdjectives.1>หยาบ</Ugly.traitAdjectives.1>
   <!-- EN: ugly -->
-  <Ugly.traitAdjectives.2>TODO</Ugly.traitAdjectives.2>
+  <Ugly.traitAdjectives.2>น่าเกลียด</Ugly.traitAdjectives.2>
   
 </LanguageData>

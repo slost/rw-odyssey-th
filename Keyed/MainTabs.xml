@@ -3,11 +3,11 @@
 
   <!-- Research -->
   <!-- EN: Grav engine must be inspected -->
-  <MissingGravEngineInspection>กราฟเอนจิ้นต้องถูกตรวจสอบ</MissingGravEngineInspection>
+  <MissingGravEngineInspection>เครื่องยนต์แรงโน้มถ่วงต้องถูกตรวจสอบ</MissingGravEngineInspection>
   <!-- EN: Requires inspection of -->
   <RequiresInspectionof>ต้องมีการตรวจสอบของ</RequiresInspectionof>
   <!-- EN: Grav engine inspected -->
-  <RequireGravEngineInspected>กราฟเอนจิ้นถูกตรวจสอบแล้ว</RequireGravEngineInspected>
+  <RequireGravEngineInspected>เครื่องยนต์แรงโน้มถ่วงถูกตรวจสอบแล้ว</RequireGravEngineInspected>
   
   <!-- Ancient vents -->
   <!-- EN: venting smoke. -->

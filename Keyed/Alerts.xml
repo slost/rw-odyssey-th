@@ -13,7 +13,7 @@
   <!-- EN: Incoming mechanoids -->
   <AlertMechanoidThreatCritical>เมคคานอยด์กำลังมา</AlertMechanoidThreatCritical>
   <!-- EN: A mechhive has discovered your location. It will continue to send hostile mechanoids until you flee this location. -->
-  <AlertMechanoidThreatCriticalDesc>เมคไฮฟ์ค้นพบตำแหน่งของคุณแล้ว และจะส่งเมคานอยด์ที่ไม่เป็นมิตรเข้ามาเรื่อยๆ จนกว่าคุณจะหลบหนีออกจากพื้นที่นี้</AlertMechanoidThreatCriticalDesc>
+  <AlertMechanoidThreatCriticalDesc>เมคไฮฟ์ค้นพบตำแหน่งของคุณแล้ว และจะส่งเมคคานอยด์ที่ไม่เป็นมิตรเข้ามาเรื่อยๆ จนกว่าคุณจะหลบหนีออกจากพื้นที่นี้</AlertMechanoidThreatCriticalDesc>
 
   <!-- Mechhive -->
   <!-- EN: Stabilizers remaining -->

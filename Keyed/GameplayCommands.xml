@@ -9,7 +9,7 @@
   <!-- EN: Inspect {0_labelShort} -->
   <CommandInspectGravEngine>ตรวจสอบ {0_labelShort}</CommandInspectGravEngine>
   <!-- EN: Choose a colonist to inspect the mysterious grav engine. -->
-  <CommandInspectGravEngineDesc>เลือกชาวนิคมเพื่อตรวจสอบกราฟเอนจิ้นลึกลับ</CommandInspectGravEngineDesc>
+  <CommandInspectGravEngineDesc>เลือกชาวนิคมเพื่อตรวจสอบเครื่องยนต์แรงโน้มถ่วงลึกลับ</CommandInspectGravEngineDesc>
   <!-- EN: Choose navigator -->
   <CommandChooseNavigator>เลือกต้นหน</CommandChooseNavigator>
   <!-- EN: Cannot navigate -->

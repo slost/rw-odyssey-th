@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: alligator egg (fert.) -->
-  <EggAlligatorFertilized.label>ไข่แอลลิเกเตอร์ (มีเชื้อ)</EggAlligatorFertilized.label>
+  <EggAlligatorFertilized.label>ไข่แอลลิเกเตอร์ (ปฏิสนธิ)</EggAlligatorFertilized.label>
   <!-- EN: A fertilized alligator egg. If all goes well, it should hatch into a baby alligator. It can be eaten raw, but it's much better cooked. -->
   <EggAlligatorFertilized.description>ไข่แอลลิเกเตอร์ที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกแอลลิเกเตอร์ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggAlligatorFertilized.description>
   
   <!-- EN: alligator egg (unfert.) -->
-  <EggAlligatorUnfertilized.label>ไข่แอลลิเกเตอร์ (ไม่มีเชื้อ)</EggAlligatorUnfertilized.label>
+  <EggAlligatorUnfertilized.label>ไข่แอลลิเกเตอร์ (ไม่ปฏิสนธิ)</EggAlligatorUnfertilized.label>
   <!-- EN: An unfertilized alligator egg. It can be eaten raw, but it's much better cooked. -->
   <EggAlligatorUnfertilized.description>ไข่แอลลิเกเตอร์ที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggAlligatorUnfertilized.description>
   
@@ -17,127 +17,127 @@
   <EggBluebirdFertilized.description>ไข่นกบลูเบิร์ดที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกนกบลูเบิร์ด สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggBluebirdFertilized.description>
   
   <!-- EN: bluebird egg (unfert.) -->
-  <EggBluebirdUnfertilized.label>ไข่นกบลูเบิร์ด (ไม่มีเชื้อ)</EggBluebirdUnfertilized.label>
+  <EggBluebirdUnfertilized.label>ไข่นกบลูเบิร์ด (ไม่ปฏิสนธิ)</EggBluebirdUnfertilized.label>
   <!-- EN: An unfertilized bluebird egg. It can be eaten raw, but it's much better cooked. -->
   <EggBluebirdUnfertilized.description>ไข่นกบลูเบิร์ดที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggBluebirdUnfertilized.description>
   
   <!-- EN: crow egg (fert.) -->
-  <EggCrowFertilized.label>ไข่อีกา (มีเชื้อ)</EggCrowFertilized.label>
+  <EggCrowFertilized.label>ไข่อีกา (ปฏิสนธิ)</EggCrowFertilized.label>
   <!-- EN: A fertilized crow egg. If all goes well, it should hatch into a baby crow. It can be eaten raw, but it's much better cooked. -->
   <EggCrowFertilized.description>ไข่อีกาที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกอีกา สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggCrowFertilized.description>
   
   <!-- EN: crow egg (unfert.) -->
-  <EggCrowUnfertilized.label>ไข่อีกา (ไม่มีเชื้อ)</EggCrowUnfertilized.label>
+  <EggCrowUnfertilized.label>ไข่อีกา (ไม่ปฏิสนธิ)</EggCrowUnfertilized.label>
   <!-- EN: An unfertilized crow egg. It can be eaten raw, but it's much better cooked. -->
   <EggCrowUnfertilized.description>ไข่อีกาที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggCrowUnfertilized.description>
   
   <!-- EN: flamingo egg (fert.) -->
-  <EggFlamingoFertilized.label>ไข่นกฟลามิงโก (มีเชื้อ)</EggFlamingoFertilized.label>
+  <EggFlamingoFertilized.label>ไข่นกฟลามิงโก (ปฏิสนธิ)</EggFlamingoFertilized.label>
   <!-- EN: A fertilized flamingo egg. If all goes well, it should hatch into a baby flamingo. It can be eaten raw, but it's much better cooked. -->
   <EggFlamingoFertilized.description>ไข่นกฟลามิงโกที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกนกฟลามิงโก สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggFlamingoFertilized.description>
   
   <!-- EN: flamingo egg (unfert.) -->
-  <EggFlamingoUnfertilized.label>ไข่นกฟลามิงโก (ไม่มีเชื้อ)</EggFlamingoUnfertilized.label>
+  <EggFlamingoUnfertilized.label>ไข่นกฟลามิงโก (ไม่ปฏิสนธิ)</EggFlamingoUnfertilized.label>
   <!-- EN: An unfertilized flamingo egg. It can be eaten raw, but it's much better cooked. -->
   <EggFlamingoUnfertilized.description>ไข่นกฟลามิงโกที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggFlamingoUnfertilized.description>
   
   <!-- EN: heron egg (fert.) -->
-  <EggHeronFertilized.label>ไข่นกกระสา (มีเชื้อ)</EggHeronFertilized.label>
+  <EggHeronFertilized.label>ไข่นกกระสา (ปฏิสนธิ)</EggHeronFertilized.label>
   <!-- EN: A fertilized heron egg. If all goes well, it should hatch into a baby heron. It can be eaten raw, but it's much better cooked. -->
   <EggHeronFertilized.description>ไข่นกกระสาที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกนกกระสา สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggHeronFertilized.description>
   
   <!-- EN: heron egg (unfert.) -->
-  <EggHeronUnfertilized.label>ไข่นกกระสา (ไม่มีเชื้อ)</EggHeronUnfertilized.label>
+  <EggHeronUnfertilized.label>ไข่นกกระสา (ไม่ปฏิสนธิ)</EggHeronUnfertilized.label>
   <!-- EN: An unfertilized heron egg. It can be eaten raw, but it's much better cooked. -->
   <EggHeronUnfertilized.description>ไข่นกกระสาที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggHeronUnfertilized.description>
   
   <!-- EN: macaw egg (fert.) -->
-  <EggMacawFertilized.label>ไข่นกมาคอว์ (มีเชื้อ)</EggMacawFertilized.label>
+  <EggMacawFertilized.label>ไข่นกมาคอว์ (ปฏิสนธิ)</EggMacawFertilized.label>
   <!-- EN: A fertilized macaw egg. If all goes well, it should hatch into a baby parrot. It can be eaten raw, but it's much better cooked. -->
   <EggMacawFertilized.description>ไข่นกมาคอว์ที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกนกแก้ว สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggMacawFertilized.description>
   
   <!-- EN: macaw egg (unfert.) -->
-  <EggMacawUnfertilized.label>ไข่นกมาคอว์ (ไม่มีเชื้อ)</EggMacawUnfertilized.label>
+  <EggMacawUnfertilized.label>ไข่นกมาคอว์ (ไม่ปฏิสนธิ)</EggMacawUnfertilized.label>
   <!-- EN: An unfertilized macaw egg. It can be eaten raw, but it's much better cooked. -->
   <EggMacawUnfertilized.description>ไข่นกมาคอว์ที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggMacawUnfertilized.description>
   
   <!-- EN: monitor lizard egg (fert.) -->
-  <EggMonitorLizardFertilized.label>ไข่กิ้งก่ามอนิเตอร์ (มีเชื้อ)</EggMonitorLizardFertilized.label>
+  <EggMonitorLizardFertilized.label>ไข่กิ้งก่ามอนิเตอร์ (ปฏิสนธิ)</EggMonitorLizardFertilized.label>
   <!-- EN: A fertilized monitor lizard egg. If all goes well, it should hatch into a baby monitor lizard. It can be eaten raw, but it's much better cooked. -->
   <EggMonitorLizardFertilized.description>ไข่กิ้งก่ามอนิเตอร์ที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกกิ้งก่ามอนิเตอร์ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggMonitorLizardFertilized.description>
   
   <!-- EN: monitor lizard egg (unfert.) -->
-  <EggMonitorLizardUnfertilized.label>ไข่กิ้งก่ามอนิเตอร์ (ไม่มีเชื้อ)</EggMonitorLizardUnfertilized.label>
+  <EggMonitorLizardUnfertilized.label>ไข่กิ้งก่ามอนิเตอร์ (ไม่ปฏิสนธิ)</EggMonitorLizardUnfertilized.label>
   <!-- EN: An unfertilized monitor lizard egg. It can be eaten raw, but it's much better cooked. -->
   <EggMonitorLizardUnfertilized.description>ไข่กิ้งก่ามอนิเตอร์ที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggMonitorLizardUnfertilized.description>
   
   <!-- EN: peacock egg (fert.) -->
-  <EggPeacockFertilized.label>ไข่นกยูง (มีเชื้อ)</EggPeacockFertilized.label>
+  <EggPeacockFertilized.label>ไข่นกยูง (ปฏิสนธิ)</EggPeacockFertilized.label>
   <!-- EN: A fertilized peacock egg. If all goes well, it should hatch into a baby peacock. It can be eaten raw, but it's much better cooked. -->
   <EggPeacockFertilized.description>ไข่นกยูงที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกนกยูง สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggPeacockFertilized.description>
   
   <!-- EN: peacock egg (unfert.) -->
-  <EggPeacockUnfertilized.label>ไข่นกยูง (ไม่มีเชื้อ)</EggPeacockUnfertilized.label>
+  <EggPeacockUnfertilized.label>ไข่นกยูง (ไม่ปฏิสนธิ)</EggPeacockUnfertilized.label>
   <!-- EN: An unfertilized peacock egg. It can be eaten raw, but it's much better cooked. -->
   <EggPeacockUnfertilized.description>ไข่นกยูงที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggPeacockUnfertilized.description>
   
   <!-- EN: penguin egg (fert.) -->
-  <EggPenguinFertilized.label>ไข่เพนกวิน (มีเชื้อ)</EggPenguinFertilized.label>
+  <EggPenguinFertilized.label>ไข่เพนกวิน (ปฏิสนธิ)</EggPenguinFertilized.label>
   <!-- EN: A fertilized penguin egg. If all goes well, it should hatch into a baby penguin. It can be eaten raw, but it's much better cooked. -->
   <EggPenguinFertilized.description>ไข่เพนกวินที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกเพนกวิน สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggPenguinFertilized.description>
   
   <!-- EN: penguin egg (unfert.) -->
-  <EggPenguinUnfertilized.label>ไข่เพนกวิน (ไม่มีเชื้อ)</EggPenguinUnfertilized.label>
+  <EggPenguinUnfertilized.label>ไข่เพนกวิน (ไม่ปฏิสนธิ)</EggPenguinUnfertilized.label>
   <!-- EN: An unfertilized penguin egg. It can be eaten raw, but it's much better cooked. -->
   <EggPenguinUnfertilized.description>ไข่เพนกวินที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggPenguinUnfertilized.description>
   
   <!-- EN: quail egg (fert.) -->
-  <EggQuailFertilized.label>ไข่นกกระทา (มีเชื้อ)</EggQuailFertilized.label>
+  <EggQuailFertilized.label>ไข่นกกระทา (ปฏิสนธิ)</EggQuailFertilized.label>
   <!-- EN: A fertilized quail egg. If all goes well, it should hatch into a baby quail. It can be eaten raw, but it's much better cooked. -->
   <EggQuailFertilized.description>ไข่นกกระทาที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกนกกระทา สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggQuailFertilized.description>
   
   <!-- EN: quail egg (unfert.) -->
-  <EggQuailUnfertilized.label>ไข่นกกระทา (ไม่มีเชื้อ)</EggQuailUnfertilized.label>
+  <EggQuailUnfertilized.label>ไข่นกกระทา (ไม่ปฏิสนธิ)</EggQuailUnfertilized.label>
   <!-- EN: An unfertilized quail egg. It can be eaten raw, but it's much better cooked. -->
   <EggQuailUnfertilized.description>ไข่นกกระทาที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggQuailUnfertilized.description>
   
   <!-- EN: sea turtle egg (fert.) -->
-  <EggSeaTurtleFertilized.label>ไข่เต่าทะเล (มีเชื้อ)</EggSeaTurtleFertilized.label>
+  <EggSeaTurtleFertilized.label>ไข่เต่าทะเล (ปฏิสนธิ)</EggSeaTurtleFertilized.label>
   <!-- EN: A fertilized sea turtle egg. If all goes well, it should hatch into a baby sea turtle. It can be eaten raw, but it's much better cooked. -->
   <EggSeaTurtleFertilized.description>ไข่เต่าทะเลที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกเต่าทะเล สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggSeaTurtleFertilized.description>
   
   <!-- EN: sea turtle egg (unfert.) -->
-  <EggSeaTurtleUnfertilized.label>ไข่เต่าทะเล (ไม่มีเชื้อ)</EggSeaTurtleUnfertilized.label>
+  <EggSeaTurtleUnfertilized.label>ไข่เต่าทะเล (ไม่ปฏิสนธิ)</EggSeaTurtleUnfertilized.label>
   <!-- EN: An unfertilized sea turtle egg. It can be eaten raw, but it's much better cooked. -->
   <EggSeaTurtleUnfertilized.description>ไข่เต่าทะเลที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggSeaTurtleUnfertilized.description>
   
   <!-- EN: sparrow egg (fert.) -->
-  <EggSparrowFertilized.label>ไข่นกกระจอก (มีเชื้อ)</EggSparrowFertilized.label>
+  <EggSparrowFertilized.label>ไข่นกกระจอก (ปฏิสนธิ)</EggSparrowFertilized.label>
   <!-- EN: A fertilized sparrow egg. If all goes well, it should hatch into a baby sparrow. It can be eaten raw, but it's much better cooked. -->
   <EggSparrowFertilized.description>ไข่นกกระจอกที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกนกกระจอก สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggSparrowFertilized.description>
   
   <!-- EN: sparrow egg (unfert.) -->
-  <EggSparrowUnfertilized.label>ไข่นกกระจอก (ไม่มีเชื้อ)</EggSparrowUnfertilized.label>
+  <EggSparrowUnfertilized.label>ไข่นกกระจอก (ไม่ปฏิสนธิ)</EggSparrowUnfertilized.label>
   <!-- EN: An unfertilized sparrow egg. It can be eaten raw, but it's much better cooked. -->
   <EggSparrowUnfertilized.description>ไข่นกกระจอกที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggSparrowUnfertilized.description>
   
   <!-- EN: swan egg (fert.) -->
-  <EggSwanFertilized.label>ไข่หงส์ (มีเชื้อ)</EggSwanFertilized.label>
+  <EggSwanFertilized.label>ไข่หงส์ (ปฏิสนธิ)</EggSwanFertilized.label>
   <!-- EN: A fertilized swan egg. If all goes well, it should hatch into a baby swan. It can be eaten raw, but it's much better cooked. -->
   <EggSwanFertilized.description>ไข่หงส์ที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกหงส์ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggSwanFertilized.description>
   
   <!-- EN: swan egg (unfert.) -->
-  <EggSwanUnfertilized.label>ไข่หงส์ (ไม่มีเชื้อ)</EggSwanUnfertilized.label>
+  <EggSwanUnfertilized.label>ไข่หงส์ (ไม่ปฏิสนธิ)</EggSwanUnfertilized.label>
   <!-- EN: An unfertilized swan egg. It can be eaten raw, but it's much better cooked. -->
   <EggSwanUnfertilized.description>ไข่หงส์ที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggSwanUnfertilized.description>
   
   <!-- EN: vulture egg (fert.) -->
-  <EggVultureFertilized.label>ไข่อีแร้ง (มีเชื้อ)</EggVultureFertilized.label>
+  <EggVultureFertilized.label>ไข่อีแร้ง (ปฏิสนธิ)</EggVultureFertilized.label>
   <!-- EN: A fertilized vulture egg. If all goes well, it should hatch into a baby vulture. It can be eaten raw, but it's much better cooked. -->
   <EggVultureFertilized.description>ไข่อีแร้งที่ได้รับการปฏิสนธิ หากทุกอย่างเป็นไปด้วยดี มันควรจะฟักออกมาเป็นลูกอีแร้ง สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggVultureFertilized.description>
   
   <!-- EN: vulture egg (unfert.) -->
-  <EggVultureUnfertilized.label>ไข่อีแร้ง (ไม่มีเชื้อ)</EggVultureUnfertilized.label>
+  <EggVultureUnfertilized.label>ไข่อีแร้ง (ไม่ปฏิสนธิ)</EggVultureUnfertilized.label>
   <!-- EN: An unfertilized vulture egg. It can be eaten raw, but it's much better cooked. -->
   <EggVultureUnfertilized.description>ไข่อีแร้งที่ไม่ได้รับการปฏิสนธิ สามารถกินดิบได้ แต่จะดีกว่ามากถ้านำไปปรุงสุก</EggVultureUnfertilized.description>
   

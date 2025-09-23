@@ -4,7 +4,7 @@
   <!-- EN: grav nausea -->
   <GravNausea.label>อาการเมาแรงโน้มถ่วง</GravNausea.label>
   <!-- EN: Intense nausea caused by sudden acceleration or deceleration on a gravship. -->
-  <GravNausea.description>อาการคลื่นไส้อย่างรุนแรงที่เกิดจากการเร่งหรือลดความเร็วกะทันหันบนแกรฟชิป</GravNausea.description>
+  <GravNausea.description>อาการคลื่นไส้อย่างรุนแรงที่เกิดจากการเร่งหรือลดความเร็วกะทันหันบนกราฟชิป</GravNausea.description>
   
   <!-- EN: thrumbo roar -->
   <ThrumboRoar.label>เสียงคำรามของธรัมโบ</ThrumboRoar.label>

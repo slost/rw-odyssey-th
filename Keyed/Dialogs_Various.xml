@@ -17,7 +17,7 @@
   <!-- EN: Some substructure has invalid placement and will be left behind -->
   <SubstructureWillBeLeftBehind>โครงพื้นยานบางส่วนมีตำแหน่งที่ไม่ถูกต้องและจะถูกทิ้งไว้ข้างหลัง</SubstructureWillBeLeftBehind>
   <!-- EN: Disconnected from grav engine -->
-  <DisconnectedSubstructure>ไม่เชื่อมต่อกับกราฟเอนจิ้น</DisconnectedSubstructure>
+  <DisconnectedSubstructure>ไม่เชื่อมต่อกับเครื่องยนต์แรงโน้มถ่วง</DisconnectedSubstructure>
   <!-- EN: Under rock roof -->
   <SubstructureUnderRockRoof>อยู่ใต้เพดานหิน</SubstructureUnderRockRoof>
   <!-- EN: Out of range -->

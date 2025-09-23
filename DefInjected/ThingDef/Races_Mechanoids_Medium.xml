@@ -4,16 +4,16 @@
   <!-- EN: cyclops -->
   <Mech_Cyclops.label>ไซคลอปส์</Mech_Cyclops.label>
   <!-- EN: A front-line combat mechanoid named for its large optical array. The cyclops specializes in counter-shield attacks. It takes a long time to lock onto a target, but once locked on, it fires a near endless barrage of shield-piercing beams. -->
-  <Mech_Cyclops.description>เมคานอยด์ต่อสู้แนวหน้าที่ตั้งชื่อตามแผงออปติคัลขนาดใหญ่ของมัน ไซคลอปส์เชี่ยวชาญในการโจมตีตอบโต้โล่ มันใช้เวลานานในการล็อกเป้าหมาย แต่เมื่อล็อกแล้ว มันจะยิงลำแสงทะลุทะลวงโล่อย่างต่อเนื่องไม่รู้จบ</Mech_Cyclops.description>
+  <Mech_Cyclops.description>เมคคานอยด์ต่อสู้แนวหน้าที่ตั้งชื่อตามแผงออปติคัลขนาดใหญ่ของมัน ไซคลอปส์เชี่ยวชาญในการโจมตีตอบโต้โล่ มันใช้เวลานานในการล็อกเป้าหมาย แต่เมื่อล็อกแล้ว มันจะยิงลำแสงทะลุทะลวงโล่อย่างต่อเนื่องไม่รู้จบ</Mech_Cyclops.description>
   <!-- EN: front left leg -->
-  <Mech_Cyclops.tools.front_left_leg.label>TODO</Mech_Cyclops.tools.front_left_leg.label>
+  <Mech_Cyclops.tools.front_left_leg.label>ขาซ้ายหน้า</Mech_Cyclops.tools.front_left_leg.label>
   <!-- EN: leg -->
-  <Mech_Cyclops.tools.front_left_leg.labelNoLocation>TODO</Mech_Cyclops.tools.front_left_leg.labelNoLocation>
+  <Mech_Cyclops.tools.front_left_leg.labelNoLocation>ขา</Mech_Cyclops.tools.front_left_leg.labelNoLocation>
   <!-- EN: front right leg -->
-  <Mech_Cyclops.tools.front_right_leg.label>TODO</Mech_Cyclops.tools.front_right_leg.label>
+  <Mech_Cyclops.tools.front_right_leg.label>ขาขวาหน้า</Mech_Cyclops.tools.front_right_leg.label>
   <!-- EN: leg -->
-  <Mech_Cyclops.tools.front_right_leg.labelNoLocation>TODO</Mech_Cyclops.tools.front_right_leg.labelNoLocation>
+  <Mech_Cyclops.tools.front_right_leg.labelNoLocation>ขา</Mech_Cyclops.tools.front_right_leg.labelNoLocation>
   <!-- EN: head -->
-  <Mech_Cyclops.tools.head.label>TODO</Mech_Cyclops.tools.head.label>
+  <Mech_Cyclops.tools.head.label>หัว</Mech_Cyclops.tools.head.label>
   
 </LanguageData>

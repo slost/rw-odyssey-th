@@ -9,12 +9,12 @@
   <!-- EN: basic asteroid -->
   <AsteroidBasic.label>อุกกาบาตทั่วไป</AsteroidBasic.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <AsteroidBasic.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว ทรัพยากรที่มีค่าส่วนใหญ่จากอุกกาบาตนี้ได้หมดไปแล้ว\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือแกรฟชิพ</AsteroidBasic.description>
+  <AsteroidBasic.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว ทรัพยากรที่มีค่าส่วนใหญ่จากอุกกาบาตนี้ได้หมดไปแล้ว\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือยานกราฟชิป</AsteroidBasic.description>
   
   <!-- EN: asteroid mining site -->
   <AsteroidMiningSite.label>แหล่งขุดแร่อุกกาบาต</AsteroidMiningSite.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. This asteroid has only been partially mined.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <AsteroidMiningSite.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว อุกกาบาตนี้ถูกขุดไปเพียงบางส่วนเท่านั้น\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือแกรฟชิพ</AsteroidMiningSite.description>
+  <AsteroidMiningSite.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว อุกกาบาตนี้ถูกขุดไปเพียงบางส่วนเท่านั้น\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือยานกราฟชิป</AsteroidMiningSite.description>
   
   <!-- EN: claimable site -->
   <ClaimableSite.label>พื้นที่ที่สามารถยึดครองได้</ClaimableSite.label>
@@ -28,22 +28,22 @@
   <DestroyedSpaceSettlement.description>ถิ่นฐานที่ถูกทำลาย</DestroyedSpaceSettlement.description>
   
   <!-- EN: gravship -->
-  <Gravship.label>แกรฟชิพ</Gravship.label>
+  <Gravship.label>ยานกราฟชิป</Gravship.label>
   <!-- EN: A gravship in flight. -->
-  <Gravship.description>แกรฟชิพที่กำลังบิน</Gravship.description>
+  <Gravship.description>ยานกราฟชิปที่กำลังบิน</Gravship.description>
   
   <!-- EN: gravship launch -->
-  <GravshipLaunch.label>การปล่อยแกรฟชิพ</GravshipLaunch.label>
+  <GravshipLaunch.label>การปล่อยยานกราฟชิป</GravshipLaunch.label>
   <!-- EN: The launch site of a gravship. -->
-  <GravshipLaunch.description>สถานที่ปล่อยแกรฟชิพ</GravshipLaunch.description>
+  <GravshipLaunch.description>สถานที่ปล่อยยานกราฟชิป</GravshipLaunch.description>
   
   <!-- EN: mechhive -->
-  <Mechhive.label>รังเมคานอยด์</Mechhive.label>
+  <Mechhive.label>รังเมคคานอยด์</Mechhive.label>
   
   <!-- EN: orbital item stash -->
   <OrbitalItemStash.label>คลังเก็บของในวงโคจร</OrbitalItemStash.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <OrbitalItemStash.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว ทรัพยากรที่มีค่าส่วนใหญ่จากอุกกาบาตนี้ได้หมดไปแล้ว\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือแกรฟชิพ</OrbitalItemStash.description>
+  <OrbitalItemStash.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว ทรัพยากรที่มีค่าส่วนใหญ่จากอุกกาบาตนี้ได้หมดไปแล้ว\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือยานกราฟชิป</OrbitalItemStash.description>
   
   <!-- EN: passenger shuttle -->
   <PassengerShuttle.label>ยานรับส่งผู้โดยสาร</PassengerShuttle.label>
@@ -56,7 +56,7 @@
   <!-- EN: orbital settlement -->
   <SpaceSettlement.label>สถานีอวกาศ</SpaceSettlement.label>
   <!-- EN: An orbital platform controlled by another human faction. They won't appreciate visitors.\n\nThese platforms have long-range automatic weapon systems capable of destroying incoming ships. They can only safely be approached by a gravship with a signal jammer. -->
-  <SpaceSettlement.description>สถานีอวกาศที่ควบคุมโดยฝ่ายมนุษย์อื่น พวกเขาไม่ต้อนรับผู้มาเยือน\n\nสถานีเหล่านี้มีระบบอาวุธอัตโนมัติระยะไกลที่สามารถทำลายยานที่เข้ามาได้ สามารถเข้าใกล้ได้อย่างปลอดภัยโดยใช้แกรฟชิพที่มีเครื่องส่งสัญญาณรบกวนเท่านั้น</SpaceSettlement.description>
+  <SpaceSettlement.description>สถานีอวกาศที่ควบคุมโดยฝ่ายมนุษย์อื่น พวกเขาไม่ต้อนรับผู้มาเยือน\n\nสถานีเหล่านี้มีระบบอาวุธอัตโนมัติระยะไกลที่สามารถทำลายยานที่เข้ามาได้ สามารถเข้าใกล้ได้อย่างปลอดภัยโดยใช้ยานกราฟชิปที่มีเครื่องส่งสัญญาณรบกวนเท่านั้น</SpaceSettlement.description>
   
   <!-- EN: space site -->
   <SpaceSite.label>พื้นที่อวกาศ</SpaceSite.label>

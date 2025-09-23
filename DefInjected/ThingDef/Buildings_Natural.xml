@@ -7,9 +7,9 @@
   <AncientEmergencyLight_Blue.description>โคมไฟโบราณที่มีแบตเตอรี่อายุการใช้งานยาวนาน</AncientEmergencyLight_Blue.description>
   
   <!-- EN: mechanoid light -->
-  <AncientEmergencyLight_Green.label>ไฟเมคานอยด์</AncientEmergencyLight_Green.label>
+  <AncientEmergencyLight_Green.label>ไฟเมคคานอยด์</AncientEmergencyLight_Green.label>
   <!-- EN: A light used in mechanoid facilities. The green hue is optimal for mechanoid optical arrays. -->
-  <AncientEmergencyLight_Green.description>ไฟที่ใช้ในโรงงานเมคานอยด์ เฉดสีเขียวเหมาะสำหรับแผงออปติคัลของเมคานอยด์</AncientEmergencyLight_Green.description>
+  <AncientEmergencyLight_Green.description>ไฟที่ใช้ในโรงงานเมคคานอยด์ เฉดสีเขียวเหมาะสำหรับแผงออปติคัลของเมคคานอยด์</AncientEmergencyLight_Green.description>
   
   <!-- EN: ancient emergency light -->
   <AncientEmergencyLight_Red.label>ไฟฉุกเฉินโบราณ</AncientEmergencyLight_Red.label>

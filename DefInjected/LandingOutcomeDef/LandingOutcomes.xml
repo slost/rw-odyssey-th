@@ -7,7 +7,7 @@
   <GravNausea.letterText>ขณะนำยาน {GRAVSHIP} ลงจอด {PILOT_nameDef} ถูกบังคับให้ต้องควบคุมยานฉุกเฉิน ส่งผลให้เกิดการชะลอความเร็วอย่างรุนแรงและยาวนาน ประสบการณ์ครั้งนี้ทำให้ชาวอาณานิคมของคุณรู้สึกคลื่นไส้อย่างมาก ผลกระทบจะจางหายไปอย่างรวดเร็ว</GravNausea.letterText>
   
   <!-- EN: minor gravship crash -->
-  <MinorGravshipCrash.letterLabel>แกรฟชิปตกเล็กน้อย</MinorGravshipCrash.letterLabel>
+  <MinorGravshipCrash.letterLabel>กราฟชิปตกเล็กน้อย</MinorGravshipCrash.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} accidentally disengaged the grav engine too early, causing the gravship to free-fall for several feet. Some buildings on the gravship have sustained light damage from the crash. -->
   <MinorGravshipCrash.letterText>ขณะนำยาน {GRAVSHIP} ลงจอด {PILOT_nameDef} ได้เผลอปิดเครื่องยนต์แรงโน้มถ่วงเร็วเกินไป ทำให้ยานร่วงหล่นเป็นระยะทางหลายฟุต สิ่งก่อสร้างบางอย่างบนยานได้รับความเสียหายเล็กน้อยจากการตกกระแทก</MinorGravshipCrash.letterText>
   

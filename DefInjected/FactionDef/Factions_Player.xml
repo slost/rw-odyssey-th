@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: gravship crew -->
-  <GravshipCrew.label>ลูกเรือแกรฟชิพ</GravshipCrew.label>
+  <GravshipCrew.label>ลูกเรือยานกราฟชิป</GravshipCrew.label>
   <!-- EN: The crew of a gravship. -->
-  <GravshipCrew.description>ลูกเรือของแกรฟชิพ</GravshipCrew.description>
+  <GravshipCrew.description>ลูกเรือของยานกราฟชิป</GravshipCrew.description>
   <!-- EN: leader -->
   <GravshipCrew.leaderTitle>ผู้นำ</GravshipCrew.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: gravship range -->
-  <GravshipRange.label>ระยะแกรฟชิพ</GravshipRange.label>
+  <GravshipRange.label>ระยะยานกราฟชิป</GravshipRange.label>
   <!-- EN: The maximum distance this gravship can travel with its connected substructure. -->
-  <GravshipRange.description>ระยะทางสูงสุดที่แกรฟชิพนี้สามารถเดินทางได้พร้อมกับโครงสร้างย่อยที่เชื่อมต่ออยู่</GravshipRange.description>
+  <GravshipRange.description>ระยะทางสูงสุดที่ยานกราฟชิปนี้สามารถเดินทางได้พร้อมกับโครงสร้างย่อยที่เชื่อมต่ออยู่</GravshipRange.description>
   
   <!-- EN: substructure support -->
   <SubstructureSupport.label>การรองรับโครงสร้างย่อย</SubstructureSupport.label>
   <!-- EN: The maximum amount of substructure supported by this gravship. -->
-  <SubstructureSupport.description>จำนวนโครงสร้างย่อยสูงสุดที่แกรฟชิพนี้รองรับได้</SubstructureSupport.description>
+  <SubstructureSupport.description>จำนวนโครงสร้างย่อยสูงสุดที่ยานกราฟชิปนี้รองรับได้</SubstructureSupport.description>
   
 </LanguageData>

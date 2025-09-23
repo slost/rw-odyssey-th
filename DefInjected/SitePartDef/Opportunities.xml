@@ -2,20 +2,20 @@
 <LanguageData>
   
   <!-- EN: An abandoned orbital platform containing valuable resources. -->
-  <Opportunity_AbandonedPlatform.description>TODO</Opportunity_AbandonedPlatform.description>
+  <Opportunity_AbandonedPlatform.description>สถานีวงโคจรที่ถูกทิ้งร้างซึ่งมีทรัพยากรล้ำค่า</Opportunity_AbandonedPlatform.description>
   
   <!-- EN: An orbital platform used to produce mechanoids, controlled by a distant mechhive. -->
-  <Opportunity_MechanoidPlatform.description>TODO</Opportunity_MechanoidPlatform.description>
+  <Opportunity_MechanoidPlatform.description>สถานีวงโคจรที่ใช้ผลิตแมคคานอยด์ ควบคุมโดยรังแมคไฮฟ์ที่อยู่ห่างไกล</Opportunity_MechanoidPlatform.description>
   
   <!-- EN: The wreckage of an orbital platform containing valuable resources. These wrecks are commonly guarded by orbital pirates. -->
-  <Opportunity_OrbitalWreck.description>TODO</Opportunity_OrbitalWreck.description>
+  <Opportunity_OrbitalWreck.description>ซากสถานีวงโคจรที่มีทรัพยากรล้ำค่า ซากเหล่านี้มักถูกปกป้องโดยโจรสลัดวงโคจร</Opportunity_OrbitalWreck.description>
   
   <!-- EN: survey site -->
-  <Opportunity_SurveySite.label>TODO</Opportunity_SurveySite.label>
+  <Opportunity_SurveySite.label>ไซต์สำรวจ</Opportunity_SurveySite.label>
   <!-- EN: The site of a remote surveying operation. -->
-  <Opportunity_SurveySite.description>TODO</Opportunity_SurveySite.description>
+  <Opportunity_SurveySite.description>สถานที่ของปฏิบัติการสำรวจระยะไกล</Opportunity_SurveySite.description>
   
   <!-- EN: An unmanned satellite incapable of supporting life. Satellites serve a wide variety of purposes, from power collection to weapons platforms. -->
-  <OpportunitySite_Satellite.description>TODO</OpportunitySite_Satellite.description>
+  <OpportunitySite_Satellite.description>ดาวเทียมไร้คนขับที่ไม่สามารถรองรับชีวิตได้ ดาวเทียมมีวัตถุประสงค์หลากหลาย ตั้งแต่การเก็บพลังงานไปจนถึงแพลตฟอร์มอาวุธ</OpportunitySite_Satellite.description>
   
 </LanguageData>

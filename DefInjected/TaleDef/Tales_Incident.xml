@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: orbital debris -->
-  <OrbitalDebris.label>TODO</OrbitalDebris.label>
+  <OrbitalDebris.label>เศษซากวงโคจร</OrbitalDebris.label>
   <!-- EN:
     <li>tale_noun->a micrometeorite storm sweeping over [PAWN_nameDef]'s [Community]</li>
     <li>tale_noun->micrometeorite fragments peppering the area around [PAWN_nameDef]'s [Community]</li>
@@ -27,7 +27,32 @@
     <li>desc_sentence->[Quantity_adjphrase] figures scramble to secure their belongings.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal]s scurry about, seeking cover.</li>
     <li>desc_sentence->Space is charged with an eerie power.</li>
+    ดาวตกจิ๋ว อุกกาบาต 
   -->
-  <OrbitalDebris.rulePack.rulesStrings>TODO</OrbitalDebris.rulePack.rulesStrings>
+  <OrbitalDebris.rulePack.rulesStrings>
+    <li>tale_noun->พายุอุกกาบาตขนาดเล็กพัดถล่ม[Community]ของ [PAWN_nameDef]</li>
+    <li>tale_noun->เศษเล็กเศษน้อยของอุกกาบาตที่โปรยใส่บริเวณรอบๆ [Community]ของ [PAWN_nameDef]</li>
+    <li>image->สายฝนของอุกกาบาตขนาดเล็กส่องประกายด้วยประกายไฟสี[Color] [airborne_circumstance]</li>
+    <li>image->อุกกาบาตขนาดเล็กที่กระจัดกระจายเปล่งแสงสว่างไสว [airborne_circumstance]</li>
+    <li>image->ฝนแสงประกาย[Color] ขณะที่อุกกาบาตขนาดเล็กลุกโชน [airborne_circumstance]</li>
+    <li>airborne_circumstance->พุ่งผ่านท้องฟ้าอย่างรวดเร็ว</li>
+    <li>airborne_circumstance->กลิ้งตกลงมาในแสงระยิบระยับ</li>
+    <li>airborne_circumstance->ละลายกลายเป็นฝุ่นระยิบระยับขณะที่ตกลงมา</li>
+    <li>image->กลุ่มรอยกระแทกที่ยังคุกรุ่น [ground_circumstance]</li>
+    <li>image->เศษซาก[Color] ที่ถูกเผาไหม้ [ground_circumstance]</li>
+    <li>image->การกระจายของก้อนหินเล็กๆ สี[Color] [ground_circumstance]</li>
+    <li>ground_circumstance->ล้อมรอบด้วยหมอกฝุ่นละเอียด</li>
+    <li>ground_circumstance->เรืองแสงอย่างอ่อนๆ จากความร้อนที่ยังคงค้างอยู่</li>
+    <li>ground_circumstance->ฝังอยู่ในผืนดินที่แตกร้าว</li>
+    <li>ground_circumstance->กระจัดกระจายไปทั่วภูมิทัศน์</li>
+    <li>ground_circumstance->เป็นจุดๆ ท่ามกลางทุ่งหลุมอุกกาบาตเล็กๆ</li>
+    <li>desc_sentence->[PAWN_nameDef] เฝ้าดูฝนดาวตกด้วยความตื่นตระหนก</li>
+    <li>desc_sentence->[PAWN_nameDef] เงยหน้ามองขึ้นด้วยความประหลาดใจ</li>
+    <li>desc_sentence->[PAWN_nameDef] ตกใจกับการตกลงมาอย่างไม่หยุดหย่อน</li>
+    <li>desc_sentence->มีผู้คนจำนวน[Quantity_adjphrase]โผล่ออกมาจาก [TerrainFeature] ใกล้เคียงเพื่อหาที่หลบภัย</li>
+    <li>desc_sentence->ผู้คนจำนวน[Quantity_adjphrase]รีบร้อนเก็บข้าวของให้ปลอดภัย</li>
+    <li>desc_sentence->[Animal]จำนวน[Quantity_adjphrase]วิ่งพล่านไปมาเพื่อหาที่หลบภัย</li>
+    <li>desc_sentence->อวกาศแฝงไว้ด้วยพลังลี้ลับอันน่าพรั่นพรึง</li>
+  </OrbitalDebris.rulePack.rulesStrings>
   
 </LanguageData>

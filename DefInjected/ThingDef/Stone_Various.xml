@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: vacstone blocks -->
-  <BlocksVacstone.label>บล็อกแวคสโตน</BlocksVacstone.label>
+  <BlocksVacstone.label>บล็อกหินแวคสโตน</BlocksVacstone.label>
   <!-- EN: Blocks of compacted vacstone rock harvested from asteroids. -->
   <BlocksVacstone.description>บล็อกของหินแวคสโตนที่อัดแน่น เก็บเกี่ยวจากดาวเคราะห์น้อย</BlocksVacstone.description>
   <!-- EN: vacstone -->
-  <BlocksVacstone.stuffProps.stuffAdjective>แวคสโตน</BlocksVacstone.stuffProps.stuffAdjective>
+  <BlocksVacstone.stuffProps.stuffAdjective>หินแวคสโตน</BlocksVacstone.stuffProps.stuffAdjective>
   
   <!-- EN: vacstone chunk -->
-  <ChunkVacstone.label>ชิ้นส่วนแวคสโตน</ChunkVacstone.label>
+  <ChunkVacstone.label>ชิ้นส่วนหินแวคสโตน</ChunkVacstone.label>
   <!-- EN: A chunk of rock. Can be cut into usable stone blocks. -->
-  <ChunkVacstone.description>TODO</ChunkVacstone.description>
+  <ChunkVacstone.description>ชิ้นส่วนหินก้อนหนึ่ง สามารถนำไปตัดเป็นบล็อกหินที่ใช้งานได้</ChunkVacstone.description>
   
   <!-- EN: smoothed solid ice -->
   <SmoothedSolidIce.label>น้ำแข็งก้อนขัดเรียบ</SmoothedSolidIce.label>
@@ -19,7 +19,7 @@
   <SmoothedSolidIce.description>น้ำแข็งจากธารน้ำแข็งที่แข็งตัว สามารถขุดผ่านได้ค่อนข้างง่าย พื้นผิวที่ขัดมันเป็นประกายสีฟ้าอ่อน</SmoothedSolidIce.description>
   
   <!-- EN: smoothed vacstone -->
-  <SmoothedVacstone.label>แวคสโตนขัดเรียบ</SmoothedVacstone.label>
+  <SmoothedVacstone.label>หินแวคสโตนขัดเรียบ</SmoothedVacstone.label>
   <!-- EN: Smoothed, compacted rock and dust harvested from asteroids. -->
   <SmoothedVacstone.description>หินและฝุ่นที่อัดแน่นและขัดเรียบ เก็บเกี่ยวจากดาวเคราะห์น้อย</SmoothedVacstone.description>
   
@@ -29,7 +29,7 @@
   <SolidIce.description>น้ำแข็งจากธารน้ำแข็งที่แข็งตัว สามารถขุดผ่านได้ค่อนข้างง่าย</SolidIce.description>
   
   <!-- EN: vacstone -->
-  <Vacstone.label>แวคสโตน</Vacstone.label>
+  <Vacstone.label>หินแวคสโตน</Vacstone.label>
   <!-- EN: Compacted rock and dust harvested from asteroids. -->
   <Vacstone.description>หินและฝุ่นที่อัดแน่นเก็บเกี่ยวจากดาวเคราะห์น้อย</Vacstone.description>
   

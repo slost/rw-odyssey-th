@@ -4,7 +4,7 @@
   <!-- EN: small chemfuel tank -->
   <ChemfuelTank.label>ถังเชื้อเพลงเคมีเล็ก</ChemfuelTank.label>
   <!-- EN: A chemfuel storage tank that supplies fuel for thrusters on a gravship. -->
-  <ChemfuelTank.description>ถังเก็บเชื้อเพลิงเคมีที่จ่ายเชื้อเพลิงสำหรับเครื่องขับดันบนแกรฟชิป</ChemfuelTank.description>
+  <ChemfuelTank.description>ถังเก็บเชื้อเพลิงเคมีที่จ่ายเชื้อเพลิงสำหรับเครื่องขับดันบนกราฟชิป</ChemfuelTank.description>
   <!-- EN: Chemfuel -->
   <ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>เชื้อเพลิงเคมี</ChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Chemfuel -->
@@ -13,27 +13,27 @@
   <!-- EN: fuel optimizer -->
   <FuelOptimizer.label>ตัวปรับแต่งเชื้อเพลิง</FuelOptimizer.label>
   <!-- EN: A gravtech unit that allows grav engine lift to coordinate more efficiently with traditional thrusters. It reduces the fuel needed for gravship flight.\n\nA gravship can support two fuel optimizers. -->
-  <FuelOptimizer.description>หน่วยแกรฟเทคที่ช่วยให้แรงยกของเครื่องยนต์แกรฟประสานงานกับเครื่องขับดันแบบดั้งเดิมได้อย่างมีประสิทธิภาพมากขึ้น มันลดเชื้อเพลิงที่จำเป็นสำหรับการบินของแกรฟชิป\n\nแกรฟชิปสามารถรองรับตัวปรับแต่งเชื้อเพลิงได้สองตัว</FuelOptimizer.description>
+  <FuelOptimizer.description>หน่วยกราฟเทคที่ช่วยให้แรงยกของเครื่องยนต์แรงโน้มถ่วงประสานงานกับเครื่องขับดันแบบดั้งเดิมได้อย่างมีประสิทธิภาพมากขึ้น มันลดเชื้อเพลิงที่จำเป็นสำหรับการบินของกราฟชิป\n\nกราฟชิปสามารถรองรับตัวปรับแต่งเชื้อเพลิงได้สองตัว</FuelOptimizer.description>
   
   <!-- EN: grav anchor -->
   <GravAnchor.label>สมอแรงโน้มถ่วง</GravAnchor.label>
   <!-- EN: Prevents the local map from being destroyed during a gravship launch.\n\nGrav anchors passively reduce unstable gravitation shear in a large area, which prevents the damaging effects of a gravship launch. It can't be constructed on the gravship itself because it would prevent flight entirely. -->
-  <GravAnchor.description>ป้องกันไม่ให้แผนที่ท้องถิ่นถูกทำลายระหว่างการปล่อยแกรฟชิป\n\nสมอแรงโน้มถ่วงจะลดแรงเฉือนของแรงโน้มถ่วงที่ไม่เสถียรในพื้นที่ขนาดใหญ่อย่างต่อเนื่อง ซึ่งจะป้องกันผลกระทบที่สร้างความเสียหายจากการปล่อยแกรฟชิป ไม่สามารถสร้างบนแกรฟชิปได้เพราะจะทำให้ไม่สามารถบินได้เลย</GravAnchor.description>
+  <GravAnchor.description>ป้องกันไม่ให้แผนที่ท้องถิ่นถูกทำลายระหว่างการปล่อยกราฟชิป\n\nสมอแรงโน้มถ่วงจะลดแรงเฉือนของแรงโน้มถ่วงที่ไม่เสถียรในพื้นที่ขนาดใหญ่อย่างต่อเนื่อง ซึ่งจะป้องกันผลกระทบที่สร้างความเสียหายจากการปล่อยกราฟชิป ไม่สามารถสร้างบนกราฟชิปได้เพราะจะทำให้ไม่สามารถบินได้เลย</GravAnchor.description>
   
   <!-- EN: gravcore power cell -->
-  <GravcorePowerCell.label>เซลล์พลังงานแกรฟคอร์</GravcorePowerCell.label>
+  <GravcorePowerCell.label>เซลล์พลังงานกราฟคอร์</GravcorePowerCell.label>
   <!-- EN: A power generator that passively draws a small amount of energy from gravitational waves passing through the gravship. -->
-  <GravcorePowerCell.description>เครื่องกำเนิดไฟฟ้าที่ดึงพลังงานจำนวนเล็กน้อยจากคลื่นความโน้มถ่วงที่ผ่านแกรฟชิปอย่างต่อเนื่อง</GravcorePowerCell.description>
+  <GravcorePowerCell.description>เครื่องกำเนิดไฟฟ้าที่ดึงพลังงานจำนวนเล็กน้อยจากคลื่นความโน้มถ่วงที่ผ่านกราฟชิปอย่างต่อเนื่อง</GravcorePowerCell.description>
   
   <!-- EN: grav engine -->
-  <GravEngine.label>เครื่องยนต์กราฟ</GravEngine.label>
+  <GravEngine.label>เครื่องยนต์แรงโน้มถ่วง</GravEngine.label>
   <!-- EN: The ultratech heart of a gravship. The grav engine generates lift by inverting and intensifying the effect of gravity in a field around itself. This engine can lift upwards, but does not produce forward thrust. It can't function far from a large gravity well like a planet, so it is useless for interplanetary travel.\n\nWhen launched, anything on substructure that's connected to the grav engine will be transported to a new map. Without a grav anchor, launching a gravship will abandon your current map.\n\nGlitterworld engineers use gravships to launch orbital platforms and build skyrippers. They require massive and hyper-specialized facilities to produce, making them a rare sight outside of glitterworlds. -->
-  <GravEngine.description>หัวใจอัลตร้าเทคของแกรฟชิป เครื่องยนต์แกรฟสร้างแรงยกโดยการกลับด้านและเพิ่มความเข้มของผลกระทบของแรงโน้มถ่วงในสนามรอบตัวเอง เครื่องยนต์นี้สามารถยกลอยขึ้นได้ แต่ไม่สร้างแรงขับไปข้างหน้า มันไม่สามารถทำงานได้ไกลจากแหล่งแรงโน้มถ่วงขนาดใหญ่เช่นดาวเคราะห์ ดังนั้นจึงไร้ประโยชน์สำหรับการเดินทางระหว่างดาวเคราะห์\n\nเมื่อปล่อยตัว อะไรก็ตามบนโครงสร้างพื้นฐานที่เชื่อมต่อกับเครื่องยนต์แกรฟจะถูกขนส่งไปยังแผนที่ใหม่ หากไม่มีสมอแรงโน้มถ่วง การปล่อยแกรฟชิปจะเป็นการละทิ้งแผนที่ปัจจุบันของคุณ\n\nวิศวกรของกลิตเตอร์เวิร์ลใช้แกรฟชิพในการปล่อยแท่นวงโคจรและสร้างสกายริปเปอร์ พวกมันต้องการโรงงานขนาดมหึมาและเชี่ยวชาญเป็นพิเศษในการผลิต ทำให้เป็นสิ่งที่หาดูได้ยากนอกกลิตเตอร์เวิร์ล</GravEngine.description>
+  <GravEngine.description>หัวใจอัลตร้าเทคของกราฟชิป เครื่องยนต์แรงโน้มถ่วงสร้างแรงยกโดยการกลับด้านและเพิ่มความเข้มของผลกระทบของแรงโน้มถ่วงในสนามรอบตัวเอง เครื่องยนต์นี้สามารถยกลอยขึ้นได้ แต่ไม่สร้างแรงขับไปข้างหน้า มันไม่สามารถทำงานได้ไกลจากแหล่งแรงโน้มถ่วงขนาดใหญ่เช่นดาวเคราะห์ ดังนั้นจึงไร้ประโยชน์สำหรับการเดินทางระหว่างดาวเคราะห์\n\nเมื่อปล่อยตัว อะไรก็ตามบนโครงสร้างพื้นฐานที่เชื่อมต่อกับเครื่องยนต์แรงโน้มถ่วงจะถูกขนส่งไปยังแผนที่ใหม่ หากไม่มีสมอแรงโน้มถ่วง การปล่อยกราฟชิปจะเป็นการละทิ้งแผนที่ปัจจุบันของคุณ\n\nวิศวกรของกลิตเตอร์เวิร์ลใช้ยานกราฟชิปในการปล่อยแท่นวงโคจรและสร้างสกายริปเปอร์ พวกมันต้องการโรงงานขนาดมหึมาและเชี่ยวชาญเป็นพิเศษในการผลิต ทำให้เป็นสิ่งที่หาดูได้ยากนอกกลิตเตอร์เวิร์ล</GravEngine.description>
   
   <!-- EN: grav field extender -->
   <GravFieldExtender.label>เครื่องขยายสนามกราฟ</GravFieldExtender.label>
   <!-- EN: An ultratech device used to increase the size of a gravship. It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support. Must be built near a grav engine.\n\nA gravship can support up to six grav field extenders. -->
-  <GravFieldExtender.description>อุปกรณ์อัลตร้าเทคที่ใช้เพื่อเพิ่มขนาดของแกรฟชิป มันขยายพื้นที่ที่สามารถสร้างโครงสร้างพื้นฐานได้ และเพิ่มปริมาณโครงสร้างพื้นฐานที่แกรฟชิปรองรับได้ ต้องสร้างใกล้กับเครื่องยนต์แรงโน้มถ่วง\n\nแกรฟชิปสามารถรองรับตัวขยายสนามแกรฟได้สูงสุดหกตัว</GravFieldExtender.description>
+  <GravFieldExtender.description>อุปกรณ์อัลตร้าเทคที่ใช้เพื่อเพิ่มขนาดของกราฟชิป มันขยายพื้นที่ที่สามารถสร้างโครงสร้างพื้นฐานได้ และเพิ่มปริมาณโครงสร้างพื้นฐานที่กราฟชิปรองรับได้ ต้องสร้างใกล้กับเครื่องยนต์แรงโน้มถ่วง\n\nกราฟชิปสามารถรองรับตัวขยายสนามกราฟได้สูงสุดหกตัว</GravFieldExtender.description>
   
   <!-- EN: gravship hull -->
   <GravshipHull.label>กำแพงยานกราฟชิป</GravshipHull.label>
@@ -41,16 +41,16 @@
   <GravshipHull.description>กำแพงกันอากาศที่แข็งแรง ป้องกันการรั่วไหลของออกซิเจนในสุญญากาศของอวกาศ กำแพงนี้เชื่อมต่อโดยตรงกับโครงพื้นด้านล่าง จึงสามารถสร้างได้เฉพาะบนยานกราฟชิปเท่านั้น</GravshipHull.description>
   
   <!-- EN: gravship shield generator -->
-  <GravshipShieldGenerator.label>เครื่องกำเนิดโล่แกรฟชิป</GravshipShieldGenerator.label>
+  <GravshipShieldGenerator.label>เครื่องกำเนิดโล่กราฟชิป</GravshipShieldGenerator.label>
   <!-- EN: A shielding device that can protect a gravship. It modulates the grav field to create a short-lived momentum repulsor surface that blocks projectiles. It works against normal shots and mortars. Those inside can still shoot out.\n\nIt must be charged before use. One gravship can support two gravship shield generators. -->
-  <GravshipShieldGenerator.description>อุปกรณ์ป้องกันที่สามารถปกป้องแกรฟชิปได้ มันปรับสนามแกรฟเพื่อสร้างพื้นผิวขับไล่โมเมนตัมอายุสั้นซึ่งป้องกันโปรเจกไทล์ มันทำงานได้กับกระสุนธรรมดาและปืนครก ผู้ที่อยู่ข้างในยังสามารถยิงออกไปได้\n\nต้องชาร์จก่อนใช้งาน แกรฟชิปลำหนึ่งสามารถรองรับเครื่องกำเนิดโล่แกรฟชิปได้สองเครื่อง</GravshipShieldGenerator.description>
+  <GravshipShieldGenerator.description>อุปกรณ์ป้องกันที่สามารถปกป้องกราฟชิปได้ มันปรับสนามกราฟเพื่อสร้างพื้นผิวขับไล่โมเมนตัมอายุสั้นซึ่งป้องกันโปรเจกไทล์ มันทำงานได้กับกระสุนธรรมดาและปืนครก ผู้ที่อยู่ข้างในยังสามารถยิงออกไปได้\n\nต้องชาร์จก่อนใช้งาน กราฟชิปลำหนึ่งสามารถรองรับเครื่องกำเนิดโล่กราฟชิปได้สองเครื่อง</GravshipShieldGenerator.description>
   <!-- EN: activate -->
   <GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>เปิดใช้งาน</GravshipShieldGenerator.comps.CompInteractable_GravshipShieldGenerator.jobString>
   
   <!-- EN: large chemfuel tank -->
   <LargeChemfuelTank.label>ถังเชื้อเพลิงเคมีขนาดใหญ่</LargeChemfuelTank.label>
   <!-- EN: A massive chemfuel storage tank that supplies fuel for thrusters on a gravship. -->
-  <LargeChemfuelTank.description>ถังเก็บเชื้อเพลิงเคมีขนาดมหึมาที่จ่ายเชื้อเพลิงสำหรับเครื่องขับดันบนแกรฟชิป</LargeChemfuelTank.description>
+  <LargeChemfuelTank.description>ถังเก็บเชื้อเพลิงเคมีขนาดมหึมาที่จ่ายเชื้อเพลิงสำหรับเครื่องขับดันบนกราฟชิป</LargeChemfuelTank.description>
   <!-- EN: Chemfuel -->
   <LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>เชื้อเพลิงเคมี</LargeChemfuelTank.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Chemfuel -->
@@ -59,7 +59,7 @@
   <!-- EN: large thruster -->
   <LargeThruster.label>เครื่องขับดันขนาดใหญ่</LargeThruster.label>
   <!-- EN: An advanced chemfuel thruster with a heat-resistant vacstone liner. It greatly increases the range of a gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nRequires vacstone blocks, which can be obtained from orbital asteroids.\n\nA gravship can support up to six large thrusters. -->
-  <LargeThruster.description>เครื่องขับดันเชื้อเพลิงเคมีขั้นสูงพร้อมซับในแวคสโตนที่ทนความร้อน มันเพิ่มระยะของแกรฟชิปอย่างมาก เครื่องขับดันต้องการพื้นที่ที่ไม่มีสิ่งกีดขวาง ปราศจากอาคารขนาดใหญ่และโครงสร้างพื้นฐานของแกรฟชิป\n\nต้องใช้บล็อกแวคสโตน ซึ่งสามารถหาได้จากดาวเคราะห์น้อยในวงโคจร\n\nแกรฟชิปสามารถรองรับเครื่องขับดันขนาดใหญ่ได้สูงสุดหกตัว</LargeThruster.description>
+  <LargeThruster.description>เครื่องขับดันเชื้อเพลิงเคมีขั้นสูงพร้อมซับในแวคสโตนที่ทนความร้อน มันเพิ่มระยะของกราฟชิปอย่างมาก เครื่องขับดันต้องการพื้นที่ที่ไม่มีสิ่งกีดขวาง ปราศจากอาคารขนาดใหญ่และโครงสร้างพื้นฐานของกราฟชิป\n\nต้องใช้บล็อกแวคสโตน ซึ่งสามารถหาได้จากดาวเคราะห์น้อยในวงโคจร\n\nกราฟชิปสามารถรองรับเครื่องขับดันขนาดใหญ่ได้สูงสุดหกตัว</LargeThruster.description>
   
   <!-- EN: minified thing -->
   <MinifiedGravEngine.label>สิ่งของที่ถูกย่อส่วน</MinifiedGravEngine.label>
@@ -67,28 +67,28 @@
   <!-- EN: pilot console -->
   <PilotConsole.label>คอนโซลนักบิน</PilotConsole.label>
   <!-- EN: An interface that allows launching and piloting a gravship. It draws power directly from the grav engine. -->
-  <PilotConsole.description>ส่วนต่อประสานที่อนุญาตให้ปล่อยและควบคุมแกรฟชิป มันดึงพลังงานโดยตรงจากเครื่องยนต์แกรฟ</PilotConsole.description>
+  <PilotConsole.description>ส่วนต่อประสานที่อนุญาตให้ปล่อยและควบคุมกราฟชิป มันดึงพลังงานโดยตรงจากเครื่องยนต์แรงโน้มถ่วง</PilotConsole.description>
   
   <!-- EN: pilot subpersona core -->
   <PilotSubpersonaCore.label>แกนบุคลิกภาพย่อยนักบิน</PilotSubpersonaCore.label>
   <!-- EN: A low-grade subpersona specialized in gravship flight. It reduces the chance of an accident when flying a gravship, though it can't fully account for human error.\n\nA gravship can support up to two pilot subpersona cores. -->
-  <PilotSubpersonaCore.description>บุคลิกภาพย่อยระดับต่ำที่เชี่ยวชาญด้านการบินแกรฟชิป มันลดโอกาสเกิดอุบัติเหตุเมื่อบินแกรฟชิป แม้ว่าจะไม่สามารถชดเชยความผิดพลาดของมนุษย์ได้อย่างสมบูรณ์\n\nแกรฟชิปสามารถรองรับแกนบุคลิกภาพย่อยนักบินได้สูงสุดสองแกน</PilotSubpersonaCore.description>
+  <PilotSubpersonaCore.description>บุคลิกภาพย่อยระดับต่ำที่เชี่ยวชาญด้านการบินกราฟชิป มันลดโอกาสเกิดอุบัติเหตุเมื่อบินกราฟชิป แม้ว่าจะไม่สามารถชดเชยความผิดพลาดของมนุษย์ได้อย่างสมบูรณ์\n\nกราฟชิปสามารถรองรับแกนบุคลิกภาพย่อยนักบินได้สูงสุดสองแกน</PilotSubpersonaCore.description>
   
   <!-- EN: mechanoid ship chunk -->
-  <ShipChunk_Mech.label>ชิ้นส่วนยานเมคานอยด์</ShipChunk_Mech.label>
+  <ShipChunk_Mech.label>ชิ้นส่วนยานเมคคานอยด์</ShipChunk_Mech.label>
   <!-- EN: A chunk of mechanoid spacecraft made of steel and gravlite panels. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nDeconstruct it to obtain valuable resources. -->
-  <ShipChunk_Mech.description>ชิ้นส่วนของยานอวกาศเมคานอยด์ที่ทำจากเหล็กกล้าและแผงแกรฟไลต์ ดูเหมือนว่าจะถูกฉีกออกโดยแรงเข้าสู่ชั้นบรรยากาศที่ไม่สามารถควบคุมได้หรืออาวุธบางชนิด\n\nแยกชิ้นส่วนเพื่อรับทรัพยากรที่มีค่า</ShipChunk_Mech.description>
+  <ShipChunk_Mech.description>ชิ้นส่วนของยานอวกาศเมคคานอยด์ที่ทำจากเหล็กกล้าและแผงกราฟไลต์ ดูเหมือนว่าจะถูกฉีกออกโดยแรงเข้าสู่ชั้นบรรยากาศที่ไม่สามารถควบคุมได้หรืออาวุธบางชนิด\n\nแยกชิ้นส่วนเพื่อรับทรัพยากรที่มีค่า</ShipChunk_Mech.description>
   <!-- EN: Deconstruct for valuable resources. -->
   <ShipChunk_Mech.comps.CompInspectString.inspectString>รื้อถอนเพื่อทรัพยากรล้ำค่า</ShipChunk_Mech.comps.CompInspectString.inspectString>
   
   <!-- EN: signal jammer -->
   <SignalJammer.label>เครื่องรบกวนสัญญาณ</SignalJammer.label>
   <!-- EN: A signal emitter that disguises the electromagnetic signature of your gravship, allowing it to approach heavily-defended landing sites. -->
-  <SignalJammer.description>เครื่องปล่อยสัญญาณที่ปลอมลายเซ็นแม่เหล็กไฟฟ้าของแกรฟชิปของคุณ ทำให้สามารถเข้าใกล้พื้นที่ลงจอดที่มีการป้องกันอย่างแน่นหนาได้</SignalJammer.description>
+  <SignalJammer.description>เครื่องปล่อยสัญญาณที่ปลอมลายเซ็นแม่เหล็กไฟฟ้าของกราฟชิปของคุณ ทำให้สามารถเข้าใกล้พื้นที่ลงจอดที่มีการป้องกันอย่างแน่นหนาได้</SignalJammer.description>
   
   <!-- EN: small thruster -->
   <SmallThruster.label>ท่อขับดันล็ก</SmallThruster.label>
   <!-- EN: A chemfuel thruster that increases the range of a gravship. Thrusters require an unobstructed area free of large buildings and gravship substructure.\n\nA gravship can support up to four small thrusters. -->
-  <SmallThruster.description>ท่อขับดันเชื้อเพลิงเคมีที่ช่วยเพิ่มระยะการเดินทางของยานกราฟชิป ท่อขับดันต้องการพื้นที่ว่างโดยไม่มีสิ่งก่อสร้างขนาดใหญ่หรือโครงพื้นยานกราวชิปกีดขวาง\n\nยานกราฟชิปสามารถติดตั้งท่อขับดันขนาดเล็กได้สูงสุดสี่ชุด</SmallThruster.description>
+  <SmallThruster.description>ท่อขับดันเชื้อเพลิงเคมีที่ช่วยเพิ่มระยะการเดินทางของยานกราฟชิป ท่อขับดันต้องการพื้นที่ว่างโดยไม่มีสิ่งก่อสร้างขนาดใหญ่หรือโครงพื้นยานกราฟชิปกีดขวาง\n\nยานกราฟชิปสามารถติดตั้งท่อขับดันขนาดเล็กได้สูงสุดสี่ชุด</SmallThruster.description>
   
 </LanguageData>

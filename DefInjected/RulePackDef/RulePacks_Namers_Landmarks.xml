@@ -11,7 +11,7 @@
     <li>r_name(p=0.2)->คำสาปแห่ง [NamePerson]</li>
     <li>terrain_word(p=2)->เมือง</li>
     <li>terrain_word->ด่านหน้า</li>
-    <li>terrain_word->เมืองผีดุ</li>
+    <li>terrain_word->เมืองคนตาย</li>
   </NamerLandmark_AbandonedColonyOutlander.rulePack.rulesStrings>
   
   <!-- EN:
@@ -30,7 +30,13 @@
     <li>terrain_word->hell holes</li>
     <li>terrain_word->heat ducts</li>
   -->
-  <NamerLandmark_AncientHeatVent.rulePack.rulesStrings>TODO</NamerLandmark_AncientHeatVent.rulePack.rulesStrings>
+  <NamerLandmark_AncientHeatVent.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->ช่องระบายความร้อน</li>
+    <li>terrain_word->ช่องระบายความร้อนใต้พิภพ</li>
+    <li>terrain_word->ช่องระบายความร้อนนโลกันต์</li>
+    <li>terrain_word->หลุมไฟนรก</li>
+    <li>terrain_word->ท่อระบายความร้อน</li>
+  </NamerLandmark_AncientHeatVent.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->excavation site</li>
@@ -38,7 +44,12 @@
     <li>terrain_word->mines</li>
     <li>terrain_word->rock pits</li>
   -->
-  <NamerLandmark_AncientQuarry.rulePack.rulesStrings>TODO</NamerLandmark_AncientQuarry.rulePack.rulesStrings>
+  <NamerLandmark_AncientQuarry.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->ไซต์ขุดค้น</li>
+    <li>terrain_word->เหมืองหิน</li>
+    <li>terrain_word->เหมืองแร่</li>
+    <li>terrain_word->หลุมหิน</li>
+  </NamerLandmark_AncientQuarry.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=2)->exhaust duct</li>
@@ -47,7 +58,13 @@
     <li>terrain_word->chimneys</li>
     <li>terrain_word->smokestacks</li>
   -->
-  <NamerLandmark_AncientSmokeVent.rulePack.rulesStrings>TODO</NamerLandmark_AncientSmokeVent.rulePack.rulesStrings>
+  <NamerLandmark_AncientSmokeVent.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->ท่อระบายไอเสีย</li>
+    <li>terrain_word->ช่องระบายอากาศ</li>
+    <li>terrain_word->ปล่องไอน้ำ</li>
+    <li>terrain_word->ปล่องไฟ</li>
+    <li>terrain_word->ปล่องควัน</li>
+  </NamerLandmark_AncientSmokeVent.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=2)->tox vents</li>
@@ -56,7 +73,13 @@
     <li>terrain_word->toxic ducts</li>
     <li>terrain_word->fume vents</li>
   -->
-  <NamerLandmark_AncientToxVent.rulePack.rulesStrings>TODO</NamerLandmark_AncientToxVent.rulePack.rulesStrings>
+  <NamerLandmark_AncientToxVent.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->ช่องระบายพิษ</li>
+    <li>terrain_word->ช่องระบายสารพิษ</li>
+    <li>terrain_word->ช่องระบายไอพิษ</li>
+    <li>terrain_word->ท่อระบายสารพิษ</li>
+    <li>terrain_word->ช่องระบายควันพิษ</li>
+  </NamerLandmark_AncientToxVent.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->isle [narrative_name]</li>
@@ -69,19 +92,35 @@
     <li>terrain_word->points</li>
     <li>terrain_word->chain</li>
   -->
-  <NamerLandmark_Archipelago.rulePack.rulesStrings>TODO</NamerLandmark_Archipelago.rulePack.rulesStrings>
+  <NamerLandmark_Archipelago.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->เกาะ[narrative_name]</li>
+    <li>terrain_word(p=4)->หมู่เกาะ</li>
+    <li>terrain_word(p=3)->หมู่เกาะเล็ก</li>
+    <li>terrain_word(p=3)->หมู่เกาะโค้ง</li>
+    <li>terrain_word->แนวปะการัง</li>
+    <li>terrain_word->เกาะหิน</li>
+    <li>terrain_word->เกาะเล็ก</li>
+    <li>terrain_word->จุด</li>
+    <li>terrain_word->แนวเกาะ</li>
+  </NamerLandmark_Archipelago.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word->atoll</li>
     <li>terrain_word->circle</li>
   -->
-  <NamerLandmark_Atoll.rulePack.rulesStrings>TODO</NamerLandmark_Atoll.rulePack.rulesStrings>
+  <NamerLandmark_Atoll.rulePack.rulesStrings>
+    <li>terrain_word->เกาะปะการัง</li>
+    <li>terrain_word->วงแหวน</li>
+  </NamerLandmark_Atoll.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=2)->basin</li>
     <li>terrain_word->alpine lake</li>
   -->
-  <NamerLandmark_Basin.rulePack.rulesStrings>TODO</NamerLandmark_Basin.rulePack.rulesStrings>
+  <NamerLandmark_Basin.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->แอ่งน้ำ</li>
+    <li>terrain_word->ทะเลสาบอัลไพน์</li>
+  </NamerLandmark_Basin.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->gulf of [narrative_name]</li>
@@ -91,7 +130,14 @@
     <li>terrain_word->anchorage</li>
     <li>terrain_word->cove</li>
   -->
-  <NamerLandmark_Bay.rulePack.rulesStrings>TODO</NamerLandmark_Bay.rulePack.rulesStrings>
+  <NamerLandmark_Bay.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->อ่าว[narrative_name]</li>
+    <li>terrain_word(p=6)->อ่าว</li>
+    <li>terrain_word->เวิ้งน้ำ</li>
+    <li>terrain_word->อ่าวใหญ่</li>
+    <li>terrain_word->ที่ทอดสมอ</li>
+    <li>terrain_word->เวิ้งอ่าว</li>
+  </NamerLandmark_Bay.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->[NamePerson]'s caves</li>
@@ -100,14 +146,24 @@
     <li>terrain_word->cave network</li>
     <li>terrain_word->caverns</li>
   -->
-  <NamerLandmark_Cavern.rulePack.rulesStrings>TODO</NamerLandmark_Cavern.rulePack.rulesStrings>
+  <NamerLandmark_Cavern.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->ถ้ำของ [NamePerson]</li>
+    <li>terrain_word(p=2)->ถ้ำ</li>
+    <li>terrain_word->อุโมงค์</li>
+    <li>terrain_word->เครือข่ายถ้ำ</li>
+    <li>terrain_word->กลุ่มถ้ำ</li>
+  </NamerLandmark_Cavern.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word->chasm</li>
     <li>terrain_word->sinkhole</li>
     <li>terrain_word->fracture</li>
   -->
-  <NamerLandmark_Chasm.rulePack.rulesStrings>TODO</NamerLandmark_Chasm.rulePack.rulesStrings>
+  <NamerLandmark_Chasm.rulePack.rulesStrings>
+    <li>terrain_word->หุบเหว</li>
+    <li>terrain_word->หลุมยุบ</li>
+    <li>terrain_word->รอยแยก</li>
+  </NamerLandmark_Chasm.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->[NamePerson]'s [terrain_word]</li>
@@ -115,7 +171,12 @@
     <li>terrain_word->plant</li>
     <li>terrain_word->chemplant</li>
   -->
-  <NamerLandmark_ChemfuelRefinery.rulePack.rulesStrings>TODO</NamerLandmark_ChemfuelRefinery.rulePack.rulesStrings>
+  <NamerLandmark_ChemfuelRefinery.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[terrain_word]ของ [NamePerson]</li>
+    <li>terrain_word(p=2)->โรงกลั่น</li>
+    <li>terrain_word->โรงงาน</li>
+    <li>terrain_word->โรงงานเคมี</li>
+  </NamerLandmark_ChemfuelRefinery.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->[NamePerson]'s end</li>
@@ -123,7 +184,12 @@
     <li>terrain_word->rampart</li>
     <li>terrain_word->wall</li>
   -->
-  <NamerLandmark_Cliffs.rulePack.rulesStrings>TODO</NamerLandmark_Cliffs.rulePack.rulesStrings>
+  <NamerLandmark_Cliffs.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->จุดจบของ [NamePerson]</li>
+    <li>terrain_word(p=2)->หน้าผา</li>
+    <li>terrain_word->เชิงเทิน</li>
+    <li>terrain_word->กำแพง</li>
+  </NamerLandmark_Cliffs.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->isle [narrative_name]</li>
@@ -131,14 +197,23 @@
     <li>terrain_word(p=2)->isle</li>
     <li>terrain_word->islet</li>
   -->
-  <NamerLandmark_CoastalIsland.rulePack.rulesStrings>TODO</NamerLandmark_CoastalIsland.rulePack.rulesStrings>
+  <NamerLandmark_CoastalIsland.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->เกาะ[narrative_name]</li>
+    <li>terrain_word(p=4)->เกาะ</li>
+    <li>terrain_word(p=2)->เกาะ</li>
+    <li>terrain_word->เกาะเล็ก</li>
+  </NamerLandmark_CoastalIsland.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=3)->crevasse</li>
     <li>terrain_word->break</li>
     <li>terrain_word->fissure</li>
   -->
-  <NamerLandmark_Crevasse.rulePack.rulesStrings>TODO</NamerLandmark_Crevasse.rulePack.rulesStrings>
+  <NamerLandmark_Crevasse.rulePack.rulesStrings>
+    <li>terrain_word(p=3)->รอยแยกน้ำแข็ง</li>
+    <li>terrain_word->ช่องแยก</li>
+    <li>terrain_word->รอยแยก</li>
+  </NamerLandmark_Crevasse.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word->dry lake</li>
@@ -147,20 +222,33 @@
     <li>terrain_word->barren lake</li>
     <li>terrain_word->sand pit</li>
   -->
-  <NamerLandmark_DryLake.rulePack.rulesStrings>TODO</NamerLandmark_DryLake.rulePack.rulesStrings>
+  <NamerLandmark_DryLake.rulePack.rulesStrings>
+    <li>terrain_word->ทะเลสาบแห้ง</li>
+    <li>terrain_word->ทะเลสาบทราย</li>
+    <li>terrain_word->ทุ่งเกลือ</li>
+    <li>terrain_word->ทะเลสาบร้าง</li>
+    <li>terrain_word->หลุมทราย</li>
+  </NamerLandmark_DryLake.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=2)->dunes</li>
     <li>terrain_word->wastes</li>
   -->
-  <NamerLandmark_Dunes.rulePack.rulesStrings>TODO</NamerLandmark_Dunes.rulePack.rulesStrings>
+  <NamerLandmark_Dunes.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->เนินทราย</li>
+    <li>terrain_word->พื้นที่รกร้าง</li>
+  </NamerLandmark_Dunes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=2)->fjord</li>
     <li>terrain_word->inlet</li>
     <li>terrain_word->sound</li>
   -->
-  <NamerLandmark_Fjord.rulePack.rulesStrings>TODO</NamerLandmark_Fjord.rulePack.rulesStrings>
+  <NamerLandmark_Fjord.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->ฟยอร์ด</li>
+    <li>terrain_word->อ่าวเล็ก</li>
+    <li>terrain_word->ช่องแคบ</li>
+  </NamerLandmark_Fjord.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[ruin_adjective] [narrative_name]</li>
@@ -170,7 +258,14 @@
     <li>terrain_word->ice city</li>
     <li>terrain_word->city</li>
   -->
-  <NamerLandmark_FrozenRuins.rulePack.rulesStrings>TODO</NamerLandmark_FrozenRuins.rulePack.rulesStrings>
+  <NamerLandmark_FrozenRuins.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[narrative_name][ruin_adjective]</li>
+    <li>ruin_adjective->ที่พังทลาย</li>
+    <li>ruin_adjective->น้ำแข็ง</li>
+    <li>terrain_word(p=2)->ซากปรักหักพังแช่แข็ง</li>
+    <li>terrain_word->เมืองน้ำแข็ง</li>
+    <li>terrain_word->เมือง</li>
+  </NamerLandmark_FrozenRuins.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->Fort [narrative_name]</li>
@@ -183,20 +278,37 @@
     <li>terrain_word(p=0.5)->stronghold</li>
     <li>terrain_word(p=0.5)->military base</li>
   -->
-  <NamerLandmark_Garrison.rulePack.rulesStrings>TODO</NamerLandmark_Garrison.rulePack.rulesStrings>
+  <NamerLandmark_Garrison.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->ค่าย[narrative_name]</li>
+    <li>r_name(p=0.4)->[terrain_word]แห่ง [NamePerson]</li>
+    <li>terrain_word(p=2)->กองรักษาการณ์</li>
+    <li>terrain_word->คลังแสง</li>
+    <li>terrain_word->สถานี</li>
+    <li>terrain_word->ฐาน</li>
+    <li>terrain_word->ป้อม</li>
+    <li>terrain_word(p=0.5)->ป้อมปราการ</li>
+    <li>terrain_word(p=0.5)->ฐานทัพทหาร</li>
+  </NamerLandmark_Garrison.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->port [NamePerson]</li>
     <li>terrain_word->harbor</li>
     <li>terrain_word->port</li>
   -->
-  <NamerLandmark_Harbor.rulePack.rulesStrings>TODO</NamerLandmark_Harbor.rulePack.rulesStrings>
+  <NamerLandmark_Harbor.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->ท่า [NamePerson]</li>
+    <li>terrain_word->ท่าเรือ</li>
+    <li>terrain_word->ท่า</li>
+  </NamerLandmark_Harbor.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->[NamePerson]'s hideout</li>
     <li>terrain_word->hollow</li>
   -->
-  <NamerLandmark_Hollow.rulePack.rulesStrings>TODO</NamerLandmark_Hollow.rulePack.rulesStrings>
+  <NamerLandmark_Hollow.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->ที่หลบซ่อนของ [NamePerson]</li>
+    <li>terrain_word->หลุม</li>
+  </NamerLandmark_Hollow.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->[NamePerson]'s bath</li>
@@ -205,20 +317,33 @@
     <li>terrain_word->spring</li>
     <li>terrain_word->springs</li>
   -->
-  <NamerLandmark_HotSprings.rulePack.rulesStrings>TODO</NamerLandmark_HotSprings.rulePack.rulesStrings>
+  <NamerLandmark_HotSprings.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->บ่อน้ำร้อนของ [NamePerson]</li>
+    <li>terrain_word(p=2)->บ่อน้ำพุร้อน</li>
+    <li>terrain_word(p=2)->บ่อน้ำพุร้อน</li>
+    <li>terrain_word->น้ำพุร้อน</li>
+    <li>terrain_word->น้ำพุร้อน</li>
+  </NamerLandmark_HotSprings.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=2)->iceberg</li>
     <li>terrain_word->berg</li>
   -->
-  <NamerLandmark_Iceberg.rulePack.rulesStrings>TODO</NamerLandmark_Iceberg.rulePack.rulesStrings>
+  <NamerLandmark_Iceberg.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->ภูเขาน้ำแข็ง</li>
+    <li>terrain_word->เบิร์ก</li>
+  </NamerLandmark_Iceberg.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word->ice dunes</li>
     <li>terrain_word->ice mounds</li>
     <li>terrain_word->frozen hills</li>
   -->
-  <NamerLandmark_IceDunes.rulePack.rulesStrings>TODO</NamerLandmark_IceDunes.rulePack.rulesStrings>
+  <NamerLandmark_IceDunes.rulePack.rulesStrings>
+    <li>terrain_word->เนินน้ำแข็ง</li>
+    <li>terrain_word->โคกน้ำแข็ง</li>
+    <li>terrain_word->เนินเขาน้ำแข็ง</li>
+  </NamerLandmark_IceDunes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=18)->[fallen] [townname_wordgen]</li>
@@ -226,21 +351,34 @@
     <li>fallen->fallen</li>
     <li>fallen->infested</li>
   -->
-  <NamerLandmark_InfestedSettlement.rulePack.rulesStrings>TODO</NamerLandmark_InfestedSettlement.rulePack.rulesStrings>
+  <NamerLandmark_InfestedSettlement.rulePack.rulesStrings>
+    <li>r_name(p=18)->[townname_wordgen][fallen]</li>
+    <li>r_name(p=18)->รัง[townname_wordgen]</li>
+    <li>fallen->ร้าง</li>
+    <li>fallen->ที่ถูกแมลงยึดครอง</li>
+  </NamerLandmark_InfestedSettlement.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=4)->lake</li>
     <li>terrain_word->reservoir</li>
     <li>terrain_word->loch</li>
   -->
-  <NamerLandmark_Lake.rulePack.rulesStrings>TODO</NamerLandmark_Lake.rulePack.rulesStrings>
+  <NamerLandmark_Lake.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->ทะเลสาบ</li>
+    <li>terrain_word->อ่างเก็บน้ำ</li>
+    <li>terrain_word->ทะเลสาบ</li>
+  </NamerLandmark_Lake.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[NamePerson]'s [terrain_word]</li>
     <li>terrain_word(p=2)->launch site</li>
     <li>terrain_word->launch pads</li>
   -->
-  <NamerLandmark_LaunchSite.rulePack.rulesStrings>TODO</NamerLandmark_LaunchSite.rulePack.rulesStrings>
+  <NamerLandmark_LaunchSite.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[terrain_word]แห่ง [NamePerson]</li>
+    <li>terrain_word(p=2)->ไซต์ปล่อยตัว</li>
+    <li>terrain_word->แท่นปล่อยตัว</li>
+  </NamerLandmark_LaunchSite.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->[NamePerson]'s hellscape</li>
@@ -248,7 +386,12 @@
     <li>terrain_word->volcanic flow</li>
     <li>terrain_word->lava flow</li>
   -->
-  <NamerLandmark_LavaFlow.rulePack.rulesStrings>TODO</NamerLandmark_LavaFlow.rulePack.rulesStrings>
+  <NamerLandmark_LavaFlow.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->นรกภูมิแห่ง [NamePerson]</li>
+    <li>r_name(p=0.2)->เพลิงนรกแห่ง [NamePerson]</li>
+    <li>terrain_word->กระแสภูเขาไฟ</li>
+    <li>terrain_word->กระแสลาวา</li>
+  </NamerLandmark_LavaFlow.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=2)->crater</li>
@@ -256,14 +399,23 @@
     <li>terrain_word->inferno</li>
     <li>terrain_word->lava pool</li>
   -->
-  <NamerLandmark_LavaLake.rulePack.rulesStrings>TODO</NamerLandmark_LavaLake.rulePack.rulesStrings>
+  <NamerLandmark_LavaLake.rulePack.rulesStrings>
+    <li>terrain_word(p=2)->ปล่องภูเขาไฟ</li>
+    <li>terrain_word->เตาหลอม</li>
+    <li>terrain_word->นรกเพลิง</li>
+    <li>terrain_word->บ่อลาวา</li>
+  </NamerLandmark_LavaLake.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=4)->oasis</li>
     <li>terrain_word->haven</li>
     <li>terrain_word->refuge</li>
   -->
-  <NamerLandmark_Oasis.rulePack.rulesStrings>TODO</NamerLandmark_Oasis.rulePack.rulesStrings>
+  <NamerLandmark_Oasis.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->โอเอซิส</li>
+    <li>terrain_word->ที่พักพิง</li>
+    <li>terrain_word->ที่ลี้ภัย</li>
+  </NamerLandmark_Oasis.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->point [narrative_name]</li>
@@ -274,7 +426,15 @@
     <li>terrain_word->headland</li>
     <li>terrain_word->horn</li>
   -->
-  <NamerLandmark_Peninsula.rulePack.rulesStrings>TODO</NamerLandmark_Peninsula.rulePack.rulesStrings>
+  <NamerLandmark_Peninsula.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[narrative_name]แหลม</li>
+    <li>r_name(p=0.2)->[narrative_name]แหลม</li>
+    <li>terrain_word(p=5)->คาบสมุทร</li>
+    <li>terrain_word(p=2)->แหลม</li>
+    <li>terrain_word->แหลม</li>
+    <li>terrain_word->แหลมใหญ่</li>
+    <li>terrain_word->แหลมโค้ง</li>
+  </NamerLandmark_Peninsula.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word->plateau</li>
@@ -283,7 +443,13 @@
     <li>terrain_word->rise</li>
     <li>terrain_word->butte</li>
   -->
-  <NamerLandmark_Plateau.rulePack.rulesStrings>TODO</NamerLandmark_Plateau.rulePack.rulesStrings>
+  <NamerLandmark_Plateau.rulePack.rulesStrings>
+    <li>terrain_word->ที่ราบสูง</li>
+    <li>terrain_word->ภูเขายอดราบ</li>
+    <li>terrain_word->ภูเขา</li>
+    <li>terrain_word->เนินสูง</li>
+    <li>terrain_word->เนินยอดป้าน</li>
+  </NamerLandmark_Plateau.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=4)->pond</li>
@@ -291,7 +457,12 @@
     <li>terrain_word->pool</li>
     <li>terrain_word->waterhole</li>
   -->
-  <NamerLandmark_Pond.rulePack.rulesStrings>TODO</NamerLandmark_Pond.rulePack.rulesStrings>
+  <NamerLandmark_Pond.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->บึง</li>
+    <li>terrain_word->แอ่งน้ำ</li>
+    <li>terrain_word->สระน้ำ</li>
+    <li>terrain_word->โป่งน้ำ</li>
+  </NamerLandmark_Pond.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[ruin_adjective] [narrative_name]</li>
@@ -302,7 +473,15 @@
     <li>terrain_word->city</li>
     <li>terrain_word->town</li>
   -->
-  <NamerLandmark_Ruins.rulePack.rulesStrings>TODO</NamerLandmark_Ruins.rulePack.rulesStrings>
+  <NamerLandmark_Ruins.rulePack.rulesStrings>
+    <li>r_name(p=0.4)->[narrative_name][ruin_adjective]</li>
+    <li>r_name(p=0.2)->[story_result]ของ [NamePerson]</li>
+    <li>ruin_adjective->ที่พังทลาย</li>
+    <li>ruin_adjective->ที่แตกสลาย</li>
+    <li>terrain_word(p=2)->ซากปรักหักพัง</li>
+    <li>terrain_word->เมือง</li>
+    <li>terrain_word->เมือง</li>
+  </NamerLandmark_Ruins.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.3)->[NamePerson]'s [terrain_word]</li>
@@ -327,7 +506,29 @@
     <li>dread->vile</li>
     <li>dread->dark</li>
   -->
-  <NamerLandmark_TerraformingScar.rulePack.rulesStrings>TODO</NamerLandmark_TerraformingScar.rulePack.rulesStrings>
+  <NamerLandmark_TerraformingScar.rulePack.rulesStrings>
+    <li>r_name(p=0.3)->[terrain_word]ของ [NamePerson]</li>
+    <li>r_name(p=0.2)->[mistake]ของ [NamePerson]</li>
+    <li>r_name(p=0.2)->[terrain_word][large]</li>
+    <li>r_name(p=0.1)->[terrain_word][dread]</li>
+    <li>r_name(p=0.05)->[terrain_word]</li>
+    <li>terrain_word(p=3)->รอยแผล</li>
+    <li>terrain_word->รอยแยก</li>
+    <li>terrain_word->รอยฉีกขาด</li>
+    <li>terrain_word->บาดแผล</li>
+    <li>terrain_word->รอยร้าว</li>
+    <li>terrain_word->เสียงโหยหวน</li>
+    <li>mistake->ความผิดพลาด</li>
+    <li>mistake->ความล้มเหลว</li>
+    <li>mistake->ความหลงผิด</li>
+    <li>mistake->ข้อบกพร่อง</li>
+    <li>large->ใหญ่</li>
+    <li>large->ยิ่งใหญ่</li>
+    <li>dread->น่ากลัว</li>
+    <li>dread->น่าสะพรึง</li>
+    <li>dread->ชั่วร้าย</li>
+    <li>dread->มืดมน</li>
+  </NamerLandmark_TerraformingScar.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.05)->[NamePerson]'s poison</li>
@@ -336,7 +537,13 @@
     <li>terrain_word->toxic lake</li>
     <li>terrain_word->poison lake</li>
   -->
-  <NamerLandmark_ToxicLake.rulePack.rulesStrings>TODO</NamerLandmark_ToxicLake.rulePack.rulesStrings>
+  <NamerLandmark_ToxicLake.rulePack.rulesStrings>
+    <li>r_name(p=0.05)->พิษของ [NamePerson]</li>
+    <li>r_name(p=0.05)->ภัยพิบัติของ [NamePerson]</li>
+    <li>r_name(p=0.05)->ที่ทิ้งของเสียของ [NamePerson]</li>
+    <li>terrain_word->ทะเลสาบพิษ</li>
+    <li>terrain_word->ทะเลสาบพิษ</li>
+  </NamerLandmark_ToxicLake.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=4)->valley</li>
@@ -348,7 +555,16 @@
     <li>terrain_word->gulch</li>
     <li>terrain_word->divide</li>
   -->
-  <NamerLandmark_Valley.rulePack.rulesStrings>TODO</NamerLandmark_Valley.rulePack.rulesStrings>
+  <NamerLandmark_Valley.rulePack.rulesStrings>
+    <li>terrain_word(p=4)->หุบเขา</li>
+    <li>terrain_word(p=3)->หุบเหว</li>
+    <li>terrain_word(p=3)->หุบผา</li>
+    <li>terrain_word->หุบเวิ้ง</li>
+    <li>terrain_word->ช่องเขา</li>
+    <li>terrain_word->เหวลึก</li>
+    <li>terrain_word->ร่องเขา</li>
+    <li>terrain_word->รอยแยก</li>
+  </NamerLandmark_Valley.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[NamePerson]'s [terrain_word]</li>
@@ -356,7 +572,12 @@
     <li>terrain_word->depot</li>
     <li>terrain_word->storehouse</li>
   -->
-  <NamerLandmark_Warehouse.rulePack.rulesStrings>TODO</NamerLandmark_Warehouse.rulePack.rulesStrings>
+  <NamerLandmark_Warehouse.rulePack.rulesStrings>
+    <li>r_name->[terrain_word]ของ [NamePerson]</li>
+    <li>terrain_word(p=2)->คลังสินค้า</li>
+    <li>terrain_word->คลังเก็บของ</li>
+    <li>terrain_word->โกดัง</li>
+  </NamerLandmark_Warehouse.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->[NamePerson]'s [terrain_word]</li>
@@ -366,6 +587,13 @@
     <li>terrain_word->bog</li>
     <li>terrain_word->fen</li>
   -->
-  <NamerLandmark_Wetland.rulePack.rulesStrings>TODO</NamerLandmark_Wetland.rulePack.rulesStrings>
+  <NamerLandmark_Wetland.rulePack.rulesStrings>
+    <li>r_name(p=0.2)->[terrain_word]ของ [NamePerson]</li>
+    <li>terrain_word(p=2)->พื้นที่ชุ่มน้ำ</li>
+    <li>terrain_word->หนองน้ำ</li>
+    <li>terrain_word->บึงโคลน</li>
+    <li>terrain_word->บึง</li>
+    <li>terrain_word->ชายเลน</li>
+  </NamerLandmark_Wetland.rulePack.rulesStrings>
   
 </LanguageData>

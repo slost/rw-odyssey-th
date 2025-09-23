@@ -4,7 +4,7 @@
   <!-- EN: cerebrex node -->
   <Apparel_CerebrexNode.label>โหนดเซเรเบรกซ์</Apparel_CerebrexNode.label>
   <!-- EN: An interlink node scavenged technology from the cerebrex core of a mechhive. It can be used to summon mechanoids or mechanoid transport pods from the planet-wide mechanoid satellite network. -->
-  <Apparel_CerebrexNode.description>โหนดเชื่อมต่อที่เก็บเทคโนโลยีมาจากแกนเซเรเบรกซ์ของเมคไฮฟ์ สามารถใช้เรียกเมคานอยด์หรือกระสวยขนส่งเมคานอยด์จากเครือข่ายดาวเทียมเมคานอยด์ทั่วดาวเคราะห์ได้</Apparel_CerebrexNode.description>
+  <Apparel_CerebrexNode.description>โหนดเชื่อมต่อที่เก็บเทคโนโลยีมาจากแกนเซเรเบรกซ์ของเมคไฮฟ์ สามารถใช้เรียกเมคคานอยด์หรือกระสวยขนส่งเมคคานอยด์จากเครือข่ายดาวเทียมเมคคานอยด์ทั่วดาวเคราะห์ได้</Apparel_CerebrexNode.description>
   
   <!-- EN: hunter pack -->
   <Apparel_PackHunter.label>ชุดนักล่า</Apparel_PackHunter.label>
