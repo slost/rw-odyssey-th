@@ -4,7 +4,7 @@
   <!-- EN: attack target -->
   <AttackTarget.label>โจมตีเป้าหมาย</AttackTarget.label>
   <!-- EN: Command the animal to attack a specific target. -->
-  <AttackTarget.description>สั่งให้สัตว์โจมตีเป้าหมายที่เจ้านายมองเห็นได้</AttackTarget.description>
+  <AttackTarget.description>สั่งให้สัตว์โจมตีเป้าหมายเฉพาะ</AttackTarget.description>
   
   <!-- EN: comfort -->
   <Comfort.label>ปลอบโยน</Comfort.label>

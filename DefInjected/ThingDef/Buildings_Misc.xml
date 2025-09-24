@@ -82,7 +82,7 @@
   <!-- EN: ancient mining charge -->
   <AncientMiningCharge.label>ระเบิดเหมืองโบราณ</AncientMiningCharge.label>
   <!-- EN: An explosive device used to quickly blast through rock. It is made from refined chemfuel. The explosive is old, but still ready to detonate. -->
-  <AncientMiningCharge.description>อุปกรณ์ระเบิดที่ใช้ในการระเบิดหินอย่างรวดเร็ว ทำจากเชื้อเพลิงเคมีที่ผ่านการกลั่นแล้ว วัตถุระเบิดนี้เก่าแล้ว แต่ยังพร้อมที่จะระเบิด\n\nแรงระเบิดรุนแรงพอที่จะทะลุกำแพงได้</AncientMiningCharge.description>
+  <AncientMiningCharge.description>อุปกรณ์ระเบิดที่ใช้ในการระเบิดหินอย่างรวดเร็ว ทำจากเชื้อเพลิงเคมีที่ผ่านการกลั่นแล้ว วัตถุระเบิดนี้เก่าแล้ว แต่ยังพร้อมที่จะระเบิด</AncientMiningCharge.description>
   
   <!-- EN: ancient security terminal -->
   <AncientSecurityTerminal.label>เทอร์มินัลรักษาความปลอดภัยโบราณ</AncientSecurityTerminal.label>

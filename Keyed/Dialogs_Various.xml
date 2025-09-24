@@ -3,7 +3,7 @@
 
   <!-- Grav engine/substructrues -->
   <!-- EN: Are you sure you want to launch?\n\nYour current map, as well as anything not on gravship substructure, will be permanently lost. The launch process is destructive, meaning you won't be able to return. Build a grav anchor to prevent this map from being destroyed. -->
-  <ConfirmGravEngineLaunch>คุณแน่ใจหรือไม่ว่าคุณต้องการปล่อยตัว?\n\nแผนที่ปัจจุบันของคุณ รวมถึงสิ่งใดก็ตามที่ไม่ได้อยู่ในโครงพื้นยานกราฟชิปจะหายไปอย่างถาวร กระบวนการปล่อยตัวเป็นการทำลายล้าง ซึ่งหมายความว่าคุณจะไม่สามารถกลับมาได้</ConfirmGravEngineLaunch>
+  <ConfirmGravEngineLaunch>คุณแน่ใจหรือไม่ว่าคุณต้องการปล่อยตัว?\n\nแผนที่ปัจจุบันของคุณ รวมถึงสิ่งใดก็ตามที่ไม่ได้อยู่ในโครงพื้นยานกราฟชิปจะหายไปอย่างถาวร กระบวนการปล่อยตัวเป็นการทำลายล้าง ซึ่งหมายความว่าคุณจะไม่สามารถกลับมาได้ สร้างสมอแรงโน้มถ่วงเพื่อป้องกันไม่ให้แผนที่นี้ถูกทำลาย</ConfirmGravEngineLaunch>
   <!-- EN: Warning -->
   <GravEngineWarning>คำเตือน</GravEngineWarning>
   <!-- EN: The following people will be left behind -->

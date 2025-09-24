@@ -4,7 +4,7 @@
   <!-- EN: gravcore -->
   <Gravcore.label>กราฟคอร์</Gravcore.label>
   <!-- EN: An ultratech device that generates an unstructured graviton field. It is useless by itself, but it can be used to construct gravtech buildings. -->
-  <Gravcore.description>อุปกรณ์อัลตร้าเทคที่สร้างสนามแกรวิตอนแบบไม่มีโครงสร้าง มันไร้ประโยชน์ในตัวของมันเอง แต่สามารถติดตั้งในเครื่องยนต์แรงโน้มถ่วงเพื่อเพิ่มขีดความสามารถในการยกได้</Gravcore.description>
+  <Gravcore.description>อุปกรณ์อัลตร้าเทคที่สร้างสนามแรงโน้มถ่วงตอนแบบไม่มีโครงสร้าง มันไร้ประโยชน์ในตัวของมันเอง แต่สามารถใช้ในการติดตั้งเครื่องยนต์แรงโน้มถ่วงเพื่อเพิ่มขีดความสามารถในการยกได้</Gravcore.description>
   
   <!-- EN: gravlite panel -->
   <GravlitePanel.label>แผงกราฟไลต์</GravlitePanel.label>

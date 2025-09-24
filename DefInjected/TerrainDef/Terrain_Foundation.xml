@@ -9,6 +9,6 @@
   <!-- EN: gravship substructure -->
   <Substructure.label>โครงพื้นยานกราฟชิป</Substructure.label>
   <!-- EN: A lightweight truss structure with flooring on top that forms the deck of a gravship. Only things on top of this substructure can be lifted by the grav engine's levitation field. This floor must be constructed within range of a grav engine.\n\nGravship substructure can be removed using the 'remove foundation' designator. -->
-  <Substructure.description>โครงสร้างตาข่ายน้ำหนักเบาพร้อมปูพื้นด้านบน ซึ่งเป็นชั้นดาดฟ้าของยานกราฟชิป เฉพาะสิ่งที่อยู่เหนือโครงพื้นนี้เท่านั้นที่จะถูกยกขึ้นได้ด้วยสนามยกลอยของเครื่องยนต์แรงโน้มถ่วง พื้นชนิดนี้ต้องถูกสร้างภายในระยะของเครื่องยนต์แรงโน้มถ่วง</Substructure.description>
+  <Substructure.description>โครงสร้างตาข่ายน้ำหนักเบาพร้อมปูพื้นด้านบน ซึ่งเป็นชั้นดาดฟ้าของยานกราฟชิป เฉพาะสิ่งที่อยู่เหนือโครงพื้นนี้เท่านั้นที่จะถูกยกขึ้นได้ด้วยสนามยกลอยของเครื่องยนต์แรงโน้มถ่วง พื้นชนิดนี้ต้องถูกสร้างภายในระยะของเครื่องยนต์แรงโน้มถ่วง\n\nโครงสร้างย่อยยานกราฟชิปสามารถรื้อถอนได้ด้วยตัวระบุ 'รื้อฐาน'</Substructure.description>
   
 </LanguageData>

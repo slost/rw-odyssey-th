@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: mining bomb -->
-  <MiningBomb.label>ระเบิด</MiningBomb.label>
+  <MiningBomb.label>ระเบิดเหมือง</MiningBomb.label>
   <!-- EN: {0} has died in an explosion. -->
   <MiningBomb.deathMessage>{0} เสียชีวิตจากการระเบิด</MiningBomb.deathMessage>
   
