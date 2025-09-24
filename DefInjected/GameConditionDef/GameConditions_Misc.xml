@@ -53,7 +53,7 @@
   <!-- EN: lava flow -->
   <LavaFlow.label>ลาวาไหล</LavaFlow.label>
   <!-- EN: Lava has begun to pour into the area. It will flow over the low-lying volcanic rock, but spare the other terrain. Keep your colonists out of harm's way! -->
-  <LavaFlow.description>ลาวาได้เริ่มไหลเข้ามาในพื้นที่ มันจะไหลผ่านหินภูเขาไฟที่อยู่ต่ำ แต่จะเว้นภูมิประเทศอื่นไว้ ให้ผู้ชาวอาณานิคมของคุณให้อยู่ห่างจากอันตราย!</LavaFlow.description>
+  <LavaFlow.description>ลาวาได้เริ่มไหลเข้ามาในพื้นที่ มันจะไหลผ่านหินภูเขาไฟที่อยู่ต่ำ แต่จะเว้นภูมิประเทศอื่นไว้ ให้ผู้ชาวนิคมของคุณให้อยู่ห่างจากอันตราย!</LavaFlow.description>
   
   <!-- EN: volcanic ash -->
   <VolcanicAsh.label>เถ้าภูเขาไฟ</VolcanicAsh.label>

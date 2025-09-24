@@ -9,12 +9,12 @@
   <!-- EN: basic asteroid -->
   <AsteroidBasic.label>อุกกาบาตทั่วไป</AsteroidBasic.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <AsteroidBasic.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว ทรัพยากรที่มีค่าส่วนใหญ่จากอุกกาบาตนี้ได้หมดไปแล้ว\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือยานกราฟชิป</AsteroidBasic.description>
+  <AsteroidBasic.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว ทรัพยากรที่มีค่าส่วนใหญ่จากอุกกาบาตนี้ได้หมดไปแล้ว\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้กระสวยขนส่ง ยานกระสวย หรือยานกราฟชิป</AsteroidBasic.description>
   
   <!-- EN: asteroid mining site -->
   <AsteroidMiningSite.label>แหล่งขุดแร่อุกกาบาต</AsteroidMiningSite.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. This asteroid has only been partially mined.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <AsteroidMiningSite.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว อุกกาบาตนี้ถูกขุดไปเพียงบางส่วนเท่านั้น\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือยานกราฟชิป</AsteroidMiningSite.description>
+  <AsteroidMiningSite.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว อุกกาบาตนี้ถูกขุดไปเพียงบางส่วนเท่านั้น\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้กระสวยขนส่ง ยานกระสวย หรือยานกราฟชิป</AsteroidMiningSite.description>
   
   <!-- EN: claimable site -->
   <ClaimableSite.label>พื้นที่ที่สามารถยึดครองได้</ClaimableSite.label>
@@ -43,7 +43,7 @@
   <!-- EN: orbital item stash -->
   <OrbitalItemStash.label>คลังเก็บของในวงโคจร</OrbitalItemStash.label>
   <!-- EN: A vacstone asteroid that was towed into orbit around the planet as part of a mining operation long ago. Most of the valuable resources have been depleted from this asteroid.\n\nThis location can be reached using transport pods, shuttles, or a gravship. -->
-  <OrbitalItemStash.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว ทรัพยากรที่มีค่าส่วนใหญ่จากอุกกาบาตนี้ได้หมดไปแล้ว\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้พ็อดขนส่ง, ยานรับส่ง หรือยานกราฟชิป</OrbitalItemStash.description>
+  <OrbitalItemStash.description>อุกกาบาตหินแวคสโตนที่ถูกลากเข้ามาในวงโคจรรอบดาวเคราะห์ซึ่งเป็นส่วนหนึ่งของปฏิบัติการขุดแร่เมื่อนานมาแล้ว ทรัพยากรที่มีค่าส่วนใหญ่จากอุกกาบาตนี้ได้หมดไปแล้ว\n\nสามารถไปยังตำแหน่งนี้ได้โดยใช้กระสวยขนส่ง, ยานรับส่ง หรือยานกราฟชิป</OrbitalItemStash.description>
   
   <!-- EN: passenger shuttle -->
   <PassengerShuttle.label>ยานรับส่งผู้โดยสาร</PassengerShuttle.label>

@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: guild citizen -->
-  <TradersGuild_Citizen.label>พลเมืองกิลด์</TradersGuild_Citizen.label>
+  <TradersGuild_Citizen.label>พลเมืองของสมาคม</TradersGuild_Citizen.label>
   
   <!-- EN: guild specialist -->
-  <TradersGuild_Elite.label>ผู้เชี่ยวชาญกิลด์</TradersGuild_Elite.label>
+  <TradersGuild_Elite.label>ผู้เชี่ยวชาญของสมาคม</TradersGuild_Elite.label>
   <!-- EN: guild special forces -->
-  <TradersGuild_Elite.labelPlural>เหล่ากองกำลังพิเศษกิลด์</TradersGuild_Elite.labelPlural>
+  <TradersGuild_Elite.labelPlural>เหล่ากองกำลังพิเศษของสมาคม</TradersGuild_Elite.labelPlural>
   
   <!-- EN: guild gunner -->
-  <TradersGuild_Gunner.label>มือปืนกิลด์</TradersGuild_Gunner.label>
+  <TradersGuild_Gunner.label>มือปืนของสมาคม</TradersGuild_Gunner.label>
   
   <!-- EN: heavy gunner -->
   <TradersGuild_Heavy.label>มือปืนหนัก</TradersGuild_Heavy.label>
@@ -18,9 +18,9 @@
   <TradersGuild_Heavy.labelPlural>เหล่ามือปืนหนัก</TradersGuild_Heavy.labelPlural>
   
   <!-- EN: magister -->
-  <TradersGuild_Magister.label>แมจิสเตอร์</TradersGuild_Magister.label>
+  <TradersGuild_Magister.label>มาจิสเตอร์</TradersGuild_Magister.label>
   <!-- EN: magisters -->
-  <TradersGuild_Magister.labelPlural>เหล่าแมจิสเตอร์</TradersGuild_Magister.labelPlural>
+  <TradersGuild_Magister.labelPlural>เหล่ามาจิสเตอร์</TradersGuild_Magister.labelPlural>
   
   <!-- EN: guild slasher -->
   <TradersGuild_Slasher.label>นักดาบกิลด์</TradersGuild_Slasher.label>

@@ -53,14 +53,14 @@
   <!-- EN: abandoned orbital platform -->
   <OrbitalAncientPlatform.label>แพลตฟอร์มวงโคจรโบราณที่ถูกทิ้งร้าง</OrbitalAncientPlatform.label>
   <!-- EN: You have detected the energy signature of a gravcore.\n\nBe careful - orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
-  <OrbitalAncientPlatform.description>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์\n\nโปรดระวัง สถานที่ในวงโคจรนั้นอันตรายมาก ตรวจสอบให้แน่ใจว่ายานกราฟชิปของคุณถูกปิดล้อมอย่างสมบูรณ์ด้วยผนังที่ปิดสนิท และเตรียมชุดสูญญากาศให้กับผู้ตั้งถิ่นฐานของคุณ วางแผนการเดินทางกลับ เนื่องจากการอยู่อาศัยในวงโคจรเป็นเวลานานนั้นยากมาก</OrbitalAncientPlatform.description>
+  <OrbitalAncientPlatform.description>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์\n\nโปรดระวัง สถานที่ในวงโคจรนั้นอันตรายมาก ตรวจสอบให้แน่ใจว่ายานกราฟชิปของคุณถูกปิดล้อมอย่างสมบูรณ์ด้วยผนังที่ปิดสนิท และเตรียมชุดสูญญากาศให้กับชาวนิคมของคุณ วางแผนการเดินทางกลับ เนื่องจากการอยู่อาศัยในวงโคจรเป็นเวลานานนั้นยากมาก</OrbitalAncientPlatform.description>
   <!-- EN: Contains: Gravcore -->
   <OrbitalAncientPlatform.mainPartAllThreatsLabel>บรรจุ: กราฟคอร์</OrbitalAncientPlatform.mainPartAllThreatsLabel>
   
   <!-- EN: mechanoid platform -->
   <OrbitalMechanoidPlatform.label>แพลตฟอร์มเมคคานอยด์</OrbitalMechanoidPlatform.label>
   <!-- EN: You have detected the energy signature of a gravcore on this platform. There is a heavy mechanoid presence.\n\nBe careful, orbital locations are extremely dangerous. Ensure your gravship is fully enclosed with airtight walls and equip your colonists with vacsuits. Plan your return trip, as living in orbit for long periods is very difficult. -->
-  <OrbitalMechanoidPlatform.description>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์บนแท่นนี้ มีการปรากฏตัวของเมคคานอยด์จำนวนมาก\n\nระวัง สถานที่ในวงโคจรนั้นอันตรายมาก ตรวจสอบให้แน่ใจว่ายานกราฟชิปของคุณถูกปิดล้อมอย่างสมบูรณ์ด้วยผนังที่ปิดสนิท และเตรียมชุดสูญญากาศให้กับผู้ตั้งถิ่นฐานของคุณ วางแผนการเดินทางกลับ เนื่องจากการอยู่อาศัยในวงโคจรเป็นเวลานานนั้นยากมาก</OrbitalMechanoidPlatform.description>
+  <OrbitalMechanoidPlatform.description>คุณตรวจพบสัญญาณพลังงานของกราฟคอร์บนแท่นนี้ มีการปรากฏตัวของเมคคานอยด์จำนวนมาก\n\nระวัง สถานที่ในวงโคจรนั้นอันตรายมาก ตรวจสอบให้แน่ใจว่ายานกราฟชิปของคุณถูกปิดล้อมอย่างสมบูรณ์ด้วยผนังที่ปิดสนิท และเตรียมชุดสูญญากาศให้กับชาวนิคมของคุณ วางแผนการเดินทางกลับ เนื่องจากการอยู่อาศัยในวงโคจรเป็นเวลานานนั้นยากมาก</OrbitalMechanoidPlatform.description>
   <!-- EN: Contains: Gravcore -->
   <OrbitalMechanoidPlatform.mainPartAllThreatsLabel>บรรจุ: กราฟคอร์</OrbitalMechanoidPlatform.mainPartAllThreatsLabel>
   

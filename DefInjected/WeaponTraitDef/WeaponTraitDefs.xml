@@ -4,7 +4,7 @@
   <!-- EN: aim assistance -->
   <AimAssistance.label>ระบบช่วยเล็ง</AimAssistance.label>
   <!-- EN: This weapon contains a rudimentary aim assistant computer which helps track targets, increasing accuracy at all ranges. The device can account for environmental challenges, allowing the weapon to ignore the accuracy penalty from bad weather and smoke. -->
-  <AimAssistance.description>อาวุธนี้มีคอมพิวเตอร์ช่วยเล็งขั้นพื้นฐานซึ่งช่วยติดตามเป้าหมาย เพิ่มความแม่นยำในทุกระยะ อุปกรณ์นี้สามารถรับมือกับความท้าทายด้านสิ่งแวดล้อมได้ ทำให้ปืนสามารถเพิกเฉยต่อผลเสียด้านความแม่นยำจากสภาพอากาศเลวร้ายและควันได้</AimAssistance.description>
+  <AimAssistance.description>อาวุธชิ้นนี้มีคอมพิวเตอร์ช่วยเล็งขั้นพื้นฐานซึ่งช่วยติดตามเป้าหมาย เพิ่มความแม่นยำในทุกระยะ อุปกรณ์นี้สามารถรับมือกับความท้าทายด้านสิ่งแวดล้อมได้ ทำให้ปืนสามารถเพิกเฉยต่อผลเสียด้านความแม่นยำจากสภาพอากาศเลวร้ายและควันได้</AimAssistance.description>
   <!-- EN: seeking -->
   <AimAssistance.traitAdjectives.0>การค้นหา</AimAssistance.traitAdjectives.0>
   <!-- EN: accurate -->
@@ -19,7 +19,7 @@
   <!-- EN: birdshot pellets -->
   <BirdshotPellets.label>ลูกปราย Birdshot</BirdshotPellets.label>
   <!-- EN: This weapon fires shells containing smaller pellets than normal. It's much more accurate at close range, but less effective at long range. -->
-  <BirdshotPellets.description>อาวุธนี้ยิงกระสุนที่มีลูกปรายขนาดเล็กกว่าปกติ มีความแม่นยำสูงในระยะใกล้ แต่มีประสิทธิภาพน้อยกว่าในระยะไกล</BirdshotPellets.description>
+  <BirdshotPellets.description>อาวุธชิ้นนี้ยิงกระสุนที่มีลูกปรายขนาดเล็กกว่าปกติ มีความแม่นยำสูงในระยะใกล้ แต่มีประสิทธิภาพน้อยกว่าในระยะไกล</BirdshotPellets.description>
   <!-- EN: birdshot -->
   <BirdshotPellets.traitAdjectives.0>ลูกปราย</BirdshotPellets.traitAdjectives.0>
   <!-- EN: nearshot -->
@@ -37,14 +37,14 @@
   <!-- EN: charge capacitor -->
   <ChargeCapacitor.label>คาปาซิเตอร์ชาร์จ</ChargeCapacitor.label>
   <!-- EN: This weapon amplifies pulse-charge technology with a massive capacitor, increasing damage and armor penetration. -->
-  <ChargeCapacitor.description>อาวุธนี้ขยายเทคโนโลยีพัลส์ชาร์จด้วยคาปาซิเตอร์ขนาดใหญ่ เพิ่มความเสียหายและการเจาะเกราะ</ChargeCapacitor.description>
+  <ChargeCapacitor.description>อาวุธชิ้นนี้ขยายเทคโนโลยีพัลส์ชาร์จด้วยคาปาซิเตอร์ขนาดใหญ่ เพิ่มความเสียหายและการเจาะเกราะ</ChargeCapacitor.description>
   <!-- EN: overcharged -->
   <ChargeCapacitor.traitAdjectives.0>ชาร์จเกิน</ChargeCapacitor.traitAdjectives.0>
   
   <!-- EN: cumbersome -->
   <Cumbersome.label>เทอะทะ</Cumbersome.label>
   <!-- EN: This weapon is unwieldy to use, making it slower to aim. -->
-  <Cumbersome.description>อาวุธนี้ใช้งานไม่สะดวก ทำให้เล็งได้ช้าลง</Cumbersome.description>
+  <Cumbersome.description>อาวุธชิ้นนี้ใช้งานไม่สะดวก ทำให้เล็งได้ช้าลง</Cumbersome.description>
   <!-- EN: cumbersome -->
   <Cumbersome.traitAdjectives.0>เทอะทะ</Cumbersome.traitAdjectives.0>
   <!-- EN: bulky -->
@@ -55,7 +55,7 @@
   <!-- EN: custom grip -->
   <CustomGrip.label>ด้ามจับแบบแต่งเองพิเศษ</CustomGrip.label>
   <!-- EN: This weapon contains a customized grip that handles recoil better, improving accuracy at short range. It looks cool too. -->
-  <CustomGrip.description>อาวุธนี้มีด้ามจับที่ปรับแต่งมาโดยเฉพาะซึ่งจัดการแรงถีบกลับได้ดีขึ้น เพิ่มความแม่นยำในระยะใกล้ แถมยังดูเท่อีกด้วย</CustomGrip.description>
+  <CustomGrip.description>อาวุธชิ้นนี้มีด้ามจับที่ปรับแต่งมาโดยเฉพาะซึ่งจัดการแรงถีบกลับได้ดีขึ้น เพิ่มความแม่นยำในระยะใกล้ แถมยังดูเท่อีกด้วย</CustomGrip.description>
   <!-- EN: custom -->
   <CustomGrip.traitAdjectives.0>ปรับแต่ง</CustomGrip.traitAdjectives.0>
   <!-- EN: customized -->
@@ -68,7 +68,7 @@
   <!-- EN: EMP cannon -->
   <EMPLauncher.label>ปืนใหญ่อีเอ็มพี</EMPLauncher.label>
   <!-- EN: This weapon has an attached EMP shell launcher. The shell emits a burst of electromagnetic energy that stuns electronic targets like turrets and mechanoids. Once fired, it must be reloaded using steel. -->
-  <EMPLauncher.description>อาวุธนี้มีเครื่องยิงกระสุนอีเอ็มพีติดอยู่ กระสุนจะปล่อยพลังงานแม่เหล็กไฟฟ้าออกมาซึ่งทำให้เป้าหมายอิเล็กทรอนิกส์ เช่น ป้อมปืนและเมคคานอยด์เกิดการชะงัก เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เหล็ก</EMPLauncher.description>
+  <EMPLauncher.description>อาวุธชิ้นนี้มีเครื่องยิงกระสุนอีเอ็มพีติดอยู่ กระสุนจะปล่อยพลังงานแม่เหล็กไฟฟ้าออกมาซึ่งทำให้เป้าหมายอิเล็กทรอนิกส์ เช่น ป้อมปืนและเมคคานอยด์เกิดการชะงัก เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เหล็ก</EMPLauncher.description>
   <!-- EN: shell -->
   <EMPLauncher.abilityProps.chargeNoun>กระสุน</EMPLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
@@ -83,7 +83,7 @@
   <!-- EN: EMP pulser -->
   <EMPPulser.label>เครื่องปล่อยพัลส์อีเอ็มพี</EMPPulser.label>
   <!-- EN: This weapon can emit a burst of energy centered on the user. The burst will stun nearby electronic targets like mechanoids or turrets. Once used, the pulser takes some time to recharge. -->
-  <EMPPulser.description>อาวุธนี้สามารถปล่อยพลังงานออกมาโดยมีจุดศูนย์กลางอยู่ที่ผู้ใช้ การระเบิดจะทำให้เป้าหมายอิเล็กทรอนิกส์ในบริเวณใกล้เคียง เช่น เมคคานอยด์หรือป้อมปืนมึนงง เมื่อใช้แล้ว เครื่องปล่อยพัลส์จะใช้เวลาในการชาร์จใหม่</EMPPulser.description>
+  <EMPPulser.description>อาวุธชิ้นนี้สามารถปล่อยพลังงานออกมาโดยมีจุดศูนย์กลางอยู่ที่ผู้ใช้ การระเบิดจะทำให้เป้าหมายอิเล็กทรอนิกส์ในบริเวณใกล้เคียง เช่น เมคคานอยด์หรือป้อมปืนมึนงง เมื่อใช้แล้ว เครื่องปล่อยพัลส์จะใช้เวลาในการชาร์จใหม่</EMPPulser.description>
   <!-- EN: charge -->
   <EMPPulser.abilityProps.chargeNoun>ชาร์จ</EMPPulser.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
@@ -96,7 +96,7 @@
   <!-- EN: EMP rounds -->
   <EMPRounds.label>กระสุนอีเอ็มพี</EMPRounds.label>
   <!-- EN: This weapon fires rounds with embedded EMP capacitors, which will temporarily disable electronics and mechanoids. -->
-  <EMPRounds.description>อาวุธนี้ยิงกระสุนที่มีคาปาซิเตออีเอ็มพีฝังอยู่ ซึ่งจะปิดการใช้งานอุปกรณ์อิเล็กทรอนิกส์และเมคคานอยด์ชั่วคราว</EMPRounds.description>
+  <EMPRounds.description>อาวุธชิ้นนี้ยิงกระสุนที่มีคาปาซิเตออีเอ็มพีฝังอยู่ ซึ่งจะปิดการใช้งานอุปกรณ์อิเล็กทรอนิกส์และเมคคานอยด์ชั่วคราว</EMPRounds.description>
   <!-- EN: EMP -->
   <EMPRounds.traitAdjectives.0>อีเอ็มพี</EMPRounds.traitAdjectives.0>
   <!-- EN: electric -->
@@ -111,7 +111,7 @@
   <!-- EN: extended barrel -->
   <ExtendedBarrel.label>ลำกล้องยาวขึ้น</ExtendedBarrel.label>
   <!-- EN: This weapon has a longer range than normal. -->
-  <ExtendedBarrel.description>อาวุธนี้มีระยะยิงไกลกว่าปกติ</ExtendedBarrel.description>
+  <ExtendedBarrel.description>อาวุธชิ้นนี้มีระยะยิงไกลกว่าปกติ</ExtendedBarrel.description>
   <!-- EN: long -->
   <ExtendedBarrel.traitAdjectives.0>ยาว</ExtendedBarrel.traitAdjectives.0>
   <!-- EN: extended -->
@@ -120,7 +120,7 @@
   <!-- EN: extended magazine -->
   <ExtendedMagazine.label>ขยายแม็กกาซีน</ExtendedMagazine.label>
   <!-- EN: This weapon fires 50% more shots in a single burst than normal. -->
-  <ExtendedMagazine.description>อาวุธนี้ยิงกระสุนได้มากกว่าปกติ 50% ในการยิงเป็นชุดเดียว</ExtendedMagazine.description>
+  <ExtendedMagazine.description>อาวุธชิ้นนี้ยิงกระสุนได้มากกว่าปกติ 50% ในการยิงเป็นชุดเดียว</ExtendedMagazine.description>
   <!-- EN: high-capacity -->
   <ExtendedMagazine.traitAdjectives.0>ขยาย</ExtendedMagazine.traitAdjectives.0>
   <!-- EN: extendo-clip -->
@@ -129,14 +129,14 @@
   <!-- EN: frequency amplifier -->
   <FrequencyAmplifier.label>เครื่องขยายความถี่</FrequencyAmplifier.label>
   <!-- EN: This weapon passes the beam through a crystal amplifier, dramatically increasing the weapon's damage and range. The weapon needs to cool down between uses. -->
-  <FrequencyAmplifier.description>อาวุธนี้ส่งลำแสงผ่านเครื่องขยายคริสตัล เพิ่มความเสียหายและระยะของอาวุธอย่างมาก อาวุธต้องเย็นลงระหว่างการใช้งาน</FrequencyAmplifier.description>
+  <FrequencyAmplifier.description>อาวุธชิ้นนี้ส่งลำแสงผ่านเครื่องขยายคริสตัล เพิ่มความเสียหายและระยะของอาวุธอย่างมาก อาวุธต้องเย็นลงระหว่างการใช้งาน</FrequencyAmplifier.description>
   <!-- EN: amplified -->
   <FrequencyAmplifier.traitAdjectives.0>ขยาย</FrequencyAmplifier.traitAdjectives.0>
   
   <!-- EN: gold inlay -->
   <GoldInlay.label>ฝังทอง</GoldInlay.label>
   <!-- EN: This weapon is inlaid with gold. Traders will pay more for it. -->
-  <GoldInlay.description>อาวุธนี้ฝังด้วยทอง พ่อค้าจะจ่ายมากขึ้นสำหรับมัน</GoldInlay.description>
+  <GoldInlay.description>อาวุธชิ้นนี้ฝังด้วยทอง พ่อค้าจะจ่ายมากขึ้นสำหรับมัน</GoldInlay.description>
   <!-- EN: gold -->
   <GoldInlay.traitAdjectives.0>ทอง</GoldInlay.traitAdjectives.0>
   <!-- EN: golden -->
@@ -145,7 +145,7 @@
   <!-- EN: grenade launcher -->
   <GrenadeLauncher.label>เครื่องยิงลูกระเบิด</GrenadeLauncher.label>
   <!-- EN: This weapon has an attached frag grenade launcher. Once fired, it must be reloaded using steel. -->
-  <GrenadeLauncher.description>อาวุธนี้มีเครื่องยิงลูกระเบิดสังหารติดอยู่ เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เหล็ก</GrenadeLauncher.description>
+  <GrenadeLauncher.description>อาวุธชิ้นนี้มีเครื่องยิงลูกระเบิดสังหารติดอยู่ เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เหล็ก</GrenadeLauncher.description>
   <!-- EN: grenade -->
   <GrenadeLauncher.abilityProps.chargeNoun>กระสุน</GrenadeLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
@@ -156,7 +156,7 @@
   <!-- EN: high-power rounds -->
   <HighPowerRounds.label>กระสุนแรงสูง</HighPowerRounds.label>
   <!-- EN: Special ammunition makes this weapon more powerful than normal. The heavy recoil makes it less accurate. -->
-  <HighPowerRounds.description>กระสุนพิเศษทำให้อาวุธนี้ทรงพลังกว่าปกติ แรงถีบกลับที่หนักทำให้มีความแม่นยำน้อยลง</HighPowerRounds.description>
+  <HighPowerRounds.description>กระสุนพิเศษทำให้อาวุธชิ้นนี้ทรงพลังกว่าปกติ แรงถีบกลับที่หนักทำให้มีความแม่นยำน้อยลง</HighPowerRounds.description>
   <!-- EN: atlas -->
   <HighPowerRounds.traitAdjectives.0>แอตลาส</HighPowerRounds.traitAdjectives.0>
   <!-- EN: hi-power -->
@@ -171,7 +171,7 @@
   <!-- EN: hollow-point rounds -->
   <HollowPointRounds.label>กระสุนหัวกลวง</HollowPointRounds.label>
   <!-- EN: This weapon fires bullets that expand on impact, dealing more damage than normal. -->
-  <HollowPointRounds.description>อาวุธนี้ยิงกระสุนที่ขยายตัวเมื่อกระทบ สร้างความเสียหายมากกว่าปกติ</HollowPointRounds.description>
+  <HollowPointRounds.description>อาวุธชิ้นนี้ยิงกระสุนที่ขยายตัวเมื่อกระทบ สร้างความเสียหายมากกว่าปกติ</HollowPointRounds.description>
   <!-- EN: shredding -->
   <HollowPointRounds.traitAdjectives.0>ฉีกขาด</HollowPointRounds.traitAdjectives.0>
   <!-- EN: hollowpoint -->
@@ -186,7 +186,7 @@
   <!-- EN: tactical sight -->
   <ImprovedSights.label>ศูนย์เล็งยุทธวิธี</ImprovedSights.label>
   <!-- EN: This weapon has a custom sight, increasing its accuracy at long range. -->
-  <ImprovedSights.description>อาวุธนี้มีศูนย์เล็งที่แต่งเองพิเศษ เพิ่มความแม่นยำในระยะไกล</ImprovedSights.description>
+  <ImprovedSights.description>อาวุธชิ้นนี้มีศูนย์เล็งที่ปรับแต่งเอง เพิ่มความแม่นยำในระยะไกล</ImprovedSights.description>
   <!-- EN: accurate -->
   <ImprovedSights.traitAdjectives.0>แม่นยำ</ImprovedSights.traitAdjectives.0>
   <!-- EN: precise -->
@@ -197,7 +197,7 @@
   <!-- EN: incendiary launcher -->
   <IncendiaryLauncher.label>เครื่องยิงเพลิง</IncendiaryLauncher.label>
   <!-- EN: This weapon has an attached incendiary shell launcher. The shell creates a small flame explosion that ignites everything nearby. Once fired, it must be reloaded using chemfuel. -->
-  <IncendiaryLauncher.description>อาวุธนี้มีเครื่องยิงกระสุนเพลิงติดอยู่ กระสุนจะสร้างการระเบิดของเปลวไฟขนาดเล็กที่จุดไฟทุกอย่างในบริเวณใกล้เคียง เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เชื้อเพลิงเคมี</IncendiaryLauncher.description>
+  <IncendiaryLauncher.description>อาวุธชิ้นนี้มีเครื่องยิงกระสุนเพลิงติดอยู่ กระสุนจะสร้างการระเบิดของเปลวไฟขนาดเล็กที่จุดไฟทุกอย่างในบริเวณใกล้เคียง เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เชื้อเพลิงเคมี</IncendiaryLauncher.description>
   <!-- EN: shell -->
   <IncendiaryLauncher.abilityProps.chargeNoun>กระสุน</IncendiaryLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
@@ -214,7 +214,7 @@
   <!-- EN: incendiary pellets -->
   <IncendiaryPellets.label>ลูกปรายเพลิง</IncendiaryPellets.label>
   <!-- EN: This weapon fires phosphorus pellets that have a chance to ignite targets. -->
-  <IncendiaryPellets.description>อาวุธนี้ยิงลูกปรายฟอสฟอรัสที่มีโอกาสทำให้เป้าหมายติดไฟ</IncendiaryPellets.description>
+  <IncendiaryPellets.description>อาวุธชิ้นนี้ยิงลูกปรายฟอสฟอรัสที่มีโอกาสทำให้เป้าหมายติดไฟ</IncendiaryPellets.description>
   <!-- EN: red -->
   <IncendiaryPellets.traitAdjectives.0>สีแดง</IncendiaryPellets.traitAdjectives.0>
   <!-- EN: fiery -->
@@ -233,7 +233,7 @@
   <!-- EN: incendiary rounds -->
   <IncendiaryRounds.label>กระสุนเพลิง</IncendiaryRounds.label>
   <!-- EN: This weapon fires ammunition that contains a flammable chemical. It has a chance to ignite targets. -->
-  <IncendiaryRounds.description>อาวุธนี้ยิงกระสุนที่มีสารเคมีที่ติดไฟได้ มีโอกาสทำให้เป้าหมายติดไฟ</IncendiaryRounds.description>
+  <IncendiaryRounds.description>อาวุธชิ้นนี้ยิงกระสุนที่มีสารเคมีที่ติดไฟได้ มีโอกาสทำให้เป้าหมายติดไฟ</IncendiaryRounds.description>
   <!-- EN: red -->
   <IncendiaryRounds.traitAdjectives.0>สีแดง</IncendiaryRounds.traitAdjectives.0>
   <!-- EN: fiery -->
@@ -252,14 +252,14 @@
   <!-- EN: jade inlay -->
   <JadeInlay.label>ฝังหยก</JadeInlay.label>
   <!-- EN: This weapon is adorned with jade. Traders will pay more for it. -->
-  <JadeInlay.description>อาวุธนี้ประดับด้วยหยก พ่อค้าจะจ่ายมากขึ้นสำหรับมัน</JadeInlay.description>
+  <JadeInlay.description>อาวุธชิ้นนี้ประดับด้วยหยก พ่อค้าจะจ่ายมากขึ้นสำหรับมัน</JadeInlay.description>
   <!-- EN: jade -->
   <JadeInlay.traitAdjectives.0>หยก</JadeInlay.traitAdjectives.0>
   
   <!-- EN: lightweight -->
   <Lightweight.label>น้ำหนักเบา</Lightweight.label>
   <!-- EN: This weapon is much lighter than normal, lowering its aiming time. -->
-  <Lightweight.description>อาวุธนี้เบากว่าปกติมาก ทำให้ใช้เวลาเล็งน้อยลง</Lightweight.description>
+  <Lightweight.description>อาวุธชิ้นนี้เบากว่าปกติมาก ทำให้ใช้เวลาเล็งน้อยลง</Lightweight.description>
   <!-- EN: light -->
   <Lightweight.traitAdjectives.0>เบา</Lightweight.traitAdjectives.0>
   <!-- EN: quickdraw -->
@@ -277,7 +277,7 @@
   <!-- EN: ornamental -->
   <Ornamental.label>ประดับ</Ornamental.label>
   <!-- EN: This weapon was crafted for aesthetics over functionality. It deals less damage but looks great. -->
-  <Ornamental.description>อาวุธนี้ถูกสร้างขึ้นเพื่อความสวยงามมากกว่าการใช้งาน สร้างความเสียหายน้อยลงแต่ดูดีมาก</Ornamental.description>
+  <Ornamental.description>อาวุธชิ้นนี้ถูกสร้างขึ้นเพื่อความสวยงามมากกว่าการใช้งาน สร้างความเสียหายน้อยลงแต่ดูดีมาก</Ornamental.description>
   <!-- EN: beautiful -->
   <Ornamental.traitAdjectives.0>สวยงาม</Ornamental.traitAdjectives.0>
   <!-- EN: elegant -->
@@ -288,7 +288,7 @@
   <!-- EN: heavy rounds -->
   <OversizedRounds.label>กระสุนหนัก</OversizedRounds.label>
   <!-- EN: This weapon deals more damage and has a much higher stopping power than normal. -->
-  <OversizedRounds.description>อาวุธนี้สร้างความเสียหายได้มากกว่าและมีอำนาจหยุดยั้งสูงกว่าปกติมาก</OversizedRounds.description>
+  <OversizedRounds.description>อาวุธชิ้นนี้สร้างความเสียหายได้มากกว่าและมีอำนาจหยุดยั้งสูงกว่าปกติมาก</OversizedRounds.description>
   <!-- EN: hammering -->
   <OversizedRounds.traitAdjectives.0>ทุบ</OversizedRounds.traitAdjectives.0>
   <!-- EN: forceful -->
@@ -327,7 +327,7 @@
   <!-- EN: piercing rounds -->
   <PiercingRounds.label>กระสุนเจาะเกราะ</PiercingRounds.label>
   <!-- EN: This weapon fires rounds designed to penetrate thick armor. -->
-  <PiercingRounds.description>อาวุธนี้ยิงกระสุนที่ออกแบบมาเพื่อเจาะเกราะหนา</PiercingRounds.description>
+  <PiercingRounds.description>อาวุธชิ้นนี้ยิงกระสุนที่ออกแบบมาเพื่อเจาะเกราะหนา</PiercingRounds.description>
   <!-- EN: piercing -->
   <PiercingRounds.traitAdjectives.0>เจาะ</PiercingRounds.traitAdjectives.0>
   <!-- EN: sharp -->
@@ -340,7 +340,7 @@
   <!-- EN: tracking scope -->
   <PrecisionScope.label>กล้องติดตามเป้า</PrecisionScope.label>
   <!-- EN: This weapon's scope uses target recognition software to automate target tracking, making it faster to fire. -->
-  <PrecisionScope.description>กล้องเล็งของอาวุธนี้ใช้ซอฟต์แวร์จดจำเป้าหมายเพื่อติดตามเป้าหมายโดยอัตโนมัติ ทำให้ยิงได้เร็วขึ้น</PrecisionScope.description>
+  <PrecisionScope.description>กล้องเล็งของอาวุธชิ้นนี้ใช้ซอฟต์แวร์จดจำเป้าหมายเพื่อติดตามเป้าหมายโดยอัตโนมัติ ทำให้ยิงได้เร็วขึ้น</PrecisionScope.description>
   <!-- EN: trackscope -->
   <PrecisionScope.traitAdjectives.0>กล้องติดตาม</PrecisionScope.traitAdjectives.0>
   <!-- EN: fastfire -->
@@ -349,7 +349,7 @@
   <!-- EN: pulse charger -->
   <PulseCharger.label>เครื่องชาร์จพัลส์</PulseCharger.label>
   <!-- EN: This weapon is retrofitted with pulse-charge technology, imbuing bullets with unstable energy. The weapon was clearly not designed for this, dramatically lowering its accuracy. -->
-  <PulseCharger.description>อาวุธนี้ได้รับการติดตั้งเทคโนโลยีพัลส์ชาร์จเพิ่มเติม ทำให้กระสุนเต็มไปด้วยพลังงานที่ไม่เสถียร เห็นได้ชัดว่าอาวุธไม่ได้ถูกออกแบบมาเพื่อสิ่งนี้ ทำให้ความแม่นยำลดลงอย่างมาก</PulseCharger.description>
+  <PulseCharger.description>อาวุธชิ้นนี้ได้รับการติดตั้งเทคโนโลยีพัลส์ชาร์จเพิ่มเติม ทำให้กระสุนเต็มไปด้วยพลังงานที่ไม่เสถียร เห็นได้ชัดว่าอาวุธไม่ได้ถูกออกแบบมาเพื่อสิ่งนี้ ทำให้ความแม่นยำลดลงอย่างมาก</PulseCharger.description>
   <!-- EN: charged-shot -->
   <PulseCharger.traitAdjectives.0>ยิงชาร์จ</PulseCharger.traitAdjectives.0>
   <!-- EN: charged -->
@@ -360,7 +360,7 @@
   <!-- EN: quick reload -->
   <QuickReload.label>บรรจุกระสุนเร็ว</QuickReload.label>
   <!-- EN: This weapon has a quick release-and-replace mechanism that makes it faster to reload. -->
-  <QuickReload.description>อาวุธนี้มีกลไกปลดและเปลี่ยนที่รวดเร็วซึ่งทำให้บรรจุกระสุนได้เร็วขึ้น</QuickReload.description>
+  <QuickReload.description>อาวุธชิ้นนี้มีกลไกปลดและเปลี่ยนที่รวดเร็วซึ่งทำให้บรรจุกระสุนได้เร็วขึ้น</QuickReload.description>
   <!-- EN: quick -->
   <QuickReload.traitAdjectives.0>เร็ว</QuickReload.traitAdjectives.0>
   <!-- EN: nimble -->
@@ -375,7 +375,7 @@
   <!-- EN: rangefinder -->
   <RangefinderScope.label>เครื่องวัดระยะ</RangefinderScope.label>
   <!-- EN: This weapon's scope contains an advanced rangefinder, allowing it to fire further. -->
-  <RangefinderScope.description>กล้องเล็งของอาวุธนี้มีเครื่องวัดระยะขั้นสูง ทำให้สามารถยิงได้ไกลขึ้น</RangefinderScope.description>
+  <RangefinderScope.description>กล้องเล็งของอาวุธชิ้นนี้มีเครื่องวัดระยะขั้นสูง ทำให้สามารถยิงได้ไกลขึ้น</RangefinderScope.description>
   <!-- EN: eagle -->
   <RangefinderScope.traitAdjectives.0>อินทรี</RangefinderScope.traitAdjectives.0>
   <!-- EN: farsight -->
@@ -384,7 +384,7 @@
   <!-- EN: rapid fire -->
   <RapidFire.label>ยิงเร็ว</RapidFire.label>
   <!-- EN: This weapon contains an improved self-loading mechanism. When firing bursts of multiple rounds, the time between each round is dramatically reduced. -->
-  <RapidFire.description>อาวุธนี้มีกลไกบรรจุกระสุนเองที่ได้รับการปรับปรุง เมื่อยิงเป็นชุดหลายนัด เวลาในแต่ละนัดจะลดลงอย่างมาก</RapidFire.description>
+  <RapidFire.description>อาวุธชิ้นนี้มีกลไกบรรจุกระสุนเองที่ได้รับการปรับปรุง เมื่อยิงเป็นชุดหลายนัด เวลาในแต่ละนัดจะลดลงอย่างมาก</RapidFire.description>
   <!-- EN: rapid -->
   <RapidFire.traitAdjectives.0>รวดเร็ว</RapidFire.traitAdjectives.0>
   <!-- EN: burst -->
@@ -402,7 +402,7 @@
   <!-- EN: shoddy sights -->
   <ShoddySights.label>ศูนย์เล็งด้อยคุณภาพ</ShoddySights.label>
   <!-- EN: Defects in this weapon's sights decrease its accuracy at long ranges. -->
-  <ShoddySights.description>ข้อบกพร่องในศูนย์เล็งของอาวุธนี้ทำให้ความแม่นยำในระยะไกลลดลง</ShoddySights.description>
+  <ShoddySights.description>ข้อบกพร่องในศูนย์เล็งของอาวุธชิ้นนี้ทำให้ความแม่นยำในระยะไกลลดลง</ShoddySights.description>
   <!-- EN: inaccurate -->
   <ShoddySights.traitAdjectives.0>ไม่แม่นยำ</ShoddySights.traitAdjectives.0>
   <!-- EN: imprecise -->
@@ -411,7 +411,7 @@
   <!-- EN: shortened barrel -->
   <ShortenedBarrel.label>ลำกล้องสั้นลง</ShortenedBarrel.label>
   <!-- EN: This weapon's barrel has been sawn off, reducing its range but making it quicker to aim and fire. -->
-  <ShortenedBarrel.description>ลำกล้องของอาวุธนี้ถูกเลื่อยออก ลดระยะยิงแต่ทำให้เล็งและยิงได้เร็วขึ้น</ShortenedBarrel.description>
+  <ShortenedBarrel.description>ลำกล้องของอาวุธชิ้นนี้ถูกเลื่อยออก ลดระยะยิงแต่ทำให้เล็งและยิงได้เร็วขึ้น</ShortenedBarrel.description>
   <!-- EN: shortened -->
   <ShortenedBarrel.traitAdjectives.0>สั้นลง</ShortenedBarrel.traitAdjectives.0>
   <!-- EN: sawn-off -->
@@ -420,7 +420,7 @@
   <!-- EN: smoke launcher -->
   <SmokeLauncher.label>เครื่องยิงควัน</SmokeLauncher.label>
   <!-- EN: This weapon has an attached smoke shell launcher. The shell releases smoke that obscures incoming shots and prevents turrets from locking on. Once fired, it must be reloaded using steel. -->
-  <SmokeLauncher.description>อาวุธนี้มีเครื่องยิงกระสุนควันติดอยู่ กระสุนจะปล่อยควันออกมาซึ่งบดบังการยิงที่เข้ามาและป้องกันไม่ให้ป้อมปืนล็อคเป้า เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เหล็ก</SmokeLauncher.description>
+  <SmokeLauncher.description>อาวุธชิ้นนี้มีเครื่องยิงกระสุนควันติดอยู่ กระสุนจะปล่อยควันออกมาซึ่งบดบังการยิงที่เข้ามาและป้องกันไม่ให้ป้อมปืนล็อคเป้า เมื่อยิงแล้วจะต้องบรรจุใหม่โดยใช้เหล็ก</SmokeLauncher.description>
   <!-- EN: shell -->
   <SmokeLauncher.abilityProps.chargeNoun>กระสุน</SmokeLauncher.abilityProps.chargeNoun>
   <!-- EN: on cooldown -->
@@ -435,7 +435,7 @@
   <!-- EN: pistol brace -->
   <StabilizerBrace.label>พานท้ายปืนพก</StabilizerBrace.label>
   <!-- EN: This weapon has a stabilizing brace that connects to the user's arm, increasing its accuracy. -->
-  <StabilizerBrace.description>อาวุธนี้มีพานท้ายที่เชื่อมต่อกับแขนของผู้ใช้ เพิ่มความแม่นยำ</StabilizerBrace.description>
+  <StabilizerBrace.description>อาวุธชิ้นนี้มีพานท้ายที่เชื่อมต่อกับแขนของผู้ใช้ เพิ่มความแม่นยำ</StabilizerBrace.description>
   <!-- EN: stable -->
   <StabilizerBrace.traitAdjectives.0>มั่นคง</StabilizerBrace.traitAdjectives.0>
   <!-- EN: accurate -->
@@ -448,7 +448,7 @@
   <!-- EN: toxic pellets -->
   <ToxPellets.label>ลูกปรายพิษ</ToxPellets.label>
   <!-- EN: This weapon fires chemical pellets which cause toxic buildup. -->
-  <ToxPellets.description>อาวุธนี้ยิงลูกปรายเคมีซึ่งทำให้เกิดการสะสมของสารพิษ</ToxPellets.description>
+  <ToxPellets.description>อาวุธชิ้นนี้ยิงลูกปรายเคมีซึ่งทำให้เกิดการสะสมของสารพิษ</ToxPellets.description>
   <!-- EN: green -->
   <ToxPellets.traitAdjectives.0>สีเขียว</ToxPellets.traitAdjectives.0>
   <!-- EN: toxic -->
@@ -461,7 +461,7 @@
   <!-- EN: tox rounds -->
   <ToxRounds.label>กระสุนพิษ</ToxRounds.label>
   <!-- EN: This weapon fires rounds coated with toxic chemicals, which sicken wounded targets. -->
-  <ToxRounds.description>อาวุธนี้ยิงกระสุนที่เคลือบด้วยสารเคมีพิษ ซึ่งทำให้เป้าหมายที่บาดเจ็บป่วย</ToxRounds.description>
+  <ToxRounds.description>อาวุธชิ้นนี้ยิงกระสุนที่เคลือบด้วยสารเคมีพิษ ซึ่งทำให้เป้าหมายที่บาดเจ็บป่วย</ToxRounds.description>
   <!-- EN: green -->
   <ToxRounds.traitAdjectives.0>สีเขียว</ToxRounds.traitAdjectives.0>
   <!-- EN: poison -->
@@ -476,7 +476,7 @@
   <!-- EN: ugly -->
   <Ugly.label>น่าเกลียด</Ugly.label>
   <!-- EN: This weapon was crafted with no respect for aesthetics. It looks like junk but gets the job done. Traders will pay less for it. -->
-  <Ugly.description>อาวุธนี้ถูกสร้างขึ้นโดยไม่คำนึงถึงความสวยงาม มันดูเหมือนขยะแต่ก็ทำงานได้ พ่อค้าจะจ่ายเงินให้มันน้อยลง</Ugly.description>
+  <Ugly.description>อาวุธชิ้นนี้ถูกสร้างขึ้นโดยไม่คำนึงถึงความสวยงาม มันดูเหมือนขยะแต่ก็ทำงานได้ พ่อค้าจะจ่ายเงินให้มันน้อยลง</Ugly.description>
   <!-- EN: monstrous -->
   <Ugly.traitAdjectives.0>น่ากลัว</Ugly.traitAdjectives.0>
   <!-- EN: crude -->

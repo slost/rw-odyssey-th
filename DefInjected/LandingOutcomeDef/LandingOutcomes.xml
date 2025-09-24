@@ -4,7 +4,7 @@
   <!-- EN: grav nausea -->
   <GravNausea.letterLabel>อาการเมาแรงโน้มถ่วง</GravNausea.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} was forced to do an emergency maneuver, resulting in an intense and prolonged deceleration. The experience has left your colonists feeling extremely nauseous. The effects will quickly fade. -->
-  <GravNausea.letterText>ขณะนำยาน {GRAVSHIP} ลงจอด {PILOT_nameDef} ถูกบังคับให้ต้องควบคุมยานฉุกเฉิน ส่งผลให้เกิดการชะลอความเร็วอย่างรุนแรงและยาวนาน ประสบการณ์ครั้งนี้ทำให้ชาวอาณานิคมของคุณรู้สึกคลื่นไส้อย่างมาก ผลกระทบจะจางหายไปอย่างรวดเร็ว</GravNausea.letterText>
+  <GravNausea.letterText>ขณะนำยาน {GRAVSHIP} ลงจอด {PILOT_nameDef} ถูกบังคับให้ต้องควบคุมยานฉุกเฉิน ส่งผลให้เกิดการชะลอความเร็วอย่างรุนแรงและยาวนาน ประสบการณ์ครั้งนี้ทำให้ชาวนิคมของคุณรู้สึกคลื่นไส้อย่างมาก ผลกระทบจะจางหายไปอย่างรวดเร็ว</GravNausea.letterText>
   
   <!-- EN: minor gravship crash -->
   <MinorGravshipCrash.letterLabel>กราฟชิปตกเล็กน้อย</MinorGravshipCrash.letterLabel>

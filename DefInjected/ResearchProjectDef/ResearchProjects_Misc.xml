@@ -4,7 +4,7 @@
   <!-- EN: advanced gravtech -->
   <AdvancedGravtech.label>เทคโนโลยีแรงโน้มถ่วงขั้นสูง</AdvancedGravtech.label>
   <!-- EN: Build advanced gravship parts. -->
-  <AdvancedGravtech.description>สร้างชิ้นส่วนยานแรงโน้มถ่วงขั้นสูง</AdvancedGravtech.description>
+  <AdvancedGravtech.description>สร้างชิ้นส่วนยานกราฟชิปขั้นสูง</AdvancedGravtech.description>
   <!-- EN:
     <li>subject->advanced gravtech</li>
     <li>subject_story->researched advanced gravship components</li>
@@ -19,7 +19,7 @@
   <!-- EN: basic gravtech -->
   <BasicGravtech.label>เทคโนโลยีแรงโน้มถ่วงขั้นพื้นฐาน</BasicGravtech.label>
   <!-- EN: Build a gravship and use it to travel the planet. Without a grav anchor, launching a gravship will abandon your current map. -->
-  <BasicGravtech.description>สร้างยานแรงโน้มถ่วงและใช้มันในการเดินทางรอบโลก หากไม่มีสมอแรงโน้มถ่วง การปล่อยยานจะเป็นการละทิ้งแผนที่ปัจจุบัน</BasicGravtech.description>
+  <BasicGravtech.description>สร้างยานกราฟชิปและใช้มันในการเดินทางรอบโลก หากไม่มีสมอแรงโน้มถ่วง การปล่อยยานจะเป็นการละทิ้งแผนที่ปัจจุบัน</BasicGravtech.description>
   <!-- EN:
     <li>subject->gravship</li>
     <li>subject_story->flew a gravship for a tourism company</li>

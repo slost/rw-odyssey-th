@@ -55,7 +55,7 @@
   <!-- EN: No fuel in caravan. -->
   <NoFuelInCaravan>ไม่มีเชื้อเพลิงในคาราวาน</NoFuelInCaravan>
   <!-- EN: No fuel in shuttle. -->
-  <NoFuelInShuttle>ไม่มีเชื้อเพลิงในยานขนส่ง</NoFuelInShuttle>
+  <NoFuelInShuttle>ไม่มีเชื้อเพลิงในยานกระสวย</NoFuelInShuttle>
   <!-- EN: Shuttle is already fully fueled -->
   <ShuttleFullyFueled>ยานกระสวยบรรจุเชื้อเพลิงเต็มแล้ว</ShuttleFullyFueled>
 

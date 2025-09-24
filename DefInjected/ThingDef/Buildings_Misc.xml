@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: drop pod -->
-  <ActiveDropPodAncient.label>ยานกระสวย</ActiveDropPodAncient.label>
+  <ActiveDropPodAncient.label>กระสวยทิ้งดิ่ง</ActiveDropPodAncient.label>
   
   <!-- EN: ancient blast door -->
   <AncientBlastDoor.label>ประตูกันระเบิดโบราณ</AncientBlastDoor.label>
@@ -180,7 +180,7 @@
   <GaussCannon.description>ปืนใหญ่ต่อต้านยานขนาดมหึมาที่ใช้อิเล็กโทรแมกเนตในการยิงลูกดอกโลหะขนาดใหญ่ด้วยความเร็วสูง ปืนใหญ่มีไว้เพื่อทำลายเรือหรือยานที่เข้ามา ดังนั้นจึงไม่สามารถเล็งไปที่เป้าหมายบนพื้นดินได้\n\nเรือที่ใช้เครื่องรบกวนสัญญาณอัลตร้าเทคสามารถหลบหลีกอาวุธเหล่านี้ได้</GaussCannon.description>
   
   <!-- EN: mechanoid drop pod -->
-  <MechanoidDropPod.label>กระสวยส่งของเมคคานอยด์</MechanoidDropPod.label>
+  <MechanoidDropPod.label>กระสวยทิ้งดิ่งของเมคคานอยด์</MechanoidDropPod.label>
   <!-- EN: A launchable cargo pod intended to carry mechanoids. It is also usable for people, animals, and items. -->
   <MechanoidDropPod.description>พ็อดสินค้าที่ยิงได้ซึ่งมีไว้สำหรับบรรทุกเมคคานอยด์ นอกจากนี้ยังใช้สำหรับคน สัตว์ และสิ่งของได้ด้วย</MechanoidDropPod.description>
   

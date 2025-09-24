@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: call drop pods -->
-  <CallDropPods.label>เรียกยานกระสวย</CallDropPods.label>
+  <CallDropPods.label>เรียกกระสวยทิ้งดิ่ง</CallDropPods.label>
   <!-- EN: Summon drop pods that you can use to travel to another location. -->
-  <CallDropPods.description>เรียกยานกระสวยที่คุณสามารถใช้เพื่อเดินทางไปยังตำแหน่งอื่นได้</CallDropPods.description>
+  <CallDropPods.description>เรียกกระสวยทิ้งดิ่งที่คุณสามารถใช้เพื่อเดินทางไปยังตำแหน่งอื่นได้</CallDropPods.description>
   
   <!-- EN: call mechanoids -->
   <CallMechanoids.label>เรียกเมคคานอยด์</CallMechanoids.label>
   <!-- EN: Summon hostile mechanoids to a location using drop pods. They will attack all nearby humans - friend or foe. -->
-  <CallMechanoids.description>เรียกเมคคานอยด์ที่ไม่เป็นมิตรมายังตำแหน่งโดยใช้ยานกระสวย พวกมันจะโจมตีมนุษย์ทุกคนในบริเวณใกล้เคียง ไม่ว่าจะเป็นมิตรหรือศัตรู</CallMechanoids.description>
+  <CallMechanoids.description>เรียกเมคคานอยด์ที่ไม่เป็นมิตรมายังตำแหน่งโดยใช้กระสวยทิ้งดิ่ง พวกมันจะโจมตีมนุษย์ทุกคนในบริเวณใกล้เคียง ไม่ว่าจะเป็นมิตรหรือศัตรู</CallMechanoids.description>
   
   <!-- EN: deactivate mechanoid -->
   <DeactivateMechanoid.label>ปิดใช้งานเมคคานอยด์</DeactivateMechanoid.label>

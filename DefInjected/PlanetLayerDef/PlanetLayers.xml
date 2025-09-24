@@ -4,7 +4,7 @@
   <!-- EN: orbit -->
   <Orbit.label>วงโคจร</Orbit.label>
   <!-- EN: 200km -->
-  <Orbit.elevationString>200กม</Orbit.elevationString>
+  <Orbit.elevationString>200 กม.</Orbit.elevationString>
   <!-- EN: in -->
   <Orbit.gerundLabel>ใน</Orbit.gerundLabel>
   <!-- EN: View locations that are orbiting the planet. -->

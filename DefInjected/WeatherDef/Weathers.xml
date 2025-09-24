@@ -46,7 +46,7 @@
   <!-- EN: Tox rain -->
   <ToxRain.letterLabel>ฝนพิษ</ToxRain.letterLabel>
   <!-- EN: Toxic rain has begun to fall from the sky. It will slowly sicken anyone it touches. Keep your colonists under a roof. -->
-  <ToxRain.letterText>ฝนพิษได้เริ่มตกลงมาจากท้องฟ้า มันจะทำให้ทุกคนที่สัมผัสป่วยอย่างช้าๆ ให้ชาวอาณานิคมของคุณอยู่ใต้หลังคา</ToxRain.letterText>
+  <ToxRain.letterText>ฝนพิษได้เริ่มตกลงมาจากท้องฟ้า มันจะทำให้ทุกคนที่สัมผัสป่วยอย่างช้าๆ ให้ชาวนิคมของคุณอยู่ใต้หลังคา</ToxRain.letterText>
   
   <!-- EN: windy -->
   <Windy.label>ลมแรง</Windy.label>
