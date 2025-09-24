@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: drop pod -->
-  <ActiveDropPodAncient.label>TODO</ActiveDropPodAncient.label>
+  <ActiveDropPodAncient.label>ยานกระสวย</ActiveDropPodAncient.label>
   
   <!-- EN: ancient blast door -->
   <AncientBlastDoor.label>ประตูกันระเบิดโบราณ</AncientBlastDoor.label>
@@ -62,17 +62,17 @@
   <!-- EN: Hack to open. -->
   <AncientHatch.comps.CompHackable.notHackedInspectString>แฮ็คเพื่อเปิด</AncientHatch.comps.CompHackable.notHackedInspectString>
   <!-- EN: Sealed -->
-  <AncientHatch.comps.CompSealable.cannotEnterLabel>TODO</AncientHatch.comps.CompSealable.cannotEnterLabel>
+  <AncientHatch.comps.CompSealable.cannotEnterLabel>ปิดผนึกแล้ว</AncientHatch.comps.CompSealable.cannotEnterLabel>
   <!-- EN: Cannot seal -->
-  <AncientHatch.comps.CompSealable.cannotSealLabel>TODO</AncientHatch.comps.CompSealable.cannotSealLabel>
+  <AncientHatch.comps.CompSealable.cannotSealLabel>ไม่สามารถปิดผนึกได้</AncientHatch.comps.CompSealable.cannotSealLabel>
   <!-- EN: Sealing the ancient stockpile entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
-  <AncientHatch.comps.CompSealable.confirmSealText>TODO</AncientHatch.comps.CompSealable.confirmSealText>
+  <AncientHatch.comps.CompSealable.confirmSealText>การปิดผนึกทางเข้าคลังเก็บของโบราณจะเป็นการปิดผึกถาวร สิ่งของหรือบุคคลใดๆ ที่เหลืออยู่ด้านล่างจะสูญหายไปตลอดกาล{0}\n\nคุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?</AncientHatch.comps.CompSealable.confirmSealText>
   <!-- EN: Choose a colonist to permanently seal the entrance. Anything or anyone left below will be lost forever. -->
-  <AncientHatch.comps.CompSealable.sealCommandDesc>TODO</AncientHatch.comps.CompSealable.sealCommandDesc>
+  <AncientHatch.comps.CompSealable.sealCommandDesc>เลือกชาวนิคมเพื่อปิดผนึกทางเข้าอย่างถาวร สิ่งของหรือบุคคลใดๆ ที่เหลืออยู่ด้านล่างจะสูญหายไปตลอดกาล</AncientHatch.comps.CompSealable.sealCommandDesc>
   <!-- EN: Seal entrance -->
-  <AncientHatch.comps.CompSealable.sealCommandLabel>TODO</AncientHatch.comps.CompSealable.sealCommandLabel>
+  <AncientHatch.comps.CompSealable.sealCommandLabel>ปิดผนึกทางเข้า</AncientHatch.comps.CompSealable.sealCommandLabel>
   <!-- EN: Permanently sealed. -->
-  <AncientHatch.comps.CompSealable.sealedInspectString>TODO</AncientHatch.comps.CompSealable.sealedInspectString>
+  <AncientHatch.comps.CompSealable.sealedInspectString>ปิดผนึกฐารวรแล้ว</AncientHatch.comps.CompSealable.sealedInspectString>
   
   <!-- EN: ancient stockpile exit -->
   <AncientHatchExit.label>ทางออกคลังเก็บของโบราณ</AncientHatchExit.label>

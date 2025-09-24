@@ -109,13 +109,13 @@
   <!-- EN: blocked by substructure -->
   <BlockedBySubstructure>ถูกปิดกั้นโดยโครงพื้นยาน</BlockedBySubstructure>
   <!-- EN: {PAWN_nameDef} cannot board {1} -->
-  <FailedToBoardGravship>TODO</FailedToBoardGravship>
+  <FailedToBoardGravship>{PAWN_nameDef} ไม่สามารถขึ้นยาน {1} ได้</FailedToBoardGravship>
   <!-- EN: {PAWN_nameDef} cannot exit {1} -->
-  <FailedToLeaveGravship>TODO</FailedToLeaveGravship>
+  <FailedToLeaveGravship>{PAWN_nameDef} ไม่สามารถออกจาก {1} ได้</FailedToLeaveGravship>
   <!-- EN: View range -->
-  <ViewRange>TODO</ViewRange>
+  <ViewRange>ดูระยะ</ViewRange>
   <!-- EN: View the gravship’s current range on the world map. -->
-  <ViewRangeDesc>TODO</ViewRangeDesc>
+  <ViewRangeDesc>ดูระยะปัจจุบันของยานกราฟชิปบนแผนที่โลก</ViewRangeDesc>
 
   <!-- Map generation -->
   <!-- EN: Landmark -->
@@ -296,9 +296,9 @@
   <UniqueWeapon>อาวุธยูนีค</UniqueWeapon>
 
   <!-- EN: Reforming a caravan will abandon your gravship. Are you sure you want to continue?\n\nTo leave with your gravship, select the gravship's pilot console, then select 'launch'. -->
-  <ConfirmLoseGravship>TODO</ConfirmLoseGravship>
+  <ConfirmLoseGravship>การจัดตั้งคาราวานใหม่จะละทิ้งยานกราฟชิปของคุณ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?\n\nในการออกไปกับยานกราฟชิปของคุณ ให้เลือกนักบินยานกราฟชิป จากนั้นเลือก 'ปล่อยตัว'</ConfirmLoseGravship>
   <!-- EN: Reforming a caravan will abandon your shuttle. Are you sure you want to continue?\n\nTo leave with your shuttle, select the shuttle, then select 'launch'. -->
-  <ConfirmLoseShuttle>การจัดตั้งคาราวานใหม่จะละทิ้งยานกระสวยของคุณ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?\n\nในการออกไปกับยานกระสวยของคุณ ให้เลือกยานกระสวยจากนั้นเลือก 'ปล่อยตัว'</ConfirmLoseShuttle>
+  <ConfirmLoseShuttle>การจัดตั้งคาราวานใหม่จะละทิ้งยานกระสวยของคุณ คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?\n\nในการออกไปกับยานกระสวยของคุณ ให้เลือกยานกระสวย จากนั้นเลือก 'ปล่อยตัว'</ConfirmLoseShuttle>
 
   <!-- EN: Discover a quest -->
   <BookHasQuest>ค้บพบภารกิจ</BookHasQuest>

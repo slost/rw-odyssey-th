@@ -46,13 +46,13 @@
   <!-- EN: The entrance to a cave network. It is possible to climb down into the caves below. -->
   <InsectLairEntrance.description>ทางเข้าสู่เครือข่ายถ้ำ สามารถปีนลงไปในถ้ำด้านล่างได้</InsectLairEntrance.description>
   <!-- EN: Cannot collapse -->
-  <InsectLairEntrance.comps.CompSealable.cannotSealLabel>TODO</InsectLairEntrance.comps.CompSealable.cannotSealLabel>
+  <InsectLairEntrance.comps.CompSealable.cannotSealLabel>ไม่สามารถปิดผนึกได้</InsectLairEntrance.comps.CompSealable.cannotSealLabel>
   <!-- EN: Collapsing the cave entrance is permanent. Anything or anyone left below will be lost forever.{0}\n\nAre you sure you want to continue? -->
-  <InsectLairEntrance.comps.CompSealable.confirmSealText>TODO</InsectLairEntrance.comps.CompSealable.confirmSealText>
+  <InsectLairEntrance.comps.CompSealable.confirmSealText>การถล่มทางเข้าถ้ำจะเป็นการถาวร สิ่งของหรือใครก็ตามที่อยู่ด้านล่างจะสูญหายไปตลอดกาล {0}\n\nคุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?</InsectLairEntrance.comps.CompSealable.confirmSealText>
   <!-- EN: Choose a colonist to permanently collapse the entrance. Anything or anyone left below will be lost forever. -->
-  <InsectLairEntrance.comps.CompSealable.sealCommandDesc>TODO</InsectLairEntrance.comps.CompSealable.sealCommandDesc>
+  <InsectLairEntrance.comps.CompSealable.sealCommandDesc>เลือกชาวนิคมเพื่อถล่มทางเข้าอย่างถาวร สิ่งของหรือใครก็ตามที่อยู่ด้านล่างจะสูญหายไปตลอดกาล</InsectLairEntrance.comps.CompSealable.sealCommandDesc>
   <!-- EN: Collapse cave entrance -->
-  <InsectLairEntrance.comps.CompSealable.sealCommandLabel>TODO</InsectLairEntrance.comps.CompSealable.sealCommandLabel>
+  <InsectLairEntrance.comps.CompSealable.sealCommandLabel>ถล่มทางเข้าถ้ำ</InsectLairEntrance.comps.CompSealable.sealCommandLabel>
   
   <!-- EN: life support unit -->
   <LifeSupportUnit.label>หน่วยช่วยชีวิต</LifeSupportUnit.label>

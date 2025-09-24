@@ -143,9 +143,9 @@
   
   <!-- Psilocaps -->
   <!-- EN: Due to ingesting psilocaps, [PAWN_nameIndef] has experienced an inspiration! -->
-  <LetterInspirationBeginPsilocap>TODO</LetterInspirationBeginPsilocap>
+  <LetterInspirationBeginPsilocap>เนื่องจากการบริโภคไซโลแคป [PAWN_nameIndef] ได้รับแรงบันดาลใจ!</LetterInspirationBeginPsilocap>
   <!-- EN: This happened due to ingesting psilocaps. -->
-  <MentalBreakReason_Psilocap>TODO</MentalBreakReason_Psilocap>
+  <MentalBreakReason_Psilocap>สิ่งนี้เกิดขึ้นเนื่องจากการบริโภคไซโลแคป</MentalBreakReason_Psilocap>
 
   <!-- EN: Insect lair -->
   <EnteredMegahiveLabel>รังแมลง</EnteredMegahiveLabel>

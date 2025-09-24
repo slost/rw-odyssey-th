@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: low gravity adapted -->
-  <MoveSpeed_Space.label>TODO</MoveSpeed_Space.label>
+  <MoveSpeed_Space.label>ปรับตัวกับแรงโน้มถ่วงต่ำ</MoveSpeed_Space.label>
   <!-- EN: Carriers of this gene move and work more easily in low-gravity environments. However, they're slower and less efficient when planetside. -->
-  <MoveSpeed_Space.description>TODO</MoveSpeed_Space.description>
+  <MoveSpeed_Space.description>ผู้ที่มียีนนี้สามารถเคลื่อนไหวและทำงานได้ง่ายขึ้นในสภาพแวดล้อมที่มีแรงโน้มถ่วงต่ำ อย่างไรก็ตาม พวกเขาจะเคลื่อนไหวช้าลงและมีประสิทธิภาพน้อยลงเมื่ออยู่บนพื้นโลก</MoveSpeed_Space.description>
   <!-- EN: low-gravity -->
-  <MoveSpeed_Space.labelShortAdj>TODO</MoveSpeed_Space.labelShortAdj>
+  <MoveSpeed_Space.labelShortAdj>แรงโน้มถ่วงต่ำ</MoveSpeed_Space.labelShortAdj>
   
   <!-- EN: vacuum resistant -->
   <VacuumResistance_Partial.label>ทนทานต่อสุญญากาศ</VacuumResistance_Partial.label>

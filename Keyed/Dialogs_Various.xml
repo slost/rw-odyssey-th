@@ -31,17 +31,17 @@
   <PlayerGravshipNameIsInvalid>ชื่อนั้นไม่ถูกต้อง</PlayerGravshipNameIsInvalid>
 
   <!-- EN: Force visitors to leave -->
-  <GravshipForceVisitorsToLeaveLabel>TODO</GravshipForceVisitorsToLeaveLabel>
+  <GravshipForceVisitorsToLeaveLabel>บังคับให้ผู้เยี่ยมชมออกไป</GravshipForceVisitorsToLeaveLabel>
   <!-- EN: Wait for all visitors to leave the gravship before launching. This won’t affect enemies, prisoners, or downed visitors. -->
-  <GravshipForceVisitorsToLeaveTooltip>TODO</GravshipForceVisitorsToLeaveTooltip>
+  <GravshipForceVisitorsToLeaveTooltip>รอให้ผู้เยี่ยมชมทั้งหมดออกจากยานก่อนที่จะปล่อยยาน การกระทำนี้จะไม่กระทบต่อศัตรู นักโทษ หรือผู้เยี่ยมชมที่ล้มลง</GravshipForceVisitorsToLeaveTooltip>
   <!-- EN: Board colony animals -->
-  <GravshipBoardColonyAnimalsLabel>TODO</GravshipBoardColonyAnimalsLabel>
+  <GravshipBoardColonyAnimalsLabel>พาสัตว์ของอาณานิคมขึ้นยาน</GravshipBoardColonyAnimalsLabel>
   <!-- EN: Order all colony animals to board the gravship. The gravship won’t launch until they are aboard. -->
-  <GravshipBoardColonyAnimalsTooltip>TODO</GravshipBoardColonyAnimalsTooltip>
+  <GravshipBoardColonyAnimalsTooltip>สั่งให้สัตว์ทั้งหมดของอาณานิคมขึ้นยาน ยานกราฟชิปจะไม่ปล่อยจนกว่าพวกมันจะขึ้นยานแล้ว</GravshipBoardColonyAnimalsTooltip>
   <!-- EN: Board colony mechanoids -->
-  <GravshipBoardColonyMechsLabel>TODO</GravshipBoardColonyMechsLabel>
+  <GravshipBoardColonyMechsLabel>พาเมคคานอยด์ของอาณานิคมขึ้นยาน</GravshipBoardColonyMechsLabel>
   <!-- EN: Order all colony mechanoids to board the gravship. The gravship won’t launch until they are aboard. -->
-  <GravshipBoardColonyMechsTooltip>TODO</GravshipBoardColonyMechsTooltip>
+  <GravshipBoardColonyMechsTooltip>สั่งให้เมคคานอยด์ทั้งหมดของอาณานิคมขึ้นยาน ยานกราฟชิปจะไม่ปล่อยจนกว่าพวกมันจะขึ้นยานแล้ว</GravshipBoardColonyMechsTooltip>
 
   <!-- EN: {0} are hostile. If you land here they will attack you. -->
   <ConfirmLandOnHostileFactionBase>{0} เป็นศัตรู ถ้าคุณลงจอดที่นี่พวกเขาจะโจมตีคุณ</ConfirmLandOnHostileFactionBase>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: ancient drop pod (incoming) -->
-  <DropPodIncomingAncient.label>TODO</DropPodIncomingAncient.label>
+  <DropPodIncomingAncient.label>กระสวยขนส่งโบราณ (กำลังมา)</DropPodIncomingAncient.label>
   
   <!-- EN: mechanoid drop pod (incoming) -->
   <DropPodIncomingMechanoidSoft.label>กระสวยขนส่ง (กำลังมา)</DropPodIncomingMechanoidSoft.label>
   
   <!-- EN: ancient drop pod (leaving) -->
-  <DropPodLeavingAncient.label>TODO</DropPodLeavingAncient.label>
+  <DropPodLeavingAncient.label>กระสวยขนส่งโบราณ (กำลังออก)</DropPodLeavingAncient.label>
   
   <!-- EN: mechanoid drop pod (leaving) -->
   <DropPodLeavingMechanoid.label>กระสวยขนส่งของเมคคานอยด์ (กำลังออก)</DropPodLeavingMechanoid.label>

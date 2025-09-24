@@ -10,29 +10,41 @@
     <li>subject_story->researched advanced gravship components</li>
     <li>subject_gerund->researching signal jamming</li>
   -->
-  <AdvancedGravtech.generalRules.rulesStrings>TODO</AdvancedGravtech.generalRules.rulesStrings>
+  <AdvancedGravtech.generalRules.rulesStrings>
+    <li>subject->เทคโนโลยีแรงโน้มถ่วงขั้นสูง</li>
+    <li>subject_story->วิจัยชิ้นส่วนยานกราฟชิปขั้นสูง</li>
+    <li>subject_gerund->การวิจัยการรบกวนสัญญาณ</li>
+  </AdvancedGravtech.generalRules.rulesStrings>
   
   <!-- EN: basic gravtech -->
-  <BasicGravtech.label>TODO</BasicGravtech.label>
+  <BasicGravtech.label>เทคโนโลยีแรงโน้มถ่วงขั้นพื้นฐาน</BasicGravtech.label>
   <!-- EN: Build a gravship and use it to travel the planet. Without a grav anchor, launching a gravship will abandon your current map. -->
-  <BasicGravtech.description>TODO</BasicGravtech.description>
+  <BasicGravtech.description>สร้างยานแรงโน้มถ่วงและใช้มันในการเดินทางรอบโลก หากไม่มีสมอแรงโน้มถ่วง การปล่อยยานจะเป็นการละทิ้งแผนที่ปัจจุบัน</BasicGravtech.description>
   <!-- EN:
     <li>subject->gravship</li>
     <li>subject_story->flew a gravship for a tourism company</li>
     <li>subject_gerund->constructing gravships</li>
   -->
-  <BasicGravtech.generalRules.rulesStrings>TODO</BasicGravtech.generalRules.rulesStrings>
+  <BasicGravtech.generalRules.rulesStrings>
+    <li>subject->ยานกราฟชิป</li>
+    <li>subject_story->ขับยานกราฟชิปให้บริษัทท่องเที่ยว</li>
+    <li>subject_gerund->การก่อสร้างยานกราฟชิป</li>
+  </BasicGravtech.generalRules.rulesStrings>
   
   <!-- EN: beam weapons -->
-  <BeamWeapons.label>TODO</BeamWeapons.label>
+  <BeamWeapons.label>อาวุธลำแสง</BeamWeapons.label>
   <!-- EN: Construct weapons that use gamma ray beams to burn through armor and ignite targets. -->
-  <BeamWeapons.description>TODO</BeamWeapons.description>
+  <BeamWeapons.description>สร้างอาวุธที่ใช้ลำแสงแกมมาเจาะทะลุเกราะและจุดไฟเป้าหมาย</BeamWeapons.description>
   <!-- EN:
     <li>subject->beam weapons</li>
     <li>subject_story->made gamma-ray beam weaponry</li>
     <li>subject_gerund->making beam weapons</li>
   -->
-  <BeamWeapons.generalRules.rulesStrings>TODO</BeamWeapons.generalRules.rulesStrings>
+  <BeamWeapons.generalRules.rulesStrings>
+    <li>subject->อาวุธลำแสง</li>
+    <li>subject_story->ประดิษฐ์อาวุธลำแสงแกมมา</li>
+    <li>subject_gerund->การสร้างอาวุธลำแสง</li>
+  </BeamWeapons.generalRules.rulesStrings>
   
   <!-- EN: fishing -->
   <Fishing.label>การตกปลา</Fishing.label>
@@ -45,34 +57,46 @@
     <li>subject_story->fished for a living</li>
     <li>subject_gerund->fishing</li>
   -->
-  <Fishing.generalRules.rulesStrings>TODO</Fishing.generalRules.rulesStrings>
+  <Fishing.generalRules.rulesStrings>
+    <li>subject->การตกปลา</li>
+    <li>subject_story->ตกปลาเพื่อเลี้ยงชีพ</li>
+    <li>subject_gerund->การตกปลา</li>
+  </Fishing.generalRules.rulesStrings>
   
   <!-- EN: heavy bridges -->
-  <HeavyBridges.label>TODO</HeavyBridges.label>
+  <HeavyBridges.label>สะพานหนัก</HeavyBridges.label>
   <!-- EN: Build heavy bridges that support heavy buildings. You can use this to build whole colonies on the water. -->
-  <HeavyBridges.description>TODO</HeavyBridges.description>
+  <HeavyBridges.description>สร้างสะพานหนักที่สามารถรองรับสิ่งก่อสร้างหนักๆ ได้ คุณสามารถใช้สิ่งนี้สร้างอาณานิคมทั้งอาณานิคมบนผืนน้ำได้</HeavyBridges.description>
   <!-- EN:
     <li>subject->construction</li>
     <li>subject_story->built bridges</li>
     <li>subject_gerund->constructing</li>
   -->
-  <HeavyBridges.generalRules.rulesStrings>TODO</HeavyBridges.generalRules.rulesStrings>
+  <HeavyBridges.generalRules.rulesStrings>
+    <li>subject->การก่อสร้าง</li>
+    <li>subject_story->สร้างสะพาน</li>
+    <li>subject_gerund->การก่อสร้าง</li>
+  </HeavyBridges.generalRules.rulesStrings>
   
   <!-- EN: hunter drone -->
-  <HunterDrones.label>TODO</HunterDrones.label>
+  <HunterDrones.label>โดรนนักล่า</HunterDrones.label>
   <!-- EN: Build traps and wearable packs that release hunter drones. These explosive drones pursue hostiles and detonate when within range. -->
-  <HunterDrones.description>TODO</HunterDrones.description>
+  <HunterDrones.description>สร้างกับดักและชุดสะพายที่ปล่อยโดรนนักล่า โดรนระเบิดเหล่านี้จะไล่ตามศัตรูและระเบิดเมื่ออยู่ในระยะ</HunterDrones.description>
   <!-- EN:
     <li>subject->hunter drones</li>
     <li>subject_story->made self-detonating drones</li>
     <li>subject_gerund->making hunter drones</li>
   -->
-  <HunterDrones.generalRules.rulesStrings>TODO</HunterDrones.generalRules.rulesStrings>
+  <HunterDrones.generalRules.rulesStrings>
+    <li>subject->โดรนนักล่า</li>
+    <li>subject_story->สร้างโดรนระเบิดตัวเอง</li>
+    <li>subject_gerund->การสร้างโดรนนักล่า</li>
+  </HunterDrones.generalRules.rulesStrings>
   
   <!-- EN: orbital tech -->
-  <OrbitalTech.label>TODO</OrbitalTech.label>
+  <OrbitalTech.label>เทคโนโลยีวงโคจร</OrbitalTech.label>
   <!-- EN: Construct buildings and apparel that can protect against the harsh vacuum of space. -->
-  <OrbitalTech.description>TODO</OrbitalTech.description>
+  <OrbitalTech.description>สร้างสิ่งก่อสร้างและชุดสวมใส่ที่สามารถป้องกันสุญญากาศอันรุนแรงของอวกาศได้</OrbitalTech.description>
   <!-- EN:
     <li>subject->orbital apparel</li>
     <li>subject_story->assembled liners for vacsuits</li>
@@ -83,12 +107,21 @@
     <li>subject_gerund->assembling rebreathers</li>
     <li>subject_gerund->testing vacsuits</li>
   -->
-  <OrbitalTech.generalRules.rulesStrings>TODO</OrbitalTech.generalRules.rulesStrings>
+  <OrbitalTech.generalRules.rulesStrings>
+    <li>subject->ชุดสวมใส่อวกาศ</li>
+    <li>subject_story->ประกอบชั้นบุของชุดสุญญากาศ</li>
+    <li>subject_story->ทดสอบชุดสุญญากาศ</li>
+    <li>subject_story->พัฒนาเทคโนโลยีเครื่องช่วยหายใจ</li>
+    <li>subject_story->ศึกษาผลของรังสีอวกาศต่อเนื้อเยื่อมนุษย์</li>
+    <li>subject_gerund->การประกอบชุดสุญญากาศ</li>
+    <li>subject_gerund->การประกอบเครื่องช่วยหายใจ</li>
+    <li>subject_gerund->การทดสอบชุดสุญญากาศ</li>
+  </OrbitalTech.generalRules.rulesStrings>
   
   <!-- EN: shuttle -->
-  <Shuttles.label>TODO</Shuttles.label>
+  <Shuttles.label>ยานกระสวย</Shuttles.label>
   <!-- EN: Build a shuttle which can be used for long distance travel or to reach orbit. This requires a shuttle engine which can be bought from orbital traders, salvaged from other shuttles, or obtained through quests. -->
-  <Shuttles.description>TODO</Shuttles.description>
+  <Shuttles.description>สร้างยานกระสวยที่ใช้เดินทางระยะไกลหรือขึ้นสู่วงโคจรได้ สิ่งนี้ต้องใช้เครื่องยนต์กระสวยซึ่งสามารถซื้อจากพ่อค้าวงโคจร เก็บกู้จากกระสวยลำอื่น หรือได้รับจากภารกิจ</Shuttles.description>
   <!-- EN:
     <li>subject->shuttles</li>
     <li>subject_story->flew in a shuttle</li>
@@ -96,21 +129,31 @@
     <li>subject_gerund->engineering shuttles</li>
     <li>subject_gerund->piloting shuttles</li>
   -->
-  <Shuttles.generalRules.rulesStrings>TODO</Shuttles.generalRules.rulesStrings>
+  <Shuttles.generalRules.rulesStrings>
+    <li>subject->ยานกระสวย</li>
+    <li>subject_story->นั่งยานกระสวย</li>
+    <li>subject_story->ออกแบบยานกระสวย</li>
+    <li>subject_gerund->การออกแบบยานกระสวย</li>
+    <li>subject_gerund->การขับยานกระสวย</li>
+  </Shuttles.generalRules.rulesStrings>
   
   <!-- EN: standard gravtech -->
-  <StandardGravtech.label>TODO</StandardGravtech.label>
+  <StandardGravtech.label>เทคโนโลยีแรงโน้มถ่วงมาตรฐาน</StandardGravtech.label>
   <!-- EN: Build complex gravship parts. -->
-  <StandardGravtech.description>TODO</StandardGravtech.description>
+  <StandardGravtech.description>สร้างชิ้นส่วนยานกราฟชิปที่ซับซ้อน</StandardGravtech.description>
   <!-- EN: You now have the technology to build large thrusters. These require vacstone blocks which can be obtained from orbital asteroids.\n\nYou can travel to orbital locations using transport pods, shuttles, or a gravship. Make sure to equip your colonists with vacsuits or other advanced armors to survive in space. -->
-  <StandardGravtech.discoveredLetterText>TODO</StandardGravtech.discoveredLetterText>
+  <StandardGravtech.discoveredLetterText>คุณมีเทคโนโลยีสำหรับสร้างท่อขับดันขนาดใหญ่แล้ว สิ่งเหล่านี้ต้องใช้บล็อกหินแวคสโตน ซึ่งสามารถได้มาจากดาวเคราะห์น้อยในวงโคจร\n\nคุณสามารถเดินทางไปยังสถานที่ในวงโคจรโดยใช้กระสวยขนส่ง ยานกระสวย หรือยานกราฟชิป อย่าลืมสวมชุดสุญญากาศหรือเกราะขั้นสูงอื่นๆ ให้ชาวนิคมของคุณเพื่อความอยู่รอดในอวกาศ</StandardGravtech.discoveredLetterText>
   <!-- EN: About: Getting vacstone -->
-  <StandardGravtech.discoveredLetterTitle>TODO</StandardGravtech.discoveredLetterTitle>
+  <StandardGravtech.discoveredLetterTitle>เกี่ยวกับ: การได้มาซึ่งหินแวคสโตน</StandardGravtech.discoveredLetterTitle>
   <!-- EN:
     <li>subject->gravtech</li>
     <li>subject_story->researched complex gravship components</li>
     <li>subject_gerund->researching gravships</li>
   -->
-  <StandardGravtech.generalRules.rulesStrings>TODO</StandardGravtech.generalRules.rulesStrings>
+  <StandardGravtech.generalRules.rulesStrings>
+    <li>subject->เทคโนโลยีแรงโน้มถ่วง</li>
+    <li>subject_story->วิจัยชิ้นส่วนยานกราฟชิปขั้นซับซ้อน</li>
+    <li>subject_gerund->การวิจัยยานกราฟชิป</li>
+  </StandardGravtech.generalRules.rulesStrings>
   
 </LanguageData>

@@ -7,14 +7,14 @@
   <BlowingSand.stages.blowing_sand.description>มันเข้ามาทุกซอกทุกมุม! ฉันรู้สึกได้ถึงทรายที่อยู่ระหว่างซี่ฟันของฉัน</BlowingSand.stages.blowing_sand.description>
   
   <!-- EN: destroyed mechhive -->
-  <DestroyedMechhive.stages.destroyed_mechhive.label>รังจักรกลถูกทำลาย</DestroyedMechhive.stages.destroyed_mechhive.label>
+  <DestroyedMechhive.stages.destroyed_mechhive.label>เมคไฮฟ์ถูกทำลาย</DestroyedMechhive.stages.destroyed_mechhive.label>
   <!-- EN: We defeated them! We're free of them now. -->
   <DestroyedMechhive.stages.destroyed_mechhive.description>เรากำจัดพวกมันได้แล้ว! ตอนนี้เราหลุดพ้นจากพวกมันแล้ว</DestroyedMechhive.stages.destroyed_mechhive.description>
   
   <!-- EN: destroyed mechhive -->
-  <DestroyedMechhiveMainPawn.stages.destroyed_mechhive.label>TODO</DestroyedMechhiveMainPawn.stages.destroyed_mechhive.label>
+  <DestroyedMechhiveMainPawn.stages.destroyed_mechhive.label>เมคไฮฟ์ถูกทำลาย</DestroyedMechhiveMainPawn.stages.destroyed_mechhive.label>
   <!-- EN: I destroyed the cerebrex core. We're finally free of the mechanoid threat. -->
-  <DestroyedMechhiveMainPawn.stages.destroyed_mechhive.description>TODO</DestroyedMechhiveMainPawn.stages.destroyed_mechhive.description>
+  <DestroyedMechhiveMainPawn.stages.destroyed_mechhive.description>ฉันทำลายแกนเซเรเบลกซ์แล้ว ในที่สุดเราก็เป็นอิสระจากภัยเมคคานอยด์</DestroyedMechhiveMainPawn.stages.destroyed_mechhive.description>
   
   <!-- EN: hot spring -->
   <HotSpring.stages.hot_spring.label>บ่อน้ำพุร้อน</HotSpring.stages.hot_spring.label>
@@ -22,7 +22,7 @@
   <HotSpring.stages.hot_spring.description>มันรู้สึกดีมากที่ได้แช่เท้าในน้ำอุ่น</HotSpring.stages.hot_spring.description>
   
   <!-- EN: tox water -->
-  <ToxWater.stages.tox_water.label>น้ำที่มีพิษ</ToxWater.stages.tox_water.label>
+  <ToxWater.stages.tox_water.label>น้ำมีพิษ</ToxWater.stages.tox_water.label>
   <!-- EN: I'm soaked in this disgusting stuff. It itches and burns. -->
   <ToxWater.stages.tox_water.description>ตัวฉันเปียกโชกไปด้วยของเหลวน่าขยะแขยงนี้ มันคันและแสบไปทั่ว</ToxWater.stages.tox_water.description>
   
