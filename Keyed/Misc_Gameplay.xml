@@ -241,7 +241,7 @@
   <!-- EN: cannot equip outfit -->
   <CannotSwapOutfit>สวมชุดไม่ได้</CannotSwapOutfit>
   <!-- EN: outfit stand is empty -->
-  <OutfitStandEmpty>ที่แขวนชุดว่าง</OutfitStandEmpty>
+  <OutfitStandEmpty>แสตนด์แขวนชุด</OutfitStandEmpty>
   <!-- EN: Remove this from the outfit stand. -->
   <EjectApparelTooltip>ลบสิ่งนี้ออกจากที่แขวนตั้งชุด</EjectApparelTooltip>
   

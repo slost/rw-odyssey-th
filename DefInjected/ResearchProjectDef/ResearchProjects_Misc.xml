@@ -142,7 +142,7 @@
   <!-- EN: Build complex gravship parts. -->
   <StandardGravtech.description>สร้างชิ้นส่วนยานกราฟชิปที่ซับซ้อน</StandardGravtech.description>
   <!-- EN: You now have the technology to build large thrusters. These require vacstone blocks which can be obtained from orbital asteroids.\n\nYou can travel to orbital locations using transport pods, shuttles, or a gravship. Make sure to equip your colonists with vacsuits or other advanced armors to survive in space. -->
-  <StandardGravtech.discoveredLetterText>คุณมีเทคโนโลยีสำหรับสร้างท่อขับดันขนาดใหญ่แล้ว สิ่งเหล่านี้ต้องใช้บล็อกหินแวคสโตน ซึ่งสามารถได้มาจากดาวเคราะห์น้อยในวงโคจร\n\nคุณสามารถเดินทางไปยังสถานที่ในวงโคจรโดยใช้กระสวยขนส่ง ยานกระสวย หรือยานกราฟชิป อย่าลืมสวมชุดสุญญากาศหรือเกราะขั้นสูงอื่นๆ ให้ชาวนิคมของคุณเพื่อความอยู่รอดในอวกาศ</StandardGravtech.discoveredLetterText>
+  <StandardGravtech.discoveredLetterText>คุณมีเทคโนโลยีสำหรับสร้างท่อขับดันใหญ่แล้ว สิ่งเหล่านี้ต้องใช้บล็อกหินแวคสโตน ซึ่งสามารถได้มาจากดาวเคราะห์น้อยในวงโคจร\n\nคุณสามารถเดินทางไปยังสถานที่ในวงโคจรโดยใช้กระสวยขนส่ง ยานกระสวย หรือยานกราฟชิป อย่าลืมสวมชุดสุญญากาศหรือเกราะขั้นสูงอื่นๆ ให้ชาวนิคมของคุณเพื่อความอยู่รอดในอวกาศ</StandardGravtech.discoveredLetterText>
   <!-- EN: About: Getting vacstone -->
   <StandardGravtech.discoveredLetterTitle>เกี่ยวกับ: การได้มาซึ่งหินแวคสโตน</StandardGravtech.discoveredLetterTitle>
   <!-- EN:

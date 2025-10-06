@@ -64,9 +64,9 @@
   <!-- EN: Deactivate -->
   <GravshipShieldOrderDeactivation>ปิดใช้งาน</GravshipShieldOrderDeactivation>
   <!-- EN: Order a pawn to activate the gravship shield generator. -->
-  <GravshipShieldOrderActivationDesc>สั่งพอนให้เปิดใช้งานเครื่องกำเนิดโล่กราฟชิป</GravshipShieldOrderActivationDesc>
+  <GravshipShieldOrderActivationDesc>สั่งพอนให้เปิดใช้งานเครื่องกำเนิดโล่ยานกราฟชิป</GravshipShieldOrderActivationDesc>
   <!-- EN: Order a pawn to deactivate the gravship shield generator. -->
-  <GravshipShieldOrderDeactivationDesc>สั่งพอนให้ปิดใช้งานเครื่องกำเนิดโล่กราฟชิป</GravshipShieldOrderDeactivationDesc>
+  <GravshipShieldOrderDeactivationDesc>สั่งพอนให้ปิดใช้งานเครื่องกำเนิดโล่ยานกราฟชิป</GravshipShieldOrderDeactivationDesc>
 
   <!-- EN: Merging these caravans will cause the following to be lost:\n{0}\n\nAre you sure you want to continue? -->
   <ConfirmMergeShuttles>การรวมคาราวานเหล่านี้จะทำให้สิ่งต่อไปนี้สูญหาย:\n{0}คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?</ConfirmMergeShuttles>
